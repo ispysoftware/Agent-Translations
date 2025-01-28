@@ -2,6 +2,7 @@
   "culturecode": "en",
   "name": "English",
   "translations": {
+
     "json.deepseekapikey": "DeepSeek API Key",
     "json.deepseekapikey.help": "See <a href=\"https://platform.deepseek.com/api_keys\" target=\"_blank\">DeepSeek API Keys</a>",
     "json.investigations": "Investigations",
@@ -759,6 +760,7 @@
     "authorised": "Authorised",
     "authorizationheader": "Authorization Header",
     "basic": "Basic",
+    "blockedlicense": "<p>See <a href=\"https://www.ispyconnect.com/docs/agent/remoteaccess\" target=\"_blank\">Remote Access</a> for instructions on connecting remotely.</p>",
     "blockedfeature": "Feature requires a subscription or business license.",
     "blockedip": "\n    Remote access blocked (External IP: [IPADDRESS]).<br/>\n    For remote access with a subscription use the iSpyConnect.com web portal at <a href=\"https://www.ispyconnect.com/app/\">https://www.ispyconnect.com/app/</a> and connect your account via the local UI under Server menu, remote access.<br/>\n    For remote access through port forwarding or VPN you need a business license. To purchase a business license click on the server icon in the local Agent DVR UI (at http://localhost:[PORT] on the computer running Agent DVR) under Settings - Licensing.<br/>\n    For access over the local network use a private (LAN) IP address. Valid private IP addresses are:<p><ul><li>10.0.0.0 to 10.255.255.255</li><li>172.16.0.0 to 172.31.255.255</li><li>192.168.0.0 to 192.168.255.255</li></ul></p>\n    ",
     "blockedprotected": "Uncheck Protect API in server settings - local server or provide Basic Authentication using an admin user account.",

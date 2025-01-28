@@ -674,6 +674,7 @@
     "basic": "基本",
     "blockedfeature": "此功能需要訂閱或營業執照。",
     "blockedip": "遠端訪問被阻止（外部IP：[IPADDRESS]）。<br/>\n使用訂閱進行遠端訪問，請使用iSpyConnect.com網頁門戶在<a href=\"https://www.ispyconnect.com/app/\">https://www.ispyconnect.com/app/</a>上連接您的帳戶，並通過本地UI中的伺服器菜單下的遠端訪問進行連接。<br/>\n通過端口轉發或VPN進行遠端訪問，您需要一個商業許可證。要購買商業許可證，請在本地Agent DVR UI中的伺服器圖標上點擊（在運行Agent DVR的計算機上的http://localhost:[PORT]）並進入設置 - 授權。<br/>\n在本地網絡上進行訪問時，請使用私人（LAN）IP地址。有效的私人IP地址為：<p><ul><li>10.0.0.0至10.255.255.255</li><li>172.16.0.0至172.31.255.255</li><li>192.168.0.0至192.168.255.255</li></ul></p>",
+    "blockedlicense": "<p>查看<a href=\"https://www.ispyconnect.com/docs/agent/remoteaccess\" target=\"_blank\">遠端存取</a>以獲取遠端連線指示。</p>",
     "blockedprotected": "取消選取伺服器設定 - 本機伺服器中的保護 API，或使用管理員使用者帳戶提供基本驗證。",
     "blockedsslonly": "您在Media/XML/Config.xml中將SSLOnly設置為true，這是一個非安全的請求。如果無法通過SSL訪問，請停止Agent DVR服務，將XML文件中的SSLOnly設置為false，然後重新啟動。",
     "blockedtitle": "拒絕訪問",

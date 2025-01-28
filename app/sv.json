@@ -674,6 +674,7 @@
     "basic": "Grundläggande",
     "blockedfeature": "Funktionen kräver ett abonnemang eller företagslicens.",
     "blockedip": "Fjärråtkomst blockerad (Extern IP: [IPADDRESS]).<br/>\nFör fjärråtkomst med en prenumeration, använd iSpyConnect.com webbportalen på <a href=\"https://www.ispyconnect.com/app/\">https://www.ispyconnect.com/app/</a> och anslut ditt konto via den lokala UI:n under Servermenyn, fjärråtkomst.<br/>\nFör fjärråtkomst genom portvidarebefordran eller VPN behöver du en företagslicens. För att köpa en företagslicens, klicka på serverikonen i den lokala Agent DVR UI:n (på http://localhost:[PORT] på datorn som kör Agent DVR) under Inställningar - Licensiering.<br/>\nFör åtkomst över det lokala nätverket, använd en privat (LAN) IP-adress. Giltiga privata IP-adresser är:<p><ul><li>10.0.0.0 till 10.255.255.255</li><li>172.16.0.0 till 172.31.255.255</li><li>192.168.0.0 till 192.168.255.255</li></ul></p>",
+    "blockedlicense": "<p>Se <a href=\"https://www.ispyconnect.com/docs/agent/remoteaccess\" target=\"_blank\">Fjärråtkomst</a> för anvisningar om anslutning på distans.</p>",
     "blockedprotected": "Avmarkera Skydda API i serverinställningar - lokal server eller tillhandahåll grundläggande autentisering med ett administratörsanvändarkonto.",
     "blockedsslonly": "Du har SSLOnly inställt på true i Media/XML/Config.xml och detta är en osäker förfrågan. Om du inte kan komma åt via SSL, stoppa Agent DVR-tjänsten och sätt SSLOnly till false i XML-filen och starta om den.",
     "blockedtitle": "Tillträde beviljas ej",

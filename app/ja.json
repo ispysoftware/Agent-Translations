@@ -674,6 +674,7 @@
     "basic": "基本",
     "blockedfeature": "この機能にはサブスクリプションまたはビジネス ライセンスが必要です。",
     "blockedip": "リモートアクセスがブロックされました（外部IP：[IPADDRESS]）。サブスクリプションを使用してリモートアクセスする場合は、iSpyConnect.comのウェブポータル（<a href=\"https://www.ispyconnect.com/app/\">https://www.ispyconnect.com/app/</a>）を使用し、ローカルUIのサーバーメニューのリモートアクセスでアカウントを接続してください。ポート転送やVPNを介したリモートアクセスにはビジネスライセンスが必要です。ビジネスライセンスを購入するには、ローカルAgent DVR UIのサーバーアイコンをクリックしてください（Agent DVRを実行しているコンピューターのhttp://localhost:[PORT]で、設定 - ライセンスの下）。ローカルネットワークを介したアクセスには、プライベート（LAN）IPアドレスを使用してください。有効なプライベートIPアドレスは次のとおりです：<p><ul><li>10.0.0.0 から 10.255.255.255</li><li>172.16.0.0 から 172.31.255.255</li><li>192.168.0.0 から 192.168.255.255</li></ul></p>",
+    "blockedlicense": "<p>リモートアクセスについては、<a href=\"https://www.ispyconnect.com/docs/agent/remoteaccess\" target=\"_blank\">リモートアクセス</a>を参照してください。</p>",
     "blockedprotected": "サーバー設定 - ローカル サーバーで API を保護するのチェックを外すか、管理者ユーザー アカウントを使用して基本認証を提供します。",
     "blockedsslonly": "Media/XML/Config.xml ファイルで SSLOnly が true に設定されており、これは安全でないリクエストです。SSL 経由でアクセスできない場合は、Agent DVR サービスを停止し、XML ファイルで SSLOnly を false に設定して再起動してください。",
     "blockedtitle": "アクセスが拒否されました",
