@@ -1086,6 +1086,8 @@
     "json.decodekey": "Avkoda nyckel",
     "json.decoder2": "Avkodare",
     "json.decoder2.help": "Inaktivera/aktivera enheten att tillämpa. Se Inställningar för källtyp - Avancerat för att ställa in avkodaren",
+    "json.deepseekapikey": "DeepSeek API-nyckel",
+    "json.deepseekapikey.help": "Se <a href=\"https://platform.deepseek.com/api_keys\" target=\"_blank\">DeepSeek API-nycklar</a>",
     "json.default": "Standard",
     "json.defaultfont": "Standardteckensnitt",
     "json.defaultlanguage": "Standardspråk",

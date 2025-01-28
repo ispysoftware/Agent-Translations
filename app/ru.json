@@ -1086,6 +1086,8 @@
     "json.decodekey": "Сканирование кода",
     "json.decoder2": "Декодер",
     "json.decoder2.help": "Отключить / разрешить применение устройства",
+    "json.deepseekapikey": "Ключ API DeepSeek",
+    "json.deepseekapikey.help": "См. <a href=\"https://platform.deepseek.com/api_keys\" target=\"_blank\">Ключи API DeepSeek</a>",
     "json.default": "По умолчанию",
     "json.defaultfont": "Шрифт по умолчанию",
     "json.defaultlanguage": "Язык по умолчанию",

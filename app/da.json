@@ -1086,6 +1086,8 @@
     "json.decodekey": "Afkod nøgle",
     "json.decoder2": "Dekoder",
     "json.decoder2.help": "Deaktiver/aktiver enheden til at anvende. Se Indstillinger for kildetype - Avanceret for at indstille dekoderen",
+    "json.deepseekapikey": "DeepSeek API-nøgle",
+    "json.deepseekapikey.help": "Se <a href=\"https://platform.deepseek.com/api_keys\" target=\"_blank\">DeepSeek API-nøgler</a>",
     "json.default": "Standard",
     "json.defaultfont": "Standard skrifttype",
     "json.defaultlanguage": "Standardsprog",

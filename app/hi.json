@@ -1086,6 +1086,8 @@
     "json.decodekey": "डिकोड कुंजी",
     "json.decoder2": "डिकोडर",
     "json.decoder2.help": "डिवाइस को लागू करने के लिए अक्षम/सक्षम करें।",
+    "json.deepseekapikey": "डीपसीक एपीआई कुंजी",
+    "json.deepseekapikey.help": "देखें <a href=\"https://platform.deepseek.com/api_keys\" target=\"_blank\">DeepSeek API Keys</a>",
     "json.default": "चूक जाना",
     "json.defaultfont": "मूलभूत अक्षर",
     "json.defaultlanguage": "डिफ़ॉल्ट भाषा",

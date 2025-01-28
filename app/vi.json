@@ -1086,6 +1086,8 @@
     "json.decodekey": "Giải mã Khóa",
     "json.decoder2": "Bộ giải mã",
     "json.decoder2.help": "Vô hiệu hóa/ kích hoạt thiết bị để áp dụng. Xem cài đặt Loại nguồn - Nâng cao để thiết lập bộ giải mã.",
+    "json.deepseekapikey": "Khóa API DeepSeek",
+    "json.deepseekapikey.help": "Xem <a href=\"https://platform.deepseek.com/api_keys\" target=\"_blank\">Khóa API DeepSeek</a>",
     "json.default": "Mặc định",
     "json.defaultfont": "Phông chữ mặc định",
     "json.defaultlanguage": "Ngôn ngữ mặc định",

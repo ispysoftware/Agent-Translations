@@ -1086,6 +1086,8 @@
     "json.decodekey": "Anahtarın kodunu çöz",
     "json.decoder2": "kod çözücü",
     "json.decoder2.help": "Uygulamak için cihazı devre dışı bırakın/etkinleştirin. Kod çözücüyü ayarlamak için Kaynak türü ayarları - Gelişmiş bölümüne bakın",
+    "json.deepseekapikey": "DerinAra API Anahtarı",
+    "json.deepseekapikey.help": "<a href=\"https://platform.deepseek.com/api_keys\" target=\"_blank\">DeepSeek API Anahtarları</a>",
     "json.default": "Varsayılan",
     "json.defaultfont": "Varsayılan yazı tipi",
     "json.defaultlanguage": "Varsayılan dil",

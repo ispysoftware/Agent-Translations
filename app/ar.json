@@ -1086,6 +1086,8 @@
     "json.decodekey": "مفتاح فك",
     "json.decoder2": "فك",
     "json.decoder2.help": "تعطيل / تمكين الجهاز للتطبيق",
+    "json.deepseekapikey": "مفتاح واجهة برمجة تطبيقات DeepSeek",
+    "json.deepseekapikey.help": "انظر <a href=\"https://platform.deepseek.com/api_keys\" target=\"_blank\">مفاتيح واجهة برمجة تطبيقات DeepSeek</a>",
     "json.default": "تقصير",
     "json.defaultfont": "الخط الافتراضي",
     "json.defaultlanguage": "اللغة الافتراضية",

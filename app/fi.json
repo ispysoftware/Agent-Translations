@@ -1086,6 +1086,8 @@
     "json.decodekey": "Purkuavain",
     "json.decoder2": "Dekooderi",
     "json.decoder2.help": "Poista käytöstä / ota käyttöön laite. Katso Lähdetyypin asetukset - Lisäasetukset asettaaksesi dekooderin",
+    "json.deepseekapikey": "DeepSeek API-avain",
+    "json.deepseekapikey.help": "Katso <a href=\"https://platform.deepseek.com/api_keys\" target=\"_blank\">DeepSeek API-avaimet</a>",
     "json.default": "Oletus",
     "json.defaultfont": "Oletusfontti",
     "json.defaultlanguage": "Oletuskieli",

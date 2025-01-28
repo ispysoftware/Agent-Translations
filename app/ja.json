@@ -1086,6 +1086,8 @@
     "json.decodekey": "キーをデコード",
     "json.decoder2": "デコーダ",
     "json.decoder2.help": "デバイスの適用を無効/有効にします。デコーダーを設定するには、「ソースタイプの設定-詳細」を参照してください。",
+    "json.deepseekapikey": "DeepSeek APIキー",
+    "json.deepseekapikey.help": "See <a href=\"https://platform.deepseek.com/api_keys\" target=\"_blank\">DeepSeek API Keys</a>",
     "json.default": "デフォルト",
     "json.defaultfont": "デフォルトのフォント",
     "json.defaultlanguage": "既定の言語",

@@ -1086,6 +1086,8 @@
     "json.decodekey": "Kunci Dekode",
     "json.decoder2": "Penerjemah",
     "json.decoder2.help": "Nonaktifkan/aktifkan perangkat untuk menerapkan. Lihat Pengaturan Tipe Sumber - Lanjutan untuk mengatur dekoder",
+    "json.deepseekapikey": "Kunci API DeepSeek",
+    "json.deepseekapikey.help": "Lihat <a href=\"https://platform.deepseek.com/api_keys\" target=\"_blank\">Kunci API DeepSeek</a>",
     "json.default": "Bawaan",
     "json.defaultfont": "Font Default",
     "json.defaultlanguage": "Bahasa Default",

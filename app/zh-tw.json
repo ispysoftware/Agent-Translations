@@ -1086,6 +1086,8 @@
     "json.decodekey": "解碼密鑰",
     "json.decoder2": "解碼器",
     "json.decoder2.help": "禁用/啟用要應用的設備。",
+    "json.deepseekapikey": "DeepSeek API 金鑰",
+    "json.deepseekapikey.help": "查看<a href=\"https://platform.deepseek.com/api_keys\" target=\"_blank\">DeepSeek API 金鑰</a>",
     "json.default": "默認",
     "json.defaultfont": "默認字體",
     "json.defaultlanguage": "默認語言",

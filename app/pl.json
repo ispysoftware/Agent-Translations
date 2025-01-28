@@ -1086,6 +1086,8 @@
     "json.decodekey": "Klucz dekodowania",
     "json.decoder2": "Dekoder",
     "json.decoder2.help": "Wyłącz/włącz urządzenie do zastosowania",
+    "json.deepseekapikey": "Klucz API DeepSeek",
+    "json.deepseekapikey.help": "Zobacz <a href=\"https://platform.deepseek.com/api_keys\" target=\"_blank\">Klucze API DeepSeek</a>",
     "json.default": "Domyślna",
     "json.defaultfont": "Domyślna czcionka",
     "json.defaultlanguage": "Domyślny język",

@@ -1086,6 +1086,8 @@
     "json.decodekey": "디코드 키",
     "json.decoder2": "디코더",
     "json.decoder2.help": "적용할 장치를 비활성화/활성화합니다. 디코더를 설정하려면 소스 유형 설정 - 고급을 참조하세요.",
+    "json.deepseekapikey": "DeepSeek API 키",
+    "json.deepseekapikey.help": "See <a href=\"https://platform.deepseek.com/api_keys\" target=\"_blank\">DeepSeek API Keys</a>",
     "json.default": "기본",
     "json.defaultfont": "기본 글꼴",
     "json.defaultlanguage": "기본 설정 언어",

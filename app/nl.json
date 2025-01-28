@@ -1086,6 +1086,8 @@
     "json.decodekey": "Decode Sleutel",
     "json.decoder2": "Decoder",
     "json.decoder2.help": "Schakel het apparaat in/uit om toe te passen",
+    "json.deepseekapikey": "DeepSeek API-sleutel",
+    "json.deepseekapikey.help": "Bekijk <a href=\"https://platform.deepseek.com/api_keys\" target=\"_blank\">DeepSeek API-sleutels</a>",
     "json.default": "Standaard",
     "json.defaultfont": "Standaardlettertype",
     "json.defaultlanguage": "Standaard taal",

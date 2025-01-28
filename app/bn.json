@@ -1086,6 +1086,8 @@
     "json.decodekey": "ডিকোড কী",
     "json.decoder2": "ডিকোডার",
     "json.decoder2.help": "প্রয়োগ করতে ডিভাইসটিকে নিষ্ক্রিয়/সক্ষম করুন।",
+    "json.deepseekapikey": "DeepSeek API কী",
+    "json.deepseekapikey.help": "See <a href=\"https://platform.deepseek.com/api_keys\" target=\"_blank\">DeepSeek API Keys</a>",
     "json.default": "ডিফল্ট",
     "json.defaultfont": "ডিফল্ট ফন্ট",
     "json.defaultlanguage": "নির্ধারিত ভাষা",

@@ -1086,6 +1086,8 @@
     "json.decodekey": "Розшифрувати ключ",
     "json.decoder2": "Декодер",
     "json.decoder2.help": "Вимкніть/увімкніть пристрій для застосування. Перегляньте налаштування типу джерела - Розширені, щоб встановити декодер.",
+    "json.deepseekapikey": "Ключ API DeepSeek",
+    "json.deepseekapikey.help": "Дивіться <a href=\"https://platform.deepseek.com/api_keys\" target=\"_blank\">Ключі API DeepSeek</a>",
     "json.default": "За замовчуванням",
     "json.defaultfont": "За замовчуванням шрифт",
     "json.defaultlanguage": "Мова за замовчуванням",

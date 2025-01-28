@@ -1086,6 +1086,8 @@
     "json.decodekey": "Dekódovací klíč",
     "json.decoder2": "Dekodér",
     "json.decoder2.help": "Zakázat/povolit použití zařízení",
+    "json.deepseekapikey": "API klíč DeepSeek",
+    "json.deepseekapikey.help": "Zobrazit <a href=\"https://platform.deepseek.com/api_keys\" target=\"_blank\">DeepSeek API klíče</a>",
     "json.default": "Výchozí",
     "json.defaultfont": "Výchozí písmo",
     "json.defaultlanguage": "Základní jazyk",

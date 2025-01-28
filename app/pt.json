@@ -1086,6 +1086,8 @@
     "json.decodekey": "Decode Key",
     "json.decoder2": "Decodificador",
     "json.decoder2.help": "Desabilite / habilite o dispositivo a ser aplicado",
+    "json.deepseekapikey": "Chave da API DeepSeek",
+    "json.deepseekapikey.help": "Veja <a href=\"https://platform.deepseek.com/api_keys\" target=\"_blank\">Chaves da API DeepSeek</a>",
     "json.default": "Padrão",
     "json.defaultfont": "Fonte padrão",
     "json.defaultlanguage": "Idioma padrão",

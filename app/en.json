@@ -2,6 +2,8 @@
   "culturecode": "en",
   "name": "English",
   "translations": {
+    "json.deepseekapikey": "DeepSeek API Key",
+    "json.deepseekapikey.help": "See <a href=\"https://platform.deepseek.com/api_keys\" target=\"_blank\">DeepSeek API Keys</a>",
     "json.investigations": "Investigations",
     "json.addinvestigation": "Add Investigation",
     "json.editinvestigation": "Edit Investigation",
