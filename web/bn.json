@@ -111,7 +111,7 @@
   "channel_help": "সাধারণত শুধুমাত্র DVR ব্যবহার করে। ডিফল্ট 0।",
   "claimcode": "দাবি কোড",
   "claimcode_help": "আপনার দাবি কোড লিখুন",
-  "claimcodeinfo": "আপনার সার্ভারে সংযোগ করতে, আপনার কম্পিউটারে <a href=\"#\" onclick=\"agent.helpers.goWebsite('download',event)\">Agent DVR সার্ভার</a> ইনস্টল করুন। লোকাল UI-তে যান এবং সার্ভার মেনু আইকন <i class=\"fa fa-server\"></i> এবং <b>Remote Access</b> ক্লিক করুন। ক্লায়েন্ট কম্পিউটারে Agent DVR ইনস্টল করতে দরকার নেই। যদি আপনার ক্লেম কোড থাকে তাহলে নিচে এন্টার করুন (<a href=\"#\" onclick=\"agent.helpers.goWebsite('docs/agent/servers#using-claim-codes',event)\">আরও তথ্য</a>) :",
+  "claimcodeinfo": "আপনার সার্ভারে সংযোগ করতে, আপনার কম্পিউটারে <a href=\"#\" onclick=\"agent.helpers.goWebsite('download',event)\">Agent DVR সার্ভার</a> ইনস্টল করুন। লোকাল UI-তে যান এবং সার্ভার মেনু আইকন <i class=\"fa fa-server\"></i> এবং <b>রিমোট অ্যাক্সেস</b> ক্লিক করুন। ক্লায়েন্ট কম্পিউটারে Agent DVR ইনস্টল করতে দরকার নেই। যদি আপনার ক্লেম কোড থাকে তাহলে নিচে এন্টার করুন (<a href=\"#\" onclick=\"agent.helpers.goWebsite('docs/agent/servers#using-claim-codes',event)\">আরও তথ্য</a>) :",
   "claimedby": "দাবিকৃত:",
   "clearall": "সব পরিষ্কার করে দাও",
   "click": "ক্লিক",

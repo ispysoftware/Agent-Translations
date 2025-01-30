@@ -676,7 +676,7 @@
     "blockedip": "远程访问被阻止（外部IP：[IPADDRESS]）。<br/>\n要使用订阅进行远程访问，请使用iSpyConnect.com网站门户，网址为<a href=\"https://www.ispyconnect.com/app/\">https://www.ispyconnect.com/app/</a>，并通过本地UI下的服务器菜单中的远程访问连接您的帐户。<br/>\n要通过端口转发或VPN进行远程访问，您需要商业许可证。要购买商业许可证，请在运行Agent DVR的计算机上的本地Agent DVR UI（在http://localhost:[PORT]）中单击服务器图标，然后转到设置 - 许可证。<br/>\n要通过本地网络访问，请使用私人（LAN）IP地址。有效的私人IP地址为：<p><ul><li>10.0.0.0至10.255.255.255</li><li>172.16.0.0至172.31.255.255</li><li>192.168.0.0至192.168.255.255</li></ul></p>",
     "blockedlicense": "<p>查看<a href=\"https://www.ispyconnect.com/docs/agent/remoteaccess\" target=\"_blank\">远程访问</a>以获取连接远程的说明。</p>",
     "blockedprotected": "在服务器设置 - 本地服务器中取消选中保护 API 或使用管理员用户帐户提供基本身份验证。",
-    "blockedsslonly": "您在Media/XML/Config.xml中将SSLOnly设置为true，这是一个非安全请求。如果无法通过SSL访问，则停止Agent DVR服务，将XML文件中的SSLOnly设置为false，然后重新启动。",
+    "blockedsslonly": "您在Media/XML/Config.json中将SSLOnly设置为true，这是一个非安全请求。如果无法通过SSL访问，则停止Agent DVR服务，将XML文件中的SSLOnly设置为false，然后重新启动。",
     "blockedtitle": "拒绝访问",
     "blockedunauthorised": "请求未授权 - 进入 API 的远程请求需要基本授权（API）",
     "blockedunauthorisedusers": "通过服务器设置添加本地用户帐户 - 用户和重试",
