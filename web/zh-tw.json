@@ -1,4 +1,4 @@
-{
+﻿{
   "2fafailed": "雙重認證失敗",
   "accessclaimcode": "存取代碼",
   "accessclaimcodehelp": "這是我們寄送給他們以取得存取權限的代碼。若他們未收到，請手動提供該代碼，他們可以在 ispyconnect.com/app 中使用此代碼取得存取權限。",
@@ -774,6 +774,7 @@
     "usernameshort": "使用者名稱太短（必須大於 3 個字元）"
   },
   "variant": "變體",
+  "verify_help": "我們已向您的電子郵件地址發送了驗證碼。請點擊郵件中的鏈接完成帳戶設置。",
   "video": "影片",
   "videolocal": "USB 視訊來源",
   "videonetwork": "網路 IP 攝影機",
