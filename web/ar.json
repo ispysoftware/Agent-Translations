@@ -628,6 +628,7 @@
     "faster": "أسرع",
     "filter": "منقي",
     "find": "البحث",
+    "focus": "التركيز",
     "frameback": "الإطار السابق",
     "frameforward": "الإطار التالي",
     "fullscreen": "شاشة كاملة",
@@ -681,6 +682,7 @@
     "selectall": "اختر الكل",
     "servermenu": "قائمة الخادم",
     "setnibsize": "تغيير حجم الأداة",
+    "settings": "الإعدادات",
     "showmenu": "قائمة العرض",
     "showontimeline": "عرض على الجدول الزمني",
     "showontimemachine": "عرض على TimeMachine",
@@ -712,6 +714,7 @@
     "unread": "غير مقروء",
     "uploadcloud": "تحميل إلى السحابة",
     "viewpreview": "عرض المعاينة",
+    "zoom": "تكبير",
     "zoomin": "تكبير",
     "zoomout": "تصغير",
     "zoomreset": "إعادة ضبط التكبير"

@@ -628,6 +628,7 @@
     "faster": "तेज़",
     "filter": "फ़िल्टर",
     "find": "खोजें",
+    "focus": "फोकस",
     "frameback": "पिछला फ्रेम",
     "frameforward": "अगला फ्रेम",
     "fullscreen": "पूर्ण स्क्रीन",
@@ -681,6 +682,7 @@
     "selectall": "सभी का चयन करे",
     "servermenu": "सर्वर मेनू",
     "setnibsize": "टूल आकार बदलें",
+    "settings": "सेटिंग्स",
     "showmenu": "मेनू दिखाओ",
     "showontimeline": "टाइमलाइन पर दिखाएं",
     "showontimemachine": "समयमशीन पर दिखाएं।",
@@ -712,6 +714,7 @@
     "unread": "अपठित",
     "uploadcloud": "क्लाउड पर अपलोड करें",
     "viewpreview": "पूर्वावलोकन देखें",
+    "zoom": "ज़ूम",
     "zoomin": "ज़ूम इन",
     "zoomout": "ज़ूम आउट",
     "zoomreset": "ज़ूम रीसेट करें"

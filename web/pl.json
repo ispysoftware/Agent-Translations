@@ -628,6 +628,7 @@
     "faster": "Szybciej",
     "filter": "Filtr",
     "find": "Znajdź",
+    "focus": "Skupić",
     "frameback": "Poprzednia klatka",
     "frameforward": "Następna klatka",
     "fullscreen": "Pełny ekran",
@@ -681,6 +682,7 @@
     "selectall": "Zaznacz wszystko",
     "servermenu": "Menu serwera",
     "setnibsize": "Zmień Rozmiar Narzędzia",
+    "settings": "Ustawienia",
     "showmenu": "Pokaż menu",
     "showontimeline": "Pokaż na osi czasu",
     "showontimemachine": "Pokaż w TimeMachine",
@@ -712,6 +714,7 @@
     "unread": "Nieprzeczytane",
     "uploadcloud": "Prześlij do chmury",
     "viewpreview": "Podgląd widoku",
+    "zoom": "Powiększenie",
     "zoomin": "Zbliż",
     "zoomout": "Pomniejsz",
     "zoomreset": "Resetowanie powiększenia"

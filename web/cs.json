@@ -628,6 +628,7 @@
     "faster": "Rychleji",
     "filter": "Filtr",
     "find": "Najít",
+    "focus": "Zaměření",
     "frameback": "Předchozí snímek",
     "frameforward": "Další snímek",
     "fullscreen": "Celá obrazovka",
@@ -681,6 +682,7 @@
     "selectall": "Vybrat vše",
     "servermenu": "Nastavení serveru",
     "setnibsize": "Změnit velikost nástroje",
+    "settings": "Nastavení",
     "showmenu": "Zobrazit nabídku",
     "showontimeline": "Zobrazit na časové ose",
     "showontimemachine": "Zobrazit v čase TimeMachine.",
@@ -712,6 +714,7 @@
     "unread": "Nepřečtené",
     "uploadcloud": "Nahrajte do cloudu",
     "viewpreview": "Zobrazit náhled",
+    "zoom": "Přiblížení",
     "zoomin": "Přiblížit",
     "zoomout": "Oddálit",
     "zoomreset": "Resetování zoomu"

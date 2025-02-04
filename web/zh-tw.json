@@ -628,6 +628,7 @@
     "faster": "加速",
     "filter": "過濾",
     "find": "尋找",
+    "focus": "對焦",
     "frameback": "上一幀",
     "frameforward": "下一幀",
     "fullscreen": "全螢幕",
@@ -681,6 +682,7 @@
     "selectall": "全選",
     "servermenu": "伺服器選單",
     "setnibsize": "更改工具大小",
+    "settings": "設置",
     "showmenu": "顯示選單",
     "showontimeline": "在時間線上顯示",
     "showontimemachine": "在時光機顯示",
@@ -712,6 +714,7 @@
     "unread": "未讀",
     "uploadcloud": "上傳至雲端",
     "viewpreview": "預覽檢視",
+    "zoom": "縮放",
     "zoomin": "放大",
     "zoomout": "縮小",
     "zoomreset": "重置縮放"

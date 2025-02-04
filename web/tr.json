@@ -628,6 +628,7 @@
     "faster": "Daha hızlı",
     "filter": "filtre",
     "find": "Bul",
+    "focus": "Odakla",
     "frameback": "Önceki Kare",
     "frameforward": "Sonraki Kare",
     "fullscreen": "Tam ekran",
@@ -681,6 +682,7 @@
     "selectall": "Hepsini seç",
     "servermenu": "Sunucu Menüsü",
     "setnibsize": "Araç Boyutunu Değiştir",
+    "settings": "Ayarlar",
     "showmenu": "Menüyü göster",
     "showontimeline": "Zaman Çizelgesinde Göster",
     "showontimemachine": "Zaman Makinesinde Göster",
@@ -712,6 +714,7 @@
     "unread": "Okunmamış",
     "uploadcloud": "Buluta Yükle",
     "viewpreview": "Önizlemeyi Görüntüle",
+    "zoom": "Yakınlaştırma",
     "zoomin": "Yakınlaştır",
     "zoomout": "Uzaklaştır",
     "zoomreset": "Yakınlaştırmayı Sıfırla"

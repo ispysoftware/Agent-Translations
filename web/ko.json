@@ -628,6 +628,7 @@
     "faster": "빠르게",
     "filter": "필터",
     "find": "찾기",
+    "focus": "초점",
     "frameback": "이전 프레임",
     "frameforward": "다음 프레임",
     "fullscreen": "전체 화면",
@@ -681,6 +682,7 @@
     "selectall": "모두 선택",
     "servermenu": "서버 메뉴",
     "setnibsize": "도구 크기 변경",
+    "settings": "설정",
     "showmenu": "메뉴 표시",
     "showontimeline": "타임라인에 표시",
     "showontimemachine": "타임머신에 표시",
@@ -712,6 +714,7 @@
     "unread": "읽지 않음",
     "uploadcloud": "클라우드에 업로드",
     "viewpreview": "미리보기 보기",
+    "zoom": "줌",
     "zoomin": "확대",
     "zoomout": "축소",
     "zoomreset": "줌 재설정"

@@ -628,6 +628,7 @@
     "faster": "高速",
     "filter": "フィルター",
     "find": "見つける",
+    "focus": "フォーカス",
     "frameback": "前のフレーム",
     "frameforward": "次のフレーム",
     "fullscreen": "全画面表示",
@@ -681,6 +682,7 @@
     "selectall": "すべて選択",
     "servermenu": "サーバーメニュー",
     "setnibsize": "ツールサイズを変更",
+    "settings": "設定",
     "showmenu": "メニューを表示",
     "showontimeline": "タイムラインに表示",
     "showontimemachine": "TimeMachine上に表示",
@@ -712,6 +714,7 @@
     "unread": "未読",
     "uploadcloud": "クラウドにアップロード",
     "viewpreview": "プレビューを表示",
+    "zoom": "ズーム",
     "zoomin": "ズームイン",
     "zoomout": "ズームアウトする",
     "zoomreset": "ズーム リセット"

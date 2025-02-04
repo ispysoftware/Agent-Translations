@@ -628,6 +628,7 @@
     "faster": "দ্রুত (Dhruto)",
     "filter": "ছাঁকনি",
     "find": "খুঁজুন",
+    "focus": "ফোকাস",
     "frameback": "পূর্ববর্তী ফ্রেম",
     "frameforward": "পরবর্তী ফ্রেম",
     "fullscreen": "পূর্ণ পর্দা",
@@ -681,6 +682,7 @@
     "selectall": "সব নির্বাচন করুন",
     "servermenu": "সার্ভার মেনু",
     "setnibsize": "সরঞ্জাম আকার পরিবর্তন করুন।",
+    "settings": "সেটিংস",
     "showmenu": "মেনু দেখান",
     "showontimeline": "টাইমলাইনে দেখান",
     "showontimemachine": "সময়মে দেখান",
@@ -712,6 +714,7 @@
     "unread": "অপঠিত",
     "uploadcloud": "ক্লাউডে আপলোড করুন",
     "viewpreview": "পূর্বরূপ দেখুন",
+    "zoom": "জুম",
     "zoomin": "প্রসারিত করো",
     "zoomout": "ছোট করা",
     "zoomreset": "জুম রিসেট করুন"

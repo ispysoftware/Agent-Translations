@@ -628,6 +628,7 @@
     "faster": "Nhanh hơn",
     "filter": "Bộ lọc",
     "find": "Tìm",
+    "focus": "Lấy nét",
     "frameback": "Khung Trước",
     "frameforward": "Khung Tiếp theo",
     "fullscreen": "Toàn màn hình",
@@ -681,6 +682,7 @@
     "selectall": "Chọn Tất cả",
     "servermenu": "Menu máy chủ",
     "setnibsize": "Thay Đổi Kích Thước Công Cụ",
+    "settings": "Cài đặt",
     "showmenu": "Hiển thị Menu",
     "showontimeline": "Hiển thị trên Dòng thời gian",
     "showontimemachine": "Hiển thị trên TimeMachine",
@@ -712,6 +714,7 @@
     "unread": "Chưa đọc",
     "uploadcloud": "Tải lên lưu trữ đám mây",
     "viewpreview": "Xem trước",
+    "zoom": "Thu phóng",
     "zoomin": "Phóng to",
     "zoomout": "Thu nhỏ",
     "zoomreset": "Đặt lại Zoom"

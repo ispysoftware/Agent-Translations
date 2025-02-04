@@ -628,6 +628,7 @@
     "faster": "Snabbare",
     "filter": "Filtrera",
     "find": "Hitta",
+    "focus": "Fokus",
     "frameback": "Föregående bildruta",
     "frameforward": "Nästa bildruta",
     "fullscreen": "Fullskärm",
@@ -681,6 +682,7 @@
     "selectall": "Välj alla",
     "servermenu": "Servermeny",
     "setnibsize": "Ändra verktygsstorlek",
+    "settings": "Inställningar",
     "showmenu": "Visa meny",
     "showontimeline": "Visa på tidslinjen",
     "showontimemachine": "Visa på TimeMachine",
@@ -712,6 +714,7 @@
     "unread": "Oläst",
     "uploadcloud": "Ladda upp till molnet",
     "viewpreview": "Visningsförhandsgranskning",
+    "zoom": "Zoom",
     "zoomin": "Zooma in",
     "zoomout": "Zooma ut",
     "zoomreset": "Zoomåterställning"

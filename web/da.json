@@ -628,6 +628,7 @@
     "faster": "Hurtigere",
     "filter": "Filter",
     "find": "Søg",
+    "focus": "Fokus",
     "frameback": "Forrige billede",
     "frameforward": "Næste ramme",
     "fullscreen": "Fuld skærm",
@@ -681,6 +682,7 @@
     "selectall": "Vælg alle",
     "servermenu": "Server menu",
     "setnibsize": "Ændre Værktøjsstørrelse",
+    "settings": "Indstillinger",
     "showmenu": "Vis menu",
     "showontimeline": "Vis på tidslinje",
     "showontimemachine": "Vis på TimeMachine",
@@ -712,6 +714,7 @@
     "unread": "Ulæst",
     "uploadcloud": "Upload til Cloud",
     "viewpreview": "Vis forhåndsvisning",
+    "zoom": "Zoom",
     "zoomin": "Zoom ind",
     "zoomout": "Zoome ud",
     "zoomreset": "Zoom nulstil"

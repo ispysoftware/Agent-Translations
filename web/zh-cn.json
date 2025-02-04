@@ -628,6 +628,7 @@
     "faster": "更快",
     "filter": "过滤",
     "find": "查找",
+    "focus": "对焦",
     "frameback": "上一帧",
     "frameforward": "下一帧",
     "fullscreen": "全屏",
@@ -681,6 +682,7 @@
     "selectall": "全选",
     "servermenu": "服务器菜单",
     "setnibsize": "更改工具大小",
+    "settings": "设置",
     "showmenu": "显示菜单",
     "showontimeline": "在时间轴上显示",
     "showontimemachine": "在TimeMachine上显示",
@@ -712,6 +714,7 @@
     "unread": "未读",
     "uploadcloud": "上传到云端",
     "viewpreview": "查看预览",
+    "zoom": "缩放",
     "zoomin": "放大",
     "zoomout": "缩小",
     "zoomreset": "缩放 重置"

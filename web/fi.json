@@ -628,6 +628,7 @@
     "faster": "Nopeammin",
     "filter": "Suodata",
     "find": "Etsi",
+    "focus": "Tarkennus",
     "frameback": "Edellinen kehys",
     "frameforward": "Seuraava kehys",
     "fullscreen": "Koko näyttö",
@@ -681,6 +682,7 @@
     "selectall": "Valitse kaikki",
     "servermenu": "Palvelin-valikko",
     "setnibsize": "Muuta työkalun kokoa",
+    "settings": "Asetukset",
     "showmenu": "Näytä valikko",
     "showontimeline": "Näytä aikajanalla",
     "showontimemachine": "Näytä TimeMachine-ohjelmassa",
@@ -712,6 +714,7 @@
     "unread": "Lukematon",
     "uploadcloud": "Lataa pilveen",
     "viewpreview": "Näytä Esikatselu",
+    "zoom": "Zoom",
     "zoomin": "Lähennä",
     "zoomout": "Loitonna",
     "zoomreset": "Zoomin nollaus"

@@ -628,6 +628,7 @@
     "faster": "Lebih cepat",
     "filter": "Filter",
     "find": "Cari",
+    "focus": "Fokus",
     "frameback": "Frame Sebelumnya",
     "frameforward": "Frame Berikutnya",
     "fullscreen": "Layar Penuh",
@@ -681,6 +682,7 @@
     "selectall": "Pilih Semua",
     "servermenu": "Menu Server",
     "setnibsize": "Ubah Ukuran Alat",
+    "settings": "Pengaturan",
     "showmenu": "Tampilkan Menu",
     "showontimeline": "Tampilkan di Timeline",
     "showontimemachine": "Tampilkan di TimeMachine",
@@ -712,6 +714,7 @@
     "unread": "Belum dibaca",
     "uploadcloud": "Unggah ke Cloud",
     "viewpreview": "Lihat Pratinjau",
+    "zoom": "Perbesar",
     "zoomin": "Perbesar",
     "zoomout": "Perkecil Zoom",
     "zoomreset": "Reset Zoom"

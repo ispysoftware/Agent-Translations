@@ -628,6 +628,7 @@
     "faster": "Sneller",
     "filter": "Filter",
     "find": "Zoeken",
+    "focus": "Focus",
     "frameback": "Vorige Frame",
     "frameforward": "Volgende Frame",
     "fullscreen": "Volledig scherm",
@@ -681,6 +682,7 @@
     "selectall": "Selecteer alles",
     "servermenu": "Server Menu",
     "setnibsize": "Wijzig gereedschapsgrootte",
+    "settings": "Instellingen",
     "showmenu": "Laat het menu zien",
     "showontimeline": "Weergeven op Tijdlijn",
     "showontimemachine": "Weergeven op TimeMachine",
@@ -712,6 +714,7 @@
     "unread": "Ongelezen",
     "uploadcloud": "Uploaden naar cloud",
     "viewpreview": "Bekijk voorbeeld",
+    "zoom": "Zoom",
     "zoomin": "In zoomen",
     "zoomout": "Uitzoomen",
     "zoomreset": "Zoom opnieuw instellen"
