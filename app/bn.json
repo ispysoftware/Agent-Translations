@@ -754,6 +754,8 @@
     "json.actionconfiguration": "অ্যাকশন কনফিগারেশন",
     "json.actionlist": "কর্ম",
     "json.actionlist.help": "অ্যাকশন অন, অফ এবং রান কমান্ডের ক্ষেত্রে প্রযোজ্য",
+    "json.actionname": "নাম",
+    "json.actionname.help": "একটি নাম লিখুন (ঐচ্ছিক)",
     "json.actions": "ক্রিয়া",
     "json.actions.help": "ইভেন্টগুলি সনাক্ত করা হলে কী পদক্ষেপ নেওয়া হবে তা নির্দিষ্ট করুন",
     "json.active": "সক্রিয়",

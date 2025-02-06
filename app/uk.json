@@ -754,6 +754,8 @@
     "json.actionconfiguration": "Конфігурація дій",
     "json.actionlist": "Дія",
     "json.actionlist.help": "Застосовується до команд Дія увімкнення, вимкнення та запуску.",
+    "json.actionname": "Ім'я",
+    "json.actionname.help": "Введіть ім'я (необов'язково)",
     "json.actions": "Дії",
     "json.actions.help": "Вкажіть дії, які слід виконати при виявленні подій.",
     "json.active": "Активний",

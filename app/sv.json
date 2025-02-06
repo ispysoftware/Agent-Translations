@@ -754,6 +754,8 @@
     "json.actionconfiguration": "Åtgärdskonfiguration",
     "json.actionlist": "Handling",
     "json.actionlist.help": "Gäller för kommandon Action On, Off och Run",
+    "json.actionname": "Namn",
+    "json.actionname.help": "Ange ett namn (valfritt)",
     "json.actions": "Handlingar",
     "json.actions.help": "Ange åtgärder som ska vidtas när händelser upptäcks",
     "json.active": "Aktiva",

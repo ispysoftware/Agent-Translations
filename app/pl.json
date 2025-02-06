@@ -754,6 +754,8 @@
     "json.actionconfiguration": "Konfiguracja akcji",
     "json.actionlist": "Akcja",
     "json.actionlist.help": "Dotyczy poleceń Action On, Off i Run",
+    "json.actionname": "Nazwa",
+    "json.actionname.help": "Wprowadź nazwę (opcjonalnie)",
     "json.actions": "Akcje",
     "json.actions.help": "Określ akcje, które mają zostać podjęte po wykryciu zdarzeń",
     "json.active": "Aktywny",

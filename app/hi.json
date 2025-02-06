@@ -754,6 +754,8 @@
     "json.actionconfiguration": "क्रिया विन्यास",
     "json.actionlist": "कार्य",
     "json.actionlist.help": "एक्शन ऑन, ऑफ और रन कमांड पर लागू होता है",
+    "json.actionname": "नाम",
+    "json.actionname.help": "एक नाम दर्ज करें (वैकल्पिक)",
     "json.actions": "कार्रवाई",
     "json.actions.help": "घटनाओं का पता चलने पर की जाने वाली कार्रवाई निर्दिष्ट करें",
     "json.active": "सक्रिय",

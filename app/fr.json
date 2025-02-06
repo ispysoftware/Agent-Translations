@@ -754,6 +754,8 @@
     "json.actionconfiguration": "Configuration d'action",
     "json.actionlist": "Action",
     "json.actionlist.help": "S'applique aux commandes Action On, Off et Run",
+    "json.actionname": "Nom",
+    "json.actionname.help": "Entrez un nom (facultatif)",
     "json.actions": "Actions",
     "json.actions.help": "Spécifiez les actions à entreprendre lorsque des événements sont détectés",
     "json.active": "actif",

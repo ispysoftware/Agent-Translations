@@ -754,6 +754,8 @@
     "json.actionconfiguration": "Eylem Yapılandırması",
     "json.actionlist": "Aksiyon",
     "json.actionlist.help": "Eylem Açık, Kapalı ve Çalıştır komutları için geçerlidir",
+    "json.actionname": "İsim",
+    "json.actionname.help": "Bir isim girin (isteğe bağlı)",
     "json.actions": "Hareketler",
     "json.actions.help": "Olaylar algılandığında gerçekleştirilecek eylemleri belirtin",
     "json.active": "Aktif",

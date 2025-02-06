@@ -754,6 +754,8 @@
     "json.actionconfiguration": "Конфигурация действия",
     "json.actionlist": "Список действий",
     "json.actionlist.help": "Применяется к командам: Action On, Off и Run",
+    "json.actionname": "Имя",
+    "json.actionname.help": "Введите имя (необязательно)",
     "json.actions": "Действия",
     "json.actions.help": "Задайте набор действий, которые выполняются при определённых событиях",
     "json.active": "Активно",

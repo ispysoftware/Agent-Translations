@@ -754,6 +754,8 @@
     "json.actionconfiguration": "액션 구성",
     "json.actionlist": "행동",
     "json.actionlist.help": "작동, 끄기 및 실행 명령에 적용됩니다",
+    "json.actionname": "이름",
+    "json.actionname.help": "이름 입력 (선택 사항)",
     "json.actions": "행동들",
     "json.actions.help": "이벤트가 감지될 때 수행할 작업 지정",
     "json.active": "활동적인",

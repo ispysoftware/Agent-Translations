@@ -754,6 +754,8 @@
     "json.actionconfiguration": "アクション構成",
     "json.actionlist": "アクション",
     "json.actionlist.help": "Action On、Off、Run コマンドに適用",
+    "json.actionname": "名前",
+    "json.actionname.help": "名前を入力してください（任意）",
     "json.actions": "行動",
     "json.actions.help": "イベントが検出されたときに実行するアクションを指定します",
     "json.active": "アクティブ",

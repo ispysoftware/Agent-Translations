@@ -754,6 +754,8 @@
     "json.actionconfiguration": "Cấu hình Hành động",
     "json.actionlist": "Hành động",
     "json.actionlist.help": "Áp dụng cho các lệnh Bật, Tắt và Chạy",
+    "json.actionname": "Tên",
+    "json.actionname.help": "Nhập tên (tùy chọn)",
     "json.actions": "Hành động",
     "json.actions.help": "Chỉ định các hành động cần thực hiện khi phát hiện sự kiện",
     "json.active": "Hoạt động",

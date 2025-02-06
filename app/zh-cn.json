@@ -754,6 +754,8 @@
     "json.actionconfiguration": "操作配置",
     "json.actionlist": "行动",
     "json.actionlist.help": "适用于 Action On、Off 和 Run 命令",
+    "json.actionname": "名称",
+    "json.actionname.help": "输入名称（可选）",
     "json.actions": "操作",
     "json.actions.help": "指定检测到事件时要采取的措施",
     "json.active": "活性",

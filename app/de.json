@@ -754,6 +754,8 @@
     "json.actionconfiguration": "Aktionsprojektierung",
     "json.actionlist": "Aktion",
     "json.actionlist.help": "Gilt für die Befehle Action On, Off und Run",
+    "json.actionname": "Name",
+    "json.actionname.help": "Geben Sie einen Namen ein (optional)",
     "json.actions": "Aktionen",
     "json.actions.help": "Geben Sie die Aktionen an, die ausgeführt werden sollen, wenn Ereignisse erkannt werden",
     "json.active": "Aktiv",

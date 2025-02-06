@@ -754,6 +754,8 @@
     "json.actionconfiguration": "Toiminnon määritys",
     "json.actionlist": "Toiminta",
     "json.actionlist.help": "Koskee Action On-, Off- ja Run-komentoja",
+    "json.actionname": "Nimi",
+    "json.actionname.help": "Anna nimi (valinnainen)",
     "json.actions": "Toiminnot",
     "json.actions.help": "Määritä toimenpiteet, jotka suoritetaan, kun tapahtumia havaitaan",
     "json.active": "Aktiivinen",

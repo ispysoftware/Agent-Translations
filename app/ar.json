@@ -754,6 +754,8 @@
     "json.actionconfiguration": "تكوين العمل",
     "json.actionlist": "فعل",
     "json.actionlist.help": "ينطبق على أوامر Action On و Off و Run",
+    "json.actionname": "اسم",
+    "json.actionname.help": "أدخل اسمًا (اختياري)",
     "json.actions": "أجراءات",
     "json.actions.help": "حدد الإجراءات التي يجب اتخاذها عند اكتشاف الأحداث",
     "json.active": "نشيط",

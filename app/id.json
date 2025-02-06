@@ -754,6 +754,8 @@
     "json.actionconfiguration": "Konfigurasi Tindakan",
     "json.actionlist": "Tindakan",
     "json.actionlist.help": "Berlaku untuk perintah Action On, Off, dan Run",
+    "json.actionname": "Nama",
+    "json.actionname.help": "Masukkan nama (opsional)",
     "json.actions": "Tindakan",
     "json.actions.help": "Tentukan tindakan yang akan diambil ketika kejadian terdeteksi",
     "json.active": "Aktif",

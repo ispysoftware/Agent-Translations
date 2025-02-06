@@ -754,6 +754,8 @@
     "json.actionconfiguration": "Konfigurace akce",
     "json.actionlist": "Akce",
     "json.actionlist.help": "Platí pro příkazy Action On, Off a Run",
+    "json.actionname": "Jméno",
+    "json.actionname.help": "Zadejte název (volitelné)",
     "json.actions": "Akce",
     "json.actions.help": "Určete akce, které se mají provést při zjištění událostí",
     "json.active": "Aktivní",

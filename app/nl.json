@@ -754,6 +754,8 @@
     "json.actionconfiguration": "Actie configuratie",
     "json.actionlist": "Actie",
     "json.actionlist.help": "Is van toepassing op de opdrachten Actie Aan, Uit en Uitvoeren",
+    "json.actionname": "Naam",
+    "json.actionname.help": "Voer een naam in (optioneel)",
     "json.actions": "Acties",
     "json.actions.help": "Specificeer acties die moeten worden ondernomen wanneer gebeurtenissen worden gedetecteerd",
     "json.active": "Actief",
