@@ -2311,6 +2311,8 @@
     "startlivestream": "ابدأ بثًا مباشرًا",
     "status": "حالة",
     "storagealerts": "تنبيهات التخزين",
+    "storagedisabled": "إدارة التخزين معطلة",
+    "storageunlimited": "تخزين غير محدود",
     "streamingstarting": "بدأ البث",
     "subscribersonly": "المشتركون فقط",
     "subscribersonlyaitags": "يمكن استخدام {AI} لكائن تم اكتشافه بواسطة AI. المشتركون فقط",

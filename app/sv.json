@@ -2311,6 +2311,8 @@
     "startlivestream": "Starta en livestream",
     "status": "Status",
     "storagealerts": "Lagringsvarningar",
+    "storagedisabled": "Lagringshantering inaktiverad",
+    "storageunlimited": "Lagring obegränsad",
     "streamingstarting": "Streaming börjar",
     "subscribersonly": "Endast prenumeranter",
     "subscribersonlyaitags": "Kan använda {AI} för AI-detekterat objekt. Endast prenumeranter",

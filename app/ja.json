@@ -2311,6 +2311,8 @@
     "startlivestream": "ライブストリームを開始する",
     "status": "状態",
     "storagealerts": "ストレージアラート",
+    "storagedisabled": "ストレージ管理が無効になっています",
+    "storageunlimited": "ストレージ無制限",
     "streamingstarting": "ストリーミングが始まります",
     "subscribersonly": "サブスクライバーのみ",
     "subscribersonlyaitags": "AI 検出オブジェクトに {AI} を使用できます。サブスクライバーのみ",

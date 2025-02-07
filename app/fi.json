@@ -2311,6 +2311,8 @@
     "startlivestream": "Aloita lähetys",
     "status": "Tila",
     "storagealerts": "Tallennustilahälytykset",
+    "storagedisabled": "Tallennuksen hallinta pois käytöstä",
+    "storageunlimited": "Tallennus rajaton",
     "streamingstarting": "Lähetus suoratoistona alkaa",
     "subscribersonly": "Vain tilaajille",
     "subscribersonlyaitags": "Voidaan käyttää {AI}:tä tekoälyn havaitulle objektille. Vain tilaajille",

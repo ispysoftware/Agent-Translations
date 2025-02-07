@@ -2311,6 +2311,8 @@
     "startlivestream": "開始直播",
     "status": "地位",
     "storagealerts": "儲存警報",
+    "storagedisabled": "存儲管理已禁用",
+    "storageunlimited": "儲存無限",
     "streamingstarting": "流媒體正在開始",
     "subscribersonly": "僅限訂閱者",
     "subscribersonlyaitags": "可以將 {AI} 用於 AI 檢測到的對象。僅限訂閱者",

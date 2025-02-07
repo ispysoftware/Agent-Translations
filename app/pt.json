@@ -2311,6 +2311,8 @@
     "startlivestream": "Iniciar uma transmissão ao vivo",
     "status": "Status",
     "storagealerts": "Alertas de armazenamento",
+    "storagedisabled": "Gerenciamento de armazenamento desativado",
+    "storageunlimited": "Armazenamento ilimitado",
     "streamingstarting": "O streaming está começando",
     "subscribersonly": "Apenas assinantes",
     "subscribersonlyaitags": "Pode usar {AI} para objetos detectados por IA. Somente assinantes",

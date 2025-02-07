@@ -2311,6 +2311,8 @@
     "startlivestream": "एक लाइव स्ट्रीम शुरू करें",
     "status": "स्थिति",
     "storagealerts": "भंडारण अलर्ट",
+    "storagedisabled": "स्टोरेज प्रबंधन अक्षम है",
+    "storageunlimited": "स्टोरेज अनलिमिटेड",
     "streamingstarting": "स्ट्रीमिंग शुरू हो रही है",
     "subscribersonly": "केवल सदस्य",
     "subscribersonlyaitags": "एआई द्वारा खोजी गई वस्तु के लिए {AI} का उपयोग कर सकते हैं। केवल सदस्य",

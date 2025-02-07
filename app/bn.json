@@ -2311,6 +2311,8 @@
     "startlivestream": "একটি লাইভ স্ট্রিম শুরু করুন",
     "status": "স্ট্যাটাস",
     "storagealerts": "স্টোরেজ সতর্কতা",
+    "storagedisabled": "স্টোরেজ ব্যবস্থাপনা নিষ্ক্রিয় করা হয়েছে",
+    "storageunlimited": "অসীম স্টোরেজ",
     "streamingstarting": "স্ট্রিমিং শুরু হচ্ছে",
     "subscribersonly": "শুধুমাত্র সাবস্ক্রাইবার",
     "subscribersonlyaitags": "AI সনাক্ত করা বস্তুর জন্য {AI} ব্যবহার করতে পারেন। শুধুমাত্র গ্রাহকদের",

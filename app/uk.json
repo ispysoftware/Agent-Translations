@@ -2311,6 +2311,8 @@
     "startlivestream": "Почати прямий ефір",
     "status": "Статус",
     "storagealerts": "Сповіщення про зберігання",
+    "storagedisabled": "Керування зберіганням вимкнено",
+    "storageunlimited": "Необмежене зберігання",
     "streamingstarting": "Потік починається",
     "subscribersonly": "Лише підписники",
     "subscribersonlyaitags": "Можна використовувати {AI} для виявлення об'єктів штучного інтелекту. Тільки для абонентів.",

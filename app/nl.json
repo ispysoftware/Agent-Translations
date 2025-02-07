@@ -2311,6 +2311,8 @@
     "startlivestream": "Start een live stream",
     "status": "Toestand",
     "storagealerts": "Opslagwaarschuwingen",
+    "storagedisabled": "Opslagbeheer uitgeschakeld",
+    "storageunlimited": "Opslag onbeperkt",
     "streamingstarting": "Streaming begint",
     "subscribersonly": "Alleen abonnees",
     "subscribersonlyaitags": "Kan {AI} gebruiken voor door AI gedetecteerd object. Alleen abonnees",

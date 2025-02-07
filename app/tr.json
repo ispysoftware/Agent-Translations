@@ -2311,6 +2311,8 @@
     "startlivestream": "Canlı yayın başlatın",
     "status": "Durum",
     "storagealerts": "Depolama Uyarıları",
+    "storagedisabled": "Depolama yönetimi devre dışı bırakıldı",
+    "storageunlimited": "Sınırsız depolama",
     "streamingstarting": "Akış başlıyor",
     "subscribersonly": "Yalnızca Aboneler",
     "subscribersonlyaitags": "AI algılanan nesne için {AI} kullanabilir. Yalnızca aboneler",

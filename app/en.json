@@ -2311,6 +2311,8 @@
     "startlivestream": "Start a live stream",
     "status": "Status",
     "storagealerts": "Storage Alerts",
+    "storagedisabled": "Storage management disabled",
+    "storageunlimited": "Storage unlimited",
     "streamingstarting": "Streaming is starting",
     "subscribersonly": "Subscribers Only",
     "subscribersonlyaitags": "Can use {AI} for AI detected object. Subscribers Only",

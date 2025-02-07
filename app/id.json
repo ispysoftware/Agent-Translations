@@ -2311,6 +2311,8 @@
     "startlivestream": "Mulai siaran langsung",
     "status": "Status",
     "storagealerts": "Pemberitahuan Penyimpanan",
+    "storagedisabled": "Manajemen penyimpanan dinonaktifkan",
+    "storageunlimited": "Penyimpanan tidak terbatas",
     "streamingstarting": "Streaming sedang dimulai",
     "subscribersonly": "Hanya untuk pelanggan",
     "subscribersonlyaitags": "Dapat menggunakan {AI} untuk mendeteksi objek. Hanya untuk pelanggan berlangganan",

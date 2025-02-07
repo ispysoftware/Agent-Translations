@@ -2311,6 +2311,8 @@
     "startlivestream": "Zahajte živý přenos",
     "status": "Postavení",
     "storagealerts": "Upozornění na úložiště",
+    "storagedisabled": "Správa úložiště zakázána",
+    "storageunlimited": "Uložení neomezené",
     "streamingstarting": "Živý přenos  začíná",
     "subscribersonly": "Pouze předplatitelé",
     "subscribersonlyaitags": "Může použít {AI} pro objekt detekovaný AI. Pouze předplatitelé",

@@ -2311,6 +2311,8 @@
     "startlivestream": "Начать трансляцию",
     "status": "Статус",
     "storagealerts": "Оповещения о хранении",
+    "storagedisabled": "Управление хранилищем отключено",
+    "storageunlimited": "Хранение без ограничений",
     "streamingstarting": "Трансляция запускается",
     "subscribersonly": "Только для подписчиков",
     "subscribersonlyaitags": "Можно использовать {AI} для AI-объектов. Только подписчики",

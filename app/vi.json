@@ -2311,6 +2311,8 @@
     "startlivestream": "Bắt đầu một luồng trực tiếp",
     "status": "Trạng thái",
     "storagealerts": "Cảnh báo Lưu trữ",
+    "storagedisabled": "Quản lý lưu trữ đã bị vô hiệu hóa",
+    "storageunlimited": "Lưu trữ không giới hạn",
     "streamingstarting": "Đang bắt đầu truyền dữ liệu",
     "subscribersonly": "Chỉ dành cho người đăng ký",
     "subscribersonlyaitags": "Có thể sử dụng {AI} để nhận diện đối tượng AI. Chỉ dành cho người đăng ký.",

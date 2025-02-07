@@ -2311,6 +2311,8 @@
     "startlivestream": "실시간 스트림 시작",
     "status": "상태",
     "storagealerts": "스토리지 경고",
+    "storagedisabled": "저장소 관리 비활성화",
+    "storageunlimited": "저장소 무제한",
     "streamingstarting": "스트리밍이 시작됩니다",
     "subscribersonly": "구독자 전용",
     "subscribersonlyaitags": "AI 감지 개체에 대해 {AI}를 사용할 수 있습니다. 구독자 전용",
