@@ -1592,6 +1592,8 @@
     "json.notdetecteddelay.help": "경고가 발생하기까지의 시간(초)",
     "json.noteditable": "편집 불가능",
     "json.noteditable.help": "이 소스 유형은 수정할 수 없습니다.",
+    "json.notes": "노트",
+    "json.notes.help": "이것들은 참고용입니다.",
     "json.notificationsalerts": "알림과 경고",
     "json.notifyendpoint": "엔드포인트에 알림",
     "json.notifyendpoint.help": "이메일 또는 http 주소",

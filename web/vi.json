@@ -78,6 +78,8 @@
   "autohide_help": "Tự động ẩn biểu đồ hoạt động phát lại",
   "autohideplayback": "Ẩn điều khiển phát lại",
   "autohideplayback_help": "Ẩn điều khiển phát lại tự động",
+  "automute": "Tự động tắt tiếng",
+  "automutehelp": "Tắt âm thanh khi chuyển tab",
   "autoplayaudio": "Tự động phát âm thanh",
   "autoplayaudio_help": "Phát âm thanh khi giao diện người dùng tải trên chế độ xem trực tiếp",
   "autoreconnect": "Tự động kết nối lại",

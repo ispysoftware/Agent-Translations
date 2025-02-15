@@ -1592,6 +1592,8 @@
     "json.notdetecteddelay.help": "Tijd voordat u een waarschuwing opstelt",
     "json.noteditable": "Niet bewerkbaar",
     "json.noteditable.help": "Dit brontype is niet bewerkbaar",
+    "json.notes": "Notities",
+    "json.notes.help": "Deze zijn alleen ter referentie.",
     "json.notificationsalerts": "Meldingen en Waarschuwingen",
     "json.notifyendpoint": "Endpoint informeren",
     "json.notifyendpoint.help": "Ofwel een e mail of een http adres",

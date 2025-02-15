@@ -78,6 +78,8 @@
   "autohide_help": "재생 활동 그래프를 자동으로 숨깁니다.",
   "autohideplayback": "재생 컨트롤 숨기기",
   "autohideplayback_help": "자동으로 재생 컨트롤 숨기기",
+  "automute": "자동 음소거",
+  "automutehelp": "탭 전환 시 오디오 음소거",
   "autoplayaudio": "오디오 자동 재생",
   "autoplayaudio_help": "라이브 뷰에서 UI가 로드될 때 오디오 재생",
   "autoreconnect": "자동 재연결",

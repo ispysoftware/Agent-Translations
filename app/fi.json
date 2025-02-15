@@ -1592,6 +1592,8 @@
     "json.notdetecteddelay.help": "Aika ennen hälytyksen antamista (sekuntia)",
     "json.noteditable": "Ei muokattavissa",
     "json.noteditable.help": "Tätä lähdetyyppiä ei voi muokata",
+    "json.notes": "Muistiinpanot",
+    "json.notes.help": "Nämä ovat vain viitteeksi.",
     "json.notificationsalerts": "Ilmoitukset ja hälytykset",
     "json.notifyendpoint": "Ilmoita päätepisteelle",
     "json.notifyendpoint.help": "Joko sähköposti tai http-osoite",

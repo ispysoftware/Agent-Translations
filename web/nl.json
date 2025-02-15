@@ -78,6 +78,8 @@
   "autohide_help": "De grafiek met afspeelactiviteiten automatisch verbergen",
   "autohideplayback": "Afspeelknoppen verbergen",
   "autohideplayback_help": "Afspeelknoppen automatisch verbergen",
+  "automute": "Auto Dempen",
+  "automutehelp": "Geluid dempen bij het wisselen van tabbladen",
   "autoplayaudio": "Automatisch afspelen van audio",
   "autoplayaudio_help": "Audio afspelen wanneer de gebruikersinterface wordt geladen in liveweergave",
   "autoreconnect": "Automatisch herverbinden",

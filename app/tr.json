@@ -1592,6 +1592,8 @@
     "json.notdetecteddelay.help": "Bir uyarıyı yükseltmeden önceki süre (saniye)",
     "json.noteditable": "Düzenlenebilir değil",
     "json.noteditable.help": "Bu kaynak türü düzenlenemez",
+    "json.notes": "Notlar",
+    "json.notes.help": "Bunlar sadece referansınız içindir.",
     "json.notificationsalerts": "Bildirimler ve Uyarılar",
     "json.notifyendpoint": "Uç Noktaya Bildir",
     "json.notifyendpoint.help": "Bir e-posta veya bir http adresi",

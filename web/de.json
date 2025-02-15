@@ -78,6 +78,8 @@
   "autohide_help": "Das Wiedergabeaktivitätsdiagramm automatisch ausblenden Automatic",
   "autohideplayback": "Wiedergabesteuerung ausblenden",
   "autohideplayback_help": "Wiedergabesteuerung automatisch ausblenden",
+  "automute": "Auto Stummschaltung",
+  "automutehelp": "Audio stummschalten beim Wechseln der Registerkarten",
   "autoplayaudio": "Autoplay-Audio",
   "autoplayaudio_help": "Audio abspielen, wenn die Benutzeroberfläche in der Live-Ansicht geladen wird",
   "autoreconnect": "Automatische Wiederverbindung",

@@ -78,6 +78,8 @@
   "autohide_help": "Sembunyikan grafik aktivitas pemutaran secara otomatis",
   "autohideplayback": "Sembunyikan kontrol pemutaran",
   "autohideplayback_help": "Sembunyikan kontrol pemutaran secara otomatis",
+  "automute": "Auto Mute",
+  "automutehelp": "Matikan audio saat beralih tab",
   "autoplayaudio": "Putar Otomatis Audio",
   "autoplayaudio_help": "Putar audio ketika antarmuka pengguna dimuat pada tampilan langsung",
   "autoreconnect": "Menghubungkan ulang secara otomatis",

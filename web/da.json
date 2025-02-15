@@ -78,6 +78,8 @@
   "autohide_help": "Skjul automatisk afspilningsaktivitetsgrafen",
   "autohideplayback": "Skjul afspilningskontroller",
   "autohideplayback_help": "Skjul afspilningskontroller automatisk",
+  "automute": "Auto Dæmpning",
+  "automutehelp": "Dæmp lyd, når du skifter faner",
   "autoplayaudio": "Autoafspil lyd",
   "autoplayaudio_help": "Afspil lyd, når brugergrænsefladen indlæses på live view",
   "autoreconnect": "Genopret automatisk forbindelse",

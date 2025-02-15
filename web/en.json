@@ -78,6 +78,8 @@
   "autohide_help": "Automatically hide the playback activity graph",
   "autohideplayback": "Hide playback controls",
   "autohideplayback_help": "Hide playback controls automatically",
+  "automute": "Auto Mute",
+  "automutehelp": "Mute audio when switching tabs",
   "autoplayaudio": "Autoplay Audio",
   "autoplayaudio_help": "Play audio when the UI loads on live view",
   "autoreconnect": "Auto reconnect",

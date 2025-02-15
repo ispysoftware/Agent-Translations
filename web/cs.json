@@ -78,6 +78,8 @@
   "autohide_help": "Automaticky skrýt graf aktivity přehrávání",
   "autohideplayback": "Skrýt ovládací prvky přehrávání",
   "autohideplayback_help": "Automaticky skrýt ovládací prvky přehrávání",
+  "automute": "Automatické ztlumení",
+  "automutehelp": "Ztlumit zvuk při přepínání karet",
   "autoplayaudio": "Automatické přehrávání zvuku",
   "autoplayaudio_help": "Přehrát zvuk při načtení uživatelského rozhraní v živém náhledu",
   "autoreconnect": "Automatické opětovné připojení",

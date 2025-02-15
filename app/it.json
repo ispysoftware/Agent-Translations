@@ -1592,6 +1592,8 @@
     "json.notdetecteddelay.help": "Tempo prima di sollevare un avviso",
     "json.noteditable": "non modificabile",
     "json.noteditable.help": "Questo tipo di sorgente non è modificabile",
+    "json.notes": "Note",
+    "json.notes.help": "Questi sono solo per tua riferimento.",
     "json.notificationsalerts": "Notifiche e Avvisi",
     "json.notifyendpoint": "Notifica endpoint",
     "json.notifyendpoint.help": "Una email o un indirizzo http",

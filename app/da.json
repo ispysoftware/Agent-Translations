@@ -1592,6 +1592,8 @@
     "json.notdetecteddelay.help": "Tid før en alarmering (sekunder)",
     "json.noteditable": "Kan ikke redigeres",
     "json.noteditable.help": "Denne kildetype kan ikke redigeres",
+    "json.notes": "Noter",
+    "json.notes.help": "Disse er kun til din reference.",
     "json.notificationsalerts": "Underretninger og Alarmer",
     "json.notifyendpoint": "Giv endepunkt besked",
     "json.notifyendpoint.help": "Enten en e-mail eller en http-adresse",

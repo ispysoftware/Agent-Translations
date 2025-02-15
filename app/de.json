@@ -1592,6 +1592,8 @@
     "json.notdetecteddelay.help": "Zeit, bevor eine Warnung Anhebung",
     "json.noteditable": "nicht Editierbare",
     "json.noteditable.help": "Diese Quelltyp kann nicht bearbeitet werden",
+    "json.notes": "Hinweise",
+    "json.notes.help": "Diese dienen nur zu Ihrer Information.",
     "json.notificationsalerts": "Benachrichtigungen und Alarme",
     "json.notifyendpoint": "Endpunkt benachrichtigen",
     "json.notifyendpoint.help": "Entweder eine E Mail oder eine http Adresse",

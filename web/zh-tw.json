@@ -78,6 +78,8 @@
   "autohide_help": "自動隱藏播放時的活動圖表",
   "autohideplayback": "自動隱藏播放控制",
   "autohideplayback_help": "自動隱藏播放控制列",
+  "automute": "自動靜音",
+  "automutehelp": "切換標籤時靜音音頻",
   "autoplayaudio": "自動播放音訊",
   "autoplayaudio_help": "在載入即時檢視時自動播放音訊",
   "autoreconnect": "自動重新連線",

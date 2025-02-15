@@ -1592,6 +1592,8 @@
     "json.notdetecteddelay.help": "Čas před upozorněním",
     "json.noteditable": "Nelze upravovat",
     "json.noteditable.help": "Tento typ zdroje nelze upravovat",
+    "json.notes": "Poznámky",
+    "json.notes.help": "Tyto jsou pouze pro vaši informaci.",
     "json.notificationsalerts": "Upozornění a oznámení",
     "json.notifyendpoint": "Oznámit koncový bod",
     "json.notifyendpoint.help": "Buď e-mail, nebo http adresa",

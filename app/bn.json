@@ -1592,6 +1592,8 @@
     "json.notdetecteddelay.help": "সতর্কতা বাড়ানোর আগে সময় (সেকেন্ড)",
     "json.noteditable": "সম্পাদনাযোগ্য নয়",
     "json.noteditable.help": "এই উৎসের ধরন সম্পাদনাযোগ্য নয়",
+    "json.notes": "নোটস",
+    "json.notes.help": "এগুলি শুধুমাত্র আপনার রেফারেন্সের জন্য।",
     "json.notificationsalerts": "বিজ্ঞপ্তি এবং সতর্কীকরণ",
     "json.notifyendpoint": "এন্ডপয়েন্টকে অবহিত করুন",
     "json.notifyendpoint.help": "হয় একটি ইমেইল অথবা একটি http ঠিকানা",

@@ -78,6 +78,8 @@
   "autohide_help": "再生アクティビティグラフを自動的に非表示にする",
   "autohideplayback": "再生コントロールを非表示にする",
   "autohideplayback_help": "再生コントロールを自動的に非表示にする",
+  "automute": "自動ミュート",
+  "automutehelp": "タブを切り替えるときに音声をミュートする",
   "autoplayaudio": "オーディオの自動再生",
   "autoplayaudio_help": "UIがライブビューに読み込まれたときにオーディオを再生する",
   "autoreconnect": "自動再接続",

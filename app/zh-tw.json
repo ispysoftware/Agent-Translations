@@ -1592,6 +1592,8 @@
     "json.notdetecteddelay.help": "發出警報之前的時間",
     "json.noteditable": "不可編輯",
     "json.noteditable.help": "此來源類型不可編輯",
+    "json.notes": "備註",
+    "json.notes.help": "這些僅供您參考",
     "json.notificationsalerts": "通知和警報",
     "json.notifyendpoint": "通知端點",
     "json.notifyendpoint.help": "電子郵件或http地址",

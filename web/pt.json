@@ -78,6 +78,8 @@
   "autohide_help": "Ocultar automaticamente o gráfico de atividade de reprodução",
   "autohideplayback": "Ocultar controles de reprodução",
   "autohideplayback_help": "Ocultar controles de reprodução automaticamente",
+  "automute": "Silenciar Automaticamente",
+  "automutehelp": "Silenciar áudio ao mudar de abas",
   "autoplayaudio": "Reprodução automática de áudio",
   "autoplayaudio_help": "Reproduza áudio quando a IU carregar na exibição ao vivo",
   "autoreconnect": "Reconexão automática",

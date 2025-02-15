@@ -78,6 +78,8 @@
   "autohide_help": "Piilota toiston aktiivisuuskuvaaja automaattisesti",
   "autohideplayback": "Piilota toistosäätimet",
   "autohideplayback_help": "Piilota toistosäätimet automaattisesti",
+  "automute": "Auto Mykistys",
+  "automutehelp": "Mykistä ääni välilehtiä vaihdettaessa",
   "autoplayaudio": "Automaattinen äänentoisto",
   "autoplayaudio_help": "Aloita äänentoisto, kun live-näkymä avataan",
   "autoreconnect": "Automaattinen uudelleenyhdistäminen",

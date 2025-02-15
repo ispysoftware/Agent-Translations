@@ -1592,6 +1592,8 @@
     "json.notdetecteddelay.help": "Час до виникнення сповіщення (секунди)",
     "json.noteditable": "Не редагований",
     "json.noteditable.help": "Цей тип джерела не можна редагувати",
+    "json.notes": "Примітки",
+    "json.notes.help": "Це лише для вашої довідки.",
     "json.notificationsalerts": "Сповіщення та сповіщення",
     "json.notifyendpoint": "Сповістити кінцеву точку",
     "json.notifyendpoint.help": "Або електронна пошта, або http-адреса",

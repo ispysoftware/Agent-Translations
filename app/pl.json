@@ -1592,6 +1592,8 @@
     "json.notdetecteddelay.help": "Czas przed zgłoszeniem alarmu",
     "json.noteditable": "Nie można edytować",
     "json.noteditable.help": "Tego typu źródła nie można edytować",
+    "json.notes": "Notatki",
+    "json.notes.help": "Są one tylko do Twojej wiadomości.",
     "json.notificationsalerts": "Powiadomienia i Alerty",
     "json.notifyendpoint": "Powiadom punkt końcowy",
     "json.notifyendpoint.help": "Adres e-mail lub adres http",

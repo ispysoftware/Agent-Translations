@@ -1592,6 +1592,8 @@
     "json.notdetecteddelay.help": "Время (с) до поднятия тревоги",
     "json.noteditable": "Не редактируется",
     "json.noteditable.help": "Этот тип источника недоступен для редактирования",
+    "json.notes": "Заметки",
+    "json.notes.help": "Это только для вашего сведения.",
     "json.notificationsalerts": "Уведомления и оповещения",
     "json.notifyendpoint": "Адрес для уведомления",
     "json.notifyendpoint.help": "Либо email, либо http-адрес",

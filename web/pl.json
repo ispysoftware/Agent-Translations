@@ -78,6 +78,8 @@
   "autohide_help": "Automatycznie ukryj wykres aktywności odtwarzania",
   "autohideplayback": "Ukryj elementy sterujące odtwarzaniem",
   "autohideplayback_help": "Automatycznie ukryj elementy sterujące odtwarzaniem",
+  "automute": "Auto Wyciszenie",
+  "automutehelp": "Wyłącz dźwięk przy przełączaniu kart",
   "autoplayaudio": "Autoodtwarzanie dźwięku",
   "autoplayaudio_help": "Odtwarzaj dźwięk, gdy interfejs użytkownika ładuje się w trybie podglądu na żywo",
   "autoreconnect": "Automatycznie wznów połączenie",

@@ -78,6 +78,8 @@
   "autohide_help": "प्लेबैक गतिविधि ग्राफ़ को स्वचालित रूप से छुपाएं",
   "autohideplayback": "प्लेबैक नियंत्रण छिपाएँ",
   "autohideplayback_help": "प्लेबैक नियंत्रण स्वचालित रूप से छिपाएँ",
+  "automute": "ऑटो म्यूट",
+  "automutehelp": "टैब बदलते समय ऑडियो म्यूट करें",
   "autoplayaudio": "ऑटोप्ले ऑडियो",
   "autoplayaudio_help": "लाइव दृश्य पर UI लोड होने पर ऑडियो चलाएं",
   "autoreconnect": "ऑटो जुड़े",

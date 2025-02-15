@@ -1592,6 +1592,8 @@
     "json.notdetecteddelay.help": "アラートを発するまでの時間（秒）",
     "json.noteditable": "編集不可",
     "json.noteditable.help": "このソースタイプは編集できません",
+    "json.notes": "ノート",
+    "json.notes.help": "これは参考のためだけです",
     "json.notificationsalerts": "通知とアラート",
     "json.notifyendpoint": "エンドポイントに通知",
     "json.notifyendpoint.help": "電子メールまたはhttpアドレスのいずれか",

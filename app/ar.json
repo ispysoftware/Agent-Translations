@@ -1592,6 +1592,8 @@
     "json.notdetecteddelay.help": "الوقت قبل رفع التنبيه (بالثواني)",
     "json.noteditable": "غير قابل للتحرير",
     "json.noteditable.help": "نوع المصدر هذا غير قابل للتحرير",
+    "json.notes": "ملاحظات",
+    "json.notes.help": "هذه للرجوع إليها فقط",
     "json.notificationsalerts": "الإشعارات والتنبيهات",
     "json.notifyendpoint": "إخطار نقطة النهاية",
     "json.notifyendpoint.help": "إما بريد إلكتروني أو عنوان http",

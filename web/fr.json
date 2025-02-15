@@ -78,6 +78,8 @@
   "autohide_help": "Masquer automatiquement le graphique d'activité de lecture",
   "autohideplayback": "Masquer les commandes de lecture",
   "autohideplayback_help": "Masquer automatiquement les commandes de lecture",
+  "automute": "Auto Muet",
+  "automutehelp": "Couper le son lors du changement d'onglets",
   "autoplayaudio": "Lecture automatique du son",
   "autoplayaudio_help": "Lire l'audio lorsque l'interface utilisateur se charge en vue en direct",
   "autoreconnect": "Reconnexion automatique",

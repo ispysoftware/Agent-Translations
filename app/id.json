@@ -1592,6 +1592,8 @@
     "json.notdetecteddelay.help": "Waktu sebelum memunculkan peringatan (detik)",
     "json.noteditable": "Tidak Dapat Diedit",
     "json.noteditable.help": "Jenis sumber ini tidak dapat diedit",
+    "json.notes": "Catatan",
+    "json.notes.help": "Ini hanya untuk referensi Anda.",
     "json.notificationsalerts": "Pemberitahuan dan Peringatan",
     "json.notifyendpoint": "Mengirimkan Pemberitahuan",
     "json.notifyendpoint.help": "Baik alamat email maupun alamat http",

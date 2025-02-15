@@ -78,6 +78,8 @@
   "autohide_help": "Ocultar automáticamente el gráfico de actividad de reproducción",
   "autohideplayback": "Ocultar controles de reproducción",
   "autohideplayback_help": "Ocultar controles de reproducción automáticamente",
+  "automute": "Silencio automático",
+  "automutehelp": "Silenciar audio al cambiar de pestañas",
   "autoplayaudio": "Reproducción automática de audio",
   "autoplayaudio_help": "Reproducir audio cuando la interfaz de usuario se carga en la vista en vivo",
   "autoreconnect": "reconexión automática",

@@ -1592,6 +1592,8 @@
     "json.notdetecteddelay.help": "Tid innan du höjer en varning (sekunder)",
     "json.noteditable": "Ej redigerbar",
     "json.noteditable.help": "Den här källtypen är inte redigerbar",
+    "json.notes": "Anteckningar",
+    "json.notes.help": "Dessa är endast för din referens.",
     "json.notificationsalerts": "Aviseringar och varningar",
     "json.notifyendpoint": "Meddela Endpoint",
     "json.notifyendpoint.help": "Antingen ett mejl eller en http-adress",

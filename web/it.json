@@ -78,6 +78,8 @@
   "autohide_help": "Nascondi automaticamente il grafico dell'attività di riproduzione",
   "autohideplayback": "Nascondi i controlli di riproduzione",
   "autohideplayback_help": "Nascondi automaticamente i controlli di riproduzione",
+  "automute": "Auto Mute",
+  "automutehelp": "Disattiva audio durante il cambio di schede",
   "autoplayaudio": "Riproduzione automatica dell'audio",
   "autoplayaudio_help": "Riproduci l'audio quando l'interfaccia utente viene caricata in visualizzazione live",
   "autoreconnect": "Riconnessione automatica",

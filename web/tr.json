@@ -78,6 +78,8 @@
   "autohide_help": "Oynatma etkinliği grafiğini otomatik olarak gizle",
   "autohideplayback": "Oynatma kontrollerini gizle",
   "autohideplayback_help": "Oynatma kontrollerini otomatik olarak gizle",
+  "automute": "Otomatik Susturma",
+  "automutehelp": "Sekmeler arasında geçiş yaparken sesi kapat",
   "autoplayaudio": "Sesi Otomatik Oynat",
   "autoplayaudio_help": "Kullanıcı arayüzü canlı görüntüye yüklendiğinde ses çal",
   "autoreconnect": "Otomatik yeniden bağlanma",

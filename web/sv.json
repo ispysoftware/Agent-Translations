@@ -78,6 +78,8 @@
   "autohide_help": "Dölj uppspelningsaktivitetsdiagrammet automatiskt",
   "autohideplayback": "Dölj uppspelningskontroller",
   "autohideplayback_help": "Dölj uppspelningskontroller automatiskt",
+  "automute": "Auto Mute",
+  "automutehelp": "Tysta ljudet när du byter flikar",
   "autoplayaudio": "Autospela ljud",
   "autoplayaudio_help": "Spela upp ljud när gränssnittet laddas på livevisning",
   "autoreconnect": "Automatisk återanslutning",

@@ -1592,6 +1592,8 @@
     "json.notdetecteddelay.help": "Thời gian trước khi đưa ra cảnh báo (giây)",
     "json.noteditable": "Không thể chỉnh sửa",
     "json.noteditable.help": "Loại nguồn này không thể chỉnh sửa",
+    "json.notes": "Ghi chú",
+    "json.notes.help": "Đây chỉ là để bạn tham khảo.",
     "json.notificationsalerts": "Thông báo và Cảnh báo",
     "json.notifyendpoint": "Thông báo Điểm Kết Thúc",
     "json.notifyendpoint.help": "Hoặc một địa chỉ email hoặc một địa chỉ http",

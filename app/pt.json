@@ -1592,6 +1592,8 @@
     "json.notdetecteddelay.help": "Tempo antes de lançar o alerta",
     "json.noteditable": "Não editável",
     "json.noteditable.help": "Este tipo de fonte não é editável",
+    "json.notes": "Notas",
+    "json.notes.help": "Estes são apenas para sua referência.",
     "json.notificationsalerts": "Notificações e Alertas",
     "json.notifyendpoint": "Notificar endpoint",
     "json.notifyendpoint.help": "Um email ou um endereço http",

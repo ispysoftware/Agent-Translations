@@ -1592,6 +1592,8 @@
     "json.notdetecteddelay.help": "अलर्ट बढ़ाने से पहले का समय (सेकंड)",
     "json.noteditable": "संपादन योग्य नहीं",
     "json.noteditable.help": "यह स्रोत प्रकार संपादन योग्य नहीं है",
+    "json.notes": "नोट्स",
+    "json.notes.help": "ये केवल आपके संदर्भ के लिए हैं",
     "json.notificationsalerts": "सूचनाएँ और अलर्ट्स",
     "json.notifyendpoint": "समापन बिंदु को सूचित करें",
     "json.notifyendpoint.help": "या तो एक ईमेल या एक http पता",

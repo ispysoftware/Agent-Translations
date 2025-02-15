@@ -78,6 +78,8 @@
   "autohide_help": "自动隐藏播放活动图",
   "autohideplayback": "隐藏播放控件",
   "autohideplayback_help": "自动隐藏播放控件",
+  "automute": "自动静音",
+  "automutehelp": "切换标签时静音音频",
   "autoplayaudio": "自动播放音频",
   "autoplayaudio_help": "在实时视图中加载 UI 时播放音频",
   "autoreconnect": "自动重新连接",
