@@ -150,7 +150,7 @@
   "containsalert": "Contiene alerta",
   "content": "Contenido",
   "content_help": "Permitir el acceso a grabaciones y fotografías.",
-  "controls": "Control S",
+  "controls": "Controles",
   "controls_help": "Grabar/Foto, etc. Sólo se aplica si es de Sólo lectura.",
   "controlshelp": "La visibilidad del control se guarda localmente, por lo que puedes tener diferentes configuraciones en diferentes dispositivos.",
   "copydevice": "Copiar dispositivo",
