@@ -2,6 +2,10 @@
   "culturecode": "en",
   "name": "English",
   "translations": {
+    "json.reolink": "Reolink",
+    "json.reolink.help": "This requires a compatible Reolink camera with motion/ AI support via CGI.",
+    "json.hikvision": "Hikvision",
+    "json.hikvision.help": "This requires a compatible Hikvision camera with motion/ AI support via ISAPI.",
     "aai_a_capella": "a capella",
     "aai_accelerating-_revving-_vroom": "accelerating- revving- vroom",
     "aai_accordion": "accordion",
