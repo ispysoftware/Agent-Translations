@@ -2329,6 +2329,7 @@
     "system: apply profile": "시스템: 프로필 적용",
     "system: arm": "시스템: 팔",
     "system: disarm": "시스템: 무장해제",
+    "json.tagrecording": "태그 녹화",
     "testing": "테스트",
     "text": "텍스트",
     "thisdevice": "이 기기",

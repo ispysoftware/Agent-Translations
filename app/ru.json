@@ -2329,6 +2329,7 @@
     "system: apply profile": "Система: Применить профиль",
     "system: arm": "Система: Включить охрану",
     "system: disarm": "Система: Снять с охраны",
+    "json.tagrecording": "Запись с меткой",
     "testing": "Тестирование",
     "text": "Текст",
     "thisdevice": "Это устройство",

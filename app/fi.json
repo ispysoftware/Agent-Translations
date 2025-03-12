@@ -2329,6 +2329,7 @@
     "system: apply profile": "Järjestelmä: Käytä profiilia",
     "system: arm": "Järjestelmä: Viritys",
     "system: disarm": "Järjestelmä: Virityksen purku",
+    "json.tagrecording": "Merkitse tallennus",
     "testing": "Testaus",
     "text": "Teksti",
     "thisdevice": "Tämä laite",
