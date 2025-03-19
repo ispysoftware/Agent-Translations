@@ -754,7 +754,13 @@
   "usewebportal": "Chcesz przejść do portalu iSpyConnect?",
   "v": {
     "antispamfailed": "Kontrola spamu nie powiodła się. Załaduj stronę ponownie",
+    "attempts": "Zbyt wiele prób",
+    "cannotclaimowncode": "Nie można odzyskać własnego kodu dostępu",
+    "codeclaimed": "Kod już wykorzystany",
+    "codeclaimednotconnected": "Kod zgłoszony, ale serwer jeszcze nie połączony. Proszę upewnić się, że Agent działa z działającym połączeniem internetowym lub spróbować ponownie za kilka minut.",
+    "codeexpired": "Numer seryjny nie został znaleziony lub wygasł (usuń serial.txt w katalogu Agent/Media i spróbuj ponownie)",
     "codeinvalid": "Nieprawidłowy kod",
+    "codenotfound": "Kod nie został znaleziony",
     "completefields": "Proszę wypełnić wszystkie pola",
     "emailexists": "Adres email już istnieje",
     "entermessage": "Wpisz wiadomość",

@@ -754,7 +754,13 @@
   "usewebportal": "Beralih ke portal jarak jauh?",
   "v": {
     "antispamfailed": "Pemeriksaan spam gagal. Silakan muat ulang halaman web.",
+    "attempts": "Terlalu banyak percobaan",
+    "cannotclaimowncode": "Tidak dapat mengklaim kode akses Anda sendiri",
+    "codeclaimed": "Kode sudah diklaim",
+    "codeclaimednotconnected": "Kode telah diklaim tetapi server belum terhubung. Harap pastikan Agent berjalan dengan koneksi internet yang berfungsi atau coba lagi dalam beberapa menit.",
+    "codeexpired": "Serial tidak ditemukan atau telah kedaluwarsa (hapus serial.txt di direktori Agent/Media dan coba lagi)",
     "codeinvalid": "Kode Tidak Valid",
+    "codenotfound": "Kode tidak ditemukan",
     "completefields": "Silakan lengkapi semua kolom",
     "emailexists": "Alamat email sudah ada",
     "entermessage": "Masukkan pesan",

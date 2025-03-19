@@ -754,7 +754,13 @@
   "usewebportal": "Chuyển sang cổng điều khiển từ xa?",
   "v": {
     "antispamfailed": "Kiểm tra thư rác không thành công. Vui lòng tải lại trang web.",
+    "attempts": "Quá nhiều nỗ lực",
+    "cannotclaimowncode": "Không thể yêu cầu mã truy cập của riêng bạn",
+    "codeclaimed": "Mã đã được yêu cầu",
+    "codeclaimednotconnected": "Mã đã được yêu cầu nhưng máy chủ chưa được kết nối. Vui lòng đảm bảo Agent đang chạy với kết nối internet hoạt động hoặc thử lại sau vài phút.",
+    "codeexpired": "Không tìm thấy số sê-ri hoặc số sê-ri đã hết hạn (xóa serial.txt trong thư mục Agent/Media và thử lại)",
     "codeinvalid": "Mã không hợp lệ",
+    "codenotfound": "Không tìm thấy mã",
     "completefields": "Vui lòng điền đầy đủ thông tin vào tất cả các trường",
     "emailexists": "Địa chỉ email đã tồn tại",
     "entermessage": "Nhập một tin nhắn",

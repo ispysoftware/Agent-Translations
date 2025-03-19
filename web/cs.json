@@ -754,7 +754,13 @@
   "usewebportal": "Přepnout na portál iSpyConnect?",
   "v": {
     "antispamfailed": "Kontrola na spam se nezdařila. Načtěte znovu webovou stránku",
+    "attempts": "Příliš mnoho pokusů",
+    "cannotclaimowncode": "Nelze si nárokovat svůj vlastní přístupový kód.",
+    "codeclaimed": "Kód již byl uplatněn",
+    "codeclaimednotconnected": "Kód byl nárokován, ale server ještě není připojen. Ujistěte se, že Agent běží s funkčním internetovým připojením, nebo zkuste znovu za několik minut.",
+    "codeexpired": "Sériové číslo nebylo nalezeno nebo vypršelo (odstraňte serial.txt v adresáři Agent/Media a zkuste to znovu)",
     "codeinvalid": "Kód je neplatný",
+    "codenotfound": "Kód nenalezen",
     "completefields": "Prosím vyplňte všechna pole",
     "emailexists": "Emailová adresa již existuje",
     "entermessage": "Napište zprávu",

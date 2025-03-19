@@ -754,7 +754,13 @@
   "usewebportal": "Zum iSpyConnect-Portal wechseln?",
   "v": {
     "antispamfailed": "Spamprüfung fehlgeschlagen. Bitte laden Sie die Webseite neu",
+    "attempts": "Zu viele Versuche",
+    "cannotclaimowncode": "Kann Ihren eigenen Zugangscode nicht beanspruchen",
+    "codeclaimed": "Code bereits beansprucht",
+    "codeclaimednotconnected": "Code beansprucht, aber Server noch nicht verbunden. Bitte stellen Sie sicher, dass Agent läuft und eine funktionierende Internetverbindung hat, oder versuchen Sie es in ein paar Minuten erneut.",
+    "codeexpired": "Seriennummer nicht gefunden oder abgelaufen (löschen Sie serial.txt im Agent/Media-Verzeichnis und versuchen Sie es erneut)",
     "codeinvalid": "Code ungültig",
+    "codenotfound": "Code nicht gefunden",
     "completefields": "bitte fülle alle Felder aus",
     "emailexists": "Diese E Mail Adresse ist bereits vergeben",
     "entermessage": "Geben Sie eine Nachricht ein",

@@ -754,7 +754,13 @@
   "usewebportal": "Basculer vers le portail iSpyConnect?",
   "v": {
     "antispamfailed": "La vérification du spam a échouée. Veuillez recharger la page Web",
+    "attempts": "Trop de tentatives",
+    "cannotclaimowncode": "Impossible de réclamer votre propre code d'accès",
+    "codeclaimed": "Code déjà réclamé",
+    "codeclaimednotconnected": "Code revendiqué mais serveur pas encore connecté. Veuillez vous assurer qu'Agent fonctionne avec une connexion Internet active ou réessayez dans quelques minutes.",
+    "codeexpired": "Série non trouvée ou expirée (supprimez serial.txt dans le répertoire Agent/Media et réessayez)",
     "codeinvalid": "Code invalide",
+    "codenotfound": "Code non trouvé",
     "completefields": "SVP, veuillez renseigner tous les champs",
     "emailexists": "l'adresse courriel existe déjà",
     "entermessage": "Saisissez le message",

@@ -754,7 +754,13 @@
   "usewebportal": "Skift til fjernportalen?",
   "v": {
     "antispamfailed": "Spamkontrol mislykkedes. Genindlæs websiden",
+    "attempts": "For mange forsøg",
+    "cannotclaimowncode": "Kan ikke kræve din egen adgangskode",
+    "codeclaimed": "Koden er allerede indløst",
+    "codeclaimednotconnected": "Kode er blevet krævet, men serveren er endnu ikke tilsluttet. Sørg venligst for, at Agent kører med en fungerende internetforbindelse, eller prøv igen om et par minutter.",
+    "codeexpired": "Serienummer ikke fundet eller udløbet (slet serial.txt i Agent/Media mappen og prøv igen)",
     "codeinvalid": "Kode ugyldig",
+    "codenotfound": "Kode ikke fundet",
     "completefields": "Udfyld venligst alle felter",
     "emailexists": "E-mailadressen findes allerede",
     "entermessage": "Indtast en besked",

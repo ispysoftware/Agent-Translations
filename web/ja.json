@@ -754,7 +754,13 @@
   "usewebportal": "リモートポータルに切り替えますか？",
   "v": {
     "antispamfailed": "スパムチェックに失敗しました。 Webページをリロードしてください",
+    "attempts": "試行回数が多すぎます",
+    "cannotclaimowncode": "自分のアクセスコードを請求できません",
+    "codeclaimed": "コードはすでに取得されています",
+    "codeclaimednotconnected": "コードは要求されましたが、サーバーにはまだ接続されていません。Agentが正常なインターネット接続で実行されていることを確認するか、数分後に再試行してください。",
+    "codeexpired": "シリアルが見つからないか、期限切れです（Agent/Mediaディレクトリ内のserial.txtを削除して再試行してください）",
     "codeinvalid": "コードが無効です",
+    "codenotfound": "コードが見つかりません",
     "completefields": "すべてのフィールドに入力してください",
     "emailexists": "メールアドレスはすでに存在します",
     "entermessage": "メッセージを入力してください",

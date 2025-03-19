@@ -754,7 +754,13 @@
   "usewebportal": "要切換到 iSpyConnect 遠端入口嗎？",
   "v": {
     "antispamfailed": "垃圾郵件檢查失敗，請重新載入頁面",
+    "attempts": "嘗試次數過多",
+    "cannotclaimowncode": "無法聲明您自己的訪問代碼",
+    "codeclaimed": "代碼已被申請",
+    "codeclaimednotconnected": "代碼已聲明，但伺服器尚未連接。請確保 Agent 正在運行並且有正常的網絡連接，或在幾分鐘後重試。",
+    "codeexpired": "找不到序號或序號已過期（刪除 Agent/Media 目錄中的 serial.txt，然後再試一次）",
     "codeinvalid": "代碼無效",
+    "codenotfound": "找不到代碼",
     "completefields": "請填寫所有欄位",
     "emailexists": "電子郵件地址已存在",
     "entermessage": "請輸入訊息",

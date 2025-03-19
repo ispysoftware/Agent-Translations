@@ -754,7 +754,13 @@
   "usewebportal": "切换到iSpyConnect门户？",
   "v": {
     "antispamfailed": "垃圾邮件检查失败。请重新加载网页",
+    "attempts": "尝试次数过多",
+    "cannotclaimowncode": "无法声明您自己的访问代码",
+    "codeclaimed": "代码已被领取",
+    "codeclaimednotconnected": "代码已声明，但服务器尚未连接。请确保 Agent 正在运行并且有有效的互联网连接，或者稍后再试。",
+    "codeexpired": "未找到或已过期的序列号（请删除 Agent/Media 目录中的 serial.txt 然后重试）",
     "codeinvalid": "代码无效",
+    "codenotfound": "未找到代码",
     "completefields": "请填写所有字段",
     "emailexists": "电子邮件地址已存在",
     "entermessage": "输入消息",

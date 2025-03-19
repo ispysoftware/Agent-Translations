@@ -754,7 +754,13 @@
   "usewebportal": "Byta till fjärrportalen?",
   "v": {
     "antispamfailed": "Spamkontrollen misslyckades. Vänligen ladda om webbsidan",
+    "attempts": "För många försök",
+    "cannotclaimowncode": "Kan inte göra anspråk på din egen åtkomstkod",
+    "codeclaimed": "Koden har redan använts",
+    "codeclaimednotconnected": "Kod hävdad men servern är ännu inte ansluten. Vänligen säkerställ att Agent körs med en fungerande internetanslutning eller försök igen om några minuter.",
+    "codeexpired": "Serienummer hittades inte eller har gått ut (ta bort serial.txt i Agent/Media-katalogen och försök igen)",
     "codeinvalid": "Koden ogiltig",
+    "codenotfound": "Kod hittades inte",
     "completefields": "Fyll i alla fält",
     "emailexists": "emailadressen finns redan",
     "entermessage": "Ange ett meddelande",

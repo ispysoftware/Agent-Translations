@@ -754,7 +754,13 @@
   "usewebportal": "Switch to the remote portal?",
   "v": {
     "antispamfailed": "Spam check failed. Please reload the web page",
+    "attempts": "Too many attempts",
+    "cannotclaimowncode": "Cannot claim your own access code",
+    "codeclaimed": "Code already claimed",
+    "codeclaimednotconnected": "Code claimed but server not yet connected. Please ensure Agent is running with a working internet connection or retry in a few minutes.",
+    "codeexpired": "Serial not found or expired (delete serial.txt in Agent/Media directory and try again)",
     "codeinvalid": "Code Invalid",
+    "codenotfound": "Code not found",
     "completefields": "Please complete all fields",
     "emailexists": "Email address already exists",
     "entermessage": "Enter a message",

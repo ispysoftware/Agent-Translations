@@ -754,7 +754,13 @@
   "usewebportal": "Overschakelen naar de iSpyConnect-portal?",
   "v": {
     "antispamfailed": "Spamcontrole mislukt. Laad de webpagina opnieuw",
+    "attempts": "Te veel pogingen",
+    "cannotclaimowncode": "Kan uw eigen toegangscode niet aanvragen",
+    "codeclaimed": "Code al geclaimd",
+    "codeclaimednotconnected": "Code geclaimd maar server nog niet verbonden. Zorg ervoor dat Agent draait met een werkende internetverbinding of probeer het over een paar minuten opnieuw.",
+    "codeexpired": "Serieel niet gevonden of verlopen (verwijder serial.txt in de Agent/Media map en probeer het opnieuw)",
     "codeinvalid": "Code ongeldig",
+    "codenotfound": "Code niet gevonden",
     "completefields": "Vul alstublieft alle velden in",
     "emailexists": "E mailadres bestaat al",
     "entermessage": "Voer een bericht in",

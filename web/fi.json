@@ -754,7 +754,13 @@
   "usewebportal": "Siirrytäänkö etäportaaliin?",
   "v": {
     "antispamfailed": "Roskapostin tarkistus epäonnistui. Lataa verkkosivu uudelleen",
+    "attempts": "Liian monta yritystä",
+    "cannotclaimowncode": "Ei voi vaatia omaa pääsykoodia",
+    "codeclaimed": "Koodi on jo lunastettu",
+    "codeclaimednotconnected": "Koodi vaadittu, mutta palvelinta ei ole vielä yhdistetty. Varmista, että Agent on käynnissä toimivalla internet-yhteydellä tai yritä uudelleen muutaman minuutin kuluttua.",
+    "codeexpired": "Sarjaa ei löytynyt tai se on vanhentunut (poista serial.txt Agent/Media-kansiosta ja yritä uudelleen)",
     "codeinvalid": "Koodi ei kelpaa",
+    "codenotfound": "Koodia ei löytynyt",
     "completefields": "Täytä kaikki kentät",
     "emailexists": "Sähköpostiosoite on jo olemassa",
     "entermessage": "Kirjoita viesti",

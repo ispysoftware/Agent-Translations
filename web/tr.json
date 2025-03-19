@@ -754,7 +754,13 @@
   "usewebportal": "Uzak portala geçilsin mi?",
   "v": {
     "antispamfailed": "İstenmeyen posta denetimi başarısız oldu. Lütfen web sayfasını yeniden yükleyin",
+    "attempts": "Çok fazla deneme",
+    "cannotclaimowncode": "Kendi erişim kodunuzu talep edemezsiniz.",
+    "codeclaimed": "Kod zaten talep edildi",
+    "codeclaimednotconnected": "Kod talep edildi ancak sunucu henüz bağlanmadı. Lütfen Agent'ın çalışan bir internet bağlantısıyla çalıştığından emin olun veya birkaç dakika içinde tekrar deneyin.",
+    "codeexpired": "Seri bulunamadı veya süresi dolmuş (Agent/Media dizinindeki serial.txt dosyasını silin ve tekrar deneyin)",
     "codeinvalid": "Kod Geçersiz",
+    "codenotfound": "Kod bulunamadı",
     "completefields": "Lütfen tüm alanları doldurun",
     "emailexists": "E-posta adresi zaten var",
     "entermessage": "bir mesaj girin",

@@ -754,7 +754,13 @@
   "usewebportal": "원격 포털로 전환하시겠습니까?",
   "v": {
     "antispamfailed": "스팸 확인에 실패했습니다. 웹페이지를 새로고침하세요.",
+    "attempts": "시도 횟수 초과",
+    "cannotclaimowncode": "자신의 액세스 코드를 요청할 수 없습니다.",
+    "codeclaimed": "코드가 이미 사용되었습니다.",
+    "codeclaimednotconnected": "코드가 요청되었지만 서버에 아직 연결되지 않았습니다. Agent가 작동 중이며 인터넷 연결이 정상인지 확인하거나 몇 분 후에 다시 시도해 주세요.",
+    "codeexpired": "시리얼을 찾을 수 없거나 만료되었습니다 (Agent/Media 디렉토리에서 serial.txt를 삭제하고 다시 시도하세요)",
     "codeinvalid": "코드가 유효하지 않음",
+    "codenotfound": "코드가 없습니다",
     "completefields": "모든 항목을 작성해 주세요.",
     "emailexists": "이메일 주소가 이미 존재합니다",
     "entermessage": "메시지를 입력하세요",
