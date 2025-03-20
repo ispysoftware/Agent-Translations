@@ -324,6 +324,8 @@
   "layouts": "레이아웃",
   "license": "특허",
   "licenserequired": "라이센스가 필요합니다. 스토어를 통해 라이선스를 구매하고 애플리케이션을 다시 시작하세요.",
+  "licensingfailed": "라이센스 실패",
+  "licensingfailedmessage": "<p>라이센스 페이지의 고유 ID는 라이센스의 ID와 일치해야 합니다. 기존 라이센스를 새 설치로 이동해야 하는 경우 <a href=\"#\" onclick=\"helpers.goWebsite('manage',event)\">라이센스 관리</a>로 이동하십시오. 기존 라이센스를 삭제하고 새 ID로 새 라이센스를 추가할 수 있습니다.</p>",
   "linksent": "링크 전송됨 - 이메일을 확인하세요",
   "live": "라이브 비디오",
   "loading": "로드 중",

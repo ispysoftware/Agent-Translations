@@ -324,6 +324,8 @@
   "layouts": "Układy",
   "license": "Licencja",
   "licenserequired": "Wymagana licencja. Prosimy o zakup licencji za pośrednictwem Sklepu i ponowne uruchomienie aplikacji.",
+  "licensingfailed": "Licencjonowanie nie powiodło się",
+  "licensingfailedmessage": "<p>Unikalny identyfikator na stronie licencjonowania musi odpowiadać identyfikatorowi w licencji. Przejdź do <a href=\"#\" onclick=\"helpers.goWebsite('manage',event)\">Zarządzaj Licencjami</a>, jeśli musisz przenieść swoją istniejącą licencję do nowej instalacji. Możesz usunąć istniejącą licencję i dodać nową z nowym identyfikatorem.</a></p>",
   "linksent": "Link wysłany - sprawdź swój e-mail",
   "live": "Wideo na żywo",
   "loading": "Ładowanie",

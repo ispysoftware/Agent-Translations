@@ -324,6 +324,8 @@
   "layouts": "Dispositions",
   "license": "Licence",
   "licenserequired": "Permis requis. Veuillez acheter une licence via le Store et redémarrer l'application.",
+  "licensingfailed": "Échec de la licence",
+  "licensingfailedmessage": "<p>L'ID unique sur la page de licence doit correspondre à l'ID dans la licence. Allez sur <a href=\"#\" onclick=\"helpers.goWebsite('manage',event)\">Gérer les Licences</a> si vous devez transférer votre licence existante vers une nouvelle installation. Vous pouvez supprimer la licence existante et en ajouter une nouvelle avec le nouvel ID.</a></p>",
   "linksent": "Lien envoyé vérifiez votre courrier électronique",
   "live": "Vidéo en direct",
   "loading": "Chargement",

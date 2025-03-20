@@ -324,6 +324,8 @@
   "layouts": "布局",
   "license": "执照",
   "licenserequired": "需要许可证。请通过商店购买许可证并重新启动应用程序。",
+  "licensingfailed": "许可失败",
+  "licensingfailedmessage": "<p>许可证页面上的唯一 ID 必须与许可证中的 ID 匹配。如果您需要将现有许可证移动到新安装，请访问 <a href=\"#\" onclick=\"helpers.goWebsite('manage',event)\">管理许可证</a>。您可以删除现有许可证并添加带有新 ID 的新许可证。</a></p>",
   "linksent": "已发送链接   查看您的电子邮件",
   "live": "直播视频",
   "loading": "载入中",

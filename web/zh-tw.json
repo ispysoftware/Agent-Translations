@@ -324,6 +324,8 @@
   "layouts": "版面配置",
   "license": "授權",
   "licenserequired": "需要授權。請至商店購買後並重新啟動程式。",
+  "licensingfailed": "授權失敗",
+  "licensingfailedmessage": "<p>授權頁面上的唯一 ID 必須與授權中的 ID 匹配。如果您需要將現有授權移動到新的安裝，請前往 <a href=\"#\" onclick=\"helpers.goWebsite('manage',event)\">管理授權</a>。您可以刪除現有的授權並使用新的 ID 添加新的授權。</a></p>",
   "linksent": "已寄送連結 - 請查看您的電子郵件",
   "live": "即時影像",
   "loading": "載入中",

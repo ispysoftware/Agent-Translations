@@ -324,6 +324,8 @@
   "layouts": "Layouts",
   "license": "License",
   "licenserequired": "License required. Please purchase a license via the Store and restart the application",
+  "licensingfailed": "Licensing Failed",
+  "licensingfailedmessage": "<p>The Unique ID on the licensing page must match the ID in the license. Go to <a href=\"#\" onclick=\"helpers.goWebsite('manage',event)\">Manage Licenses</a> if you need to move your existing license to a new install. You can delete the existing license and add a new one with the new ID.</a></p>",
   "linksent": "Link Sent - check your email",
   "live": "Live Video",
   "loading": "Loading",

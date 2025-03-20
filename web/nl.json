@@ -324,6 +324,8 @@
   "layouts": "Lay-outs",
   "license": "Licentie",
   "licenserequired": "Licentie vereist. Koop een licentie via de Store en start de applicatie opnieuw.",
+  "licensingfailed": "Licentieverlening mislukt",
+  "licensingfailedmessage": "<p>De unieke ID op de licentiepagina moet overeenkomen met de ID in de licentie. Ga naar <a href=\"#\" onclick=\"helpers.goWebsite('manage',event)\">Licenties Beheren</a> als je je bestaande licentie naar een nieuwe installatie moet verplaatsen. Je kunt de bestaande licentie verwijderen en een nieuwe toevoegen met de nieuwe ID.</a></p>",
   "linksent": "Link verzonden   controleer je e mail",
   "live": "Live video",
   "loading": "Bezig met laden",

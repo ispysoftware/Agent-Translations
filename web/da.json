@@ -324,6 +324,8 @@
   "layouts": "Layouts",
   "license": "Licens",
   "licenserequired": "Licens påkrævet. Køb venligst en licens via butikken og genstart applikationen.",
+  "licensingfailed": "Licensering mislykkedes",
+  "licensingfailedmessage": "<p>Den unikke ID på licenssiden skal matche ID'et i licensen. Gå til <a href=\"#\" onclick=\"helpers.goWebsite('manage',event)\">Administrer Licenser</a>, hvis du har brug for at flytte din eksisterende licens til en ny installation. Du kan slette den eksisterende licens og tilføje en ny med den nye ID.</a></p>",
   "linksent": "Link sendt - tjek din e-mail",
   "live": "Live video",
   "loading": "Indlæser",

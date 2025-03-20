@@ -324,6 +324,8 @@
   "layouts": "Bố cục",
   "license": "Bản quyền",
   "licenserequired": "Yêu cầu bản quyền. Vui lòng mua bản quyền qua Cửa hàng và khởi động lại ứng dụng.",
+  "licensingfailed": "Cấp phép không thành công",
+  "licensingfailedmessage": "<p>ID duy nhất trên trang cấp phép phải khớp với ID trong giấy phép. Đi đến <a href=\"#\" onclick=\"helpers.goWebsite('manage',event)\">Quản lý Giấy phép</a> nếu bạn cần chuyển giấy phép hiện tại của mình sang một cài đặt mới. Bạn có thể xóa giấy phép hiện tại và thêm một giấy phép mới với ID mới.</a></p>",
   "linksent": "Liên kết đã được gửi - vui lòng kiểm tra email của bạn",
   "live": "Video trực tiếp",
   "loading": "Đang tải",
