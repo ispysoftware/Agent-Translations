@@ -2281,7 +2281,7 @@
     "reasonremovefromserver": "Suppression du serveur du compte en ligne.",
     "reasonserialexpired": "Votre numéro de série a expiré. Veuillez vous reconnecter.",
     "reasontoomanyservers": "Trop de serveurs connectés à ce compte.",
-    "reasontrialexpired2": "Votre abonnement a expiré. Abonnez-vous à [USERNAME] et réessayez.",
+    "reasontrialexpired3": "Votre abonnement a expiré. Consultez la licence pour plus d'informations.",
     "reassignallcamerasmedia": "S'il vous plaît réaffecter toutes les caméras et les micros qui utilisent d'abord ce répertoire des médias",
     "reconnect": "Rebranchez",
     "reconnectfailed": "Rebranchez Échec",

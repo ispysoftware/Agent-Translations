@@ -2281,7 +2281,7 @@
     "reasonremovefromserver": "正在从在线帐户中删除服务器。",
     "reasonserialexpired": "您的序列号已过期。请重新连接。",
     "reasontoomanyservers": "连接到此帐户的服务器太多。",
-    "reasontrialexpired2": "您的订阅已过期。订阅 [USERNAME] 并重试。",
+    "reasontrialexpired3": "您的订阅已过期。有关更多信息，请参阅许可。",
     "reassignallcamerasmedia": "请重新分配所有的摄像机和麦克风，首先使用这种媒体目录",
     "reconnect": "重新连接",
     "reconnectfailed": "重新连接，失败",

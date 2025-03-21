@@ -2281,7 +2281,7 @@
     "reasonremovefromserver": "Xóa máy chủ khỏi tài khoản trực tuyến.",
     "reasonserialexpired": "Số serial của bạn đã hết hạn. Vui lòng kết nối lại.",
     "reasontoomanyservers": "Quá nhiều máy chủ được kết nối với tài khoản này.",
-    "reasontrialexpired2": "Gói dịch vụ của bạn đã hết hạn. Hãy đăng ký lại với tên người dùng [USERNAME] và thử lại.",
+    "reasontrialexpired3": "Đăng ký của bạn đã hết hạn. Xem thông tin cấp phép để biết thêm chi tiết.",
     "reassignallcamerasmedia": "Vui lòng chỉ định lại tất cả các camera và micro đang sử dụng thư mục phương tiện này trước",
     "reconnect": "Kết nối lại",
     "reconnectfailed": "Kết nối lại không thành công",

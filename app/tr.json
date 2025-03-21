@@ -2281,7 +2281,7 @@
     "reasonremovefromserver": "Sunucu çevrimiçi hesaptan kaldırılıyor.",
     "reasonserialexpired": "Serinizin süresi doldu. Lütfen yeniden bağlanın.",
     "reasontoomanyservers": "Bu hesaba çok fazla sunucu bağlı.",
-    "reasontrialexpired2": "Aboneliğiniz sona erdi. [USERNAME] abone olun ve tekrar deneyin.",
+    "reasontrialexpired3": "Aboneliğinizin süresi dolmuştur. Daha fazla bilgi için lisanslamaya bakın.",
     "reassignallcamerasmedia": "Lütfen önce bu medya dizinini kullanan tüm kameraları ve mikrofonları yeniden atayın",
     "reconnect": "yeniden bağlan",
     "reconnectfailed": "Yeniden Bağlanılamadı",

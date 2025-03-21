@@ -2281,7 +2281,7 @@
     "reasonremovefromserver": "Server aus Online-Konto entfernen.",
     "reasonserialexpired": "Ihre Seriennummer ist abgelaufen. Bitte stellen Sie die Verbindung wieder her.",
     "reasontoomanyservers": "Zu viele Server sind mit diesem Konto verbunden.",
-    "reasontrialexpired2": "Ihr Abonnement ist abgelaufen. Abonnieren Sie [USERNAME] und versuchen Sie es erneut.",
+    "reasontrialexpired3": "Ihr Abonnement ist abgelaufen. Weitere Informationen finden Sie in der Lizenzierung.",
     "reassignallcamerasmedia": "Bitte weisen Sie alle Kameras und Mikrofone, die mit zunächst dieses Medien-Verzeichnis",
     "reconnect": "Schließen",
     "reconnectfailed": "Schließen Fehler",

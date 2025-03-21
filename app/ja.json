@@ -2281,7 +2281,7 @@
     "reasonremovefromserver": "オンラインアカウントからサーバーを削除しています。",
     "reasonserialexpired": "シリアルの有効期限が切れています。再接続してください。",
     "reasontoomanyservers": "このアカウントに接続されているサーバーが多すぎます。",
-    "reasontrialexpired2": "サブスクリプションの有効期限が切れています。[USERNAME] をサブスクライブして再試行してください。",
+    "reasontrialexpired3": "あなたのサブスクリプションは期限切れです。詳細についてはライセンスをご覧ください。",
     "reassignallcamerasmedia": "最初に、このメディアディレクトリを使用しているすべてのカメラとマイクを再割り当てしてください",
     "reconnect": "再接続",
     "reconnectfailed": "再接続に失敗しました",

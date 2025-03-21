@@ -2281,7 +2281,7 @@
     "reasonremovefromserver": "Palvelimen poistaminen online-tililtä.",
     "reasonserialexpired": "Sarjasi on vanhentunut. Yhdistä uudelleen.",
     "reasontoomanyservers": "Liian monta palvelinta on yhdistetty tähän tiliin.",
-    "reasontrialexpired2": "Tilauksesi on vanhentunut. Tilaa [USERNAME] ja yritä uudelleen.",
+    "reasontrialexpired3": "Tilauksesi on vanhentunut. Katso lisensointi saadaksesi lisätietoja.",
     "reassignallcamerasmedia": "Aseta ensin uudelleen kaikki kamerat ja mikrofonit, jotka käyttävät tätä mediahakemistoa",
     "reconnect": "Yhdistä uudelleen",
     "reconnectfailed": "Uudelleenyhdistäminen epäonnistui",

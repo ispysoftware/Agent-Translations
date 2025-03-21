@@ -2281,7 +2281,7 @@
     "reasonremovefromserver": "Tar bort server från onlinekonto.",
     "reasonserialexpired": "Din serie har gått ut. Vänligen återanslut.",
     "reasontoomanyservers": "För många servrar anslutna till det här kontot.",
-    "reasontrialexpired2": "Ditt abonnemang har löpt ut. Prenumerera på [USERNAME] och försök igen.",
+    "reasontrialexpired3": "Din prenumeration har löpt ut. Se licensiering för mer information.",
     "reassignallcamerasmedia": "Tilldela om alla kameror och mikrofoner som använder den här mediekatalogen först",
     "reconnect": "Återanslut",
     "reconnectfailed": "Återanslutningen misslyckades",

@@ -2281,7 +2281,7 @@
     "reasonremovefromserver": "Rimozione del server dall'account online.",
     "reasonserialexpired": "Il tuo seriale è scaduto. Per favore riconnettiti.",
     "reasontoomanyservers": "Troppi server collegati a questo account.",
-    "reasontrialexpired2": "Il tuo abbonamento è scaduto. Abbonati a [USERNAME] e riprova.",
+    "reasontrialexpired3": "La tua abbonamento è scaduto. Vedi la licenza per ulteriori informazioni.",
     "reassignallcamerasmedia": "Si prega di riassegnare tutte le videocamere e i microfoni che utilizzano questa cartella di registrazioni prima",
     "reconnect": "Si riconnette",
     "reconnectfailed": "Riconnessione fallita",

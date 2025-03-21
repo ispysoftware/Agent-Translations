@@ -2281,7 +2281,7 @@
     "reasonremovefromserver": "Fjerner server fra online-konto.",
     "reasonserialexpired": "Din serie er udløbet. Forbind venligst igen.",
     "reasontoomanyservers": "For mange servere er forbundet til denne konto.",
-    "reasontrialexpired2": "Dit abonnement er udløbet. Abonner på [USERNAME], og prøv igen.",
+    "reasontrialexpired3": "Dit abonnement er udløbet. Se licensiering for mere information.",
     "reassignallcamerasmedia": "Tildel venligst alle kameraer og mikrofoner, der bruger denne mediemappe først",
     "reconnect": "Tilslut igen",
     "reconnectfailed": "Genopret forbindelse mislykkedes",

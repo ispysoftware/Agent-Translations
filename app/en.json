@@ -2281,7 +2281,7 @@
     "reasonremovefromserver": "Removing server from online account.",
     "reasonserialexpired": "Your serial has expired. Please reconnect.",
     "reasontoomanyservers": "Too many servers connected to this account.",
-    "reasontrialexpired2": "Your subscription has expired. Subscribe [USERNAME] and retry.",
+    "reasontrialexpired3": "Your subscription has expired. See licensing for more information.",
     "reassignallcamerasmedia": "Please reassign all cameras and microphones that are using this media directory first",
     "reconnect": "Reconnect",
     "reconnectfailed": "Reconnect Failed",

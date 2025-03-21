@@ -2281,7 +2281,7 @@
     "reasonremovefromserver": "Eliminando el servidor de la cuenta en línea.",
     "reasonserialexpired": "Tu serie ha caducado. Por favor vuelva a conectarse.",
     "reasontoomanyservers": "Demasiados servidores conectados a esta cuenta.",
-    "reasontrialexpired2": "Su suscripción ha expirado. Suscríbase a [USERNAME] y vuelva a intentarlo.",
+    "reasontrialexpired3": "Tu suscripción ha expirado. Consulta la licencia para más información.",
     "reassignallcamerasmedia": "Por favor reasignar todas las cámaras y micrófonos que están utilizando este directorio medios primero",
     "reconnect": "Vuelva a conectar",
     "reconnectfailed": "Vuelva a conectar con errores",
