@@ -144,6 +144,7 @@
   "connectaccounthtml": "<p>için iSpyConnect hesabınıza bağlanın.<ul><li> Güvenli Uzaktan Erişim</li><li> HD Oynatma</li><li> Bulut Yüklemeleri</li><li> Push bildirimleri</li><li> E-posta Hizmetleri</li><li> izinler</li><li> Yazılım güncellemeleri</li><li> Sanal gerçeklik</li><li> Alexa, IFTTT, Google ve Home Assistant entegrasyonları</li></ul> ... ve dahası!</p>",
   "connectfailed": "Bağlantı kaybedildi",
   "connecting": "Bağlanıyor",
+  "connectingremote": "Uzak bağlantı kuruluyor...",
   "connectionfailed": "Başarısız - Bağlantınızı Kontrol Edin",
   "connections": "Bağlantılar",
   "containsai": "AI Uyarısı içerir",

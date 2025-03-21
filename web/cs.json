@@ -144,6 +144,7 @@
   "connectaccounthtml": "<p> Připojte se ke svému účtu iSpyConnect pro <ul><li> Zabezpečený vzdálený přístup </li><li> Přehrávání HD </li><li> Nahrávání v cloudu </li><li> Zasílání Oznámení </li><li> IFTTT </li><li> E-mailové služby </li><li> Úpravu oprávnění </li><li> Pluginy </li></ul> ... a více! </p>",
   "connectfailed": "Ztráta spojení",
   "connecting": "Spojování",
+  "connectingremote": "Připojuji se k vzdálenému...",
   "connectionfailed": "Spojení selhalo - Zkontrolujte připojení",
   "connections": "Spojení",
   "containsai": "Obsahuje AI Alert",

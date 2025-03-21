@@ -144,6 +144,7 @@
   "connectaccounthtml": "<p>اتصل بحساب iSpyConnect الخاص بك لـ<ul><li> الوصول الآمن عن بعد</li><li> تشغيل HD</li><li> تحميلات السحابة</li><li> دفع الإخطارات</li><li> IFTTT</li><li> خدمات البريد الإلكتروني</li><li> أذونات</li><li> الإضافات</li><li> ذكاء اصطناعي</li><li> التحديثات</li><li> الواقع الافتراضي</li><li> تكامل Alexa و Google و Home Assistant</li></ul> ... و اكثر!</p>",
   "connectfailed": "انقطع الإتصال",
   "connecting": "توصيل",
+  "connectingremote": "الاتصال عن بُعد...",
   "connectionfailed": "فشل - تحقق من اتصالك",
   "connections": "روابط",
   "containsai": "يحتوي على تنبيه AI",

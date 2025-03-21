@@ -144,6 +144,7 @@
   "connectaccounthtml": "<p>iSpyConnect 계정에 연결하세요.<ul><li> 안전한 원격 액세스</li><li> HD 재생</li><li> 클라우드 업로드</li><li> 리치 푸시 알림</li><li> 이메일 서비스</li><li> 권한</li><li> 소프트웨어 업데이트</li><li> 가상 현실</li><li> RTMP 스트리밍</li><li> Alexa, IFTTT 및 Home Assistant 통합</li></ul> ... 그리고 더!</p>",
   "connectfailed": "연결 끊김",
   "connecting": "연결 중",
+  "connectingremote": "원격 연결 중...",
   "connectionfailed": "실패 - 연결을 확인하세요",
   "connections": "사이",
   "containsai": "AI 경고 포함",

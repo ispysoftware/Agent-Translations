@@ -144,6 +144,7 @@
   "connectaccounthtml": "<p>Kết nối với tài khoản iSpyConnect của bạn để <ul><li>Truy cập từ xa an toàn</li><li>Phát lại HD</li><li>Tải lên đám mây</li><li>Thông báo đẩy phong phú</li><li>Dịch vụ Email</li><li>Quyền hạn</li><li>Cập nhật phần mềm</li><li>Thực tế ảo</li><li>Phát trực tiếp RTMP</li><li>Tích hợp với Alexa, IFTTT và Home Assistant</li></ul>... và nhiều hơn nữa!</p>",
   "connectfailed": "Mất kết nối",
   "connecting": "Kết nối",
+  "connectingremote": "Kết nối đến từ xa...",
   "connectionfailed": "Thất bại - Kiểm tra kết nối của bạn",
   "connections": "Kết nối",
   "containsai": "Chứa cảnh báo trí tuệ nhân tạo",

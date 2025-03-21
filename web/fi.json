@@ -144,6 +144,7 @@
   "connectaccounthtml": "<p>Yhdistä iSpyConnect-tili saadaksesi käyttöön <ul><li> Suojattu etäkäyttö</li><li> HD-toisto</li><li> Pilvitallennukset</li><li> Push-ilmoitukset</li><li> Sähköpostipalvelut</li><li> Käyttöoikeudet</li><li> Ohjelmistopäivitykset</li><li> Virtuaalitodellisuuden</li><li> Alexa, IFTTT, Google ja Home Assistant -integraatiot</li></ul> ... ja enemmän!</p>",
   "connectfailed": "Yhteys menetetty",
   "connecting": "Yhdistetään",
+  "connectingremote": "Yhdistetään etäyhteyteen...",
   "connectionfailed": "Epäonnistui - Tarkista yhteys",
   "connections": "Yhteydet",
   "containsai": "Sisältää AI-hälytyksen",

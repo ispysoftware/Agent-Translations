@@ -144,6 +144,7 @@
   "connectaccounthtml": "<p> Połącz się ze swoim kontem iSpyConnect dla <ul><li> Bezpieczny dostęp zdalny </li><li> Odtwarzanie HD </li><li> Przesyłanie w chmurze </li><li> Powiadomienia push </li><li> IFTTT </li><li> Usługi e-mail </li><li> Dodaj uprawnienia </li><li> Wtyczki </li></ul> ... i więcej! </p>",
   "connectfailed": "Utracone połączenie",
   "connecting": "Złączony",
+  "connectingremote": "Łączenie zdalne...",
   "connectionfailed": "Niepowodzenie - sprawdź połączenie",
   "connections": "Połączenia",
   "containsai": "Zawiera alert AI",

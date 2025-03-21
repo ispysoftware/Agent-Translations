@@ -144,6 +144,7 @@
   "connectaccounthtml": "<p>連結到您的 iSpyConnect 帳號，以享受：<ul><li>安全的遠端存取</li><li>高畫質播放</li><li>雲端上傳</li><li>豐富的推播通知</li><li>電子郵件服務</li><li>多使用者權限</li><li>軟體更新</li><li>虛擬實境</li><li>RTMP 串流</li><li>Alexa、IFTTT 與 Home Assistant 整合</li></ul>... 和更多！</p>",
   "connectfailed": "連線失敗",
   "connecting": "連線中",
+  "connectingremote": "連接到遠端...",
   "connectionfailed": "失敗 - 請檢查連線",
   "connections": "連線數",
   "containsai": "包含 AI 警報",

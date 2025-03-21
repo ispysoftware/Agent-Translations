@@ -144,6 +144,7 @@
   "connectaccounthtml": "<p>连接到您的iSpyConnect帐户以进行<ul> <li>安全的远程访问</li> <li>高清播放</li> <li>云上传</li> <li>推送通知</li> <li> IFTTT </li> <li>电子邮件服务</li> <li>添加权限</li> <li>插件</li> </ul> ...以及更多！</p>",
   "connectfailed": "无法连接",
   "connecting": "连",
+  "connectingremote": "连接到远程...",
   "connectionfailed": "失败   检查您的连接",
   "connections": "连接数",
   "containsai": "包含 AI 警报",

@@ -144,6 +144,7 @@
   "connectaccounthtml": "<p>Terhubung ke akun iSpyConnect Anda untuk <ul><li>Akses Jarak Jauh yang Aman</li><li>Pemutaran HD</li><li>Unggahan Cloud</li><li>Notifikasi Push Kaya Fitur</li><li>Layanan Email</li><li>Izin</li><li>Pembaruan Perangkat Lunak</li><li>Realitas Virtual</li><li>Streaming RTMP</li><li>Integrasi Alexa, IFTTT, dan Home Assistant</li></ul>... dan lainnya!</p>",
   "connectfailed": "Koneksi Terputus",
   "connecting": "Menghubungkan",
+  "connectingremote": "Menghubungkan ke jarak jauh...",
   "connectionfailed": "Gagal - Periksa Koneksi Anda",
   "connections": "Koneksi",
   "containsai": "Mengandung Peringatan AI",

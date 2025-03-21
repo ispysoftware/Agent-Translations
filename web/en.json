@@ -144,6 +144,7 @@
   "connectaccounthtml": "<p>Connect to your iSpyConnect account for <ul><li>Secured Remote Access</li><li>HD Playback</li><li>Cloud Uploads</li><li>Rich Push Notifications</li><li>Email Services</li><li>Permissions</li><li>Software Updates</li><li>Virtual Reality</li><li>RTMP Streaming</li><li>Alexa, IFTTT and Home Assistant integrations</li></ul>... and more!</p>",
   "connectfailed": "Lost Connection",
   "connecting": "Connecting",
+  "connectingremote": "Connecting to remote...",
   "connectionfailed": "Failed - Check your Connection",
   "connections": "Connections",
   "containsai": "Contains AI Alert",

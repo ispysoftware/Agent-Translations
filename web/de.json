@@ -144,6 +144,7 @@
   "connectaccounthtml": "<p> Stellen Sie eine Verbindung zu Ihrem iSpyConnect-Konto her, um <ul> <li> gesicherten Remotezugriff </li> <li> HD-Wiedergabe </li> <li> Cloud-Uploads </li> <li> Push-Benachrichtigungen </li> <li> IFTTT </li> <li> E-Mail-Dienste </li> <li> Berechtigungen hinzufügen </li> <li> Plugins </li> </ul> ... und mehr! </p>",
   "connectfailed": "Konnte keine Verbindung herstellen",
   "connecting": "Anschließen",
+  "connectingremote": "Verbindung zu remote...",
   "connectionfailed": "Fehlgeschlagen   Überprüfen Sie Ihre Verbindung",
   "connections": "Verbindungen",
   "containsai": "Enthält KI-Warnung",

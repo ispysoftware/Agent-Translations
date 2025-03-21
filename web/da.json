@@ -144,6 +144,7 @@
   "connectaccounthtml": "<p>Opret forbindelse til din iSpyConnect-konto for<ul><li> Sikker fjernadgang</li><li> HD-afspilning</li><li> Cloud-uploads</li><li> Push-meddelelser</li><li> E-mail-tjenester</li><li> Tilladelser</li><li> Softwareopdateringer</li><li> Virtual reality</li><li> Alexa, IFTTT, Google og Home Assistant integrationer</li></ul> ... og mere!</p>",
   "connectfailed": "Tabt forbindelse",
   "connecting": "Tilslutning",
+  "connectingremote": "Forbinder til fjern...",
   "connectionfailed": "Mislykkedes - Tjek din forbindelse",
   "connections": "Forbindelser",
   "containsai": "Indeholder AI Alert",

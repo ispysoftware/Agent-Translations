@@ -144,6 +144,7 @@
   "connectaccounthtml": "<p>Anslut till ditt iSpyConnect-konto för<ul><li> Säker fjärråtkomst</li><li> HD-uppspelning</li><li> Molnuppladdningar</li><li> Rich Push-meddelanden</li><li> E-posttjänster</li><li> Behörigheter</li><li> Mjukvaruuppdateringar</li><li> Virtuell verklighet</li><li> RTMP-strömning</li><li> Alexa, IFTTT och Home Assistant integrationer</li></ul> ... och mer!</p>",
   "connectfailed": "Avbruten anslutning",
   "connecting": "Ansluter",
+  "connectingremote": "Ansluter till fjärr...",
   "connectionfailed": "Misslyckades - Kontrollera din anslutning",
   "connections": "Anslutningar",
   "containsai": "Innehåller AI Alert",

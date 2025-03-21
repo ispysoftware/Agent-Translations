@@ -144,6 +144,7 @@
   "connectaccounthtml": "<p> Maak verbinding met uw iSpyConnect-account voor <ul> <li> Beveiligde externe toegang </li> <li> HD-weergave </li> <li> Cloud-uploads </li> <li> Pushmeldingen </li> <li> IFTTT </li> <li> E-mailservices </li> <li> Machtigingen toevoegen </li> <li> Plug-ins </li> </ul> ... en meer! </p>",
   "connectfailed": "Kon niet verbinden",
   "connecting": "Aansluiten",
+  "connectingremote": "Verbinden met remote...",
   "connectionfailed": "Mislukt   Controleer uw verbinding",
   "connections": "Aansluitingen",
   "containsai": "Bevat AI-waarschuwing",

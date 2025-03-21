@@ -144,6 +144,7 @@
   "connectaccounthtml": "<p> Connectez-vous à votre compte iSpyConnect pour <ul> <li> Accès distant sécurisé </li> <li> Lecture HD </li> <li> Téléchargés dans le cloud </li> <li> Notifications push </li> <li> IFTTT </li> <li> Services de messagerie </li> <li> Ajouter des autorisations </li> <li> Plugins </li> </ul> ... et plus encore! </p>",
   "connectfailed": "N'a pas pu se connecter",
   "connecting": "Connexion",
+  "connectingremote": "Connexion à distance...",
   "connectionfailed": "Echec Vérifiez votre connexion",
   "connections": "Connexions",
   "containsai": "Contient une alerte AI",

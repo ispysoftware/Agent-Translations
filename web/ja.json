@@ -144,6 +144,7 @@
   "connectaccounthtml": "<p>iSpyConnectアカウントに接続して<ul><li>安全なリモートアクセス</li><li>HD再生</li><li>クラウドアップロード</li><li>プッシュ通知</li><li>メールサービス</li><li>権限</li><li>ソフトウェアの更新</li><li>バーチャルリアリティ</li><li>Alexa、IFTTT、Google、HomeAssistantの統合</li></ul>... もっと！</p>",
   "connectfailed": "接続が切れました",
   "connecting": "接続する",
+  "connectingremote": "リモートに接続中...",
   "connectionfailed": "失敗-接続を確認してください",
   "connections": "接続",
   "containsai": "AIアラートが含まれています",
