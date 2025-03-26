@@ -2015,6 +2015,8 @@
     "json.tagsrule.help": "टैग फ़िल्टरिंग पर लागू करने के लिए, उदाहरण: व्यक्ति और वाहन, या व्यक्ति या वाहन",
     "json.takephotoon": "फ़ोटो चालू करें",
     "json.talk": "भाषण",
+    "json.talkgain": "लाभ",
+    "json.talkgain.help": "टॉक गेन आपके आउटगोइंग वॉयस वॉल्यूम को नियंत्रित करता है।",
     "json.task": "टास्क",
     "json.tasks": "कार्य",
     "json.tasksheader": "कार्य",

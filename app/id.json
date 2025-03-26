@@ -2015,6 +2015,8 @@
     "json.tagsrule.help": "Untuk menerapkan penyaringan tag, contoh: orang DAN kendaraan, atau orang ATAU kendaraan",
     "json.takephotoon": "Ambil Foto Pada",
     "json.talk": "Bicara",
+    "json.talkgain": "Perolehan",
+    "json.talkgain.help": "Kontrol suara keluar Anda diatur oleh Talk gain.",
     "json.task": "Tugas",
     "json.tasks": "Tugas",
     "json.tasksheader": "Tugas",

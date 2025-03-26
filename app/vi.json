@@ -2015,6 +2015,8 @@
     "json.tagsrule.help": "Để áp dụng bộ lọc thẻ, ví dụ: người VÀ xe, hoặc người HOẶC xe",
     "json.takephotoon": "Chụp Ảnh On",
     "json.talk": "Nói chuyện",
+    "json.talkgain": "Lợi nhuận",
+    "json.talkgain.help": "Talk gain điều chỉnh âm lượng giọng nói đầu ra của bạn.",
     "json.task": "Nhiệm vụ",
     "json.tasks": "Công việc",
     "json.tasksheader": "Công việc",

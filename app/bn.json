@@ -2015,6 +2015,8 @@
     "json.tagsrule.help": "ট্যাগ ফিল্টারিংয়ের জন্য আবেদন করতে, উদাহরণ: ব্যক্তি এবং যান, বা ব্যক্তি বা যান৷",
     "json.takephotoon": "ছবি তুলুন অন",
     "json.talk": "বক্তৃতা",
+    "json.talkgain": "লাভ",
+    "json.talkgain.help": "টক গেইন আপনার আউটগোইং ভয়েস ভলিউম নিয়ন্ত্রণ করে।",
     "json.task": "টাস্ক",
     "json.tasks": "কাজ",
     "json.tasksheader": "কাজ",

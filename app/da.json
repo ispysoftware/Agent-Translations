@@ -2015,6 +2015,8 @@
     "json.tagsrule.help": "For at anvende til tagfiltrering, f.eks.: person OG køretøj eller person ELLER køretøj",
     "json.takephotoon": "Tag billede på",
     "json.talk": "Tale",
+    "json.talkgain": "Gevinst",
+    "json.talkgain.help": "Talk gain styrer din udgående stemmevolumen.",
     "json.task": "Opgave",
     "json.tasks": "Opgaver",
     "json.tasksheader": "Opgaver",

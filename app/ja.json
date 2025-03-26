@@ -2015,6 +2015,8 @@
     "json.tagsrule.help": "タグ フィルタリングに適用するには、例: person AND vehicle、または person OR vehicle",
     "json.takephotoon": "写真を撮る",
     "json.talk": "スピーチ",
+    "json.talkgain": "ゲイン",
+    "json.talkgain.help": "トークゲインは、あなたの出力音声の音量を制御します。",
     "json.task": "タスク",
     "json.tasks": "タスク",
     "json.tasksheader": "タスク",

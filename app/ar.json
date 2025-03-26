@@ -2015,6 +2015,8 @@
     "json.tagsrule.help": "للتطبيق على تصفية العلامات ، على سبيل المثال: الشخص والمركبة ، أو الشخص أو السيارة",
     "json.takephotoon": "التقاط الصورة على",
     "json.talk": "خطاب",
+    "json.talkgain": "كسب",
+    "json.talkgain.help": "تحكم Talk في مستوى صوتك الخارج.",
     "json.task": "مهمة",
     "json.tasks": "مهام",
     "json.tasksheader": "مهام",

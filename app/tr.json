@@ -2015,6 +2015,8 @@
     "json.tagsrule.help": "Etiket filtrelemeye uygulamak için, örneğin: kişi VE araç veya kişi VEYA araç",
     "json.takephotoon": "Fotoğraf Çek",
     "json.talk": "Konuşma",
+    "json.talkgain": "Kazanç",
+    "json.talkgain.help": "Talk gain, giden ses sesinizi kontrol eder.",
     "json.task": "Görev",
     "json.tasks": "Görevler",
     "json.tasksheader": "Görevler",

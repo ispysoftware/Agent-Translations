@@ -2015,6 +2015,8 @@
     "json.tagsrule.help": "Jos haluat käyttää tunnisteiden suodatusta, esimerkiksi henkilö AND ajoneuvo tai henkilö OR ajoneuvo",
     "json.takephotoon": "Ota valokuva käyttöön",
     "json.talk": "Puhe",
+    "json.talkgain": "Voitto",
+    "json.talkgain.help": "Talk gain säätää lähtevän äänenvoimakkuutta.",
     "json.task": "Tehtävä",
     "json.tasks": "Tehtävät",
     "json.tasksheader": "Tehtävät",

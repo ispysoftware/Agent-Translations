@@ -2015,6 +2015,8 @@
     "json.tagsrule.help": "To apply to tag filtering, example: person AND vehicle, or person OR vehicle",
     "json.takephotoon": "Take Photo On",
     "json.talk": "Talk",
+    "json.talkgain": "Gain",
+    "json.talkgain.help": "Talk gain controls your outgoing voice volume",
     "json.task": "Task",
     "json.tasks": "Tasks",
     "json.tasksheader": "Tasks",

@@ -2015,6 +2015,8 @@
     "json.tagsrule.help": "태그 필터링에 적용하려면(예: 사람 AND 차량, 사람 OR 차량)",
     "json.takephotoon": "사진 찍기 켜기",
     "json.talk": "연설",
+    "json.talkgain": "이득",
+    "json.talkgain.help": "Talk gain은 당신의 나가는 음성 볼륨을 조절합니다.",
     "json.task": "작업",
     "json.tasks": "작업들",
     "json.tasksheader": "작업들",

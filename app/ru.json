@@ -2015,6 +2015,8 @@
     "json.tagsrule.help": "Для фильтра тегов, например: person AND vehicle или person OR vehicle",
     "json.takephotoon": "Сделать фото при",
     "json.talk": "Говорить",
+    "json.talkgain": "Прибыль",
+    "json.talkgain.help": "Talk gain управляет громкостью вашего исходящего голоса",
     "json.task": "Задача",
     "json.tasks": "Задачи",
     "json.tasksheader": "Задачи",

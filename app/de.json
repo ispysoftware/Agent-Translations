@@ -2015,6 +2015,8 @@
     "json.tagsrule.help": "Anwendung auf die Tag-Filterung, Beispiel: Person UND Fahrzeug oder Person ODER Fahrzeug",
     "json.takephotoon": "Machen Sie ein Foto",
     "json.talk": "Rede",
+    "json.talkgain": "Gewinn",
+    "json.talkgain.help": "Talk Gain steuert die Lautstärke Ihrer ausgehenden Stimme.",
     "json.task": "Aufgabe",
     "json.tasks": "Aufgaben",
     "json.tasksheader": "Aufgaben",

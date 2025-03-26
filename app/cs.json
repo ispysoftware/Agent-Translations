@@ -2015,6 +2015,8 @@
     "json.tagsrule.help": "Chcete-li použít filtrování značek, například: osoba A vozidlo nebo osoba NEBO vozidlo",
     "json.takephotoon": "Pořídit fotografii",
     "json.talk": "Mluvený projev",
+    "json.talkgain": "Zisk",
+    "json.talkgain.help": "Talk gain ovládá hlasitost vašeho výstupního hlasu.",
     "json.task": "Úkol",
     "json.tasks": "Úkoly",
     "json.tasksheader": "Úkoly",

@@ -2015,6 +2015,8 @@
     "json.tagsrule.help": "应用于标签过滤，例如：person AND vehicle，或者person OR vehicle",
     "json.takephotoon": "拍照",
     "json.talk": "演讲",
+    "json.talkgain": "增益",
+    "json.talkgain.help": "谈话增益控制您的输出音量",
     "json.task": "任务",
     "json.tasks": "任务",
     "json.tasksheader": "任务",

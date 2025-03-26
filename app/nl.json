@@ -2015,6 +2015,8 @@
     "json.tagsrule.help": "Toe te passen op tagfiltering, bijvoorbeeld: persoon EN voertuig, of persoon OF voertuig",
     "json.takephotoon": "Foto maken",
     "json.talk": "Toespraak",
+    "json.talkgain": "Versterking",
+    "json.talkgain.help": "Praatgain regelt het volume van je uitgaande stem.",
     "json.task": "Taak",
     "json.tasks": "Taken",
     "json.tasksheader": "Taken",
