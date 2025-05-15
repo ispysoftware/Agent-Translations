@@ -159,7 +159,7 @@
   "content_help": "Permitir acesso a gravações e fotos.",
   "controls": "Controles",
   "controls_help": "Gravar/Foto etc. Aplica-se apenas se for somente leitura.",
-  "controlshelp": "A visibilidade do controle é salva localmente, para que você possa ter configurações diferentes em dispositivos diferentes.",
+  "controlshelp2": "Reorganize ou altere os controles. O layout é salvo localmente, para que você possa ter configurações diferentes em dispositivos diferentes.",
   "copydevice": "Copiar dispositivo",
   "copyfrom": "Copiar de",
   "copysettings": "Configurações de cópia",
@@ -447,6 +447,7 @@
   "playback_controls": "Controles de Reprodução",
   "playback_file": "Arquivo de Reprodução",
   "playback_paused": "Reprodução (pausada)",
+  "playback_photos": "Reprodução (fotos)",
   "playing": "Jogando",
   "plugindata": {
     "barcode": "Códigos de barra",

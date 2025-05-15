@@ -159,7 +159,7 @@
   "content_help": "Allow access to recordings and photos.",
   "controls": "Controls",
   "controls_help": "Record/ Photo etc. Only applies if Read-Only.",
-  "controlshelp": "Control visiblity is saved locally so you can have different settings on different devices.",
+  "controlshelp2": "Rearrange or toggle controls. Layout is saved locally so you can have different settings on different devices.",
   "copydevice": "Copy Device",
   "copyfrom": "Copy From",
   "copysettings": "Copy Settings",
@@ -447,6 +447,7 @@
   "playback_controls": "Playback Controls",
   "playback_file": "Playback File",
   "playback_paused": "Playback (paused)",
+  "playback_photos": "Playback (photos)",
   "playing": "Playing",
   "plugindata": {
     "barcode": "Barcodes",

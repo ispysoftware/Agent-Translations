@@ -159,7 +159,7 @@
   "content_help": "Salli pääsy tallenteisiin ja valokuviin.",
   "controls": "Säätimet",
   "controls_help": "Tallenna/valokuva jne. Koskee vain, jos vain luku -tilassa.",
-  "controlshelp": "Ohjausnäkymä tallennetaan paikallisesti, joten voit käyttää eri asetuksia eri laitteilla.",
+  "controlshelp2": "Järjestä tai vaihda ohjaimia. Asetukset tallennetaan paikallisesti, joten voit käyttää eri asetuksia eri laitteilla.",
   "copydevice": "Kopioi laite",
   "copyfrom": "Kopioi kohteesta",
   "copysettings": "Kopioi asetukset",
@@ -447,6 +447,7 @@
   "playback_controls": "Toistokontrollit",
   "playback_file": "Toistotiedosto",
   "playback_paused": "Toisto (pysäytetty)",
+  "playback_photos": "Toisto (valokuvat)",
   "playing": "'Toisto'",
   "plugindata": {
     "barcode": "Viivakoodit",

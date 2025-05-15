@@ -159,7 +159,7 @@
   "content_help": "録音と写真へのアクセスを許可します。",
   "controls": "コントロール",
   "controls_help": "記録/写真など。読み取り専用の場合にのみ適用されます。",
-  "controlshelp": "制御の可視性はローカルに保存されるため、異なるデバイスで異なる設定を持つことができます。",
+  "controlshelp2": "コントロールを再配置または切り替えます。レイアウトはローカルに保存されるため、異なるデバイスで異なる設定を持つことができます。",
   "copydevice": "コピーデバイス",
   "copyfrom": "コピー元",
   "copysettings": "設定のコピー",
@@ -447,6 +447,7 @@
   "playback_controls": "再生コントロール",
   "playback_file": "再生ファイル",
   "playback_paused": "再生（停止中）",
+  "playback_photos": "再生（写真）",
   "playing": "遊ぶ",
   "plugindata": {
     "barcode": "バーコード",

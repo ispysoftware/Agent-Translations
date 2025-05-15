@@ -159,7 +159,7 @@
   "content_help": "Tillad adgang til optagelser og billeder.",
   "controls": "Kontrolelementer",
   "controls_help": "Optag/ Foto osv. Gælder kun hvis skrivebeskyttet.",
-  "controlshelp": "Kontrolsynlighed gemmes lokalt, så du kan have forskellige indstillinger på forskellige enheder.",
+  "controlshelp2": "Omarranger eller skift kontroller. Layout gemmes lokalt, så du kan have forskellige indstillinger på forskellige enheder.",
   "copydevice": "Kopier enhed",
   "copyfrom": "Kopi fra",
   "copysettings": "Kopier indstillinger",
@@ -447,6 +447,7 @@
   "playback_controls": "Afspilningskontroller",
   "playback_file": "Afspilningsfil",
   "playback_paused": "Afspilning (pauset)",
+  "playback_photos": "Afspilning (billeder)",
   "playing": "Spiller",
   "plugindata": {
     "barcode": "Stregkoder",

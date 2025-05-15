@@ -159,7 +159,7 @@
   "content_help": "Felvételekhez és fényképekhez való hozzáférés engedélyezése.",
   "controls": "Vezérlők",
   "controls_help": "Felvétel/Fotó stb. Csak olvasható, ha csak olvasható.",
-  "controlshelp": "A láthatóság szabályozása helyileg mentésre kerül, így a különböző eszközökön különböző beállításokat adhat meg.",
+  "controlshelp2": "Átrendezheti vagy váltogathatja a vezérlőket. A elrendezés helyben van mentve, így különböző beállításai lehetnek különböző eszközökön.",
   "copydevice": "Eszköz másolása",
   "copyfrom": "Másolás innen",
   "copysettings": "Beállítások másolása",
@@ -447,6 +447,7 @@
   "playback_controls": "Visszajátszási vezérlők",
   "playback_file": "Visszajátszási fájl",
   "playback_paused": "Visszajátszás (szüneteltetett)",
+  "playback_photos": "Lejátszás (fotók)",
   "playing": "Lejátszás folyamatban",
   "plugindata": {
     "barcode": "Vonalkódok",

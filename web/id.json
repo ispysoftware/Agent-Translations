@@ -159,7 +159,7 @@
   "content_help": "Izinkan akses ke rekaman dan foto.",
   "controls": "Kontrol",
   "controls_help": "Rekam/ Foto dll. Hanya berlaku jika Hanya Baca.",
-  "controlshelp": "Kontrol visibilitas disimpan secara lokal sehingga Anda dapat memiliki pengaturan yang berbeda di perangkat yang berbeda.",
+  "controlshelp2": "Atur ulang atau ganti kontrol. Tata letak disimpan secara lokal sehingga Anda dapat memiliki pengaturan yang berbeda di perangkat yang berbeda.",
   "copydevice": "Salin Perangkat",
   "copyfrom": "Salin Dari",
   "copysettings": "Salin Pengaturan",
@@ -447,6 +447,7 @@
   "playback_controls": "Kontrol Pemutaran",
   "playback_file": "File Pemutaran",
   "playback_paused": "Pemutaran (dihentikan)",
+  "playback_photos": "Pemutaran Kembali (foto)",
   "playing": "Memutar",
   "plugindata": {
     "barcode": "Kode batang",

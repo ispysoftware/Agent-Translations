@@ -159,7 +159,7 @@
   "content_help": "Autoriser l'accès aux enregistrements et aux photos.",
   "controls": "Contrôles",
   "controls_help": "Enregistrement/photo, etc. S'applique uniquement en lecture seule.",
-  "controlshelp": "La visibilité de contrôle est enregistrée localement afin que vous puissiez avoir des paramètres différents sur différents appareils.",
+  "controlshelp2": "Réorganisez ou basculez les contrôles. La disposition est enregistrée localement, vous pouvez donc avoir des paramètres différents sur différents appareils.",
   "copydevice": "Copier le périphérique",
   "copyfrom": "Copier à partir de",
   "copysettings": "Paramètres de copie",
@@ -447,6 +447,7 @@
   "playback_controls": "Contrôles de lecture",
   "playback_file": "Fichier de lecture",
   "playback_paused": "Lecture (en pause)",
+  "playback_photos": "Lecture (photos)",
   "playing": "En cours de lecture",
   "plugindata": {
     "barcode": "Codes-barres",

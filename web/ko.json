@@ -159,7 +159,7 @@
   "content_help": "녹음 및 사진에 대한 접근을 허용합니다.",
   "controls": "통제 수단",
   "controls_help": "기록/사진 등은 읽기 전용인 경우에만 적용됩니다.",
-  "controlshelp": "제어 가시성은 로컬에 저장되므로 다양한 장치에서 서로 다른 설정을 가질 수 있습니다.",
+  "controlshelp2": "제어를 재배치하거나 전환합니다. 레이아웃은 로컬에 저장되므로 다른 장치에서 다른 설정을 가질 수 있습니다.",
   "copydevice": "복사 장치",
   "copyfrom": "복사 원본",
   "copysettings": "복사 설정",
@@ -447,6 +447,7 @@
   "playback_controls": "재생 제어",
   "playback_file": "재생 파일",
   "playback_paused": "재생 (일시 정지)",
+  "playback_photos": "재생 (사진)",
   "playing": "놀이",
   "plugindata": {
     "barcode": "바코드",

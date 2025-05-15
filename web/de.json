@@ -159,7 +159,7 @@
   "content_help": "Erlauben Sie den Zugriff auf Aufzeichnungen und Fotos.",
   "controls": "Bedienelemente",
   "controls_help": "Datensatz/Foto usw. Gilt nur, wenn schreibgeschützt.",
-  "controlshelp": "Die Sichtbarkeit der Steuerung wird lokal gespeichert, sodass Sie unterschiedliche Einstellungen auf verschiedenen Geräten haben können.",
+  "controlshelp2": "Steuerelemente neu anordnen oder umschalten. Das Layout wird lokal gespeichert, sodass Sie auf verschiedenen Geräten unterschiedliche Einstellungen haben können.",
   "copydevice": "Gerät kopieren",
   "copyfrom": "Kopie von",
   "copysettings": "Einstellungen kopieren",
@@ -447,6 +447,7 @@
   "playback_controls": "Wiedergabesteuerung",
   "playback_file": "Wiedergabedatei",
   "playback_paused": "Wiedergabe (pausiert)",
+  "playback_photos": "Wiedergabe (Fotos)",
   "playing": "Spielen",
   "plugindata": {
     "barcode": "Barcodes",

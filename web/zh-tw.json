@@ -159,7 +159,7 @@
   "content_help": "允許存取錄影和相片",
   "controls": "控制",
   "controls_help": "錄影 / 拍照等。",
-  "controlshelp": "控制可見性會在本地保存，因此您可以在不同設備上擁有不同的設置。",
+  "controlshelp2": "重新排列或切換控制項。佈局會本地保存，因此您可以在不同設備上擁有不同的設置。",
   "copydevice": "複製裝置",
   "copyfrom": "複製來源",
   "copysettings": "複製設定",
@@ -447,6 +447,7 @@
   "playback_controls": "播放控制",
   "playback_file": "回放檔案",
   "playback_paused": "播放（暫停）",
+  "playback_photos": "回放（照片）",
   "playing": "播放中",
   "plugindata": {
     "barcode": "條碼",

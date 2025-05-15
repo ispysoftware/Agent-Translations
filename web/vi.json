@@ -159,7 +159,7 @@
   "content_help": "Cho phép truy cập vào các bản ghi và hình ảnh.",
   "controls": "Điều khiển",
   "controls_help": "Ghi/Ảnh v.v. Chỉ áp dụng nếu chỉ đọc.",
-  "controlshelp": "Cài đặt khả năng kiểm soát được lưu trữ cục bộ để bạn có thể có các cài đặt khác nhau trên các thiết bị khác nhau.",
+  "controlshelp2": "Sắp xếp lại hoặc chuyển đổi các điều khiển. Bố cục được lưu trữ cục bộ để bạn có thể có các cài đặt khác nhau trên các thiết bị khác nhau.",
   "copydevice": "Sao chép Thiết bị",
   "copyfrom": "Sao chép từ",
   "copysettings": "Sao chép Cài đặt",
@@ -447,6 +447,7 @@
   "playback_controls": "Điều khiển phát lại",
   "playback_file": "Tệp phát lại",
   "playback_paused": "Phát lại (tạm dừng)",
+  "playback_photos": "Phát lại (hình ảnh)",
   "playing": "Phát lại",
   "plugindata": {
     "barcode": "Mã vạch",

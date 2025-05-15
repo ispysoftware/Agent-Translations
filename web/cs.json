@@ -159,7 +159,7 @@
   "content_help": "Povolit přístup k nahrávkám a fotografiím.",
   "controls": "Řízení",
   "controls_help": "Record/ Photo atd. Platí pouze pro Read-Only.",
-  "controlshelp": "Ovládání viditelnosti se ukládá lokálně, takže můžete mít různá nastavení na různých zařízeních.",
+  "controlshelp2": "Upravte nebo přepněte ovládací prvky. Rozložení je uloženo lokálně, takže můžete mít různá nastavení na různých zařízeních.",
   "copydevice": "Kopírování zařízení",
   "copyfrom": "Kopírovat z",
   "copysettings": "Nastavení kopírování",
@@ -447,6 +447,7 @@
   "playback_controls": "Ovládání přehrávání",
   "playback_file": "Soubor pro přehrávání",
   "playback_paused": "Přehrávání (pozastaveno)",
+  "playback_photos": "Přehrávání (fotografie)",
   "playing": "Přehrát",
   "plugindata": {
     "barcode": "Čárové kódy",

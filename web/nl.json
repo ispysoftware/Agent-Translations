@@ -159,7 +159,7 @@
   "content_help": "Geef toegang tot opnamen en foto's.",
   "controls": "Controles",
   "controls_help": "Opnemen/foto etc. Alleen van toepassing als alleen-lezen.",
-  "controlshelp": "De zichtbaarheid van de controle wordt lokaal opgeslagen, zodat je verschillende instellingen op verschillende apparaten kunt hebben.",
+  "controlshelp2": "Herschik of schakel de bedieningselementen. De lay-out wordt lokaal opgeslagen, zodat je verschillende instellingen op verschillende apparaten kunt hebben.",
   "copydevice": "Kopieer apparaat",
   "copyfrom": "Kopieer van",
   "copysettings": "Kopieer instellingen",
@@ -447,6 +447,7 @@
   "playback_controls": "Afspeelbediening",
   "playback_file": "Afspeelbestand",
   "playback_paused": "Afspelen (gepauzeerd)",
+  "playback_photos": "Afspelen (foto's)",
   "playing": "Spelen",
   "plugindata": {
     "barcode": "Barcodes",

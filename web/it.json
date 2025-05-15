@@ -159,7 +159,7 @@
   "content_help": "Consenti l'accesso a registrazioni e foto.",
   "controls": "Controlli",
   "controls_help": "Registra/Foto ecc. Si applica solo se di sola lettura.",
-  "controlshelp": "La visibilità del controllo è salvata localmente, quindi puoi avere impostazioni diverse su dispositivi diversi.",
+  "controlshelp2": "Riordina o attiva/disattiva i controlli. Il layout è salvato localmente, quindi puoi avere impostazioni diverse su dispositivi diversi.",
   "copydevice": "Copia dispositivo",
   "copyfrom": "Copia da",
   "copysettings": "Copia impostazioni",
@@ -447,6 +447,7 @@
   "playback_controls": "Controlli di riproduzione",
   "playback_file": "File di riproduzione",
   "playback_paused": "Riproduzione (in pausa)",
+  "playback_photos": "Riproduzione (foto)",
   "playing": "Giocando",
   "plugindata": {
     "barcode": "Codici a barre",

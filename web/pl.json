@@ -159,7 +159,7 @@
   "content_help": "Zezwól na dostęp do nagrań i zdjęć.",
   "controls": "Sterownica",
   "controls_help": "Nagranie/zdjęcie itp. Dotyczy tylko trybu Tylko do odczytu.",
-  "controlshelp": "Widoczność kontroli jest zapisywana lokalnie, dzięki czemu możesz mieć różne ustawienia na różnych urządzeniach.",
+  "controlshelp2": "Przestaw lub przełącz kontrolki. Układ jest zapisywany lokalnie, więc możesz mieć różne ustawienia na różnych urządzeniach.",
   "copydevice": "Kopiuj urządzenie",
   "copyfrom": "Kopiuj z",
   "copysettings": "Kopiuj ustawienia",
@@ -447,6 +447,7 @@
   "playback_controls": "Kontrola odtwarzania",
   "playback_file": "Plik odtwarzania",
   "playback_paused": "Odtwarzanie (wstrzymane)",
+  "playback_photos": "Odtwarzanie (zdjęcia)",
   "playing": "Odtwarza",
   "plugindata": {
     "barcode": "Kody kreskowe",

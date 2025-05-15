@@ -159,7 +159,7 @@
   "content_help": "Tillåt åtkomst till inspelningar och foton.",
   "controls": "Kontroller",
   "controls_help": "Spela in/foto etc. Gäller endast om skrivskyddad.",
-  "controlshelp": "Kontrollsynlighet sparas lokalt så att du kan ha olika inställningar på olika enheter.",
+  "controlshelp2": "Omorganisera eller växla kontroller. Layouten sparas lokalt så att du kan ha olika inställningar på olika enheter.",
   "copydevice": "Kopiera enhet",
   "copyfrom": "Kopiera från",
   "copysettings": "Kopiera inställningar",
@@ -447,6 +447,7 @@
   "playback_controls": "Uppspelningskontroller",
   "playback_file": "Uppspelningsfil",
   "playback_paused": "Uppspelning (pausad)",
+  "playback_photos": "Uppspelning (bilder)",
   "playing": "Spelar",
   "plugindata": {
     "barcode": "Streckkoder",

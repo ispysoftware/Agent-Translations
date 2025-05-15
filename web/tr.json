@@ -159,7 +159,7 @@
   "content_help": "Kayıtlara ve fotoğraflara erişime izin verin.",
   "controls": "Kontroller",
   "controls_help": "Kayıt/Fotoğraf vb. Yalnızca Salt Okunursa geçerlidir.",
-  "controlshelp": "Kontrol görünürlüğü yerel olarak kaydedilir, böylece farklı cihazlarda farklı ayarlara sahip olabilirsiniz.",
+  "controlshelp2": "Kontrolleri yeniden düzenleyin veya değiştirin. Düzen yerel olarak kaydedilir, böylece farklı cihazlarda farklı ayarlara sahip olabilirsiniz.",
   "copydevice": "Cihazı Kopyala",
   "copyfrom": "Şuradan Kopyala",
   "copysettings": "Ayarları Kopyala",
@@ -447,6 +447,7 @@
   "playback_controls": "Oynatma Kontrolleri",
   "playback_file": "Oynatma Dosyası",
   "playback_paused": "Oynatma (duraklatıldı)",
+  "playback_photos": "Oynatma (fotoğraflar)",
   "playing": "oynamak",
   "plugindata": {
     "barcode": "Barkodlar",
