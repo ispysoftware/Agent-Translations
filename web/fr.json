@@ -257,6 +257,7 @@
   "filterapplied": "Filtre appliqué",
   "filterarchivedhelp": "Afficher uniquement les événements archivés",
   "filterlockedhelp": "Afficher uniquement les événements verrouillés",
+  "filtertimelapseshelp": "Afficher uniquement les événements en timelapse",
   "filterunwatchedhelp": "Afficher uniquement les événements non regardés",
   "filterupdated": "Filtre mis à jour",
   "findconnections": "Connexions trouvés",

@@ -257,6 +257,7 @@
   "filterapplied": "Filtre Uygulandı",
   "filterarchivedhelp": "Yalnızca arşivlenmiş etkinlikleri göster",
   "filterlockedhelp": "Yalnızca kilitli etkinlikleri göster",
+  "filtertimelapseshelp": "Sadece zaman atlamalı olayları göster",
   "filterunwatchedhelp": "Yalnızca izlenmeyen etkinlikleri göster",
   "filterupdated": "Filtre Güncellendi",
   "findconnections": "Bağlantıları Bul",

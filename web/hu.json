@@ -257,6 +257,7 @@
   "filterapplied": "Szűrő alkalmazva",
   "filterarchivedhelp": "Csak az archivált események megjelenítése",
   "filterlockedhelp": "Csak a zárolt események megjelenítése",
+  "filtertimelapseshelp": "Csak a timelapse események megjelenítése",
   "filterunwatchedhelp": "Csak a megnem nézett eseményeket jelenítse meg",
   "filterupdated": "Szűrő frissítve",
   "findconnections": "Keresse meg a kapcsolatokat",

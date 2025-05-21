@@ -257,6 +257,7 @@
   "filterapplied": "Filter tillämpat",
   "filterarchivedhelp": "Visa endast arkiverade händelser",
   "filterlockedhelp": "Visa endast låsta händelser",
+  "filtertimelapseshelp": "Visa endast timelapse-händelser",
   "filterunwatchedhelp": "Visa bara obevakade händelser",
   "filterupdated": "Filter uppdaterat",
   "findconnections": "Hitta anslutningar",

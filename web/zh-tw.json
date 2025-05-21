@@ -257,6 +257,7 @@
   "filterapplied": "過濾器已套用",
   "filterarchivedhelp": "只顯示已封存的事件",
   "filterlockedhelp": "只顯示鎖定的事件",
+  "filtertimelapseshelp": "僅顯示延時事件",
   "filterunwatchedhelp": "只顯示未觀看的事件",
   "filterupdated": "過濾器已更新",
   "findconnections": "尋找連線",

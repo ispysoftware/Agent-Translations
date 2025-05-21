@@ -257,6 +257,7 @@
   "filterapplied": "Bộ lọc đã được áp dụng",
   "filterarchivedhelp": "Chỉ hiển thị sự kiện đã lưu trữ",
   "filterlockedhelp": "Chỉ hiển thị các sự kiện đã khóa",
+  "filtertimelapseshelp": "Chỉ hiển thị các sự kiện tua nhanh thời gian",
   "filterunwatchedhelp": "Chỉ hiển thị các sự kiện chưa xem",
   "filterupdated": "Bộ lọc đã được cập nhật",
   "findconnections": "Tìm kết nối",

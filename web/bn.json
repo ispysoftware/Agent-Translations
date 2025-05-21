@@ -257,6 +257,7 @@
   "filterapplied": "ফিল্টার প্রয়োগ করা হয়েছে",
   "filterarchivedhelp": "শুধুমাত্র সংরক্ষণাগারভুক্ত ইভেন্টগুলি দেখান৷",
   "filterlockedhelp": "শুধুমাত্র লক করা ইভেন্ট দেখান",
+  "filtertimelapseshelp": "শুধুমাত্র টাইমল্যাপস ইভেন্টগুলি দেখান",
   "filterunwatchedhelp": "শুধুমাত্র না দেখা ইভেন্ট দেখান",
   "filterupdated": "ফিল্টার আপডেট করা হয়েছে",
   "findconnections": "সংযোগ খুঁজুন",

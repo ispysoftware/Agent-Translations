@@ -257,6 +257,7 @@
   "filterapplied": "फ़िल्टर लागू",
   "filterarchivedhelp": "केवल संग्रहीत ईवेंट दिखाएं",
   "filterlockedhelp": "केवल लॉक किए गए इवेंट दिखाएं",
+  "filtertimelapseshelp": "केवल टाइमलैप्स घटनाएँ दिखाएँ",
   "filterunwatchedhelp": "केवल न देखे गए ईवेंट दिखाएं",
   "filterupdated": "फ़िल्टर अपडेट किया गया",
   "findconnections": "कनेक्शन खोजें",

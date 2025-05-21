@@ -257,6 +257,7 @@
   "filterapplied": "Suodatin käytössä",
   "filterarchivedhelp": "Näytä vain arkistoidut tapahtumat",
   "filterlockedhelp": "Näytä vain lukitut tapahtumat",
+  "filtertimelapseshelp": "Näytä vain aikaleimaustapahtumat",
   "filterunwatchedhelp": "Näytä vain katsomattomat tapahtumat",
   "filterupdated": "Suodatin päivitetty",
   "findconnections": "Etsi yhteyksiä",

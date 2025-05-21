@@ -257,6 +257,7 @@
   "filterapplied": "Filter yang Diterapkan",
   "filterarchivedhelp": "Hanya menampilkan kejadian yang diarsipkan",
   "filterlockedhelp": "Hanya menampilkan kejadian yang terkunci",
+  "filtertimelapseshelp": "Hanya tampilkan peristiwa timelapse",
   "filterunwatchedhelp": "Hanya menampilkan kejadian yang belum ditonton",
   "filterupdated": "Filter Diperbarui",
   "findconnections": "Temukan Koneksi",

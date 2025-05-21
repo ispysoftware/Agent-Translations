@@ -257,6 +257,7 @@
   "filterapplied": "Filter anvendt",
   "filterarchivedhelp": "Vis kun arkiverede begivenheder",
   "filterlockedhelp": "Vis kun låste begivenheder",
+  "filtertimelapseshelp": "Vis kun timelapse-begivenheder",
   "filterunwatchedhelp": "Vis kun uovervågede begivenheder",
   "filterupdated": "Filter opdateret",
   "findconnections": "Find forbindelser",

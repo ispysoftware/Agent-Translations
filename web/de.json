@@ -257,6 +257,7 @@
   "filterapplied": "Filter angewendet",
   "filterarchivedhelp": "Nur archivierte Ereignisse anzeigen",
   "filterlockedhelp": "Nur gesperrte Ereignisse anzeigen",
+  "filtertimelapseshelp": "Nur Zeitrafferereignisse anzeigen",
   "filterunwatchedhelp": "Nur unbeobachtete Ereignisse anzeigen",
   "filterupdated": "Filter aktualisiert",
   "findconnections": "Verbindungen suchen",

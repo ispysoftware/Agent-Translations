@@ -257,6 +257,7 @@
   "filterapplied": "필터가 적용됨",
   "filterarchivedhelp": "보관된 이벤트만 표시",
   "filterlockedhelp": "잠긴 이벤트만 표시",
+  "filtertimelapseshelp": "타임랩스 이벤트만 표시하기",
   "filterunwatchedhelp": "시청하지 않은 이벤트만 표시",
   "filterupdated": "필터가 업데이트되었습니다.",
   "findconnections": "연결 찾기",

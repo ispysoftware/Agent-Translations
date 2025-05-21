@@ -257,6 +257,7 @@
   "filterapplied": "Filter toegepast",
   "filterarchivedhelp": "Toon alleen gearchiveerde evenementen",
   "filterlockedhelp": "Toon alleen vergrendelde gebeurtenissen",
+  "filtertimelapseshelp": "Toon alleen timelapse-gebeurtenissen",
   "filterunwatchedhelp": "Alleen niet-bekeken evenementen weergeven",
   "filterupdated": "Filter geüpdatet",
   "findconnections": "Zoek verbindingen",

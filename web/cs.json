@@ -257,6 +257,7 @@
   "filterapplied": "Filtr použit",
   "filterarchivedhelp": "Zobrazit pouze archivované události",
   "filterlockedhelp": "Zobrazit pouze zamčené události",
+  "filtertimelapseshelp": "Zobrazit pouze události časosběru",
   "filterunwatchedhelp": "Zobrazit pouze nezhlédnuté události",
   "filterupdated": "Filtr aktualizován",
   "findconnections": "Najít připojení",

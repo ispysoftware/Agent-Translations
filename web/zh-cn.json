@@ -257,6 +257,7 @@
   "filterapplied": "过滤器应用",
   "filterarchivedhelp": "仅显示存档事件",
   "filterlockedhelp": "只显示锁定的事件",
+  "filtertimelapseshelp": "仅显示时间推移事件",
   "filterunwatchedhelp": "只显示未观看的事件",
   "filterupdated": "过滤器更新",
   "findconnections": "查找连接",

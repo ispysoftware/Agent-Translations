@@ -257,6 +257,7 @@
   "filterapplied": "تم تطبيق الفلتر",
   "filterarchivedhelp": "عرض الأحداث المؤرشفة فقط",
   "filterlockedhelp": "إظهار الأحداث المقفلة فقط",
+  "filtertimelapseshelp": "عرض أحداث التسريع الزمني فقط",
   "filterunwatchedhelp": "عرض الأحداث التي لم يتم مشاهدتها فقط",
   "filterupdated": "تم تحديث المرشح",
   "findconnections": "البحث عن اتصالات",

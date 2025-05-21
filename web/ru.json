@@ -257,6 +257,7 @@
   "filterapplied": "Фильтр применён",
   "filterarchivedhelp": "Показывать только архивированные события",
   "filterlockedhelp": "Показывать только «заблокированные» события",
+  "filtertimelapseshelp": "Показывать только события с таймлапсом",
   "filterunwatchedhelp": "Показывать только непросмотренные события",
   "filterupdated": "Фильтр обновлён",
   "findconnections": "Найти подключения",
