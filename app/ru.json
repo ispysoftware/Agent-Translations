@@ -1150,6 +1150,8 @@
     "json.digital": "Цифровой",
     "json.digitalzoom": "Цифровое PTZ",
     "json.digitalzoom.help": "Цифровое масштабирование PTZ с помощью тач-жестов или колеса мыши",
+    "json.digitalzoomoverride": "Использовать цифровое увеличение",
+    "json.digitalzoomoverride.help": "Используйте цифровое увеличение вместо увеличения устройства",
     "json.directory": "Директория",
     "json.disabled": "Отключено",
     "json.disablepatrolon": "Отключить патрулирование при",

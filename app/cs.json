@@ -1150,6 +1150,8 @@
     "json.digital": "Digitální",
     "json.digitalzoom": "Digitální PTZ",
     "json.digitalzoom.help": "Digitální PTZ pomocí dotyku nebo kolečka myši.",
+    "json.digitalzoomoverride": "Použijte digitální zoom",
+    "json.digitalzoomoverride.help": "Použijte digitální zoom místo zoomu zařízení.",
     "json.directory": "Adresář",
     "json.disabled": "Zakázáno",
     "json.disablepatrolon": "Zakázat Patrol On",

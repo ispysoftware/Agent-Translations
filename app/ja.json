@@ -1150,6 +1150,8 @@
     "json.digital": "デジタル",
     "json.digitalzoom": "デジタルPTZ",
     "json.digitalzoom.help": "デジタルPTZはタッチまたはマウスホイールを使用して行います。",
+    "json.digitalzoomoverride": "デジタルズームを使用する",
+    "json.digitalzoomoverride.help": "デバイスズームの代わりにデジタルズームを使用してください。",
     "json.directory": "ディレクトリ",
     "json.disabled": "無効",
     "json.disablepatrolon": "パトロールを無効にする",

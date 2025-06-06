@@ -1150,6 +1150,8 @@
     "json.digital": "Dijital",
     "json.digitalzoom": "Dijital PTZ",
     "json.digitalzoom.help": "Dokunmatik veya fare tekerleği ile dijital PTZ.",
+    "json.digitalzoomoverride": "Dijital Zoom Kullanımı",
+    "json.digitalzoomoverride.help": "Cihaz zoomu yerine dijital zoom kullanın.",
     "json.directory": "dizin",
     "json.disabled": "Engelli",
     "json.disablepatrolon": "Devriyeyi Devre Dışı Bırak",

@@ -1150,6 +1150,8 @@
     "json.digital": "Digitaalinen",
     "json.digitalzoom": "Digitaalinen PTZ",
     "json.digitalzoom.help": "Digitaalinen PTZ kosketuksella tai hiiren rullalla.",
+    "json.digitalzoomoverride": "Käytä digitaalista zoomausta",
+    "json.digitalzoomoverride.help": "Käytä digitaalista zoomausta laitteen zoomauksen sijaan.",
     "json.directory": "Hakemisto",
     "json.disabled": "Pois käytöstä",
     "json.disablepatrolon": "Poista Patrol On käytöstä",

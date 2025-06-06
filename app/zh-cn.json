@@ -1150,6 +1150,8 @@
     "json.digital": "数字",
     "json.digitalzoom": "数字PTZ",
     "json.digitalzoom.help": "通过触摸或鼠标滚轮进行数字变焦。",
+    "json.digitalzoomoverride": "使用数字变焦",
+    "json.digitalzoomoverride.help": "使用数字变焦而不是设备变焦",
     "json.directory": "目录",
     "json.disabled": "已禁用",
     "json.disablepatrolon": "禁用巡逻",

@@ -1150,6 +1150,8 @@
     "json.digital": "Digital",
     "json.digitalzoom": "PTZ digital",
     "json.digitalzoom.help": "PTZ digital a través de la pantalla táctil o la rueda del ratón.",
+    "json.digitalzoomoverride": "Usar Zoom Digital",
+    "json.digitalzoomoverride.help": "Utiliza el zoom digital en lugar del zoom del dispositivo.",
     "json.directory": "Directorio",
     "json.disabled": "Discapacitado",
     "json.disablepatrolon": "Desactivar patrulla activada",

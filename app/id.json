@@ -1150,6 +1150,8 @@
     "json.digital": "Digital",
     "json.digitalzoom": "PTZ digital",
     "json.digitalzoom.help": "PTZ digital melalui sentuhan atau roda mouse.",
+    "json.digitalzoomoverride": "Gunakan Zoom Digital",
+    "json.digitalzoomoverride.help": "Gunakan zoom digital alih-alih zoom perangkat",
     "json.directory": "Direktori",
     "json.disabled": "Nonaktif",
     "json.disablepatrolon": "Nonaktifkan Patroli Pada",

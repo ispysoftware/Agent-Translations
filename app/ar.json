@@ -1150,6 +1150,8 @@
     "json.digital": "رقمي",
     "json.digitalzoom": "PTZ رقمي",
     "json.digitalzoom.help": "التكبير والتصغير الرقمي عبر اللمس أو عجلة الماوس.",
+    "json.digitalzoomoverride": "استخدم الزوم الرقمي",
+    "json.digitalzoomoverride.help": "استخدم الزوم الرقمي بدلاً من زوم الجهاز",
     "json.directory": "الدليل",
     "json.disabled": "عاجز",
     "json.disablepatrolon": "تعطيل دورية على",

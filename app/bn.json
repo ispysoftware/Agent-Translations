@@ -1150,6 +1150,8 @@
     "json.digital": "ডিজিটাল",
     "json.digitalzoom": "ডিজিটাল পিটিজি",
     "json.digitalzoom.help": "ডিজিটাল PTZ টাচ বা মাউস হুইল দ্বারা।",
+    "json.digitalzoomoverride": "ডিজিটাল জুম ব্যবহার করুন",
+    "json.digitalzoomoverride.help": "ডিভাইস জুমের পরিবর্তে ডিজিটাল জুম ব্যবহার করুন",
     "json.directory": "ডিরেক্টরি",
     "json.disabled": "অক্ষম",
     "json.disablepatrolon": "পেট্রোল চালু অক্ষম করুন",

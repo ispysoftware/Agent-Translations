@@ -1150,6 +1150,8 @@
     "json.digital": "Kỹ thuật số",
     "json.digitalzoom": "PTZ kỹ thuật số",
     "json.digitalzoom.help": "PTZ số qua cảm ứng hoặc bánh xe chuột.",
+    "json.digitalzoomoverride": "Sử dụng Zoom Kỹ Thuật Số",
+    "json.digitalzoomoverride.help": "Sử dụng zoom kỹ thuật số thay vì zoom thiết bị",
     "json.directory": "Thư mục",
     "json.disabled": "Vô hiệu hóa",
     "json.disablepatrolon": "Tắt Tuần tra Trên",

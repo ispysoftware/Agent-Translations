@@ -1150,6 +1150,8 @@
     "json.digital": "디지털",
     "json.digitalzoom": "디지턼 PTZ",
     "json.digitalzoom.help": "터치 또는 마우스 휠을 통한 디지털 PTZ.",
+    "json.digitalzoomoverride": "디지털 줌 사용",
+    "json.digitalzoomoverride.help": "디지털 줌을 사용하고 장치 줌은 사용하지 마세요.",
     "json.directory": "예배 규칙서",
     "json.disabled": "장애가 있는",
     "json.disablepatrolon": "순찰 비활성화",

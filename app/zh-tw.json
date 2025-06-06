@@ -1150,6 +1150,8 @@
     "json.digital": "數位",
     "json.digitalzoom": "數位 PTZ",
     "json.digitalzoom.help": "通過觸摸或滑鼠滾輪進行數字化的PTZ。",
+    "json.digitalzoomoverride": "使用數位變焦",
+    "json.digitalzoomoverride.help": "使用數位變焦而非設備變焦",
     "json.directory": "目錄",
     "json.disabled": "已禁用",
     "json.disablepatrolon": "禁用巡檢開啟",

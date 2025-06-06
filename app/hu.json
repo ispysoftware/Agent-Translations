@@ -1150,6 +1150,8 @@
     "json.digital": "Digitális",
     "json.digitalzoom": "Digitális PTZ",
     "json.digitalzoom.help": "Digitális PTZ érintéssel vagy egérgörgővel.",
+    "json.digitalzoomoverride": "Használja a digitális zoomot",
+    "json.digitalzoomoverride.help": "Használjon digitális zoomot a készülék zoomja helyett.",
     "json.directory": "Könyvtár",
     "json.disabled": "Letiltva",
     "json.disablepatrolon": "Járőrözés letiltása bekapcsolva",

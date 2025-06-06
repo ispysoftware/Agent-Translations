@@ -1150,6 +1150,8 @@
     "json.digital": "Digitaal",
     "json.digitalzoom": "Digitale PTZ",
     "json.digitalzoom.help": "Digitale PTZ via aanraking of muiswiel.",
+    "json.digitalzoomoverride": "Gebruik Digitale Zoom",
+    "json.digitalzoomoverride.help": "Gebruik digitale zoom in plaats van apparaatzoom",
     "json.directory": "directory",
     "json.disabled": "Gehandicapt",
     "json.disablepatrolon": "Patrouille uitschakelen",

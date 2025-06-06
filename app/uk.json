@@ -1150,6 +1150,8 @@
     "json.digital": "Цифровий",
     "json.digitalzoom": "Цифровий PTZ",
     "json.digitalzoom.help": "Цифрове ПЗП за допомогою дотику або колеса миші.",
+    "json.digitalzoomoverride": "Використовуйте цифрове збільшення",
+    "json.digitalzoomoverride.help": "Використовуйте цифрове збільшення замість збільшення пристрою.",
     "json.directory": "Каталог",
     "json.disabled": "Вимкнено",
     "json.disablepatrolon": "Вимкнути Патрулювання.",

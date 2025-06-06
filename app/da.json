@@ -1150,6 +1150,8 @@
     "json.digital": "Digital",
     "json.digitalzoom": "Digital PTZ",
     "json.digitalzoom.help": "Digital PTZ via touch eller museskroll.",
+    "json.digitalzoomoverride": "Brug digital zoom",
+    "json.digitalzoomoverride.help": "Brug digital zoom i stedet for enhedszoom.",
     "json.directory": "Vejviser",
     "json.disabled": "handicappet",
     "json.disablepatrolon": "Deaktiver patrulje til",

@@ -1150,6 +1150,8 @@
     "json.digital": "Cyfrowy",
     "json.digitalzoom": "Cyfrowa PTZ",
     "json.digitalzoom.help": "Cyfrowe PTZ za pomocą dotyku lub kółka myszy.",
+    "json.digitalzoomoverride": "Użyj zoomu cyfrowego",
+    "json.digitalzoomoverride.help": "Użyj zoomu cyfrowego zamiast zoomu urządzenia.",
     "json.directory": "Katalog",
     "json.disabled": "Wyłączony",
     "json.disablepatrolon": "Wyłącz opcję Włącz patrol",
