@@ -698,6 +698,7 @@
     "connected": "接続済み",
     "connecting": "接続する",
     "connectingaccount": "接続中 [ACCOUNT]",
+    "detected": "検出された",
     "detector: off": "検出器：オフ",
     "detector: on": "検出器：オン",
     "detector: sensitivity set": "検出器：感度を設定",

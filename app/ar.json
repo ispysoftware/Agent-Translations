@@ -698,6 +698,7 @@
     "connected": "متصل",
     "connecting": "توصيل",
     "connectingaccount": "اتصال [ACCOUNT]",
+    "detected": "تم الكشف عنه",
     "detector: off": "الكاشف: متوقف",
     "detector: on": "الكاشف: ON",
     "detector: sensitivity set": "الكاشف: ضبط الحساسية",

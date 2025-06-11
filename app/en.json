@@ -698,6 +698,7 @@
     "connected": "Connected",
     "connecting": "Connecting",
     "connectingaccount": "Connecting [ACCOUNT]",
+    "detected": "Detected",
     "detector: off": "Detector: OFF",
     "detector: on": "Detector: ON",
     "detector: sensitivity set": "Detector: Set Sensitivity",

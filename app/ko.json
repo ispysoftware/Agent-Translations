@@ -698,6 +698,7 @@
     "connected": "연결됨",
     "connecting": "연결 중",
     "connectingaccount": "연결 [ACCOUNT]",
+    "detected": "감지됨",
     "detector: off": "감지기: 꺼짐",
     "detector: on": "감지기: 켜짐",
     "detector: sensitivity set": "검출기: 감도 설정",

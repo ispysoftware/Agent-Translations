@@ -698,6 +698,7 @@
     "connected": "Yhdistetty",
     "connecting": "Yhdistetään",
     "connectingaccount": "Yhdistetään [ACCOUNT]",
+    "detected": "Havaittu",
     "detector: off": "Ilmaisin: OFF",
     "detector: on": "Ilmaisin: PÄÄLLÄ",
     "detector: sensitivity set": "Ilmaisin: Aseta herkkyys",

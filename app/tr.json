@@ -698,6 +698,7 @@
     "connected": "bağlı",
     "connecting": "Bağlanıyor",
     "connectingaccount": "Bağlanıyor [ACCOUNT]",
+    "detected": "Tespit Edildi",
     "detector: off": "dedektör: KAPALI",
     "detector: on": "dedektör: AÇIK",
     "detector: sensitivity set": "Dedektör: Hassasiyeti Ayarla",
