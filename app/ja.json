@@ -2035,6 +2035,8 @@
     "json.talkgain": "ゲイン",
     "json.talkgain.help": "トークゲインは、あなたの出力音声の音量を制御します。",
     "json.task": "タスク",
+    "json.taskdelay": "遅延",
+    "json.taskdelay.help": "このタスクを実行する前の遅延（秒）",
     "json.tasks": "タスク",
     "json.tasksheader": "タスク",
     "json.tasksheader.help": "このアクションがトリガーされたときに実行するタスク。",

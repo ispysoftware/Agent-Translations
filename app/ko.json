@@ -2035,6 +2035,8 @@
     "json.talkgain": "이득",
     "json.talkgain.help": "Talk gain은 당신의 나가는 음성 볼륨을 조절합니다.",
     "json.task": "작업",
+    "json.taskdelay": "지연",
+    "json.taskdelay.help": "이 작업을 실행하기 전 지연 시간 (초)",
     "json.tasks": "작업들",
     "json.tasksheader": "작업들",
     "json.tasksheader.help": "이 작업이 트리거될 때 수행할 작업",

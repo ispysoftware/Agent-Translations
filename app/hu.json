@@ -2035,6 +2035,8 @@
     "json.talkgain": "Erősítés",
     "json.talkgain.help": "A beszéderősítés szabályozza a kimenő hangerőt.",
     "json.task": "Feladat",
+    "json.taskdelay": "Késleltetés",
+    "json.taskdelay.help": "A feladat futtatása előtt várakozási idő (másodperc)",
     "json.tasks": "Feladatok",
     "json.tasksheader": "Feladatok",
     "json.tasksheader.help": "A művelet aktiválásakor végrehajtandó feladatok.",

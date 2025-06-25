@@ -2035,6 +2035,8 @@
     "json.talkgain": "Збільшення",
     "json.talkgain.help": "Talk gain контролює гучність вашого вихідного голосу",
     "json.task": "Завдання",
+    "json.taskdelay": "Затримка",
+    "json.taskdelay.help": "Затримка перед виконанням цього завдання (секунди)",
     "json.tasks": "Завдання",
     "json.tasksheader": "Завдання",
     "json.tasksheader.help": "Завдання для виконання, коли спрацьовує ця дія",

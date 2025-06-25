@@ -2035,6 +2035,8 @@
     "json.talkgain": "Прибыль",
     "json.talkgain.help": "Talk gain управляет громкостью вашего исходящего голоса",
     "json.task": "Задача",
+    "json.taskdelay": "Задержка",
+    "json.taskdelay.help": "Задержка перед выполнением этой задачи (секунды)",
     "json.tasks": "Задачи",
     "json.tasksheader": "Задачи",
     "json.tasksheader.help": "Список действий, выполняемых при срабатывании данного Action",

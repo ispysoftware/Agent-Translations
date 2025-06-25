@@ -2035,6 +2035,8 @@
     "json.talkgain": "Gevinst",
     "json.talkgain.help": "Talk gain styrer din udgående stemmevolumen.",
     "json.task": "Opgave",
+    "json.taskdelay": "Forsinkelse",
+    "json.taskdelay.help": "Forsinkelse før kørsel af denne opgave (sekunder)",
     "json.tasks": "Opgaver",
     "json.tasksheader": "Opgaver",
     "json.tasksheader.help": "Opgaver, der skal udføres, når denne handling udløses",

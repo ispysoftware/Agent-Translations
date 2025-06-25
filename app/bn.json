@@ -2035,6 +2035,8 @@
     "json.talkgain": "লাভ",
     "json.talkgain.help": "টক গেইন আপনার আউটগোইং ভয়েস ভলিউম নিয়ন্ত্রণ করে।",
     "json.task": "টাস্ক",
+    "json.taskdelay": "বিলম্ব",
+    "json.taskdelay.help": "এই কাজটি চালানোর আগে বিলম্ব (সেকেন্ড)",
     "json.tasks": "কাজ",
     "json.tasksheader": "কাজ",
     "json.tasksheader.help": "যখন এই ক্রিয়াটি ট্রিগার হয় তখন সঞ্চালনের কার্যগুলি৷",

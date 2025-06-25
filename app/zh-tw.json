@@ -2035,6 +2035,8 @@
     "json.talkgain": "增益",
     "json.talkgain.help": "談話增益控制您的輸出音量",
     "json.task": "任務",
+    "json.taskdelay": "延遲",
+    "json.taskdelay.help": "執行此任務前的延遲（秒）",
     "json.tasks": "任務",
     "json.tasksheader": "任務",
     "json.tasksheader.help": "觸發此操作時要執行的任務。",

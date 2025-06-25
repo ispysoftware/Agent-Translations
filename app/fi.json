@@ -2035,6 +2035,8 @@
     "json.talkgain": "Voitto",
     "json.talkgain.help": "Talk gain säätää lähtevän äänenvoimakkuutta.",
     "json.task": "Tehtävä",
+    "json.taskdelay": "Viive",
+    "json.taskdelay.help": "Viive ennen tämän tehtävän suorittamista (sekunteina)",
     "json.tasks": "Tehtävät",
     "json.tasksheader": "Tehtävät",
     "json.tasksheader.help": "Tehtävät, jotka suoritetaan, kun tämä toiminto käynnistetään",

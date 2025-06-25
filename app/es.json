@@ -2035,6 +2035,8 @@
     "json.talkgain": "Ganancia",
     "json.talkgain.help": "Talk gain controla el volumen de tu voz saliente.",
     "json.task": "Tarea",
+    "json.taskdelay": "Retraso",
+    "json.taskdelay.help": "Retraso antes de ejecutar esta tarea (segundos)",
     "json.tasks": "Tareas",
     "json.tasksheader": "Tareas",
     "json.tasksheader.help": "Tareas a realizar cuando se activa esta acción",

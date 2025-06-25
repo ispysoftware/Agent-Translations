@@ -2035,6 +2035,8 @@
     "json.talkgain": "Gain",
     "json.talkgain.help": "Talk gain controls your outgoing voice volume",
     "json.task": "Task",
+    "json.taskdelay": "Delay",
+    "json.taskdelay.help": "Delay before running this task (seconds)",
     "json.tasks": "Tasks",
     "json.tasksheader": "Tasks",
     "json.tasksheader.help": "Tasks to perform when this action is triggered",

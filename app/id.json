@@ -2035,6 +2035,8 @@
     "json.talkgain": "Perolehan",
     "json.talkgain.help": "Kontrol suara keluar Anda diatur oleh Talk gain.",
     "json.task": "Tugas",
+    "json.taskdelay": "Tunda",
+    "json.taskdelay.help": "Tunda sebelum menjalankan tugas ini (detik)",
     "json.tasks": "Tugas",
     "json.tasksheader": "Tugas",
     "json.tasksheader.help": "Tugas yang harus dilakukan ketika tindakan ini dipicu",

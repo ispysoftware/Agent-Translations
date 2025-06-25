@@ -2035,6 +2035,8 @@
     "json.talkgain": "Lợi nhuận",
     "json.talkgain.help": "Talk gain điều chỉnh âm lượng giọng nói đầu ra của bạn.",
     "json.task": "Nhiệm vụ",
+    "json.taskdelay": "Trì hoãn",
+    "json.taskdelay.help": "Thời gian trì hoãn trước khi chạy tác vụ này (giây)",
     "json.tasks": "Công việc",
     "json.tasksheader": "Công việc",
     "json.tasksheader.help": "Công việc cần thực hiện khi hành động này được kích hoạt",

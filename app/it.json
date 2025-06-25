@@ -2035,6 +2035,8 @@
     "json.talkgain": "Guadagno",
     "json.talkgain.help": "Il controllo del guadagno di conversazione regola il volume della tua voce in uscita.",
     "json.task": "Compito",
+    "json.taskdelay": "Ritardo",
+    "json.taskdelay.help": "Ritardo prima di eseguire questo compito (secondi)",
     "json.tasks": "Compiti",
     "json.tasksheader": "Compiti",
     "json.tasksheader.help": "Attività da eseguire quando viene attivata questa azione",

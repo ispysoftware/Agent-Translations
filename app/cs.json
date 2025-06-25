@@ -2035,6 +2035,8 @@
     "json.talkgain": "Zisk",
     "json.talkgain.help": "Talk gain ovládá hlasitost vašeho výstupního hlasu.",
     "json.task": "Úkol",
+    "json.taskdelay": "Zpoždění",
+    "json.taskdelay.help": "Zpoždění před spuštěním tohoto úkolu (sekundy)",
     "json.tasks": "Úkoly",
     "json.tasksheader": "Úkoly",
     "json.tasksheader.help": "Úkoly, které se mají provést při spuštění této akce",

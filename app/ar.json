@@ -2035,6 +2035,8 @@
     "json.talkgain": "كسب",
     "json.talkgain.help": "تحكم Talk في مستوى صوتك الخارج.",
     "json.task": "مهمة",
+    "json.taskdelay": "تأخير",
+    "json.taskdelay.help": "تأخير قبل تشغيل هذه المهمة (بالثواني)",
     "json.tasks": "مهام",
     "json.tasksheader": "مهام",
     "json.tasksheader.help": "المهام المطلوب تنفيذها عند تشغيل هذا الإجراء",

@@ -2035,6 +2035,8 @@
     "json.talkgain": "लाभ",
     "json.talkgain.help": "टॉक गेन आपके आउटगोइंग वॉयस वॉल्यूम को नियंत्रित करता है।",
     "json.task": "टास्क",
+    "json.taskdelay": "देरी",
+    "json.taskdelay.help": "इस कार्य को चलाने से पहले की देरी (सेकंड)",
     "json.tasks": "कार्य",
     "json.tasksheader": "कार्य",
     "json.tasksheader.help": "इस क्रिया के ट्रिगर होने पर किए जाने वाले कार्य।",

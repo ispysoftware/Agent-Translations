@@ -2035,6 +2035,8 @@
     "json.talkgain": "Versterking",
     "json.talkgain.help": "Praatgain regelt het volume van je uitgaande stem.",
     "json.task": "Taak",
+    "json.taskdelay": "Vertraging",
+    "json.taskdelay.help": "Vertraging voordat deze taak wordt uitgevoerd (seconden)",
     "json.tasks": "Taken",
     "json.tasksheader": "Taken",
     "json.tasksheader.help": "Taken die moeten worden uitgevoerd wanneer deze actie wordt geactiveerd",

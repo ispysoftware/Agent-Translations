@@ -2035,6 +2035,8 @@
     "json.talkgain": "Kazanç",
     "json.talkgain.help": "Talk gain, giden ses sesinizi kontrol eder.",
     "json.task": "Görev",
+    "json.taskdelay": "Gecikme",
+    "json.taskdelay.help": "Bu görevi çalıştırmadan önceki gecikme (saniye)",
     "json.tasks": "Görevler",
     "json.tasksheader": "Görevler",
     "json.tasksheader.help": "Bu eylem tetiklendiğinde gerçekleştirilecek görevler",

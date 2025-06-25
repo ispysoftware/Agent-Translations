@@ -2035,6 +2035,8 @@
     "json.talkgain": "Gain",
     "json.talkgain.help": "Le contrôle de gain de conversation régule le volume de votre voix sortante.",
     "json.task": "Tâche",
+    "json.taskdelay": "Délai",
+    "json.taskdelay.help": "Délai avant d'exécuter cette tâche (secondes)",
     "json.tasks": "Tâches",
     "json.tasksheader": "Tâches",
     "json.tasksheader.help": "Tâches à effectuer lorsque cette action est déclenchée",

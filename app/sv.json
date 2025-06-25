@@ -2035,6 +2035,8 @@
     "json.talkgain": "Vinst",
     "json.talkgain.help": "Talk gain kontrollerar din utgående röstvolym.",
     "json.task": "Uppgift",
+    "json.taskdelay": "Fördröjning",
+    "json.taskdelay.help": "Fördröjning innan denna uppgift körs (sekunder)",
     "json.tasks": "Uppgifter",
     "json.tasksheader": "Uppgifter",
     "json.tasksheader.help": "Uppgifter att utföra när den här åtgärden utlöses",
