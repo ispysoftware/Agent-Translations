@@ -850,7 +850,7 @@
     "json.aioverrideurl": "覆蓋網址",
     "json.aioverrideurl.help": "使用服務器設置中配置的備用 AI 服務器（可選） - 例如 http://localhost:82",
     "json.aiprompt": "訊息",
-    "json.aiprompt.help": "OpenAI 的訊息 - <a href=\"javascript:void();\" onclick=\"helpers.goWebsite('docs/agent/ai-config#openai-recognition')\">使用者指南</a>",
+    "json.aiprompt.help": "AI 的訊息 - <a href=\"javascript:void();\" onclick=\"helpers.goWebsite('docs/agent/ai-config#openai-recognition')\">使用者指南</a>",
     "json.aiprompting": "AI 消息",
     "json.aiprompting.help": "發送給人工智慧的訊息和要尋找以處理動作的回應（請求人工智慧正面結果）。",
     "json.aiprovider": "提供者",

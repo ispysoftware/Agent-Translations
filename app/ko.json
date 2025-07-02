@@ -851,7 +851,7 @@
     "json.aioverrideurl": "URL 재정의",
     "json.aioverrideurl.help": "서버 설정에 구성된 대체 AI 서버 사용(선택 사항) - 예: http://localhost:82",
     "json.aiprompt": "메시지",
-    "json.aiprompt.help": "OpenAI에 대한 메시지 - <a href=\"javascript:void();\" onclick=\"helpers.goWebsite('docs/agent/ai-config#openai-recognition')\">사용자 가이드</a>",
+    "json.aiprompt.help": "AI에 대한 메시지 - <a href=\"javascript:void();\" onclick=\"helpers.goWebsite('docs/agent/ai-config#openai-recognition')\">사용자 가이드</a>",
     "json.aiprompting": "AI 메시징",
     "json.aiprompting.help": "AI에게 보낼 메시지 및 처리할 작업을 위한 응답 (AI 긍정 결과 요청)을 찾으세요.",
     "json.aiprovider": "공급자",

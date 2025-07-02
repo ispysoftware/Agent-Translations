@@ -851,7 +851,7 @@
     "json.aioverrideurl": "Ghi đè URL",
     "json.aioverrideurl.help": "Sử dụng một Máy chủ AI thay thế so với cái được cấu hình trong cài đặt máy chủ (tùy chọn) - ví dụ http://localhost:82",
     "json.aiprompt": "Tin nhắn",
-    "json.aiprompt.help": "Thông điệp cho OpenAI - <a href=\"javascript:void();\" onclick=\"helpers.goWebsite('docs/agent/ai-config#openai-recognition')\">Hướng dẫn sử dụng</a>",
+    "json.aiprompt.help": "Thông điệp cho AI - <a href=\"javascript:void();\" onclick=\"helpers.goWebsite('docs/agent/ai-config#openai-recognition')\">Hướng dẫn sử dụng</a>",
     "json.aiprompting": "Tin nhắn AI",
     "json.aiprompting.help": "Thông điệp đến trí tuệ nhân tạo và phản hồi để tìm kiếm để xử lý hành động (Yêu cầu Trí tuệ Nhân tạo Kết quả Dương tính).",
     "json.aiprovider": "Nhà cung cấp",

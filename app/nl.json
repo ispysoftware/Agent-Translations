@@ -851,7 +851,7 @@
     "json.aioverrideurl": "URL overschrijven",
     "json.aioverrideurl.help": "Gebruik een alternatieve AI-server die is geconfigureerd in de serverinstellingen (optioneel) - bijv. http://localhost:82",
     "json.aiprompt": "Bericht",
-    "json.aiprompt.help": "Bericht voor OpenAI - <a href=\"javascript:void();\" onclick=\"helpers.goWebsite('docs/agent/ai-config#openai-recognition')\">Gebruikershandleiding</a>",
+    "json.aiprompt.help": "Bericht voor AI - <a href=\"javascript:void();\" onclick=\"helpers.goWebsite('docs/agent/ai-config#openai-recognition')\">Gebruikershandleiding</a>",
     "json.aiprompting": "AI Messaging",
     "json.aiprompting.help": "Berichten naar de AI en reacties om te zoeken om acties te verwerken (Vraag AI Positief Resultaat).",
     "json.aiprovider": "Leverancier",

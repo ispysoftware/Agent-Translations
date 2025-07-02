@@ -851,7 +851,7 @@
     "json.aioverrideurl": "ইউআরএল ওভাররাইড করুন",
     "json.aioverrideurl.help": "সার্ভার সেটিংসে কনফিগার করা একটি বিকল্প AI সার্ভার ব্যবহার করুন (ঐচ্ছিক) - যেমন http://localhost:82",
     "json.aiprompt": "বার্তা",
-    "json.aiprompt.help": "OpenAI-এর জন্য বার্তা - <a href=\"javascript:void();\" onclick=\"helpers.goWebsite('docs/agent/ai-config#openai-recognition')\">ব্যবহারকারী নির্দেশিকা</a>",
+    "json.aiprompt.help": "AI-এর জন্য বার্তা - <a href=\"javascript:void();\" onclick=\"helpers.goWebsite('docs/agent/ai-config#openai-recognition')\">ব্যবহারকারী নির্দেশিকা</a>",
     "json.aiprompting": "AI বার্তা",
     "json.aiprompting.help": "কার্যকর প্রতিক্রিয়া প্রসেস করার জন্য AI এবং প্রশ্ন পাঠান (আই এআই পজিটিভ ফলাফল জিজ্ঞাসা)।",
     "json.aiprovider": "প্রদানকারী",

@@ -850,7 +850,7 @@
     "json.aioverrideurl": "Zastąp adres URL",
     "json.aioverrideurl.help": "Użyj alternatywnego serwera AI do skonfigurowanego w ustawieniach serwera (opcjonalnie) - np. http://localhost:82",
     "json.aiprompt": "Wiadomość",
-    "json.aiprompt.help": "Wiadomość dla OpenAI - <a href=\"javascript:void();\" onclick=\"helpers.goWebsite('docs/agent/ai-config#openai-recognition')\">Przewodnik użytkownika</a>",
+    "json.aiprompt.help": "Wiadomość dla AI - <a href=\"javascript:void();\" onclick=\"helpers.goWebsite('docs/agent/ai-config#openai-recognition')\">Przewodnik użytkownika</a>",
     "json.aiprompting": "Komunikacja AI",
     "json.aiprompting.help": "Wiadomości do SI i odpowiedzi do wyszukania w celu przetworzenia działań (Zapytaj SI Pozytywny Wynik).",
     "json.aiprovider": "Dostawca",

@@ -851,7 +851,7 @@
     "json.aioverrideurl": "URL'yi geçersiz kıl",
     "json.aioverrideurl.help": "Sunucu ayarlarında yapılandırılana alternatif bir AI Sunucusu kullanın (isteğe bağlı) - örneğin http://localhost:82",
     "json.aiprompt": "İleti",
-    "json.aiprompt.help": "OpenAI için mesaj - <a href=\"javascript:void();\" onclick=\"helpers.goWebsite('docs/agent/ai-config#openai-recognition')\">Kullanıcı kılavuzu</a>",
+    "json.aiprompt.help": "AI için mesaj - <a href=\"javascript:void();\" onclick=\"helpers.goWebsite('docs/agent/ai-config#openai-recognition')\">Kullanıcı kılavuzu</a>",
     "json.aiprompting": "AI Mesajlaşma",
     "json.aiprompting.help": "İşlemleri işlemek için AI'ya mesajlar ve aranacak yanıtlar (AI'ya Pozitif Sonuç Sor).",
     "json.aiprovider": "Sağlayıcı",

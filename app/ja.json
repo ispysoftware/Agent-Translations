@@ -851,7 +851,7 @@
     "json.aioverrideurl": "URLを上書きする",
     "json.aioverrideurl.help": "サーバー設定で構成されたものとは別のAIサーバーを使用します（オプション）-例：http：// localhost：82",
     "json.aiprompt": "メッセージ",
-    "json.aiprompt.help": "OpenAI へのメッセージ - <a href=\"javascript:void();\" onclick=\"helpers.goWebsite('docs/agent/ai-config#openai-recognition')\">ユーザーガイド</a>",
+    "json.aiprompt.help": "AI へのメッセージ - <a href=\"javascript:void();\" onclick=\"helpers.goWebsite('docs/agent/ai-config#openai-recognition')\">ユーザーガイド</a>",
     "json.aiprompting": "AI メッセージング",
     "json.aiprompting.help": "AI へのメッセージとアクションを処理するための返信を探すための指示 (AI に質問してポジティブな結果を得る)。",
     "json.aiprovider": "プロバイダー",

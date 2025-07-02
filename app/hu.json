@@ -851,7 +851,7 @@
     "json.aioverrideurl": "URL felülírása",
     "json.aioverrideurl.help": "Használjon alternatív MI-kiszolgálót a szerverbeállításokban konfigurálttól eltérően (opcionális) - pl. http://localhost:82",
     "json.aiprompt": "Üzenet",
-    "json.aiprompt.help": "Üzenet az OpenAI-nak - <a href=\"javascript:void();\" onclick=\"helpers.goWebsite('docs/agent/ai-config#openai-recognition')\">Felhasználói útmutató</a>",
+    "json.aiprompt.help": "Üzenet az AI-nak - <a href=\"javascript:void();\" onclick=\"helpers.goWebsite('docs/agent/ai-config#openai-recognition')\">Felhasználói útmutató</a>",
     "json.aiprompting": "MI üzenetküldés",
     "json.aiprompting.help": "Üzenetek a MI-nek és a keresendő válaszok műveletek feldolgozásához (AI pozitív eredmény kérése).",
     "json.aiprovider": "Szolgáltató",

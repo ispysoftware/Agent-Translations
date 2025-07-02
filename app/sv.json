@@ -851,7 +851,7 @@
     "json.aioverrideurl": "Åsidosätt URL",
     "json.aioverrideurl.help": "Använd en alternativ AI-server till den som konfigurerats i serverinställningar (valfritt) - t.ex. http://localhost:82",
     "json.aiprompt": "Meddelande",
-    "json.aiprompt.help": "Meddelande för OpenAI - <a href=\"javascript:void();\" onclick=\"helpers.goWebsite('docs/agent/ai-config#openai-recognition')\">Användarguide</a>",
+    "json.aiprompt.help": "Meddelande för AI - <a href=\"javascript:void();\" onclick=\"helpers.goWebsite('docs/agent/ai-config#openai-recognition')\">Användarguide</a>",
     "json.aiprompting": "AI Meddelanden",
     "json.aiprompting.help": "Meddelanden till AI och svar att leta efter för att behandla åtgärder (Fråga AI Positivt Resultat).",
     "json.aiprovider": "Leverantör",

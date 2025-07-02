@@ -850,7 +850,7 @@
     "json.aioverrideurl": "Anular URL",
     "json.aioverrideurl.help": "Use un servidor AI alternativo al configurado en la configuración del servidor (opcional), por ejemplo, http://localhost:82",
     "json.aiprompt": "Mensaje",
-    "json.aiprompt.help": "Mensaje para OpenAI - <a href=\"javascript:void();\" onclick=\"helpers.goWebsite('docs/agent/ai-config#openai-recognition')\">Guía del usuario</a>",
+    "json.aiprompt.help": "Mensaje para AI - <a href=\"javascript:void();\" onclick=\"helpers.goWebsite('docs/agent/ai-config#openai-recognition')\">Guía del usuario</a>",
     "json.aiprompting": "Mensajería de IA",
     "json.aiprompting.help": "Mensajes al IA y respuestas a buscar para procesar acciones (Solicitar resultado positivo al IA).",
     "json.aiprovider": "Proveedor",

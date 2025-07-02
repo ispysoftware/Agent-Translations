@@ -851,7 +851,7 @@
     "json.aioverrideurl": "تجاوز URL",
     "json.aioverrideurl.help": "استخدم خادم AI بديل لذلك الذي تم تكوينه في إعدادات الخادم (اختياري) - على سبيل المثال http: // localhost: 82",
     "json.aiprompt": "رسالة",
-    "json.aiprompt.help": "رسالة لـ OpenAI - <a href=\"javascript:void();\" onclick=\"helpers.goWebsite('docs/agent/ai-config#openai-recognition')\">دليل المستخدم</a>",
+    "json.aiprompt.help": "رسالة لـ AI - <a href=\"javascript:void();\" onclick=\"helpers.goWebsite('docs/agent/ai-config#openai-recognition')\">دليل المستخدم</a>",
     "json.aiprompting": "التواصل الذكي",
     "json.aiprompting.help": "رسائل إلى الذكاء الاصطناعي والردود المتوقعة لمعالجة الإجراءات (طلب نتيجة إيجابية من الذكاء الاصطناعي).",
     "json.aiprovider": "مزود",

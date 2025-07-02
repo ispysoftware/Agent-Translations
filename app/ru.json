@@ -850,7 +850,7 @@
     "json.aioverrideurl": "Переопределить URL",
     "json.aioverrideurl.help": "Использовать альтернативный AI-сервер, отличный от того, что задан в настройках (необязательно), напр. http://localhost:82",
     "json.aiprompt": "Сообщение",
-    "json.aiprompt.help": "Сообщение для OpenAI — <a href=\"javascript:void();\" onclick=\"helpers.goWebsite('docs/agent/ai-config#openai-recognition')\">Руководство</a>",
+    "json.aiprompt.help": "Сообщение для AI — <a href=\"javascript:void();\" onclick=\"helpers.goWebsite('docs/agent/ai-config#openai-recognition')\">Руководство</a>",
     "json.aiprompting": "Обмен сообщениями с ИИ",
     "json.aiprompting.help": "Сообщения, отправляемые ИИ, и ответы, на которые нужно реагировать действиями (Ask AI Positive Result).",
     "json.aiprovider": "Провайдер",

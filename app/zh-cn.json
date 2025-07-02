@@ -851,7 +851,7 @@
     "json.aioverrideurl": "覆盖网址",
     "json.aioverrideurl.help": "使用服务器设置中配置的备用 AI 服务器（可选） - 例如 http://localhost:82",
     "json.aiprompt": "信息",
-    "json.aiprompt.help": "OpenAI 的消息 - <a href=\"javascript:void();\" onclick=\"helpers.goWebsite('docs/agent/ai-config#openai-recognition')\">用户指南</a>",
+    "json.aiprompt.help": "AI 的消息 - <a href=\"javascript:void();\" onclick=\"helpers.goWebsite('docs/agent/ai-config#openai-recognition')\">用户指南</a>",
     "json.aiprompting": "AI消息",
     "json.aiprompting.help": "查找要处理的 AI 消息和响应（请求 AI 正面结果）。",
     "json.aiprovider": "提供者",

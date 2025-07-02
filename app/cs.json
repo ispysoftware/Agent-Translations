@@ -851,7 +851,7 @@
     "json.aioverrideurl": "Přepsat URL",
     "json.aioverrideurl.help": "Použijte alternativní server AI k serveru nakonfigurovanému v nastavení serveru (volitelné) – např. http://localhost:82",
     "json.aiprompt": "Zpráva",
-    "json.aiprompt.help": "Zpráva pro OpenAI - <a href=\"javascript:void();\" onclick=\"helpers.goWebsite('docs/agent/ai-config#openai-recognition')\">Uživatelská příručka</a>",
+    "json.aiprompt.help": "Zpráva pro AI - <a href=\"javascript:void();\" onclick=\"helpers.goWebsite('docs/agent/ai-config#openai-recognition')\">Uživatelská příručka</a>",
     "json.aiprompting": "AI Zprávy",
     "json.aiprompting.help": "Zprávy pro umělou inteligenci a odpovědi, které hledat k zpracování akcí (Požádat AI o pozitivní výsledek).",
     "json.aiprovider": "Poskytovatel",

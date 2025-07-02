@@ -851,7 +851,7 @@
     "json.aioverrideurl": "URL ओवरराइड करें",
     "json.aioverrideurl.help": "सर्वर सेटिंग्स में कॉन्फ़िगर किए गए वैकल्पिक AI सर्वर का उपयोग करें (वैकल्पिक) - जैसे http://localhost:82",
     "json.aiprompt": "संदेश",
-    "json.aiprompt.help": "OpenAI के लिए संदेश - <a href='javascript:void();' onclick='helpers.goWebsite('docs/agent/ai-config#openai-recognition')'>यूजरगाइड</a>",
+    "json.aiprompt.help": "AI के लिए संदेश - <a href='javascript:void();' onclick='helpers.goWebsite('docs/agent/ai-config#openai-recognition')'>यूजरगाइड</a>",
     "json.aiprompting": "AI संदेशिका",
     "json.aiprompting.help": "क्रियाएँ प्रसंस्करण करने के लिए AI को संदेश और प्रतिक्रियाएँ खोजने के लिए (AI से सकारात्मक परिणाम पूछें)।",
     "json.aiprovider": "प्रदाता",

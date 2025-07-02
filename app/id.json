@@ -851,7 +851,7 @@
     "json.aioverrideurl": "Mengesampingkan URL",
     "json.aioverrideurl.help": "Gunakan Server AI alternatif yang dikonfigurasi dalam pengaturan server (opsional) - contoh http://localhost:82",
     "json.aiprompt": "Pesan",
-    "json.aiprompt.help": "Pesan untuk OpenAI - <a href=\"javascript:void();\" onclick=\"helpers.goWebsite('docs/agent/ai-config#openai-recognition')\">Panduan Pengguna</a>",
+    "json.aiprompt.help": "Pesan untuk AI - <a href=\"javascript:void();\" onclick=\"helpers.goWebsite('docs/agent/ai-config#openai-recognition')\">Panduan Pengguna</a>",
     "json.aiprompting": "Pesan AI",
     "json.aiprompting.help": "Pesan ke AI dan respons yang dicari untuk memproses tindakan (Minta AI Hasil Positif).",
     "json.aiprovider": "Penyedia",

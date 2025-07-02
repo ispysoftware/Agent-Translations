@@ -851,7 +851,7 @@
     "json.aioverrideurl": "Tilsidesæt URL",
     "json.aioverrideurl.help": "Brug en alternativ AI-server til den, der er konfigureret i serverindstillinger (valgfrit) - f.eks. http://localhost:82",
     "json.aiprompt": "Besked",
-    "json.aiprompt.help": "Besked til OpenAI - <a href=\"javascript:void();\" onclick=\"helpers.goWebsite('docs/agent/ai-config#openai-recognition')\">Brugervejledning</a>",
+    "json.aiprompt.help": "Besked til AI - <a href=\"javascript:void();\" onclick=\"helpers.goWebsite('docs/agent/ai-config#openai-recognition')\">Brugervejledning</a>",
     "json.aiprompting": "AI Beskeder",
     "json.aiprompting.help": "Beskeder til AI'en og svar at lede efter for at behandle handlinger (Spørg AI Positivt Resultat).",
     "json.aiprovider": "Udbyder",

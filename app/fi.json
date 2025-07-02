@@ -850,7 +850,7 @@
     "json.aioverrideurl": "Ohita URL-osoite",
     "json.aioverrideurl.help": "Käytä vaihtoehtoista AI-palvelinta palvelinasetuksissa määritetylle AI-palvelimelle (valinnainen) - esim. http://localhost:82",
     "json.aiprompt": "Viesti",
-    "json.aiprompt.help": "Viesti OpenAI:lle - <a href=\"javascript:void();\" onclick=\"helpers.goWebsite('docs/agent/ai-config#openai-recognition')\">Käyttöopas</a>",
+    "json.aiprompt.help": "Viesti AI:lle - <a href=\"javascript:void();\" onclick=\"helpers.goWebsite('docs/agent/ai-config#openai-recognition')\">Käyttöopas</a>",
     "json.aiprompting": "AI-viestintä",
     "json.aiprompting.help": "Viestit tekoälylle ja vastaukset, joita etsiä toimintojen käsittelyä varten (Kysy AI Positiivinen Tulos).",
     "json.aiprovider": "Palveluntarjoaja",
