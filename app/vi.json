@@ -1233,6 +1233,8 @@
     "json.filename2.help": "Ví dụ: {0:yyyy-MM-dd_HH-mm-ss_fff} (không bao gồm phần mở rộng)",
     "json.filenameftpimage": "Tên tệp",
     "json.filenameftpimage.help": "Ví dụ: {0:yyyy-MM-dd_HH-mm-ss_fff}.jpg hoặc mycam/{0:dd}/{C}.jpg",
+    "json.filenameftplocal": "Tên tệp FTP",
+    "json.filenameftplocal.help": "Ví dụ: {0:yyyy-MM-dd_HH-mm-ss_fff}.jpg",
     "json.filenameftpvideo": "Tên tệp",
     "json.filenameftpvideo.help": "Ví dụ: {0:yyyy-MM-dd_HH-mm-ss_fff} hoặc mycam/{0:dd}/{C} (loại bỏ phần mở rộng)",
     "json.filenameimage": "Tên tệp",

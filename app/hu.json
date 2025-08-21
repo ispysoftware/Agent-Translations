@@ -1233,6 +1233,8 @@
     "json.filename2.help": "Példa: {0:éééé-HH-nn_ÓÓ-pp-mm_fff} (kiterjesztés kizárva)",
     "json.filenameftpimage": "Fájlnév",
     "json.filenameftpimage.help": "Példa: {0:éééé-HH-nn_ÓÓ-pp-mm_fff}.jpg vagy mycam/{0:dd}/{C}.jpg",
+    "json.filenameftplocal": "FTP fájlnév",
+    "json.filenameftplocal.help": "Példa: {0:yyyy-MM-dd_HH-mm-ss_fff}.jpg",
     "json.filenameftpvideo": "Fájlnév",
     "json.filenameftpvideo.help": "Példa: {0:éééé-HH-nn_ÓÓ-pp-mm_fff} vagy mycam/{0:dd}/{C} (kiterjesztés kizárva)",
     "json.filenameimage": "Fájlnév",

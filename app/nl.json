@@ -1233,6 +1233,8 @@
     "json.filename2.help": "Voorbeeld: {0:yyyy-MM-dd_HH-mm-ss_fff}",
     "json.filenameftpimage": "Bestandsnaam",
     "json.filenameftpimage.help": "Voorbeeld: {0:yyyy-MM-dd_HH-mm-ss_fff}.jpg of mycam/{0:dd}/{C}.jpg",
+    "json.filenameftplocal": "FTP-bestandsnaam",
+    "json.filenameftplocal.help": "Voorbeeld: {0:yyyy-MM-dd_HH-mm-ss_fff}.jpg",
     "json.filenameftpvideo": "Bestandsnaam",
     "json.filenameftpvideo.help": "Voorbeeld: {0:yyyy-MM-dd_HH-mm-ss_fff} of mycam/{0:dd}/{C} (exclusief extensie)",
     "json.filenameimage": "Bestandsnaam",

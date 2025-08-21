@@ -1233,6 +1233,8 @@
     "json.filename2.help": "Exempel: {0:yyyy-MM-dd_HH-mm-ss_fff} (exkludera tillägg)",
     "json.filenameftpimage": "Filnamn",
     "json.filenameftpimage.help": "Exempel: {0:yyyy-MM-dd_HH-mm-ss_fff}.jpg eller mycam/{0:dd}/{C}.jpg",
+    "json.filenameftplocal": "FTP filnamn",
+    "json.filenameftplocal.help": "Exempel: {0:yyyy-MM-dd_HH-mm-ss_fff}.jpg",
     "json.filenameftpvideo": "Filnamn",
     "json.filenameftpvideo.help": "Exempel: {0:yyyy-MM-dd_HH-mm-ss_fff} eller mycam/{0:dd}/{C} (exkludera tillägg)",
     "json.filenameimage": "Filnamn",

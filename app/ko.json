@@ -1233,6 +1233,8 @@
     "json.filename2.help": "예: {0:yyyy-MM-dd_HH-mm-ss_fff}(확장자 제외)",
     "json.filenameftpimage": "파일 이름",
     "json.filenameftpimage.help": "예: {0:yyyy-MM-dd_HH-mm-ss_fff}.jpg 또는 mycam/{0:dd}/{C}.jpg",
+    "json.filenameftplocal": "FTP 파일 이름",
+    "json.filenameftplocal.help": "예: {0:yyyy-MM-dd_HH-mm-ss_fff}.jpg",
     "json.filenameftpvideo": "파일 이름",
     "json.filenameftpvideo.help": "예: {0:yyyy-MM-dd_HH-mm-ss_fff} 또는 mycam/{0:dd}/{C}(확장자 제외)",
     "json.filenameimage": "파일 이름",

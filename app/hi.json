@@ -1233,6 +1233,8 @@
     "json.filename2.help": "उदाहरण: {0:yyyy-MM-dd_HH-mm-ss_fff}",
     "json.filenameftpimage": "फ़ाइल का नाम",
     "json.filenameftpimage.help": "उदाहरण: {0:yyyy-MM-dd_HH-mm-ss_fff}.jpg या mycam/{0:dd}/{C}.jpg",
+    "json.filenameftplocal": "FTP फ़ाइल नाम",
+    "json.filenameftplocal.help": "उदाहरण: {0:yyyy-MM-dd_HH-mm-ss_fff}.jpg",
     "json.filenameftpvideo": "फ़ाइल का नाम",
     "json.filenameftpvideo.help": "उदाहरण: {0:yyyy-MM-dd_HH-mm-ss_fff} या mycam/{0:dd}/{C} (एक्सटेंशन को छोड़ दें)",
     "json.filenameimage": "फ़ाइल का नाम",

@@ -1233,6 +1233,8 @@
     "json.filename2.help": "Příklad:  {0:yyyy-MM-dd_HH-mm-ss_fff}",
     "json.filenameftpimage": "Název souboru",
     "json.filenameftpimage.help": "Příklad: {0:yyyy-MM-dd_HH-mm-ss_fff}.jpg nebo mycam/{0:dd}/{C}.jpg",
+    "json.filenameftplocal": "FTP Název souboru",
+    "json.filenameftplocal.help": "Příklad: {0:yyyy-MM-dd_HH-mm-ss_fff}.jpg",
     "json.filenameftpvideo": "Název souboru",
     "json.filenameftpvideo.help": "Příklad: {0:yyyy-MM-dd_HH-mm-ss_fff} nebo mycam/{0:dd}/{C} (vyloučit rozšíření)",
     "json.filenameimage": "Název souboru",

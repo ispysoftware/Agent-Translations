@@ -1233,6 +1233,8 @@
     "json.filename2.help": "Örnek:  {0:yyyy-MM-dd_HH-mm-ss_fff} (uzantı hariç)",
     "json.filenameftpimage": "Dosya adı",
     "json.filenameftpimage.help": "Örnek:  {0:yyyy-MM-dd_HH-mm-ss_fff}.jpg veya mycam/{0:dd}/{C}.jpg",
+    "json.filenameftplocal": "FTP Dosya Adı",
+    "json.filenameftplocal.help": "Örnek: {0:yyyy-MM-dd_HH-mm-ss_fff}.jpg",
     "json.filenameftpvideo": "Dosya adı",
     "json.filenameftpvideo.help": "Örnek:  {0:yyyy-MM-dd_HH-mm-ss_fff} veya mycam/{0:dd}/{C} (uzantı hariç)",
     "json.filenameimage": "Dosya adı",

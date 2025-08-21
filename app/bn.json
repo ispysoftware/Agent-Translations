@@ -1233,6 +1233,8 @@
     "json.filename2.help": "উদাহরণ:  {0:yyyy-MM-dd_HH-mm-ss_fff}",
     "json.filenameftpimage": "ফাইলের নাম",
     "json.filenameftpimage.help": "উদাহরণ: {0:yyyy-MM-dd_HH-mm-ss_fff}.jpg বা mycam/{0:dd}/{C}.jpg",
+    "json.filenameftplocal": "এফটিপি ফাইলের নাম",
+    "json.filenameftplocal.help": "উদাহরণ: {0:yyyy-MM-dd_HH-mm-ss_fff}.jpg",
     "json.filenameftpvideo": "ফাইলের নাম",
     "json.filenameftpvideo.help": "উদাহরণ: {0:yyyy-MM-dd_HH-mm-ss_fff} বা mycam/{0:dd}/{C} (এক্সটেনশন বাদ দিন)",
     "json.filenameimage": "ফাইলের নাম",

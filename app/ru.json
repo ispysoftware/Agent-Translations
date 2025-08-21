@@ -1233,6 +1233,8 @@
     "json.filename2.help": "Например: {0:yyyy-MM-dd_HH-mm-ss_fff} (без расширения)",
     "json.filenameftpimage": "Имя файла",
     "json.filenameftpimage.help": "Например: {0:yyyy-MM-dd_HH-mm-ss_fff}.jpg или mycam/{0:dd}/{C}.jpg",
+    "json.filenameftplocal": "FTP имя файла",
+    "json.filenameftplocal.help": "Пример: {0:yyyy-MM-dd_HH-mm-ss_fff}.jpg",
     "json.filenameftpvideo": "Имя файла",
     "json.filenameftpvideo.help": "Например: {0:yyyy-MM-dd_HH-mm-ss_fff} или mycam/{0:dd}/{C} (без расширения)",
     "json.filenameimage": "Имя файла",

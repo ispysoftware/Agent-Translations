@@ -1233,6 +1233,8 @@
     "json.filename2.help": "Esempio:  {0:yyyy-MM-dd_HH-mm-ss_fff}",
     "json.filenameftpimage": "Nome del file",
     "json.filenameftpimage.help": "Esempio:  {0:yyyy-MM-dd_HH-mm-ss_fff}.jpg o mycam/{0:dd}/{C}.jpg",
+    "json.filenameftplocal": "Nome file FTP",
+    "json.filenameftplocal.help": "Esempio: {0:yyyy-MM-dd_HH-mm-ss_fff}.jpg",
     "json.filenameftpvideo": "Nome del file",
     "json.filenameftpvideo.help": "Esempio: {0:yyyy-MM-dd_HH-mm-ss_fff}.jpg o mycam/{0:dd}/{C} (escludi estensione)",
     "json.filenameimage": "Nome del file",

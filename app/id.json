@@ -1233,6 +1233,8 @@
     "json.filename2.help": "Contoh: {0:yyyy-MM-dd_HH-mm-ss_fff} (tidak termasuk ekstensi)",
     "json.filenameftpimage": "Nama file",
     "json.filenameftpimage.help": "Contoh: {0:yyyy-MM-dd_HH-mm-ss_fff}.jpg atau mycam/{0:dd}/{C}.jpg",
+    "json.filenameftplocal": "Nama File FTP",
+    "json.filenameftplocal.help": "Contoh: {0:yyyy-MM-dd_HH-mm-ss_fff}.jpg",
     "json.filenameftpvideo": "Nama file",
     "json.filenameftpvideo.help": "Contoh: {0:yyyy-MM-dd_HH-mm-ss_fff} atau mycam/{0:dd}/{C} (tidak termasuk ekstensi)",
     "json.filenameimage": "Nama file",

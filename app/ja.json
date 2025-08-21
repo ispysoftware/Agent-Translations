@@ -1233,6 +1233,8 @@
     "json.filename2.help": "例： {0:yyyy-MM-dd_HH-mm-ss_fff} （拡張子を除く）",
     "json.filenameftpimage": "ファイル名",
     "json.filenameftpimage.help": "例： {0:yyyy-MM-dd_HH-mm-ss_fff}.jpg また mycam/{0:dd}/{C}.jpg",
+    "json.filenameftplocal": "FTPファイル名",
+    "json.filenameftplocal.help": "例: {0:yyyy-MM-dd_HH-mm-ss_fff}.jpg",
     "json.filenameftpvideo": "ファイル名",
     "json.filenameftpvideo.help": "例： {0:yyyy-MM-dd_HH-mm-ss_fff}  また mycam/{0:dd}/{C}（拡張子を除く）",
     "json.filenameimage": "ファイル名",

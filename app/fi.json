@@ -1233,6 +1233,8 @@
     "json.filename2.help": "Esimerkki: {0:yyyy-MM-dd_HH-mm-ss_fff} (jätä pääte pois)",
     "json.filenameftpimage": "Tiedostonimi",
     "json.filenameftpimage.help": "Esimerkki: {0:yyyy-MM-dd_HH-mm-ss_fff}.jpg tai mycam/{0:dd}/{C}.jpg",
+    "json.filenameftplocal": "FTP-tiedostonimi",
+    "json.filenameftplocal.help": "Esimerkki: {0:yyyy-MM-dd_HH-mm-ss_fff}.jpg",
     "json.filenameftpvideo": "Tiedostonimi",
     "json.filenameftpvideo.help": "Esimerkki: {0:yyyy-MM-dd_HH-mm-ss_fff} tai mycam/{0:dd}/{C} (jätä pääte pois)",
     "json.filenameimage": "Tiedostonimi",
