@@ -398,6 +398,7 @@
   "no_subscription": "Vaše licence pro vzdálený přístup vypršela.",
   "nodevices": "Žádná zařízení",
   "nofilesselected": "Nebyly vybrány žádné soubory",
+  "nolocalice": "Něco blokuje místní připojení. <a href=\"#\" onclick=\"helpers.goWebsite('docs/agent/lanaccess#no-local-ice',event)\">Nápověda</a>",
   "nomatches": "Nic nenalezeno",
   "nomorerecordings": "Konec záznamů",
   "none": "Žádný",

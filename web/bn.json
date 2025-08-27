@@ -398,6 +398,7 @@
   "no_subscription": "আপনার রিমোট অ্যাক্সেস লাইসেন্সের মেয়াদ শেষ হয়ে গেছে।",
   "nodevices": "কোনো ডিভাইস নেই",
   "nofilesselected": "কোন ফাইল নির্বাচন করা হয়নি",
+  "nolocalice": "কিছু স্থানীয় সংযোগ ব্লক করছে। <a href=\"#\" onclick=\"helpers.goWebsite('docs/agent/lanaccess#no-local-ice',event)\">সাহায্য</a>",
   "nomatches": "কিছুই পাওয়া যায়নি",
   "nomorerecordings": "রেকর্ডিং শেষ",
   "none": "কোনটিই নয়",

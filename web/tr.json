@@ -398,6 +398,7 @@
   "no_subscription": "Uzaktan erişim lisansınızın süresi dolmuştur.",
   "nodevices": "Cihaz Yok",
   "nofilesselected": "Dosya Seçilmedi",
+  "nolocalice": "Yerel bağlantılar engelleniyor. <a href=\"#\" onclick=\"helpers.goWebsite('docs/agent/lanaccess#no-local-ice',event)\">Yardım</a>",
   "nomatches": "Hiçbirşey Bulunamadı",
   "nomorerecordings": "Kayıtların Sonu",
   "none": "Hiçbiri",

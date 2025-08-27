@@ -398,6 +398,7 @@
   "no_subscription": "لقد انتهت صلاحية ترخيص الوصول عن بُعد الخاص بك",
   "nodevices": "لا توجد أجهزة",
   "nofilesselected": "لم يتم تحديد ملفات",
+  "nolocalice": "شيء ما يمنع الاتصالات المحلية. <a href=\"#\" onclick=\"helpers.goWebsite('docs/agent/lanaccess#no-local-ice',event)\">مساعدة</a>",
   "nomatches": "لم يتم العثور على شيء",
   "nomorerecordings": "نهاية التسجيلات",
   "none": "لا أحد",

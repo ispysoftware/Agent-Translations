@@ -398,6 +398,7 @@
   "no_subscription": "Votre licence d'accès à distance a expiré.",
   "nodevices": "Aucun appareil",
   "nofilesselected": "Aucun fichier sélectionné",
+  "nolocalice": "Quelque chose bloque les connexions locales. <a href=\"#\" onclick=\"helpers.goWebsite('docs/agent/lanaccess#no-local-ice',event)\">Aide</a>",
   "nomatches": "Aucun résultat",
   "nomorerecordings": "Fin des enregistrements",
   "none": "Aucun",

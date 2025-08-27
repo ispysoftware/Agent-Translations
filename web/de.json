@@ -398,6 +398,7 @@
   "no_subscription": "Ihre Fernzugriffs Lizenz ist abgelaufen.",
   "nodevices": "Keine Geräte",
   "nofilesselected": "Keine Dateien ausgewählt",
+  "nolocalice": "Etwas blockiert lokale Verbindungen. <a href=\"#\" onclick=\"helpers.goWebsite('docs/agent/lanaccess#no-local-ice',event)\">Hilfe</a>",
   "nomatches": "Nichts gefunden",
   "nomorerecordings": "Ende der Aufnahmen",
   "none": "Keiner",

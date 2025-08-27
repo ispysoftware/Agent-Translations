@@ -398,6 +398,7 @@
   "no_subscription": "Lisensi akses jarak jauh Anda telah kedaluwarsa.",
   "nodevices": "Tidak Ada Perangkat",
   "nofilesselected": "Tidak Ada File yang Dipilih",
+  "nolocalice": "Sesuatu menghalangi koneksi lokal. <a href=\"#\" onclick=\"helpers.goWebsite('docs/agent/lanaccess#no-local-ice',event)\">Bantuan</a>",
   "nomatches": "Tidak ditemukan",
   "nomorerecordings": "Akhir Rekaman",
   "none": "Tidak ada",

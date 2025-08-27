@@ -398,6 +398,7 @@
   "no_subscription": "Giấy phép truy cập từ xa của bạn đã hết hạn.",
   "nodevices": "Không có Thiết bị",
   "nofilesselected": "Không có tệp nào được chọn",
+  "nolocalice": "Có điều gì đó đang chặn các kết nối cục bộ. <a href=\"#\" onclick=\"helpers.goWebsite('docs/agent/lanaccess#no-local-ice',event)\">Trợ giúp</a>",
   "nomatches": "Không tìm thấy",
   "nomorerecordings": "Kết thúc Ghi lại",
   "none": "Không",

@@ -398,6 +398,7 @@
   "no_subscription": "您的遠端存取許可證已過期",
   "nodevices": "沒有裝置",
   "nofilesselected": "未選擇任何檔案",
+  "nolocalice": "某些東西正在阻止本地連接。<a href=\"#\" onclick=\"helpers.goWebsite('docs/agent/lanaccess#no-local-ice',event)\">幫助</a>",
   "nomatches": "沒有符合的項目",
   "nomorerecordings": "已無更多錄影",
   "none": "無",

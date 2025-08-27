@@ -398,6 +398,7 @@
   "no_subscription": "Uw externe toegang licentie is verlopen.",
   "nodevices": "Geen apparaten",
   "nofilesselected": "Geen bestanden geselecteerd",
+  "nolocalice": "Iets blokkeert lokale verbindingen. <a href=\"#\" onclick=\"helpers.goWebsite('docs/agent/lanaccess#no-local-ice',event)\">Help</a>",
   "nomatches": "Niets gevonden",
   "nomorerecordings": "Einde opnames",
   "none": "Geen",

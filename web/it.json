@@ -398,6 +398,7 @@
   "no_subscription": "La tua licenza di accesso remoto è scaduta.",
   "nodevices": "Nessun dispositivo",
   "nofilesselected": "Nessun file selezionato",
+  "nolocalice": "Qualcosa sta bloccando le connessioni locali. <a href=\"#\" onclick=\"helpers.goWebsite('docs/agent/lanaccess#no-local-ice',event)\">Aiuto</a>",
   "nomatches": "Non abbiamo trovato nulla",
   "nomorerecordings": "Fine delle registrazioni",
   "none": "Nessuna",

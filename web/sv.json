@@ -398,6 +398,7 @@
   "no_subscription": "Din fjärråtkomstlicens har gått ut.",
   "nodevices": "Inga enheter",
   "nofilesselected": "Inga filer har valts",
+  "nolocalice": "Något blockerar lokala anslutningar. <a href=\"#\" onclick=\"helpers.goWebsite('docs/agent/lanaccess#no-local-ice',event)\">Hjälp</a>",
   "nomatches": "Inget hittat",
   "nomorerecordings": "Slut på inspelningar",
   "none": "Ingen",

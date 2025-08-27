@@ -398,6 +398,7 @@
   "no_subscription": "Ваш лицензия на удаленный доступ истекла.",
   "nodevices": "Нет устройств",
   "nofilesselected": "Нет выбранных файлов",
+  "nolocalice": "Что-то блокирует локальные соединения. <a href=\"#\" onclick=\"helpers.goWebsite('docs/agent/lanaccess#no-local-ice',event)\">Помощь</a>",
   "nomatches": "Ничего не найдено",
   "nomorerecordings": "Записи закончились",
   "none": "Нет",

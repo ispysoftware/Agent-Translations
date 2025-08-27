@@ -398,6 +398,7 @@
   "no_subscription": "Din fjernadgangslicens er udløbet.",
   "nodevices": "Ingen enheder",
   "nofilesselected": "Ingen filer valgt",
+  "nolocalice": "Noget blokerer lokale forbindelser. <a href=\"#\" onclick=\"helpers.goWebsite('docs/agent/lanaccess#no-local-ice',event)\">Hjælp</a>",
   "nomatches": "Intet fundet",
   "nomorerecordings": "Slut på optagelser",
   "none": "Ingen",

@@ -398,6 +398,7 @@
   "no_subscription": "Távoli hozzáférési engedélye lejárt",
   "nodevices": "Nincsenek Eszközök",
   "nofilesselected": "Nincsenek kiválasztva fájlok",
+  "nolocalice": "Valami blokkolja a helyi kapcsolatokat. <a href=\"#\" onclick=\"helpers.goWebsite('docs/agent/lanaccess#no-local-ice',event)\">Segítség</a>",
   "nomatches": "Nem találtunk semmit",
   "nomorerecordings": "Felvételek vége",
   "none": "Egyik sem",

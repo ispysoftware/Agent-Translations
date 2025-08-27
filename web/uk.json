@@ -398,6 +398,7 @@
   "no_subscription": "Ваш ліцензійний доступ до віддаленого доступу закінчився.",
   "nodevices": "Немає пристроїв",
   "nofilesselected": "Не вибрано жодного файлу",
+  "nolocalice": "Щось блокує локальні з'єднання. <a href=\"#\" onclick=\"helpers.goWebsite('docs/agent/lanaccess#no-local-ice',event)\">Допомога</a>",
   "nomatches": "Нічого не знайдено",
   "nomorerecordings": "Кінець записів",
   "none": "Жоден",

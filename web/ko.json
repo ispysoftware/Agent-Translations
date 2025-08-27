@@ -398,6 +398,7 @@
   "no_subscription": "귀하의 원격 액세스 라이센스가 만료되었습니다.",
   "nodevices": "장치 없음",
   "nofilesselected": "선택된 파일이 없습니다",
+  "nolocalice": "로컬 연결을 차단하는 것이 있습니다. <a href=\"#\" onclick=\"helpers.goWebsite('docs/agent/lanaccess#no-local-ice',event)\">도움말</a>",
   "nomatches": "아무것도 찾을 수 없음",
   "nomorerecordings": "녹음 종료",
   "none": "없음",

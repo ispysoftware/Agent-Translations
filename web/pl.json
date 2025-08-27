@@ -398,6 +398,7 @@
   "no_subscription": "Twoja licencja na zdalny dostęp wygasła.",
   "nodevices": "Brak urządzeń",
   "nofilesselected": "Nie wybrano plików",
+  "nolocalice": "Coś blokuje lokalne połączenia. <a href=\"#\" onclick=\"helpers.goWebsite('docs/agent/lanaccess#no-local-ice',event)\">Pomoc</a>",
   "nomatches": "Nic nie znaleziono",
   "nomorerecordings": "Koniec nagrań",
   "none": "Żaden",

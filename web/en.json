@@ -398,6 +398,7 @@
   "no_subscription": "Your remote access license has expired",
   "nodevices": "No Devices",
   "nofilesselected": "No Files Selected",
+  "nolocalice": "Something is blocking local connections. <a href=\"#\" onclick=\"helpers.goWebsite('docs/agent/lanaccess#no-local-ice',event)\">Help</a>",
   "nomatches": "Nothing found",
   "nomorerecordings": "End of Recordings",
   "none": "None",

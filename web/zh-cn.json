@@ -398,6 +398,7 @@
   "no_subscription": "您的远程访问许可证已过期",
   "nodevices": "无设备",
   "nofilesselected": "没有选择任何文件",
+  "nolocalice": "某些东西正在阻止本地连接。<a href=\"#\" onclick=\"helpers.goWebsite('docs/agent/lanaccess#no-local-ice',event)\">帮助</a>",
   "nomatches": "什么都没找到",
   "nomorerecordings": "录制结束",
   "none": "无",

@@ -398,6 +398,7 @@
   "no_subscription": "Etäyhteyslisenssisi on vanhentunut.",
   "nodevices": "Ei laitteita",
   "nofilesselected": "Ei valittuja tiedostoja",
+  "nolocalice": "Jokin estää paikalliset yhteydet. <a href=\"#\" onclick=\"helpers.goWebsite('docs/agent/lanaccess#no-local-ice',event)\">Apu</a>",
   "nomatches": "Mitään ei löytynyt",
   "nomorerecordings": "Tallenteiden loppu",
   "none": "Ei mitään",

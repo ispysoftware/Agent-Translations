@@ -398,6 +398,7 @@
   "no_subscription": "リモートアクセスライセンスが期限切れです。",
   "nodevices": "デバイスなし",
   "nofilesselected": "ファイルが選択されていません",
+  "nolocalice": "ローカル接続をブロックしているものがあります。<a href=\"#\" onclick=\"helpers.goWebsite('docs/agent/lanaccess#no-local-ice',event)\">ヘルプ</a>",
   "nomatches": "何も見つかりません",
   "nomorerecordings": "録音の終わり",
   "none": "なし",
