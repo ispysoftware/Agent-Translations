@@ -1875,6 +1875,8 @@
     "json.resetmodeseconds": "অন্তর",
     "json.resetmodeseconds.help": "রিসেট করার জন্য সেকেন্ডে সময়",
     "json.resize": "আকার পরিবর্তন করুন",
+    "json.resizefileplayback": "প্লেব্যাকের জন্য ফাইলের আকার পরিবর্তন করুন",
+    "json.resizefileplayback.help": "লোড কমায় - প্লেব্যাকের সময় পূর্ণ রেজোলিউশনের ফটো সমর্থনের জন্য এটি আনচেক করুন",
     "json.resizeheight": "উচ্চতা",
     "json.resizeheight.help": "অটো জন্য 0 ব্যবহার করুন",
     "json.resizemode": "রিসাইজ মোড",

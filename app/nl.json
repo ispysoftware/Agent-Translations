@@ -1875,6 +1875,8 @@
     "json.resetmodeseconds": "Interval",
     "json.resetmodeseconds.help": "Tijd in seconden voor reset",
     "json.resize": "Resize",
+    "json.resizefileplayback": "Bestanden opnieuw schalen voor afspelen",
+    "json.resizefileplayback.help": "Vermindert belasting - vink dit uit voor ondersteuning van foto's in volledige resolutie tijdens afspelen",
     "json.resizeheight": "Hoogte",
     "json.resizeheight.help": "Gebruik 0 voor auto",
     "json.resizemode": "Formaat wijzigen",

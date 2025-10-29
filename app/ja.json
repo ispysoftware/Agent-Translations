@@ -1875,6 +1875,8 @@
     "json.resetmodeseconds": "間隔",
     "json.resetmodeseconds.help": "リセットにかかる時間（秒）",
     "json.resize": "サイズ変更",
+    "json.resizefileplayback": "再生用にファイルのサイズを変更する",
+    "json.resizefileplayback.help": "負荷を軽減 - 再生中のフル解像度写真サポートのために、これのチェックを外してください。",
     "json.resizeheight": "高さ",
     "json.resizeheight.help": "自動には0を使用",
     "json.resizemode": "リサイズモード",

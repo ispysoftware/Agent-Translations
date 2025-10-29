@@ -1875,6 +1875,8 @@
     "json.resetmodeseconds": "Khoảng thời gian",
     "json.resetmodeseconds.help": "Thời gian trong giây để đặt lại",
     "json.resize": "Thay đổi kích thước",
+    "json.resizefileplayback": "Thay đổi kích thước tệp để phát lại",
+    "json.resizefileplayback.help": "Giảm tải - bỏ chọn điều này để hỗ trợ ảnh độ phân giải đầy đủ trong quá trình phát lại.",
     "json.resizeheight": "Chiều cao",
     "json.resizeheight.help": "Sử dụng 0 để tự động",
     "json.resizemode": "Chế Độ Thay Đổi Kích Thước",

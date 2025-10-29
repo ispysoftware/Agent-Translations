@@ -1875,6 +1875,8 @@
     "json.resetmodeseconds": "فاصلة",
     "json.resetmodeseconds.help": "الوقت بالثواني لإعادة التعيين",
     "json.resize": "تغيير الحجم",
+    "json.resizefileplayback": "تغيير حجم الملفات للتشغيل",
+    "json.resizefileplayback.help": "يقلل الحمل - قم بإلغاء تحديد هذا لدعم الصور بدقة كاملة أثناء التشغيل",
     "json.resizeheight": "ارتفاع",
     "json.resizeheight.help": "استخدم 0 للتلقائية",
     "json.resizemode": "وضع تغيير الحجم",

@@ -1875,6 +1875,8 @@
     "json.resetmodeseconds": "Aralık",
     "json.resetmodeseconds.help": "Sıfırlama için saniye cinsinden süre",
     "json.resize": "yeniden boyutlandır",
+    "json.resizefileplayback": "Oynatma için dosyaları yeniden boyutlandırma",
+    "json.resizefileplayback.help": "Yükü azaltır - oynatma sırasında tam çözünürlük fotoğraf desteği için bunu işaretlemeyi kaldırın.",
     "json.resizeheight": "Yükseklik",
     "json.resizeheight.help": "Otomatik için 0 kullan",
     "json.resizemode": "Yeniden Boyutlandırma Modu",

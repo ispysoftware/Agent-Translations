@@ -1875,6 +1875,8 @@
     "json.resetmodeseconds": "Interval",
     "json.resetmodeseconds.help": "Time in seconds for reset",
     "json.resize": "Resize",
+    "json.resizefileplayback": "Resize files for playback",
+    "json.resizefileplayback.help": "Reduces load - uncheck this for full resolution photo support during playback",
     "json.resizeheight": "Height",
     "json.resizeheight.help": "Use 0 for auto",
     "json.resizemode": "Resize Mode",

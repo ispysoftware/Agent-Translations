@@ -1875,6 +1875,8 @@
     "json.resetmodeseconds": "Intervalli",
     "json.resetmodeseconds.help": "Nollausaika sekunneissa",
     "json.resize": "Muuta kokoa",
+    "json.resizefileplayback": "Muokkaa tiedostojen kokoa toistamista varten",
+    "json.resizefileplayback.help": "Vähentää kuormitusta - poista tämä valinta, jos haluat täyden resoluution valokuvatuen toiston aikana",
     "json.resizeheight": "Korkeus",
     "json.resizeheight.help": "0 = automaattinen",
     "json.resizemode": "Muuta kokoa",

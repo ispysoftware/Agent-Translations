@@ -1875,6 +1875,8 @@
     "json.resetmodeseconds": "Interval",
     "json.resetmodeseconds.help": "Tid i sekunder for nulstilling",
     "json.resize": "Ændr størrelse",
+    "json.resizefileplayback": "Ændr størrelse på filer til afspilning",
+    "json.resizefileplayback.help": "Reducerer belastning - fjern markeringen for fuld opløsning foto support under afspilning",
     "json.resizeheight": "Højde",
     "json.resizeheight.help": "Brug 0 for auto",
     "json.resizemode": "Tilpas størrelsestilstand",

@@ -1875,6 +1875,8 @@
     "json.resetmodeseconds": "Інтервал",
     "json.resetmodeseconds.help": "Час у секундах для скидання",
     "json.resize": "Змінити розмір",
+    "json.resizefileplayback": "Змінити розмір файлів для відтворення",
+    "json.resizefileplayback.help": "Зменшує навантаження - зніміть позначку для підтримки фотографій у повній роздільній здатності під час відтворення.",
     "json.resizeheight": "Висота",
     "json.resizeheight.help": "Використовуйте 0 для автоматичного режиму.",
     "json.resizemode": "Режим зміни розміру",

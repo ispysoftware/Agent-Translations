@@ -1875,6 +1875,8 @@
     "json.resetmodeseconds": "Interval",
     "json.resetmodeseconds.help": "Čas v sekundách pro resetování",
     "json.resize": "Změnit velikost",
+    "json.resizefileplayback": "Změna velikosti souborů pro přehrávání",
+    "json.resizefileplayback.help": "Snížení zátěže - zrušte zaškrtnutí pro podporu fotografií v plném rozlišení během přehrávání",
     "json.resizeheight": "Výška",
     "json.resizeheight.help": "Použijte 0 pro auto",
     "json.resizemode": "Režim změny velikosti",

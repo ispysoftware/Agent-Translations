@@ -1875,6 +1875,8 @@
     "json.resetmodeseconds": "Intervallum",
     "json.resetmodeseconds.help": "Visszaállítás ideje másodpercben",
     "json.resize": "Átméretezés",
+    "json.resizefileplayback": "Fájlok átméretezése lejátszáshoz",
+    "json.resizefileplayback.help": "Csökkenti a terhelést - törölje a jelölést a teljes felbontású fénykép támogatásához a lejátszás során.",
     "json.resizeheight": "Magasság",
     "json.resizeheight.help": "Automatikushoz használja a 0-t",
     "json.resizemode": "Átméretezési mód",

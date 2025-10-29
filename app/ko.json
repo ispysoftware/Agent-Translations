@@ -1875,6 +1875,8 @@
     "json.resetmodeseconds": "간격",
     "json.resetmodeseconds.help": "재설정 시간(초)",
     "json.resize": "크기 조정",
+    "json.resizefileplayback": "재생을 위한 파일 크기 조정",
+    "json.resizefileplayback.help": "로드 감소 - 재생 중 전체 해상도 사진 지원을 위해 선택 해제하십시오.",
     "json.resizeheight": "키",
     "json.resizeheight.help": "자동에는 0을 사용하세요.",
     "json.resizemode": "크기 조정 모드",

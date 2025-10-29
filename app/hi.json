@@ -1875,6 +1875,8 @@
     "json.resetmodeseconds": "मध्यान्तर",
     "json.resetmodeseconds.help": "रीसेट के लिए समय सेकंड में",
     "json.resize": "आकार",
+    "json.resizefileplayback": "प्ले बैक के लिए फ़ाइलों का आकार बदलें",
+    "json.resizefileplayback.help": "लोड कम करता है - प्लेबैक के दौरान पूर्ण रिज़ॉल्यूशन फोटो समर्थन के लिए इसे अनचेक करें",
     "json.resizeheight": "ऊंचाई",
     "json.resizeheight.help": "ऑटो के लिए 0 का प्रयोग करें",
     "json.resizemode": "मोड का आकार बदलें",

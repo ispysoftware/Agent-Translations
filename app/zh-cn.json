@@ -1875,6 +1875,8 @@
     "json.resetmodeseconds": "间隔",
     "json.resetmodeseconds.help": "重置时间（秒）",
     "json.resize": "调整",
+    "json.resizefileplayback": "调整文件以便播放",
+    "json.resizefileplayback.help": "减少负载 - 在播放期间取消选中此项以支持全分辨率照片",
     "json.resizeheight": "高度",
     "json.resizeheight.help": "自动使用0",
     "json.resizemode": "调整模式",

@@ -1875,6 +1875,8 @@
     "json.resetmodeseconds": "Интервал",
     "json.resetmodeseconds.help": "Время (с) для сброса",
     "json.resize": "Изменить размер",
+    "json.resizefileplayback": "Изменить размер файлов для воспроизведения",
+    "json.resizefileplayback.help": "Снижает нагрузку - снимите отметку, чтобы включить поддержку фотографий в полном разрешении во время воспроизведения.",
     "json.resizeheight": "Высота",
     "json.resizeheight.help": "0 = авто",
     "json.resizemode": "Режим ресайза",

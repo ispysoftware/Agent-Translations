@@ -1875,6 +1875,8 @@
     "json.resetmodeseconds": "Intervalle",
     "json.resetmodeseconds.help": "Temps en secondes pour la réinitialisation",
     "json.resize": "redimensionner",
+    "json.resizefileplayback": "Redimensionner les fichiers pour la lecture",
+    "json.resizefileplayback.help": "Réduit la charge - décochez ceci pour un support photo en pleine résolution pendant la lecture.",
     "json.resizeheight": "Hauteur",
     "json.resizeheight.help": "Utilisez 0 pour l'auto",
     "json.resizemode": "Mode redimensionner",

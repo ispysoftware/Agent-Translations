@@ -1875,6 +1875,8 @@
     "json.resetmodeseconds": "Interval",
     "json.resetmodeseconds.help": "Waktu dalam detik untuk mereset",
     "json.resize": "Ubah Ukuran",
+    "json.resizefileplayback": "Ubah ukuran file untuk pemutaran",
+    "json.resizefileplayback.help": "Mengurangi beban - hapus centang ini untuk dukungan foto resolusi penuh selama pemutaran",
     "json.resizeheight": "Tinggi",
     "json.resizeheight.help": "Gunakan 0 untuk otomatis",
     "json.resizemode": "Mode Ukuran Ulang",
