@@ -384,6 +384,7 @@
   "motionmaphelp": "モーション イベントを検出するエリアを指定します (記録時にトラッキングまたは AI 検出器が必要です)",
   "motionmonitor": "モーションスロット",
   "motionmonitorhelp": "動きが検出された場合にデバイスを表示します。",
+  "multiview": "マルチビュー",
   "mustagree": "アカウントを作成するには、利用規約に同意する必要があります",
   "name": "名前",
   "needmediapermission": "ローカルメディアの許可を許可する",

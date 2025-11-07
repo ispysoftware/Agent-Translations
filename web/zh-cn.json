@@ -384,6 +384,7 @@
   "motionmaphelp": "指定一个区域来监测运动事件（录制时需要跟踪或 AI 探测器）",
   "motionmonitor": "运动监视器",
   "motionmonitorhelp": "当检测到运动时显示设备。",
+  "multiview": "多视图",
   "mustagree": "您必须同意条款才能创建帐户",
   "name": "名称",
   "needmediapermission": "允许本地媒体权限",

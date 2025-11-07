@@ -384,6 +384,7 @@
   "motionmaphelp": "Chỉ định một khu vực để tìm sự kiện chuyển động (yêu cầu một bộ theo dõi hoặc bộ phát hiện trí tuệ nhân tạo khi ghi lại)",
   "motionmonitor": "Khe cảm biến chuyển động",
   "motionmonitorhelp": "Hiển thị thiết bị nếu phát hiện chuyển động",
+  "multiview": "Chế độ xem đa dạng",
   "mustagree": "Bạn phải đồng ý với các điều khoản để tạo tài khoản",
   "name": "Tên",
   "needmediapermission": "Cho phép quyền truy cập phương tiện địa phương",

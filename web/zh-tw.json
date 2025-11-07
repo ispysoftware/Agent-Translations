@@ -384,6 +384,7 @@
   "motionmaphelp": "指定要偵測動態的區域（錄影時需追蹤或 AI 偵測器）",
   "motionmonitor": "動態插槽",
   "motionmonitorhelp": "若偵測到動態，則顯示該裝置",
+  "multiview": "多視圖",
   "mustagree": "您必須同意條款才能建立帳號",
   "name": "名稱",
   "needmediapermission": "請允許本機媒體權限",

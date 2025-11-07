@@ -384,6 +384,7 @@
   "motionmaphelp": "모션 이벤트를 찾을 영역을 지정합니다. (녹화 시 추적 또는 AI 감지기가 필요합니다.)",
   "motionmonitor": "모션 슬롯",
   "motionmonitorhelp": "움직임이 감지되면 장치를 표시합니다.",
+  "multiview": "멀티 뷰",
   "mustagree": "계정을 만들려면 약관에 동의해야 합니다.",
   "name": "이름",
   "needmediapermission": "지역 미디어 권한 허용",

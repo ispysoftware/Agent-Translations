@@ -384,6 +384,7 @@
   "motionmaphelp": "Specify an area to find motion events (requires a tracking or AI detector when recording)",
   "motionmonitor": "Motion Slot",
   "motionmonitorhelp": "Displays devices if motion is detected",
+  "multiview": "Multi View",
   "mustagree": "You must agree to the terms to create an account",
   "name": "Name",
   "needmediapermission": "Allow local media permission",

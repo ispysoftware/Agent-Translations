@@ -384,6 +384,7 @@
   "motionmaphelp": "Specificeer een gebied om bewegingsgebeurtenissen te vinden (vereist een tracking- of AI-detector tijdens het opnemen)",
   "motionmonitor": "Bewegingsmonitor",
   "motionmonitorhelp": "Geeft apparaten weer als beweging wordt gedetecteerd.",
+  "multiview": "Multi View",
   "mustagree": "U moet akkoord gaan met de voorwaarden om een account aan te maken",
   "name": "Naam",
   "needmediapermission": "Toestemming voor lokale media toestaan",

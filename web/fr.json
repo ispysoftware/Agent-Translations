@@ -384,6 +384,7 @@
   "motionmaphelp": "Spécifiez une zone pour rechercher des événements de mouvement (nécessite un suivi ou un détecteur AI lors de l'enregistrement)",
   "motionmonitor": "Moniteur de mouvement",
   "motionmonitorhelp": "Affiche les appareils si un mouvement est détecté.",
+  "multiview": "Vue multiple",
   "mustagree": "Vous devez accepter les conditions pour créer un compte",
   "name": "Nom",
   "needmediapermission": "Autoriser l'autorisation des médias locaux",

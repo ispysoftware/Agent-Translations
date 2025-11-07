@@ -384,6 +384,7 @@
   "motionmaphelp": "Määritä alue liiketapahtumien etsimistä varten (vaatii seurannan tai tekoälytunnistimen tallennuksen aikana)",
   "motionmonitor": "Liikeruutu",
   "motionmonitorhelp": "Näyttää laitteen, jos liikettä havaitaan.",
+  "multiview": "Moninäyttö",
   "mustagree": "Sinun on hyväksyttävä ehdot tilin luomiseksi",
   "name": "Nimi",
   "needmediapermission": "Salli pääsy paikalliseen laitteeseen",

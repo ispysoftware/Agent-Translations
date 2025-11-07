@@ -384,6 +384,7 @@
   "motionmaphelp": "Specifica un'area in cui trovare eventi di movimento (richiede un rilevamento o un rilevatore AI durante la registrazione)",
   "motionmonitor": "Monitor di movimento",
   "motionmonitorhelp": "Visualizza i dispositivi se viene rilevato un movimento.",
+  "multiview": "Multi View",
   "mustagree": "Devi accettare i termini per creare un account",
   "name": "Nome",
   "needmediapermission": "Consenti autorizzazione dei media locali",

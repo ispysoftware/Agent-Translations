@@ -384,6 +384,7 @@
   "motionmaphelp": "Hareket olaylarını bulmak için bir alan belirtin (kayıt sırasında bir izleme veya AI dedektörü gerektirir)",
   "motionmonitor": "Hareket Yuvası",
   "motionmonitorhelp": "Hareket algılanırsa cihazları görüntüler.",
+  "multiview": "Çoklu Görünüm",
   "mustagree": "Bir hesap oluşturmak için şartları kabul etmelisiniz",
   "name": "İsim",
   "needmediapermission": "Yerel medya iznine izin ver",

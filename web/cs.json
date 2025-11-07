@@ -384,6 +384,7 @@
   "motionmaphelp": "Určete oblast pro vyhledání událostí pohybu (při nahrávání vyžaduje sledování nebo detektor AI)",
   "motionmonitor": "Monitor pohybu",
   "motionmonitorhelp": "Zobrazuje zařízení, pokud je detekován pohyb.",
+  "multiview": "Více pohledů",
   "mustagree": "Chcete-li vytvořit účet, musíte souhlasit s podmínkami",
   "name": "Jméno",
   "needmediapermission": "Povolte místní média",

@@ -384,6 +384,7 @@
   "motionmaphelp": "Adjon meg egy területet a mozgási események kereséséhez (követés vagy mesterséges intelligencia érzékelő szükséges a rögzítéshez)",
   "motionmonitor": "Mozgási intervallum",
   "motionmonitorhelp": "Megjeleníti az eszközöket, ha mozgást észlel",
+  "multiview": "Több nézet",
   "mustagree": "Fiók létrehozásához el kell fogadnia a feltételeket",
   "name": "Név",
   "needmediapermission": "Helyi médiaengedély engedélyezése",

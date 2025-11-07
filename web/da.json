@@ -384,6 +384,7 @@
   "motionmaphelp": "Angiv et område for at finde bevægelseshændelser (kræver en sporings- eller AI-detektor ved optagelse)",
   "motionmonitor": "Motion Slot",
   "motionmonitorhelp": "Viser enheder, hvis der registreres bevægelse.",
+  "multiview": "Multi View",
   "mustagree": "Du skal acceptere vilkårene for at oprette en konto",
   "name": "Navn",
   "needmediapermission": "Tillad lokale medier tilladelse",

@@ -384,6 +384,7 @@
   "motionmaphelp": "Geben Sie einen Bereich an, um Bewegungsereignisse zu finden (erfordert bei der Aufnahme einen Tracking- oder KI-Detektor)",
   "motionmonitor": "Bewegungsmonitor",
   "motionmonitorhelp": "Zeigt Geräte an, wenn eine Bewegung erkannt wird.",
+  "multiview": "Multi View",
   "mustagree": "Sie müssen den Bedingungen zustimmen, um ein Konto zu erstellen",
   "name": "Name",
   "needmediapermission": "Lokale Medienerlaubnis zulassen",

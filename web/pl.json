@@ -384,6 +384,7 @@
   "motionmaphelp": "Określ obszar wyszukiwania zdarzeń ruchu (podczas nagrywania wymaga śledzenia lub detektora AI)",
   "motionmonitor": "Monitor ruchu",
   "motionmonitorhelp": "Wyświetla urządzenia po wykryciu ruchu.",
+  "multiview": "Widok wielokrotny",
   "mustagree": "Aby założyć konto, musisz zaakceptować warunki",
   "name": "Nazwa",
   "needmediapermission": "Zezwalaj na lokalne media",
