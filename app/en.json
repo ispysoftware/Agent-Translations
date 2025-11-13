@@ -670,6 +670,7 @@
     "area": "Area",
     "areahelp": "Add areas using the camera detector settings",
     "audio_analyzer": "Analyzer",
+    "audio_analyzermirrored": "Analyzer Mirrored",
     "audio_historical": "Historical",
     "audio_level": "Audio Level",
     "audio_radialspectrum": "Radial Spectrum",
