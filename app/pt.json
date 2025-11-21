@@ -669,6 +669,7 @@
     "archivefailed": "Arquivo Falha",
     "area": "Área",
     "areahelp": "Adicionar áreas usando as configurações do detector de câmera",
+    "asoflaststoragerun": "Desde a última execução de gerenciamento de armazenamento",
     "audio_analyzer": "Analisador",
     "audio_analyzermirrored": "Analisador Espelhado",
     "audio_historical": "Histórico",

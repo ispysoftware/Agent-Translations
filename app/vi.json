@@ -669,6 +669,7 @@
     "archivefailed": "Lưu trữ không thành công",
     "area": "Khu vực",
     "areahelp": "Thêm khu vực bằng cách sử dụng cài đặt phát hiện camera",
+    "asoflaststoragerun": "Tính đến lần chạy quản lý lưu trữ cuối cùng",
     "audio_analyzer": "Máy phân tích",
     "audio_analyzermirrored": "Analyzer Mirrored",
     "audio_historical": "Lịch sử",

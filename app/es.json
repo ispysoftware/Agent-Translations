@@ -669,6 +669,7 @@
     "archivefailed": "Error archivo",
     "area": "Área",
     "areahelp": "Agregue áreas usando la configuración del detector de cámara",
+    "asoflaststoragerun": "A partir de la última ejecución de gestión de almacenamiento",
     "audio_analyzer": "Analizador",
     "audio_analyzermirrored": "Analizador Espejado",
     "audio_historical": "Histórico",

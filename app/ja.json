@@ -669,6 +669,7 @@
     "archivefailed": "アーカイブに失敗しました",
     "area": "エリア",
     "areahelp": "カメラ検出器の設定を使用してエリアを追加する",
+    "asoflaststoragerun": "最後のストレージ管理実行時点で",
     "audio_analyzer": "アナライザー",
     "audio_analyzermirrored": "アナライザーミラー",
     "audio_historical": "履歴",

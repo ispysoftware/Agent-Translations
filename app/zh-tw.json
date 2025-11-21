@@ -669,6 +669,7 @@
     "archivefailed": "存檔失敗",
     "area": "區域",
     "areahelp": "使用相機探測器設置添加區域",
+    "asoflaststoragerun": "截至上次存儲管理運行",
     "audio_analyzer": "分析器",
     "audio_analyzermirrored": "分析器鏡像",
     "audio_historical": "歷史",

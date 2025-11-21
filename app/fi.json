@@ -669,6 +669,7 @@
     "archivefailed": "Arkistointi epäonnistui",
     "area": "Alue",
     "areahelp": "Lisää alueita käyttämällä kameran tunnistimen asetuksia",
+    "asoflaststoragerun": "Viimeisimmän tallennushallinnan suorituksen mukaan",
     "audio_analyzer": "Analysoija",
     "audio_analyzermirrored": "Analysoija Peilattu",
     "audio_historical": "Historiallinen",

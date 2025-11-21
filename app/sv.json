@@ -669,6 +669,7 @@
     "archivefailed": "Arkivering misslyckades",
     "area": "Område",
     "areahelp": "Lägg till områden med hjälp av kamerans detektorinställningar",
+    "asoflaststoragerun": "Från senaste lagringshanteringskörningen",
     "audio_analyzer": "Analysator",
     "audio_analyzermirrored": "Analyzer speglad",
     "audio_historical": "Historisk",

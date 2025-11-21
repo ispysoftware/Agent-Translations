@@ -669,6 +669,7 @@
     "archivefailed": "아카이브 실패",
     "area": "영역",
     "areahelp": "카메라 감지기 설정을 사용하여 영역 추가",
+    "asoflaststoragerun": "마지막 저장 관리 실행 기준",
     "audio_analyzer": "분석기",
     "audio_analyzermirrored": "분석기 미러링",
     "audio_historical": "역사적",

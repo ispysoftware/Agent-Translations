@@ -669,6 +669,7 @@
     "archivefailed": "Archivio fallito",
     "area": "La zona",
     "areahelp": "Aggiungi aree utilizzando le impostazioni del rilevatore della telecamera",
+    "asoflaststoragerun": "A partire dall'ultima esecuzione della gestione dello storage",
     "audio_analyzer": "Analizzatore",
     "audio_analyzermirrored": "Analizzatore Mirrored",
     "audio_historical": "Storico",

@@ -669,6 +669,7 @@
     "archivefailed": "Nieudane archiwizowanie",
     "area": "Obszar",
     "areahelp": "Dodaj obszary za pomocą ustawień detektora kamery",
+    "asoflaststoragerun": "Od ostatniego uruchomienia zarządzania pamięcią",
     "audio_analyzer": "Analizator",
     "audio_analyzermirrored": "Analizator Lustrzany",
     "audio_historical": "Historyczny",

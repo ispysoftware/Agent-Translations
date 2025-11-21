@@ -669,6 +669,7 @@
     "archivefailed": "Archive Échec",
     "area": "Zone",
     "areahelp": "Ajouter des zones à l'aide des paramètres du détecteur de caméra",
+    "asoflaststoragerun": "Depuis la dernière exécution de gestion du stockage",
     "audio_analyzer": "Analyseur",
     "audio_analyzermirrored": "Analyseur Miroir",
     "audio_historical": "Historique",

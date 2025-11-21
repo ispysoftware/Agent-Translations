@@ -669,6 +669,7 @@
     "archivefailed": "Archiv fehlgeschlagen",
     "area": "Bereich",
     "areahelp": "Fügen Sie Bereiche mithilfe der Kameradetektoreinstellungen hinzu",
+    "asoflaststoragerun": "Seit dem letzten Lauf des Speichermanagements",
     "audio_analyzer": "Analysator",
     "audio_analyzermirrored": "Analyzer gespiegelt",
     "audio_historical": "Historisch",
