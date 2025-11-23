@@ -1536,6 +1536,7 @@
     "json.maxtokens.help": "টোকেনের সর্বাধিক সংখ্যা (সর্বাধিক নিষ্ক্রিয় করতে সর্বনিম্ন 300 বা 0)",
     "json.maxviews": "ভিউ",
     "json.maxviews.help": "লাইভ ভিউতে উপলব্ধ ভিউয়ের সংখ্যা",
+    "json.media": "মিডিয়া",
     "json.medialayout": "মিডিয়া এবং লেআউট",
     "json.medialocation": "অবস্থান",
     "json.medialocation.help": "সেটিংসে অবস্থান যোগ করুন বা সম্পাদনা করুন",

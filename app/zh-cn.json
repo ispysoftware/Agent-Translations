@@ -1536,6 +1536,7 @@
     "json.maxtokens.help": "最大令牌数（最小 300 或 0 以禁用最大数量）",
     "json.maxviews": "观点",
     "json.maxviews.help": "实时视图中可用的视图数",
+    "json.media": "媒体",
     "json.medialayout": "媒体和布局",
     "json.medialocation": "地点",
     "json.medialocation.help": "在设置中添加或编辑位置",

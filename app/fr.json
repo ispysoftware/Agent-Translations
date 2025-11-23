@@ -1536,6 +1536,7 @@
     "json.maxtokens.help": "Nombre maximum de jetons (min 300 ou 0 pour désactiver le maximum)",
     "json.maxviews": "Vues",
     "json.maxviews.help": "Nombre de vues disponibles en vue en direct",
+    "json.media": "Média",
     "json.medialayout": "Médias et mise en page",
     "json.medialocation": "Emplacement",
     "json.medialocation.help": "Ajouter ou modifier des lieux dans les paramètres",

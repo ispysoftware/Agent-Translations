@@ -1536,6 +1536,7 @@
     "json.maxtokens.help": "최대 토큰 수(최소 300 또는 0으로 최대 비활성화)",
     "json.maxviews": "견해",
     "json.maxviews.help": "라이브 뷰에서 볼 수 있는 뷰 수",
+    "json.media": "미디어",
     "json.medialayout": "미디어 및 레이아웃",
     "json.medialocation": "위치",
     "json.medialocation.help": "설정에서 위치 추가 또는 수정",

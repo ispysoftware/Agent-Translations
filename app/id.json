@@ -1536,6 +1536,7 @@
     "json.maxtokens.help": "Jumlah Maksimum Token (min 300 atau 0 untuk menonaktifkan maksimum)",
     "json.maxviews": "Tampilan",
     "json.maxviews.help": "Jumlah tampilan yang tersedia dalam tampilan langsung",
+    "json.media": "Media",
     "json.medialayout": "Media dan Tata Letak",
     "json.medialocation": "Lokasi",
     "json.medialocation.help": "Tambah atau edit lokasi dalam pengaturan",

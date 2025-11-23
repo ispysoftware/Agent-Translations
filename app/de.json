@@ -1536,6 +1536,7 @@
     "json.maxtokens.help": "Maximale Anzahl an Token (mindestens 300 oder 0, um das Maximum zu deaktivieren)",
     "json.maxviews": "Ansichten",
     "json.maxviews.help": "Anzahl der in der Live-Ansicht verfügbaren Ansichten",
+    "json.media": "Medien",
     "json.medialayout": "Medien und Layout",
     "json.medialocation": "Ort",
     "json.medialocation.help": "Fügen Sie Standorte in den Einstellungen hinzu oder bearbeiten Sie sie",

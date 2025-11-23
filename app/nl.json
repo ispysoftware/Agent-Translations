@@ -1536,6 +1536,7 @@
     "json.maxtokens.help": "Maximaal aantal tokens (min. 300 of 0 om het maximum uit te schakelen)",
     "json.maxviews": "Keer bekeken",
     "json.maxviews.help": "Aantal beschikbare weergaven in liveweergave",
+    "json.media": "Media",
     "json.medialayout": "Media en Lay-out",
     "json.medialocation": "Plaats",
     "json.medialocation.help": "Locaties toevoegen of bewerken in instellingen",

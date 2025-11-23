@@ -1536,6 +1536,7 @@
     "json.maxtokens.help": "Numero massimo di token (min 300 o 0 per disabilitare il massimo)",
     "json.maxviews": "Visualizzazioni",
     "json.maxviews.help": "Numero di visualizzazioni disponibili nella visualizzazione live",
+    "json.media": "Media",
     "json.medialayout": "Media e Layout",
     "json.medialocation": "Posizione",
     "json.medialocation.help": "Aggiungi o modifica posizioni nelle impostazioni",

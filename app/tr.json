@@ -1536,6 +1536,7 @@
     "json.maxtokens.help": "Maksimum Token Sayısı (en az 300 veya maksimumu devre dışı bırakmak için 0)",
     "json.maxviews": "Görüntüleme",
     "json.maxviews.help": "Canlı izlemede kullanılabilen görüntüleme sayısı",
+    "json.media": "Medya",
     "json.medialayout": "Medya ve Düzen",
     "json.medialocation": "Konum",
     "json.medialocation.help": "Ayarlarda konum ekleyin veya düzenleyin",

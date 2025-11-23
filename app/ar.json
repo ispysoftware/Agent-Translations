@@ -1536,6 +1536,7 @@
     "json.maxtokens.help": "الحد الأقصى لعدد الرموز (300 على الأقل أو 0 لتعطيل الحد الأقصى)",
     "json.maxviews": "الآراء",
     "json.maxviews.help": "عدد المشاهدات المتاحة في المنظر المباشر",
+    "json.media": "وسائط",
     "json.medialayout": "وسائط وتخطيط",
     "json.medialocation": "موقع",
     "json.medialocation.help": "إضافة أو تحرير المواقع في الإعدادات",

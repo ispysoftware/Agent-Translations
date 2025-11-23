@@ -1536,6 +1536,7 @@
     "json.maxtokens.help": "Số lượng mã thông báo tối đa (tối thiểu 300 hoặc 0 để vô hiệu hóa tối đa)",
     "json.maxviews": "Chế độ xem",
     "json.maxviews.help": "Số lượng chế độ xem có sẵn trong chế độ xem trực tiếp",
+    "json.media": "Phương tiện truyền thông",
     "json.medialayout": "Phương tiện và Bố cục",
     "json.medialocation": "Vị trí",
     "json.medialocation.help": "Thêm hoặc chỉnh sửa vị trí trong cài đặt",

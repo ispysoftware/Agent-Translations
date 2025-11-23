@@ -1536,6 +1536,7 @@
     "json.maxtokens.help": "Maximální počet tokenů (min 300 nebo 0 pro deaktivaci maxima)",
     "json.maxviews": "Pohledy",
     "json.maxviews.help": "Počet zobrazení dostupných v živém náhledu",
+    "json.media": "Média",
     "json.medialayout": "Média a Rozložení",
     "json.medialocation": "Umístění",
     "json.medialocation.help": "Přidejte nebo upravte místa v nastavení",

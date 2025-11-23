@@ -1536,6 +1536,7 @@
     "json.maxtokens.help": "トークンの最大数 (最小 300、または最大値を無効にする場合は 0)",
     "json.maxviews": "ビュー",
     "json.maxviews.help": "ライブ ビューで利用可能なビューの数",
+    "json.media": "メディア",
     "json.medialayout": "メディアとレイアウト",
     "json.medialocation": "位置",
     "json.medialocation.help": "設定で場所を追加または編集する",

@@ -1536,6 +1536,7 @@
     "json.maxtokens.help": "Tokenien enimmäismäärä (vähintään 300 tai 0 poistaaksesi enimmäismäärän)",
     "json.maxviews": "Näkymät",
     "json.maxviews.help": "Saatavilla olevien näyttökertojen määrä live-näkymässä",
+    "json.media": "Media",
     "json.medialayout": "Media ja Asettelu",
     "json.medialocation": "Sijainti",
     "json.medialocation.help": "Lisää tai muokkaa sijainteja asetuksissa",

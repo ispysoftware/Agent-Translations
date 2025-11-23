@@ -1536,6 +1536,7 @@
     "json.maxtokens.help": "Maksimalt antall tokens (minst 300 eller 0 for å deaktivere maksimum)",
     "json.maxviews": "Visninger",
     "json.maxviews.help": "Antall visninger tilgjengelig i live-visning",
+    "json.media": "Media",
     "json.medialayout": "Medier og layout",
     "json.medialocation": "Plassering",
     "json.medialocation.help": "Legg til eller rediger plasseringer i innstillinger",

@@ -1536,6 +1536,7 @@
     "json.maxtokens.help": "टोकन की अधिकतम संख्या (अधिकतम अक्षम करने के लिए न्यूनतम 300 या 0)",
     "json.maxviews": "विचारों",
     "json.maxviews.help": "लाइव दृश्य में उपलब्ध दृश्यों की संख्या",
+    "json.media": "मीडिया",
     "json.medialayout": "मीडिया और लेआउट",
     "json.medialocation": "स्थान",
     "json.medialocation.help": "सेटिंग में स्थान जोड़ें या संपादित करें",

@@ -1536,6 +1536,7 @@
     "json.maxtokens.help": "Maximalt antal tokens (minst 300 eller 0 för att inaktivera maximalt)",
     "json.maxviews": "Visningar",
     "json.maxviews.help": "Antal tillgängliga visningar i livevisning",
+    "json.media": "Media",
     "json.medialayout": "Media och Layout",
     "json.medialocation": "Plats",
     "json.medialocation.help": "Lägg till eller redigera platser i inställningarna",

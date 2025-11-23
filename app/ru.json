@@ -1536,6 +1536,7 @@
     "json.maxtokens.help": "Максимальное количество токенов (минимум 300 или 0, чтобы отключить лимит)",
     "json.maxviews": "Окон",
     "json.maxviews.help": "Количество окон (views) в режиме прямого просмотра",
+    "json.media": "Медиа",
     "json.medialayout": "Медиа и макет",
     "json.medialocation": "Расположение",
     "json.medialocation.help": "Добавляйте или редактируйте пути в настройках",
