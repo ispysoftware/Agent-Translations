@@ -2079,6 +2079,7 @@
     "json.switchobjectoff": "Stäng av enheten",
     "json.switchobjecton": "Slå på enheten",
     "json.switchprofile2": "System: Tillämpa profil",
+    "json.syslog": "Syslog",
     "json.system": "Systemet",
     "json.systemapplyprofile": "System: Tillämpa Profil",
     "json.systemarm": "System: Beväpna",

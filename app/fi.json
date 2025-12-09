@@ -2079,6 +2079,7 @@
     "json.switchobjectoff": "Kytke laite pois päältä",
     "json.switchobjecton": "Kytke laite päälle",
     "json.switchprofile2": "Järjestelmä: Käytä profiilia",
+    "json.syslog": "Syslog",
     "json.system": "Järjestelmä",
     "json.systemapplyprofile": "Järjestelmä: Käytä profiilia",
     "json.systemarm": "Järjestelmä: Aseista",

@@ -2079,6 +2079,7 @@
     "json.switchobjectoff": "关闭设备",
     "json.switchobjecton": "打开设备",
     "json.switchprofile2": "系统：应用配置",
+    "json.syslog": "系统日志",
     "json.system": "系统",
     "json.systemapplyprofile": "系统：应用配置",
     "json.systemarm": "系统：布防",

@@ -2079,6 +2079,7 @@
     "json.switchobjectoff": "Eszköz kikapcsolása",
     "json.switchobjecton": "Eszköz bekapcsolása",
     "json.switchprofile2": "Rendszer: Profil alkalmazása",
+    "json.syslog": "Syslog",
     "json.system": "Rendszer",
     "json.systemapplyprofile": "Rendszer: Profil alkalmazása",
     "json.systemarm": "Rendszer: Élesítés",

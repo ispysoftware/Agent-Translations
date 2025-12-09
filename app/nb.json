@@ -2079,6 +2079,7 @@
     "json.switchobjectoff": "Slå av enhet",
     "json.switchobjecton": "Slå på enhet",
     "json.switchprofile2": "System: Bruk profil",
+    "json.syslog": "Syslog",
     "json.system": "System",
     "json.systemapplyprofile": "System: Bruk profil",
     "json.systemarm": "System: Aktiver",

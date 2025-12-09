@@ -2079,6 +2079,7 @@
     "json.switchobjectoff": "關閉設備",
     "json.switchobjecton": "打開設備",
     "json.switchprofile2": "系統：應用配置文件",
+    "json.syslog": "系統日誌",
     "json.system": "系統",
     "json.systemapplyprofile": "系統：應用配置文件",
     "json.systemarm": "系統：啟用",

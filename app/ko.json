@@ -2079,6 +2079,7 @@
     "json.switchobjectoff": "장치 끄기",
     "json.switchobjecton": "장치 켜기",
     "json.switchprofile2": "시스템: 프로필 적용",
+    "json.syslog": "시스로그",
     "json.system": "체계",
     "json.systemapplyprofile": "시스템: 프로필 적용",
     "json.systemarm": "시스템: 가동",

@@ -2079,6 +2079,7 @@
     "json.switchobjectoff": "Gerät ausschalten",
     "json.switchobjecton": "Gerät einschalten",
     "json.switchprofile2": "System: Profil anwenden",
+    "json.syslog": "Syslog",
     "json.system": "System",
     "json.systemapplyprofile": "System: Profil anwenden",
     "json.systemarm": "System: Arm",

@@ -2079,6 +2079,7 @@
     "json.switchobjectoff": "Switch Device Off",
     "json.switchobjecton": "Switch Device On",
     "json.switchprofile2": "System: Apply Profile",
+    "json.syslog": "Syslog",
     "json.system": "System",
     "json.systemapplyprofile": "System: Apply Profile",
     "json.systemarm": "System: Arm",

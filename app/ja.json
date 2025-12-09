@@ -2079,6 +2079,7 @@
     "json.switchobjectoff": "デバイスのスイッチをオフにする",
     "json.switchobjecton": "デバイスのスイッチをオンにする",
     "json.switchprofile2": "システム: プロファイルを適用",
+    "json.syslog": "Syslog",
     "json.system": "システム",
     "json.systemapplyprofile": "システム: プロファイルを適用",
     "json.systemarm": "システム: アーム",
