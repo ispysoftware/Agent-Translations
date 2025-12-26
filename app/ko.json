@@ -777,7 +777,7 @@
     "json.addinvestigation": "조사 추가",
     "json.address": "주소",
     "json.addtask": "작업 추가",
-    "json.addtask.help": "{ID}, {OT}, {FILENAME}, {CURRENT_RECORDING}, {MSG}, {NAME}, {GROUPS}, {LOCATION}, {AI}(AI 감지 개체),{AIJSON}, 태그를 사용할 수 있습니다. 여기에는 {BASE64IMAGE}, {ZONE} 및 {0:H:mm:ss}와 같은 시간 형식 문자열이 있습니다.",
+    "json.addtask.help": "여기에서 {TAGS} 태그와 {0:H:mm:ss}와 같은 시간 형식 문자열을 사용할 수 있습니다.",
     "json.addtodatabase": "데이터베이스에 추가",
     "json.addtodatabase.help": "카메라를 추가할 때 데이터베이스에 URL을 추가하라는 메시지 표시",
     "json.addvideosource": "비디오 소스 추가",

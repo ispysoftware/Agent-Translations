@@ -777,7 +777,7 @@
     "json.addinvestigation": "Dodaj śledztwo",
     "json.address": "Adres",
     "json.addtask": "Dodaj zadanie",
-    "json.addtask.help": "Możesz użyć tagów {ID}, {OT}, {FILENAME}, {CURRENT_RECORDING},{MSG}, {NAME}, {GROUPS}, {LOCATION}, {AI} (AI wykryła obiekty), {AIJSON}, {BASE64IMAGE}, {ZONE} i ciąg formatu czasu, taki jak {0:H:mm:ss} tutaj",
+    "json.addtask.help": "Możesz użyć tagów {TAGS} oraz ciągu formatu czasu, takiego jak {0:H:mm:ss}, tutaj.",
     "json.addtodatabase": "Dodaj do bazy danych",
     "json.addtodatabase.help": "Monituj o dodanie adresu URL do bazy danych podczas dodawania kamer",
     "json.addvideosource": "Dodaj źródło wideo",

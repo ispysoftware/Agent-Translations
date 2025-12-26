@@ -777,7 +777,7 @@
     "json.addinvestigation": "Vizsgálat hozzáadása",
     "json.address": "Cím",
     "json.addtask": "Feladat hozzáadása",
-    "json.addtask.help": "Használhatja a következő címkéket: {ID}, {OT}, {FILENAME}, {CURRENT_RECORDING}, {MSG}, {NAME}, {GROUPS}, {LOCATION}, {AI} (AI által észlelt objektumok), {AIJSON}, {BASE64IMAGE}, {ZONE} és egy időformátum-karakterláncot, például {0:H:mm:ss}",
+    "json.addtask.help": "Itt használhatja a {TAGS} címkéket és egy időformátum karakterláncot, mint például {0:H:mm:ss}",
     "json.addtodatabase": "Adatbázishoz adás",
     "json.addtodatabase.help": "URL adatbázishoz való hozzáadásának kérése kamerák hozzáadásakor",
     "json.addvideosource": "Videoforrás hozzáadása",

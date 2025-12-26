@@ -777,7 +777,7 @@
     "json.addinvestigation": "Untersuchung hinzufügen",
     "json.address": "Adresse",
     "json.addtask": "Aufgabe hinzufügen",
-    "json.addtask.help": "Sie können die Tags {ID}, {OT}, {FILENAME}, {CURRENT_RECORDING},{MSG}, {NAME}, {GROUPS}, {LOCATION}, {AI} (KI erkannte Objekte), {AIJSON}, {BASE64IMAGE}, {ZONE} und verwenden eine Zeichenfolge im Zeitformat wie {0:H:mm:ss} hier",
+    "json.addtask.help": "Sie können hier die Tags {TAGS} und eine Zeitformatzeichenfolge wie {0:H:mm:ss} verwenden.",
     "json.addtodatabase": "Zur Datenbank hinzufügen",
     "json.addtodatabase.help": "Fordern Sie beim Hinzufügen von Kameras zum Hinzufügen einer URL zur Datenbank auf",
     "json.addvideosource": "In Videoquelle",

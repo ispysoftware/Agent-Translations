@@ -777,7 +777,7 @@
     "json.addinvestigation": "Додати розслідування",
     "json.address": "Адреса",
     "json.addtask": "Додати завдання",
-    "json.addtask.help": "Ви можете використовувати теги {ID}, {OT}, {FILENAME}, {CURRENT_RECORDING}, {MSG}, {NAME}, {GROUPS}, {LOCATION}, {AI} (виявлені об'єкти ШІ), {AIJSON}, {BASE64IMAGE}, {ZONE} та рядок формату часу, подібний до {0:H:mm:ss} тут.",
+    "json.addtask.help": "Ви можете використовувати теги {TAGS} та рядок формату часу, наприклад {0:H:mm:ss}, тут.",
     "json.addtodatabase": "Додати до бази даних",
     "json.addtodatabase.help": "Запрос на додавання URL до бази даних при додаванні камер",
     "json.addvideosource": "Додати джерело відео",

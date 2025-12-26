@@ -777,7 +777,7 @@
     "json.addinvestigation": "जांच जोड़ें",
     "json.address": "पता",
     "json.addtask": "कार्य जोड़ें",
-    "json.addtask.help": "आप टैग का उपयोग कर सकते हैं {ID}, {OT}, {FILENAME}, {CURRENT_RECORDING},{MSG}, {NAME}, {GROUPS}, {LOCATION}, {AI} (AI का पता लगा ऑब्जेक्ट),{AIJSON}, {BASE64IMAGE}, {ZONE} और एक समय प्रारूप स्ट्रिंग जैसे {0:H:mm:ss} यहाँ।",
+    "json.addtask.help": "आप यहाँ {TAGS} और समय प्रारूप स्ट्रिंग जैसे {0:H:mm:ss} का उपयोग कर सकते हैं।",
     "json.addtodatabase": "डेटाबेस में जोड़ें",
     "json.addtodatabase.help": "कैमरा जोड़ते समय डेटाबेस में URL जोड़ने का संकेत दें",
     "json.addvideosource": "वीडियो स्रोत जोड़ें",

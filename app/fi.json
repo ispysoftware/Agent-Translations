@@ -777,7 +777,7 @@
     "json.addinvestigation": "Lisää tutkinta",
     "json.address": "Osoite",
     "json.addtask": "Lisää tehtävä",
-    "json.addtask.help": "Voit käyttää tunnisteita {ID}, {OT}, {FILENAME}, {CURRENT_RECORDING},{MSG}, {NAME}, {GROUPS}, {LOCATION}, {AI} (AI-havaitut objektit), {AIJSON}, {BASE64IMAGE}, {ZONE} ja aikamuotomerkkijono, kuten {0:H:mm:ss} tässä",
+    "json.addtask.help": "Voit käyttää tageja {TAGS} ja aikamuotoa kuten {0:H:mm:ss} tässä.",
     "json.addtodatabase": "Lisää tietokantaan",
     "json.addtodatabase.help": "Ehdota lisäämään URL-osoite tietokantaan, kun lisäät kameroita",
     "json.addvideosource": "Lisää videolähde",

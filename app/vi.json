@@ -777,7 +777,7 @@
     "json.addinvestigation": "Thêm điều tra",
     "json.address": "Địa chỉ",
     "json.addtask": "Thêm Nhiệm Vụ",
-    "json.addtask.help": "Bạn có thể sử dụng các thẻ {ID}, {OT}, {FILENAME}, {CURRENT_RECORDING}, {MSG}, {NAME}, {GROUPS}, {LOCATION}, {AI} (AI phát hiện đối tượng), {AIJSON}, {BASE64IMAGE}, {ZONE} và một chuỗi định dạng thời gian như {0:H:mm:ss} ở đây.",
+    "json.addtask.help": "Bạn có thể sử dụng các thẻ {TAGS} và một chuỗi định dạng thời gian như {0:H:mm:ss} ở đây.",
     "json.addtodatabase": "Thêm vào Cơ sở dữ liệu",
     "json.addtodatabase.help": "Yêu cầu thêm URL vào cơ sở dữ liệu khi thêm camera.",
     "json.addvideosource": "Thêm Nguồn Video",

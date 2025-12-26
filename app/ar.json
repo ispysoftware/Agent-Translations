@@ -777,7 +777,7 @@
     "json.addinvestigation": "إضافة تحقيق",
     "json.address": "عنوان",
     "json.addtask": "إضافة مهمة",
-    "json.addtask.help": "يمكنك استخدام العلامات {ID}, {OT}, {FILENAME}, {CURRENT_RECORDING}, {MSG}, {NAME}, {GROUPS}, {LOCATION}, {AI} (الكائنات المكتشفة بواسطة AI), {AIJSON}, {BASE64IMAGE}, {ZONE}, {0:H:mm:ss}",
+    "json.addtask.help": "يمكنك استخدام العلامات {TAGS} وسلسلة تنسيق الوقت مثل {0:H:mm:ss} هنا",
     "json.addtodatabase": "أضف إلى قاعدة البيانات",
     "json.addtodatabase.help": "المطالبة بإضافة عنوان URL إلى قاعدة البيانات عند إضافة الكاميرات",
     "json.addvideosource": "أضف مصدر الفيديو",

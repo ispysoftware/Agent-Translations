@@ -777,7 +777,7 @@
     "json.addinvestigation": "Přidat vyšetřování",
     "json.address": "Adresa",
     "json.addtask": "Přidat úkol",
-    "json.addtask.help": "Můžete použít značky {ID}, {OT}, {FILENAME}, {CURRENT_RECORDING},{MSG}, {NAME}, {GROUPS}, {LOCATION}, {AI} (AI detekované objekty),{AIJSON}, {BASE64IMAGE}, {ZONE} a řetězec formátu času jako zde {0:H:mm:ss}",
+    "json.addtask.help": "Můžete zde použít značky {TAGS} a formátovací řetězec času jako {0:H:mm:ss}.",
     "json.addtodatabase": "Přidat do databáze",
     "json.addtodatabase.help": "Při přidávání kamer se zobrazí výzva k přidání adresy URL do databáze",
     "json.addvideosource": "Přidat zdroj videa",

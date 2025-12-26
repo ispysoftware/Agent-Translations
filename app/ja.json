@@ -777,7 +777,7 @@
     "json.addinvestigation": "調査を追加",
     "json.address": "アドレス",
     "json.addtask": "タスクを追加",
-    "json.addtask.help": "タグ {ID},{OT},{FILENAME}, {CURRENT_RECORDING},{MSG},{NAME},{GROUPS},{LOCATION},{AI} (AI 検出オブジェクト),{AIJSON},{BASE64IMAGE}, {ZONE}、およびここでは {0:H:mm:ss} のような時刻形式の文字列。",
+    "json.addtask.help": "ここで {TAGS} と {0:H:mm:ss} のような時間フォーマット文字列を使用できます。",
     "json.addtodatabase": "データベースに追加",
     "json.addtodatabase.help": "カメラを追加するときにデータベースにURLを追加するように求める",
     "json.addvideosource": "ビデオソースを追加",

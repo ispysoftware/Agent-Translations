@@ -777,7 +777,7 @@
     "json.addinvestigation": "添加调查",
     "json.address": "地址",
     "json.addtask": "添加任务",
-    "json.addtask.help": "您可以使用标签 {ID},{OT},{FILENAME}, {CURRENT_RECORDING}, {MSG},{NAME},{GROUPS},{LOCATION},{AI}（AI 检测到的对象）,{AIJSON},{BASE64IMAGE}, {ZONE} 和像 {0:H:mm:ss} 这样的时间格式字符串。",
+    "json.addtask.help": "您可以在此处使用标签 {TAGS} 和时间格式字符串，如 {0:H:mm:ss}。",
     "json.addtodatabase": "添加到数据库",
     "json.addtodatabase.help": "添加摄像机时提示将URL添加到数据库",
     "json.addvideosource": "添加视频源",

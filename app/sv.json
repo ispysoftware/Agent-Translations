@@ -777,7 +777,7 @@
     "json.addinvestigation": "Lägg till undersökning",
     "json.address": "Adress",
     "json.addtask": "Lägg till uppgift",
-    "json.addtask.help": "Du kan använda taggarna {ID}, {OT}, {FILENAME}, {CURRENT_RECORDING},{MSG}, {NAME}, {GROUPS}, {LOCATION}, {AI} (AI-detekterade objekt),{AIJSON}, {BASE64IMAGE}, {ZONE} och en tidsformatsträng som {0:H:mm:ss} här",
+    "json.addtask.help": "Du kan använda taggarna {TAGS} och en tidsformatsträng som {0:H:mm:ss} här.",
     "json.addtodatabase": "Lägg till i databasen",
     "json.addtodatabase.help": "Fråga om du vill lägga till URL till databasen när du lägger till kameror",
     "json.addvideosource": "Lägg till videokälla",
