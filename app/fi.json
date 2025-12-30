@@ -1183,6 +1183,8 @@
     "json.distancey": "Pystysuora etäisyys",
     "json.distancey.help": "Näkyvä pystyetäisyys (metreinä)",
     "json.do": "Toteuta",
+    "json.doubletake": "DoubleTake",
+    "json.doubletake.help": "DoubleTake tarjoaa yhtenäisen API:n kasvojentunnistuspalvelimille. Katso <a href=\"https://github.com/skrashevich/double-take\" target=\"_blank\">https://github.com/skrashevich/double-take</a>.",
     "json.downloadmodel": "Asenna malli",
     "json.downloadmodel.help": "Napsauta painiketta ladataksesi mallitiedoston ja lataa tämä välilehti uudelleen ottaaksesi tekoälyn käyttöön",
     "json.downloadobjects": "Lataa esineitä",

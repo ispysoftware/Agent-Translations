@@ -1183,6 +1183,8 @@
     "json.distancey": "Függőleges távolság",
     "json.distancey.help": "Látható függőleges távolság (méter)",
     "json.do": "Hajtsd végre",
+    "json.doubletake": "DoubleTake",
+    "json.doubletake.help": "A DoubleTake egységes API-t biztosít az arcfelismerő szerverek számára. Lásd <a href=\"https://github.com/skrashevich/double-take\" target=\"_blank\">https://github.com/skrashevich/double-take</a>.",
     "json.downloadmodel": "Modell telepítése",
     "json.downloadmodel.help": "Kattintson a gombra a modellfájl letöltéséhez, és töltse be újra ezt a lapot az intelligencia engedélyezéséhez",
     "json.downloadobjects": "Objektumok letöltése",

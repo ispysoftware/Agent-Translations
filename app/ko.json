@@ -1183,6 +1183,8 @@
     "json.distancey": "수직 거리",
     "json.distancey.help": "가시 수직 거리(미터)",
     "json.do": "하다",
+    "json.doubletake": "더블테이크",
+    "json.doubletake.help": "DoubleTake는 얼굴 인식 서버를 위한 통합 API를 제공합니다. 자세한 내용은 <a href=\"https://github.com/skrashevich/double-take\" target=\"_blank\">https://github.com/skrashevich/double-take</a>를 참조하세요.",
     "json.downloadmodel": "모델 설치",
     "json.downloadmodel.help": "버튼을 클릭하여 모델 파일을 다운로드하고 이 탭을 다시 로드하여 인텔리전스를 활성화하세요.",
     "json.downloadobjects": "객체 다운로드",

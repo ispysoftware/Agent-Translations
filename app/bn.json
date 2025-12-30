@@ -1183,6 +1183,8 @@
     "json.distancey": "উল্লম্ব দূরত্ব",
     "json.distancey.help": "দৃশ্যমান উল্লম্ব দূরত্ব (মিটার)",
     "json.do": "কর",
+    "json.doubletake": "ডাবলটেক",
+    "json.doubletake.help": "DoubleTake একটি একক API প্রদান করে মুখ শনাক্তকরণ সার্ভারের জন্য। দেখুন <a href=\"https://github.com/skrashevich/double-take\" target=\"_blank\">https://github.com/skrashevich/double-take</a>।",
     "json.downloadmodel": "মডেল ইনস্টল করুন",
     "json.downloadmodel.help": "মডেল ফাইলটি ডাউনলোড করতে বোতামটি ক্লিক করুন এবং বুদ্ধি সক্ষম করতে এই ট্যাবটি পুনরায় লোড করুন",
     "json.downloadobjects": "অবজেক্ট ডাউনলোড করুন",

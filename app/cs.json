@@ -1183,6 +1183,8 @@
     "json.distancey": "Vertikální vzdálenost",
     "json.distancey.help": "Viditelná vertikální vzdálenost (metry)",
     "json.do": "Provézt",
+    "json.doubletake": "DoubleTake",
+    "json.doubletake.help": "DoubleTake poskytuje jednotné API pro servery rozpoznávání obličeje. Viz <a href=\"https://github.com/skrashevich/double-take\" target=\"_blank\">https://github.com/skrashevich/double-take</a>.",
     "json.downloadmodel": "Nainstalujte model",
     "json.downloadmodel.help": "Stáhněte si modelový soubor, abyste aktivovali inteligenci",
     "json.downloadobjects": "Stáhněte si objekty",

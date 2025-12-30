@@ -1183,6 +1183,8 @@
     "json.distancey": "Вертикальная дистанция",
     "json.distancey.help": "Видимая вертикаль (метры)",
     "json.do": "Выполнить",
+    "json.doubletake": "ДаблТейк",
+    "json.doubletake.help": "DoubleTake предоставляет единый API для серверов распознавания лиц. См. <a href=\"https://github.com/skrashevich/double-take\" target=\"_blank\">https://github.com/skrashevich/double-take</a>.",
     "json.downloadmodel": "Установить модель",
     "json.downloadmodel.help": "Нажмите, чтобы скачать файл модели, затем перезагрузите вкладку, чтобы включить интеллектуальные функции",
     "json.downloadobjects": "Скачать объекты",

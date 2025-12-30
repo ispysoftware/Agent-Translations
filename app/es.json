@@ -1183,6 +1183,8 @@
     "json.distancey": "Distancia vertical",
     "json.distancey.help": "Distancia vertical visible (metros)",
     "json.do": "Hacer",
+    "json.doubletake": "DoubleTake",
+    "json.doubletake.help": "DoubleTake proporciona una API unificada para servidores de reconocimiento facial. Ver <a href=\"https://github.com/skrashevich/double-take\" target=\"_blank\">https://github.com/skrashevich/double-take</a>.",
     "json.downloadmodel": "Instalar modelo",
     "json.downloadmodel.help": "Descargue el archivo del modelo para habilitar la inteligencia",
     "json.downloadobjects": "Descargar objetos",

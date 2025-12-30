@@ -1183,6 +1183,8 @@
     "json.distancey": "Lodret afstand",
     "json.distancey.help": "Synlig lodret afstand (meter)",
     "json.do": "Gør",
+    "json.doubletake": "DoubleTake",
+    "json.doubletake.help": "DoubleTake leverer en samlet API til ansigtsgenkendelsesservere. Se <a href=\"https://github.com/skrashevich/double-take\" target=\"_blank\">https://github.com/skrashevich/double-take</a>.",
     "json.downloadmodel": "Installer model",
     "json.downloadmodel.help": "Klik på knappen for at downloade modelfilen og genindlæse denne fane for at aktivere intelligens",
     "json.downloadobjects": "Download objekter",

@@ -1183,6 +1183,8 @@
     "json.distancey": "垂直距離",
     "json.distancey.help": "可見垂直距離（米）",
     "json.do": "做",
+    "json.doubletake": "雙重檢視",
+    "json.doubletake.help": "DoubleTake 提供統一的 API 供面部識別伺服器使用。請參見 <a href=\"https://github.com/skrashevich/double-take\" target=\"_blank\">https://github.com/skrashevich/double-take</a>。",
     "json.downloadmodel": "安裝型號",
     "json.downloadmodel.help": "下載模型文件以啟用情報",
     "json.downloadobjects": "下載對象",

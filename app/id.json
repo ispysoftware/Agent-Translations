@@ -1183,6 +1183,8 @@
     "json.distancey": "Jarak Vertikal",
     "json.distancey.help": "Jarak vertikal terlihat (meter)",
     "json.do": "Melakukan",
+    "json.doubletake": "DoubleTake",
+    "json.doubletake.help": "DoubleTake menyediakan API terpadu untuk server pengenalan wajah. Lihat <a href=\"https://github.com/skrashevich/double-take\" target=\"_blank\">https://github.com/skrashevich/double-take</a>.",
     "json.downloadmodel": "Pasang Model",
     "json.downloadmodel.help": "Klik tombol untuk mengunduh file model dan muat ulang tab ini untuk mengaktifkan kecerdasan.",
     "json.downloadobjects": "Unduh Objek",

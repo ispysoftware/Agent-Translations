@@ -1183,6 +1183,8 @@
     "json.distancey": "लंबवत दूरी",
     "json.distancey.help": "दृश्यमान लंबवत दूरी (मीटर)",
     "json.do": "करना",
+    "json.doubletake": "डबलटेक",
+    "json.doubletake.help": "DoubleTake चेहरे की पहचान सर्वरों के लिए एक एकीकृत API प्रदान करता है। देखें <a href=\"https://github.com/skrashevich/double-take\" target=\"_blank\">https://github.com/skrashevich/double-take</a>.",
     "json.downloadmodel": "मॉडल स्थापित करें",
     "json.downloadmodel.help": "मॉडल फ़ाइल डाउनलोड करने के लिए बटन पर क्लिक करें और इंटेलिजेंस को सक्षम करने के लिए इस टैब को पुनः लोड करें",
     "json.downloadobjects": "वस्तुओं को डाउनलोड करें",

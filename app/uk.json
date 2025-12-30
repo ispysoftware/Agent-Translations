@@ -1183,6 +1183,8 @@
     "json.distancey": "Вертикальна відстань",
     "json.distancey.help": "Видима вертикальна відстань (метри)",
     "json.do": "Здійснити",
+    "json.doubletake": "DoubleTake",
+    "json.doubletake.help": "DoubleTake надає єдиний API для серверів розпізнавання облич. Дивіться <a href=\"https://github.com/skrashevich/double-take\" target=\"_blank\">https://github.com/skrashevich/double-take</a>.",
     "json.downloadmodel": "Встановити модель",
     "json.downloadmodel.help": "Клацніть кнопку, щоб завантажити файл моделі та перезавантажте цю вкладку, щоб увімкнути інтелект.",
     "json.downloadobjects": "Завантажити об'єкти",

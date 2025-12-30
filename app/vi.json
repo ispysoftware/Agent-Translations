@@ -1183,6 +1183,8 @@
     "json.distancey": "Khoảng cách theo chiều dọc",
     "json.distancey.help": "Khoảng cách dọc hiển thị (mét)",
     "json.do": "Làm",
+    "json.doubletake": "DoubleTake",
+    "json.doubletake.help": "DoubleTake cung cấp một API thống nhất cho các máy chủ nhận diện khuôn mặt. Xem <a href=\"https://github.com/skrashevich/double-take\" target=\"_blank\">https://github.com/skrashevich/double-take</a>.",
     "json.downloadmodel": "Cài đặt Mô hình",
     "json.downloadmodel.help": "Nhấp vào nút để tải xuống tệp mẫu và tải lại tab này để kích hoạt tính thông minh",
     "json.downloadobjects": "Tải về Đối tượng",

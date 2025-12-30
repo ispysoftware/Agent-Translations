@@ -1183,6 +1183,8 @@
     "json.distancey": "المسافة العمودية",
     "json.distancey.help": "المسافة العمودية المرئية (متر)",
     "json.do": "يفعل",
+    "json.doubletake": "دابل تاك",
+    "json.doubletake.help": "يوفر DoubleTake واجهة برمجة تطبيقات موحدة لخوادم التعرف على الوجه. انظر <a href=\"https://github.com/skrashevich/double-take\" target=\"_blank\">https://github.com/skrashevich/double-take</a>.",
     "json.downloadmodel": "تثبيت النموذج",
     "json.downloadmodel.help": "انقر فوق الزر لتنزيل ملف النموذج وإعادة تحميل علامة التبويب هذه لتمكين الذكاء",
     "json.downloadobjects": "تنزيل الكائنات",

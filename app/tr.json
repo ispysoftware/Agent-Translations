@@ -1183,6 +1183,8 @@
     "json.distancey": "Dikey uzaklık",
     "json.distancey.help": "Görünür dikey mesafe (metre)",
     "json.do": "Yapmak",
+    "json.doubletake": "DoubleTake",
+    "json.doubletake.help": "DoubleTake, yüz tanıma sunucuları için birleşik bir API sağlar. Bakınız <a href=\"https://github.com/skrashevich/double-take\" target=\"_blank\">https://github.com/skrashevich/double-take</a>.",
     "json.downloadmodel": "Modeli Yükle",
     "json.downloadmodel.help": "Model dosyasını indirmek için düğmeye tıklayın ve zekayı etkinleştirmek için bu sekmeyi yeniden yükleyin",
     "json.downloadobjects": "Nesneleri İndir",

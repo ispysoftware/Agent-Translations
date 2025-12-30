@@ -1183,6 +1183,8 @@
     "json.distancey": "Verticale afstand",
     "json.distancey.help": "Zichtbare verticale afstand (meters)",
     "json.do": "Do",
+    "json.doubletake": "DoubleTake",
+    "json.doubletake.help": "DoubleTake biedt een uniforme API voor gezichtsherkenningsservers. Zie <a href=\"https://github.com/skrashevich/double-take\" target=\"_blank\">https://github.com/skrashevich/double-take</a>.",
     "json.downloadmodel": "Model installeren",
     "json.downloadmodel.help": "Download het modelbestand om intelligentie in te schakelen",
     "json.downloadobjects": "Objecten downloaden",
