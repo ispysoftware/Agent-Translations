@@ -721,6 +721,7 @@
     "directoryinvalid2": "Map Ongeldig (Opslag tabblad)",
     "disarmedwarning": "<b>Systeem uitgeschakeld</b> - Waarschuwingen worden niet geactiveerd. Klik op het hangslotpictogram in de hoofdgebruikersinterface om in te schakelen",
     "disconnect": "Loskoppelen",
+    "doubletaketrainmessage": "Gebruik de DoubleTake UI om gezichten te trainen.",
     "drivefulltext": "Apparaat {DEVICENAME} meldt dat de schijf vol is (kan niet opnemen)",
     "duration": "Duur",
     "durationpositive": "Duur moet positief zijn",

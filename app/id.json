@@ -721,6 +721,7 @@
     "directoryinvalid2": "Direktori Tidak Valid (tab Penyimpanan)",
     "disarmedwarning": "<b>Sistem Dinonaktifkan</b> - Peringatan tidak akan terpicu. Klik ikon gembok di antarmuka utama untuk mengaktifkan.",
     "disconnect": "Putus",
+    "doubletaketrainmessage": "Gunakan antarmuka DoubleTake untuk melatih wajah.",
     "drivefulltext": "Perangkat {DEVICENAME} melaporkan bahwa penyimpanan penuh (tidak dapat merekam)",
     "duration": "Durasi",
     "durationpositive": "Durasi harus positif",

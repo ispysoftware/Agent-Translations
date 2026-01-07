@@ -721,6 +721,7 @@
     "directoryinvalid2": "디렉터리가 유효하지 않습니다 (저장 탭)",
     "disarmedwarning": "<b>시스템 무장 해제</b> - 경고가 실행되지 않습니다. 기본 UI에서 자물쇠 아이콘을 클릭하여 무장하세요.",
     "disconnect": "연결 끊기",
+    "doubletaketrainmessage": "DoubleTake UI를 사용하여 얼굴을 학습시키세요.",
     "drivefulltext": "{DEVICENAME} 기기에서 드라이브가 꽉 찼다고 보고합니다(녹화할 수 없음).",
     "duration": "지속",
     "durationpositive": "기간은 양수여야 합니다.",

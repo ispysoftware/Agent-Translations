@@ -721,6 +721,7 @@
     "directoryinvalid2": "Directory Invalid (scheda Archiviazione)",
     "disarmedwarning": "<b>Sistema disattivato</b> - Gli avvisi non verranno attivati. Fare clic sull'icona del lucchetto nell'interfaccia utente principale per armare",
     "disconnect": "Disconnesso",
+    "doubletaketrainmessage": "Usa l'interfaccia DoubleTake per addestrare i volti.",
     "drivefulltext": "Il dispositivo {DEVICENAME} segnala che l'unità è piena (impossibile registrare)",
     "duration": "Durata",
     "durationpositive": "La durata deve essere positiva.",

@@ -721,6 +721,7 @@
     "directoryinvalid2": "الدليل غير صالح (علامة التخزين)",
     "disarmedwarning": "<b> تم تعطيل النظام </b> - لن يتم إطلاق التنبيهات. انقر فوق رمز القفل في واجهة المستخدم الرئيسية للتسليح",
     "disconnect": "قطع الاتصال",
+    "doubletaketrainmessage": "استخدم واجهة DoubleTake لتدريب الوجوه",
     "drivefulltext": "يبلغ الجهاز {DEVICENAME} عن امتلاء محرك الأقراص (يتعذر التسجيل)",
     "duration": "مدة",
     "durationpositive": "يجب أن تكون المدة إيجابية",

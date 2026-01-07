@@ -721,6 +721,7 @@
     "directoryinvalid2": "Dizin Geçersiz (Depolama sekmesi)",
     "disarmedwarning": "<b>Sistem Devre Dışı Bırakıldı</b> - Uyarılar tetiklenmeyecek. Devreye almak için ana kullanıcı arayüzündeki asma kilit simgesine tıklayın",
     "disconnect": "bağlantıyı kes",
+    "doubletaketrainmessage": "DoubleTake UI'yi yüzleri eğitmek için kullanın.",
     "drivefulltext": "{DEVICENAME} cihazı, sürücünün dolu olduğunu bildiriyor (kaydetmiyor)",
     "duration": "Süre",
     "durationpositive": "Süre pozitif olmalıdır",

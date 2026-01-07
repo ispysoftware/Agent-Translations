@@ -721,6 +721,7 @@
     "directoryinvalid2": "Katalog ogiltig (Lagringsflik)",
     "disarmedwarning": "<b>Systemet avaktiverat</b> - varningar kommer inte att utlösas. Klicka på hänglåsikonen i huvudgränssnittet för att aktivera",
     "disconnect": "Koppla ifrån",
+    "doubletaketrainmessage": "Använd DoubleTake UI för att träna ansikten.",
     "drivefulltext": "Enheten {DEVICENAME} rapporterar att enheten är full (det går inte att spela in)",
     "duration": "Varaktighet",
     "durationpositive": "Varaktigheten måste vara positiv.",

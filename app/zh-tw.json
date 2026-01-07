@@ -721,6 +721,7 @@
     "directoryinvalid2": "目錄無效（存儲選項卡）",
     "disarmedwarning": "<b>System Disarmed</b> - 不會觸發警報。單擊主 UI 中的掛鎖圖標進行布防。",
     "disconnect": "斷開",
+    "doubletaketrainmessage": "使用 DoubleTake UI 來訓練面部識別",
     "drivefulltext": "設備 {DEVICENAME} 報告驅動器已滿（無法記錄）",
     "duration": "期間",
     "durationpositive": "持續時間必須為正值",

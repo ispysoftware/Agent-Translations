@@ -721,6 +721,7 @@
     "directoryinvalid2": "ディレクトリが無効です（ストレージタブ）",
     "disarmedwarning": "<b>システムの武装解除</b>-アラートは発生しません。メインUIの南京錠アイコンをクリックして武装します。",
     "disconnect": "切断する",
+    "doubletaketrainmessage": "DoubleTake UIを使用して顔をトレーニングします。",
     "drivefulltext": "デバイス{DEVICENAME}は、ドライブがいっぱいであると報告しています（記録できません）",
     "duration": "間隔",
     "durationpositive": "期間は正でなければなりません",

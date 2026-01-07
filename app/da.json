@@ -721,6 +721,7 @@
     "directoryinvalid2": "Ugyldig mappe (Lagringsfane)",
     "disarmedwarning": "<b>System Frakoblet</b> - Alarmer udløses ikke. Klik på hængelåsikonet i hovedbrugergrænsefladen for at aktivere",
     "disconnect": "Koble fra",
+    "doubletaketrainmessage": "Brug DoubleTake UI til at træne ansigtstræk.",
     "drivefulltext": "Enheden {DEVICENAME} rapporterer, at drevet er fuldt (kan ikke optage)",
     "duration": "Varighed",
     "durationpositive": "Varighed skal være positiv.",

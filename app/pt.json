@@ -721,6 +721,7 @@
     "directoryinvalid2": "Diretório Inválido (Guia de Armazenamento)",
     "disarmedwarning": "<b>Sistema desarmado</b> - Os alertas não serão acionados. Clique no ícone de cadeado na interface do usuário principal para armar",
     "disconnect": "Desligar",
+    "doubletaketrainmessage": "Use a interface DoubleTake para treinar rostos.",
     "drivefulltext": "O dispositivo {DEVICENAME} está relatando que a unidade está cheia (não é possível gravar)",
     "duration": "Duração",
     "durationpositive": "A duração deve ser positiva.",

@@ -721,6 +721,7 @@
     "directoryinvalid2": "Érvénytelen könyvtár (Tárolás lap).",
     "disarmedwarning": "<b>Rendszer hatástalanítva</b> – A riasztások nem aktiválódnak. Kattintson a lakat ikonra a fő felhasználói felületen az élesítéshez.",
     "disconnect": "Leválasztás.",
+    "doubletaketrainmessage": "Használja a DoubleTake UI-t az arcok betanításához.",
     "drivefulltext": "A(z) {DEVICENAME} eszköz azt jelzi, hogy a meghajtó megtelt (nem lehet rögzíteni).",
     "duration": "Időtartam.",
     "durationpositive": "Az időtartamnak pozitívnak kell lennie.",

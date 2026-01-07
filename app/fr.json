@@ -721,6 +721,7 @@
     "directoryinvalid2": "Répertoire invalide (onglet Stockage)",
     "disarmedwarning": "<b>Système Désarmé</b> - Les alertes ne se déclencheront pas. Cliquez sur l'icône du cadenas dans l'interface utilisateur principale pour armer",
     "disconnect": "Couper",
+    "doubletaketrainmessage": "Utilisez l'interface DoubleTake pour entraîner les visages.",
     "drivefulltext": "L'appareil {DEVICENAME} signale que le lecteur est plein (enregistrement impossible)",
     "duration": "Durée",
     "durationpositive": "La durée doit être positive.",

@@ -721,6 +721,7 @@
     "directoryinvalid2": "Thư mục không hợp lệ (Tab Lưu trữ)",
     "disarmedwarning": "<b>Hệ thống đã vô hiệu hóa</b> - Cảnh báo sẽ không được kích hoạt. Nhấp vào biểu tượng ổ khóa trong giao diện chính để kích hoạt",
     "disconnect": "Ngắt kết nối",
+    "doubletaketrainmessage": "Sử dụng giao diện DoubleTake để huấn luyện khuôn mặt.",
     "drivefulltext": "Thiết bị {DEVICENAME} đang báo cáo ổ đĩa đã đầy (không thể ghi lại).",
     "duration": "Thời lượng",
     "durationpositive": "Thời lượng phải là số dương",

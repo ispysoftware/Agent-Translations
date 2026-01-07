@@ -721,6 +721,7 @@
     "directoryinvalid2": "目录无效（存储选项卡）",
     "disarmedwarning": "<b>System Disarmed</b> - 不会触发警报。单击主 UI 中的挂锁图标进行布防。",
     "disconnect": "断开",
+    "doubletaketrainmessage": "使用 DoubleTake 界面来训练面部识别",
     "drivefulltext": "设备 {DEVICENAME} 报告驱动器已满（无法记录）",
     "duration": "期间",
     "durationpositive": "持续时间必须是正数",

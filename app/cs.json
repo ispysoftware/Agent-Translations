@@ -721,6 +721,7 @@
     "directoryinvalid2": "Neplatný adresář (karta Úložiště)",
     "disarmedwarning": "<b>Systém deaktivován</b> – výstrahy se nespustí. Klepnutím na ikonu visacího zámku v hlavním uživatelském rozhraní aktivujte",
     "disconnect": "Odpojit",
+    "doubletaketrainmessage": "Použijte uživatelské rozhraní DoubleTake k trénování obličejů.",
     "drivefulltext": "Zařízení {DEVICENAME} hlásí, že disk je plný (nelze nahrávat)",
     "duration": "Doba trvání",
     "durationpositive": "Trvání musí být kladné.",

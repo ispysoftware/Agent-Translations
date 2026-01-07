@@ -721,6 +721,7 @@
     "directoryinvalid2": "Ugyldig katalog (Lagring-fanen)",
     "disarmedwarning": "<b>System deaktivert</b> - Varsler vil ikke utløses. Klikk på hengelåsikonet i hovedgrensesnittet for å aktivere",
     "disconnect": "Koble fra",
+    "doubletaketrainmessage": "Bruk DoubleTake-grensesnittet for å trene ansikter",
     "drivefulltext": "Enhet {DEVICENAME} rapporterer at stasjonen er full (kan ikke ta opp)",
     "duration": "Varighet",
     "durationpositive": "Varighet må være positiv",

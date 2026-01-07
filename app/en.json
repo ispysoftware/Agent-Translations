@@ -721,6 +721,7 @@
     "directoryinvalid2": "Directory Invalid (Storage tab)",
     "disarmedwarning": "<b>System Disarmed</b> - Alerts will not fire. Click the padlock icon in the main UI to arm",
     "disconnect": "Disconnect",
+    "doubletaketrainmessage": "Use the DoubleTake UI to train faces",
     "drivefulltext": "Device {DEVICENAME} is reporting the drive is full (unable to record)",
     "duration": "Duration",
     "durationpositive": "Duration must be positive",

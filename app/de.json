@@ -721,6 +721,7 @@
     "directoryinvalid2": "Verzeichnis ungültig (Speicher-Tab)",
     "disarmedwarning": "<b>System deaktiviert</b> – Warnungen werden nicht ausgelöst. Klicken Sie auf das Vorhängeschloss-Symbol in der Hauptbenutzeroberfläche, um es zu aktivieren",
     "disconnect": "Unterbrechen",
+    "doubletaketrainmessage": "Verwenden Sie die DoubleTake-Benutzeroberfläche, um Gesichter zu trainieren.",
     "drivefulltext": "Gerät {DEVICENAME} meldet, dass das Laufwerk voll ist (Aufzeichnung nicht möglich)",
     "duration": "Dauer",
     "durationpositive": "Dauer muss positiv sein",

@@ -721,6 +721,7 @@
     "directoryinvalid2": "Nieprawidłowy katalog (karta Przechowywanie)",
     "disarmedwarning": "<b>System Rozbrojony</b> — alerty nie będą uruchamiane. Kliknij ikonę kłódki w głównym interfejsie użytkownika, aby uzbroić",
     "disconnect": "Rozłącz",
+    "doubletaketrainmessage": "Użyj interfejsu DoubleTake, aby trenować twarze.",
     "drivefulltext": "Urządzenie {DEVICENAME} zgłasza, że dysk jest pełny (nie można nagrywać)",
     "duration": "Czas trwania",
     "durationpositive": "Czas trwania musi być dodatni.",
