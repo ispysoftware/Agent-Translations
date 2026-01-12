@@ -674,6 +674,7 @@
     "audio_analyzermirrored": "分析器镜像",
     "audio_historical": "历史",
     "audio_level": "音频级别",
+    "audio_none": "无",
     "audio_radialspectrum": "径向频谱",
     "audiofileformat": "仅支持.wav、.mp3或.ogg文件",
     "authorise": "授权",
