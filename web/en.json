@@ -305,7 +305,7 @@
   "icons": "Icons",
   "image": "Image",
   "importcontent": "Import Content",
-  "importcontenttext": "Enter a folder path (on the server) and choose a device. Agent will import all media content in the location to the device.",
+  "importcontenttext": "Enter a folder path (on the server) and choose a device. Agent will import all media content in the location to the device (mp4/mp3/mkv/jpg).",
   "importpath": "Path",
   "importpath_help": "The local path to the files to import on the server.",
   "inactive": "Inactive",
