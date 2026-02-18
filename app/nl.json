@@ -1469,6 +1469,8 @@
     "json.ldapuserintro": "Inloggen gebeurt via LDAP",
     "json.ldapusername": "Gebruikersnaam",
     "json.ldapusername.help": "Geef alleen een LDAP-login op als u een serviceaccount nodig heeft om gebruikersgegevens te openen.",
+    "json.learn": "Leren",
+    "json.learn.help": "Past database aan met hoge vertrouwensresultaten",
     "json.left": "Links",
     "json.lessthan": "Minder dan",
     "json.letterbox": "Pad Afbeelding",

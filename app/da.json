@@ -1469,6 +1469,8 @@
     "json.ldapuserintro": "Login indstilles via LDAP",
     "json.ldapusername": "Brugernavn",
     "json.ldapusername.help": "Specificer kun en LDAP-login, hvis du har brug for en tjenestekonto for at få adgang til brugeroplysninger.",
+    "json.learn": "Lær",
+    "json.learn.help": "Justerer database med resultater med høj tillid",
     "json.left": "Venstre",
     "json.lessthan": "Mindre end",
     "json.letterbox": "Pad billede",

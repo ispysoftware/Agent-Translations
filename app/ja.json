@@ -1469,6 +1469,8 @@
     "json.ldapuserintro": "ログインはLDAP経由で設定されています",
     "json.ldapusername": "ユーザー名",
     "json.ldapusername.help": "LDAPログインを指定する必要があるのは、ユーザーの詳細にアクセスするためのサービスアカウントが必要な場合のみです。",
+    "json.learn": "学ぶ",
+    "json.learn.help": "高い信頼性のある結果でデータベースを調整します",
     "json.left": "左",
     "json.lessthan": "未満",
     "json.letterbox": "パッド画像",

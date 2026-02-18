@@ -1469,6 +1469,8 @@
     "json.ldapuserintro": "يتم تعيين تسجيل الدخول عبر LDAP",
     "json.ldapusername": "اسم المستخدم",
     "json.ldapusername.help": "حدد تسجيل دخول LDAP فقط إذا كنت بحاجة إلى حساب خدمة للوصول إلى تفاصيل المستخدم.",
+    "json.learn": "تعلم",
+    "json.learn.help": "يعدل قاعدة البيانات بنتائج عالية الثقة",
     "json.left": "اليسار",
     "json.lessthan": "أقل من",
     "json.letterbox": "صورة الوسادة",

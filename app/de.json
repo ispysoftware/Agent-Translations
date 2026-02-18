@@ -1469,6 +1469,8 @@
     "json.ldapuserintro": "Die Anmeldung erfolgt über LDAP",
     "json.ldapusername": "Benutzername",
     "json.ldapusername.help": "Geben Sie nur eine LDAP-Anmeldung an, wenn Sie ein Dienstkonto benötigen, um auf Benutzerdetails zuzugreifen.",
+    "json.learn": "Lernen",
+    "json.learn.help": "Passt die Datenbank mit hochgradig zuverlässigen Ergebnissen an.",
     "json.left": "Links",
     "json.lessthan": "Weniger als",
     "json.letterbox": "Pad-Bild",

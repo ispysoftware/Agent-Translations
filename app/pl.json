@@ -1469,6 +1469,8 @@
     "json.ldapuserintro": "Logowanie odbywa się poprzez LDAP",
     "json.ldapusername": "Nazwa użytkownika",
     "json.ldapusername.help": "Określ tylko logowanie LDAP, jeśli potrzebujesz konta usługi do uzyskania dostępu do danych użytkownika.",
+    "json.learn": "Ucz się",
+    "json.learn.help": "Dostosowuje bazę danych z wynikami o wysokiej pewności",
     "json.left": "Lewo",
     "json.lessthan": "Mniej niż",
     "json.letterbox": "Obraz pad",

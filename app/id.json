@@ -1469,6 +1469,8 @@
     "json.ldapuserintro": "Login dikontrol oleh LDAP",
     "json.ldapusername": "Username",
     "json.ldapusername.help": "Hanya tentukan login LDAP jika Anda memerlukan akun layanan untuk mengakses detail pengguna.",
+    "json.learn": "Belajar",
+    "json.learn.help": "Menyesuaikan basis data dengan hasil kepercayaan tinggi",
     "json.left": "Kiri",
     "json.lessthan": "Kurang dari",
     "json.letterbox": "Gambar Pad",

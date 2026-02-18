@@ -1469,6 +1469,8 @@
     "json.ldapuserintro": "Kirjautuminen tapahtuu LDAP:n kautta",
     "json.ldapusername": "Käyttäjänimi",
     "json.ldapusername.help": "Määritä LDAP-kirjautuminen vain, jos tarvitset palvelutiliä käyttäjätietojen käyttöön.",
+    "json.learn": "Oppia",
+    "json.learn.help": "Säädä tietokantaa korkealla luottamustasolla olevilla tuloksilla",
     "json.left": "Vasen",
     "json.lessthan": "Vähemmän kuin",
     "json.letterbox": "Pad-kuva",

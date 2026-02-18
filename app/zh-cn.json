@@ -1469,6 +1469,8 @@
     "json.ldapuserintro": "通过 LDAP 设置登录",
     "json.ldapusername": "用户名",
     "json.ldapusername.help": "只有在需要服务帐户访问用户详细信息时才指定LDAP登录。",
+    "json.learn": "学习",
+    "json.learn.help": "调整数据库以获得高置信度结果",
     "json.left": "剩下",
     "json.lessthan": "少于",
     "json.letterbox": "垫片图像",

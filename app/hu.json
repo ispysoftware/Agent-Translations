@@ -1469,6 +1469,8 @@
     "json.ldapuserintro": "A bejelentkezést az LDAP vezérli",
     "json.ldapusername": "Felhasználónév",
     "json.ldapusername.help": "Csak akkor adjon meg LDAP bejelentkezést, ha szolgáltatásfiókra van szüksége a felhasználói adatok eléréséhez.",
+    "json.learn": "Tanulj",
+    "json.learn.help": "A magas bizalommal rendelkező eredményekkel módosítja az adatbázist.",
     "json.left": "Balra",
     "json.lessthan": "Kevesebb, mint",
     "json.letterbox": "Pad kép",

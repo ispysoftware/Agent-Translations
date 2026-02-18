@@ -1469,6 +1469,8 @@
     "json.ldapuserintro": "O login é definido via LDAP",
     "json.ldapusername": "Nome de usuário",
     "json.ldapusername.help": "Apenas especifique um login LDAP se precisar de uma conta de serviço para acessar os detalhes do usuário.",
+    "json.learn": "Aprender",
+    "json.learn.help": "Ajusta o banco de dados com resultados de alta confiança",
     "json.left": "Esquerda",
     "json.lessthan": "Menor que",
     "json.letterbox": "Imagem do Pad",

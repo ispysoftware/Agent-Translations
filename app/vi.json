@@ -1469,6 +1469,8 @@
     "json.ldapuserintro": "Đăng nhập được kiểm soát bởi LDAP.",
     "json.ldapusername": "Tên người dùng",
     "json.ldapusername.help": "Chỉ đặt một đăng nhập LDAP nếu bạn cần một tài khoản dịch vụ để truy cập chi tiết người dùng.",
+    "json.learn": "Học",
+    "json.learn.help": "Điều chỉnh cơ sở dữ liệu với kết quả có độ tin cậy cao",
     "json.left": "Trái",
     "json.lessthan": "Ít hơn",
     "json.letterbox": "Hình ảnh Pad",

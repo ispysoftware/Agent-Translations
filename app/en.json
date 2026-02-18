@@ -1469,6 +1469,8 @@
     "json.ldapuserintro": "Login is controlled by LDAP",
     "json.ldapusername": "Username",
     "json.ldapusername.help": "Only specify an LDAP login if you need a service account to access user details",
+    "json.learn": "Learn",
+    "json.learn.help": "Adjusts database with high confidence results",
     "json.left": "Left",
     "json.lessthan": "Less Than",
     "json.letterbox": "Pad Image",

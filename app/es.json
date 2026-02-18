@@ -1469,6 +1469,8 @@
     "json.ldapuserintro": "El inicio de sesión se establece a través de LDAP",
     "json.ldapusername": "Nombre de usuario",
     "json.ldapusername.help": "Solo especifique un inicio de sesión LDAP si necesita una cuenta de servicio para acceder a los detalles del usuario.",
+    "json.learn": "Aprender",
+    "json.learn.help": "Ajusta la base de datos con resultados de alta confianza",
     "json.left": "Izquierda",
     "json.lessthan": "Menos que",
     "json.letterbox": "Imagen de Pad",

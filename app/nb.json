@@ -1469,6 +1469,8 @@
     "json.ldapuserintro": "Pålogging kontrolleres av LDAP",
     "json.ldapusername": "Brukernavn",
     "json.ldapusername.help": "Spesifiser bare en LDAP-pålogging hvis du trenger en tjenestekonto for å få tilgang til brukerdetaljer.",
+    "json.learn": "Lær",
+    "json.learn.help": "Justerer databasen med høy tillit til resultatene",
     "json.left": "Venstre",
     "json.lessthan": "Mindre enn",
     "json.letterbox": "Pad-bilde",

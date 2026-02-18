@@ -1469,6 +1469,8 @@
     "json.ldapuserintro": "로그인은 LDAP를 통해 설정됩니다.",
     "json.ldapusername": "사용자 이름",
     "json.ldapusername.help": "필요한 경우 사용자 세부 정보에 액세스하기 위해 서비스 계정을 지정하십시오.",
+    "json.learn": "배우다",
+    "json.learn.help": "높은 신뢰도 결과로 데이터베이스를 조정합니다.",
     "json.left": "왼쪽",
     "json.lessthan": "미만",
     "json.letterbox": "패드 이미지",

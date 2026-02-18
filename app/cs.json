@@ -1469,6 +1469,8 @@
     "json.ldapuserintro": "Přihlášení se nastavuje přes LDAP",
     "json.ldapusername": "Uživatelské jméno",
     "json.ldapusername.help": "Specifikujte pouze přihlášení LDAP, pokud potřebujete účet služby k přístupu k informacím uživatele.",
+    "json.learn": "Učit se",
+    "json.learn.help": "Upravuje databázi s výsledky s vysokou důvěrou.",
     "json.left": "Vlevo",
     "json.lessthan": "Méně než",
     "json.letterbox": "Pad obrazovky",

@@ -1469,6 +1469,8 @@
     "json.ldapuserintro": "Inloggning ställs in via LDAP",
     "json.ldapusername": "Användarnamn",
     "json.ldapusername.help": "Ange endast en LDAP-inloggning om du behöver ett tjänstekonto för att komfiga användardetaljer.",
+    "json.learn": "Lär dig",
+    "json.learn.help": "Justerar databasen med högkonfidensresultat",
     "json.left": "Vänster",
     "json.lessthan": "Mindre än",
     "json.letterbox": "Pad-bild",

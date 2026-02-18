@@ -1469,6 +1469,8 @@
     "json.ldapuserintro": "Giriş LDAP aracılığıyla ayarlanır",
     "json.ldapusername": "Kullanıcı adı",
     "json.ldapusername.help": "Sadece kullanıcı ayrıntılarına erişmek için bir hizmet hesabına ihtiyacınız varsa bir LDAP girişi belirtin.",
+    "json.learn": "Öğrenmek",
+    "json.learn.help": "Yüksek güvenilirlik sonuçlarıyla veritabanını ayarlar.",
     "json.left": "Sol",
     "json.lessthan": "Daha az",
     "json.letterbox": "Pad Görüntüsü",
