@@ -248,7 +248,7 @@
   "expired": "Expired",
   "face": "Face",
   "facehelp": "Center the person's face in the Camera, enter their name and click OK. You can add multiple photos of the same face to the same name",
-  "facehelp4": "Enter the person's name and either upload photos from the drive (Current camera directory is [DIR]) or capture their face using the current camera",
+  "facehelp4": "Enter the person's name and either upload photos from the drive (Current camera directory is [DIR]) or capture their face using a webcam",
   "failedlocal": "Could not connect. Is Agent DVR running?",
   "file": "File",
   "filesmonitor": "Recordings",
