@@ -302,6 +302,7 @@
   "hours": "Hours",
   "icon": "Icon",
   "icons": "Icons",
+  "images": "Images",
   "image": "Image",
   "importcontent": "Import Content",
   "importcontenttext": "Enter a folder path (on the server) and choose a device. Agent will import all media content in the location to the device (mp4/mp3/mkv/jpg).",
