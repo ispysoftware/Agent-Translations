@@ -303,6 +303,7 @@
   "icon": "アイコン",
   "icons": "アイコン",
   "image": "画像",
+  "images": "画像",
   "importcontent": "コンテンツのインポート",
   "importcontenttext": "フォルダパス（サーバー上）を入力し、デバイスを選択します。Agentは、その場所にあるすべてのメディアコンテンツをデバイスにインポートします。",
   "importpath": "パス",

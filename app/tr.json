@@ -659,7 +659,6 @@
     "aiinfo_txt_update": "Güncelleme",
     "aiinfo_yolov5-3.1_description": "YOLOv5 v3.1 kitaplığını kullanarak CPU'ları ve CUDA etkin GPU'ları destekleyen Nesne Tespiti sağlar. Bu seçenek, daha eski CUDA 10.2 ve altı GPU'lara sahip olanlar için en iyisidir",
     "aiinfo_yolov5-3.1_title": "Nesne Tanıma (YOLOv5 3.1)",
-    "aineedaudiofile2": "Agent DVR, Ses Tanıma için bir model dosyası indirmelidir.",
     "aineedlicense": "Bu özelliği kullanmak için ücretli bir hesaba ihtiyacınız var.",
     "ainotresponding": "AI sunucusu kullanılamıyor - Bkz. Sunucu Ayarları - AI Ayarları",
     "alert": "Uyarmak",

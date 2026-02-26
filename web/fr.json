@@ -303,6 +303,7 @@
   "icon": "Icône",
   "icons": "Icônes",
   "image": "Image",
+  "images": "Images",
   "importcontent": "Importer le contenu",
   "importcontenttext": "Entrez un chemin de dossier (sur le serveur) et choisissez un appareil. Agent importera tout le contenu multimédia à l'emplacement vers l'appareil.",
   "importpath": "Chemin",

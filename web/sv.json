@@ -303,6 +303,7 @@
   "icon": "Ikon",
   "icons": "Ikoner",
   "image": "Bild",
+  "images": "Bilder",
   "importcontent": "Importera innehåll",
   "importcontenttext": "Ange en mappväg (på servern) och välj en enhet. Agent kommer att importera allt mediainnehåll på platsen till enheten.",
   "importpath": "Sökväg",

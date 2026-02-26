@@ -659,7 +659,6 @@
     "aiinfo_txt_update": "更新",
     "aiinfo_yolov5-3.1_description": "使用 YOLOv5 v3.1 库提供对象检测，支持 CPU 和支持 CUDA 的 GPU。此选项最适合使用较旧 CUDA 10.2 及以下 GPU 的用户",
     "aiinfo_yolov5-3.1_title": "物体识别 (YOLOv5 3.1)",
-    "aineedaudiofile2": "Agent DVR需要下载一个用于音频识别的模型文件。",
     "aineedlicense": "您需要一个付费账户才能使用此功能。",
     "ainotresponding": "AI 服务器不可用 - 请参阅服务器设置 - AI 设置。",
     "alert": "警报",

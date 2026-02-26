@@ -303,6 +303,7 @@
   "icon": "Symbol",
   "icons": "Symbole",
   "image": "Bild",
+  "images": "Bilder",
   "importcontent": "Inhalt importieren",
   "importcontenttext": "Geben Sie einen Ordnerpfad (auf dem Server) ein und wählen Sie ein Gerät aus. Agent wird alle Medieninhalte am Standort auf das Gerät importieren.",
   "importpath": "Pfad",

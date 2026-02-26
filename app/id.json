@@ -659,7 +659,6 @@
     "aiinfo_txt_update": "Perbarui",
     "aiinfo_yolov5-3.1_description": "Menyediakan Deteksi Objek menggunakan perpustakaan YOLOv5 v3.1 dengan dukungan untuk CPU dan GPU yang diaktifkan dengan CUDA. Opsi ini terbaik untuk mereka yang menggunakan GPU CUDA versi 10.2 dan di bawahnya.",
     "aiinfo_yolov5-3.1_title": "Deteksi Objek (YOLOv5 3.1)",
-    "aineedaudiofile2": "Agent DVR perlu mengunduh file model untuk Pengenalan Audio.",
     "aineedlicense": "Anda memerlukan akun berbayar untuk menggunakan fitur ini.",
     "ainotresponding": "Server AI tidak tersedia - Lihat Pengaturan Server - Pengaturan AI",
     "alert": "Peringatan",

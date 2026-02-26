@@ -659,7 +659,6 @@
     "aiinfo_txt_update": "Oppdater",
     "aiinfo_yolov5-3.1_description": "Tilbyr objektdeteksjon ved hjelp av YOLOv5 v3.1-bibliotek med støtte for CPU-er og CUDA-aktiverte GPU-er. Dette alternativet er best for de med eldre CUDA 10.2 og lavere GPU-er",
     "aiinfo_yolov5-3.1_title": "Objektdeteksjon (YOLOv5 3.1)",
-    "aineedaudiofile2": "Agent DVR må laste ned en modellfil for lydgjenkjenning.",
     "aineedlicense": "Du trenger en betalt konto for å bruke denne funksjonen.",
     "ainotresponding": "AI-server ikke tilgjengelig - Se Serverinnstillinger - AI-innstillinger",
     "alert": "Varsel",

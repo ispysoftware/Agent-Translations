@@ -303,6 +303,7 @@
   "icon": "simge",
   "icons": "Simgeler",
   "image": "resim",
+  "images": "Görüntüler",
   "importcontent": "İçeriği İçe Aktar",
   "importcontenttext": "Bir klasör yolu girin (sunucuda) ve bir cihaz seçin. Agent, konumdaki tüm medya içeriğini cihaza aktaracaktır.",
   "importpath": "Yol",

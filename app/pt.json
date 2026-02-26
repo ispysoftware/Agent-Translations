@@ -659,7 +659,6 @@
     "aiinfo_txt_update": "Atualizar",
     "aiinfo_yolov5-3.1_description": "Fornece detecção de objetos usando a biblioteca YOLOv5 v3.1 com suporte para CPUs e GPUs habilitadas para CUDA. Esta opção é melhor para aqueles com GPUs CUDA 10.2 e anteriores",
     "aiinfo_yolov5-3.1_title": "Reconhecimento de objetos (YOLOv5 3.1)",
-    "aineedaudiofile2": "O Agent DVR precisa baixar um arquivo de modelo para Reconhecimento de Áudio.",
     "aineedlicense": "Você precisa de uma conta paga para usar este recurso.",
     "ainotresponding": "Servidor AI não disponível - Consulte Configurações do servidor - Configurações AI",
     "alert": "Alerta",

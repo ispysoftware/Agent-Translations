@@ -303,6 +303,7 @@
   "icon": "Ikona",
   "icons": "ikony",
   "image": "Obraz",
+  "images": "Obrázky",
   "importcontent": "Importovat obsah",
   "importcontenttext": "Zadejte cestu k složce (na serveru) a vyberte zařízení. Agent importuje veškerý mediální obsah z této lokace do zařízení.",
   "importpath": "Cesta",

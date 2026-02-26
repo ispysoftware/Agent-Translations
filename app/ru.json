@@ -659,7 +659,6 @@
     "aiinfo_txt_update": "Обновить",
     "aiinfo_yolov5-3.1_description": "Обнаружение объектов с YOLOv5 v3.1 (CUDA <= 10.2)",
     "aiinfo_yolov5-3.1_title": "Обнаружение объектов (YOLOv5 3.1)",
-    "aineedaudiofile2": "Agent DVR нужно загрузить модель для распознавания звуков.",
     "aineedlicense": "Вам нужна платная учетная запись, чтобы использовать эту функцию.",
     "ainotresponding": "AI-сервер не отвечает — см. «Server Settings» — «AI Settings»",
     "alert": "Тревога",

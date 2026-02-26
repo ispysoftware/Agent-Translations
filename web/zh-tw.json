@@ -303,6 +303,7 @@
   "icon": "圖示",
   "icons": "圖示",
   "image": "圖片",
+  "images": "影像",
   "importcontent": "導入內容",
   "importcontenttext": "輸入一個資料夾路徑（在伺服器上）並選擇一個設備。Agent 將把該位置的所有媒體內容匯入到設備中。",
   "importpath": "路徑",

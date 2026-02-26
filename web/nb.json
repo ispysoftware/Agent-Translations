@@ -303,6 +303,7 @@
   "icon": "Ikon",
   "icons": "Ikoner",
   "image": "Bilde",
+  "images": "Bilder",
   "importcontent": "Importer innhold",
   "importcontenttext": "Skriv inn en mappesti (på serveren) og velg en enhet. Agent vil importere alt medieinnhold i plasseringen til enheten.",
   "importpath": "Sti",

@@ -303,6 +303,7 @@
   "icon": "Ikon",
   "icons": "Ikonok",
   "image": "Kép",
+  "images": "Képek",
   "importcontent": "Tartalom importálása",
   "importcontenttext": "Adjon meg egy mappa elérési utat (a szerveren), és válasszon egy eszközt. Az Agent importálja az összes média tartalmat a megadott helyről az eszközre.",
   "importpath": "Útvonal",

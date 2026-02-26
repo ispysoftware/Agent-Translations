@@ -303,6 +303,7 @@
   "icon": "상",
   "icons": "아이콘",
   "image": "영상",
+  "images": "이미지",
   "importcontent": "콘텐츠 가져오기",
   "importcontenttext": "서버에서 폴더 경로를 입력하고 장치를 선택하십시오. Agent는 해당 위치의 모든 미디어 콘텐츠를 장치로 가져옵니다.",
   "importpath": "경로",

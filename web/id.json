@@ -303,6 +303,7 @@
   "icon": "Ikon",
   "icons": "Ikon",
   "image": "Gambar",
+  "images": "Gambar",
   "importcontent": "Impor Konten",
   "importcontenttext": "Masukkan jalur folder (di server) dan pilih perangkat. Agent akan mengimpor semua konten media di lokasi ke perangkat.",
   "importpath": "Jalur",

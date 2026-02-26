@@ -659,7 +659,6 @@
     "aiinfo_txt_update": "Aktualisieren",
     "aiinfo_yolov5-3.1_description": "Bietet Objekterkennung unter Verwendung der YOLOv5 v3.1-Bibliothek mit Unterstützung für CPUs und CUDA-fähige GPUs. Diese Option ist am besten für diejenigen mit älteren CUDA 10.2 und niedrigeren GPUs geeignet",
     "aiinfo_yolov5-3.1_title": "Objekterkennung (YOLOv5 3.1)",
-    "aineedaudiofile2": "Agent DVR muss eine Modelldatei für die Audiorekognition herunterladen.",
     "aineedlicense": "Sie benötigen ein kostenpflichtiges Konto, um diese Funktion zu nutzen.",
     "ainotresponding": "AI-Server nicht verfügbar – Siehe Servereinstellungen – AI-Einstellungen",
     "alert": "Benachrichtigung",

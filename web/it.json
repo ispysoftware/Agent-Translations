@@ -303,6 +303,7 @@
   "icon": "Icona",
   "icons": "Icone",
   "image": "Immagine",
+  "images": "Immagini",
   "importcontent": "Importa contenuto",
   "importcontenttext": "Inserisci un percorso della cartella (sul server) e scegli un dispositivo. Agent importerà tutto il contenuto multimediale nella posizione sul dispositivo.",
   "importpath": "Percorso",

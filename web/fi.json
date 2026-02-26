@@ -303,6 +303,7 @@
   "icon": "Kuvake",
   "icons": "Kuvakkeet",
   "image": "Kuva",
+  "images": "Kuvat",
   "importcontent": "Tuo sisältö",
   "importcontenttext": "Syötä kansiopolku (palvelimella) ja valitse laite. Agent importoi kaikki median sisällöt sijainnista laitteeseen.",
   "importpath": "Polku",

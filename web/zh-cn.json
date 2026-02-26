@@ -303,6 +303,7 @@
   "icon": "图标",
   "icons": "图标",
   "image": "图片",
+  "images": "图像",
   "importcontent": "导入内容",
   "importcontenttext": "输入文件夹路径（在服务器上）并选择一个设备。Agent 将把该位置的所有媒体内容导入到设备中。",
   "importpath": "路径",

@@ -659,7 +659,6 @@
     "aiinfo_txt_update": "Cập nhật",
     "aiinfo_yolov5-3.1_description": "Cung cấp Phát hiện Đối tượng bằng thư viện YOLOv5 v3.1 với hỗ trợ cho CPU và GPU được kích hoạt bằng CUDA. Tùy chọn này phù hợp nhất cho những người sử dụng GPU CUDA cũ hơn phiên bản 10.2 và thấp hơn.",
     "aiinfo_yolov5-3.1_title": "Phát hiện đối tượng (YOLOv5 3.1)",
-    "aineedaudiofile2": "Agent DVR cần tải xuống một tệp mô hình cho Nhận dạng Âm thanh.",
     "aineedlicense": "Bạn cần một tài khoản trả phí để sử dụng tính năng này.",
     "ainotresponding": "Máy chủ AI không khả dụng - Xem Cài đặt Máy chủ - Cài đặt AI",
     "alert": "Cảnh báo",

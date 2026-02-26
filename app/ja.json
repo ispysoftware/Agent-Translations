@@ -659,7 +659,6 @@
     "aiinfo_txt_update": "アップデート",
     "aiinfo_yolov5-3.1_description": "CPU および CUDA 対応 GPU をサポートする YOLOv5 v3.1 ライブラリを使用してオブジェクト検出を提供します。このオプションは、古い CUDA 10.2 以下の GPU を使用している場合に最適です。",
     "aiinfo_yolov5-3.1_title": "オブジェクト認識 (YOLOv5 3.1)",
-    "aineedaudiofile2": "Agent DVRは、オーディオ認識のためのモデルファイルをダウンロードする必要があります。",
     "aineedlicense": "この機能を使用するには、有料アカウントが必要です。",
     "ainotresponding": "AI サーバーが利用できません - サーバー設定 - AI 設定を参照してください。",
     "alert": "アラート",

@@ -659,7 +659,6 @@
     "aiinfo_txt_update": "Aktualizace",
     "aiinfo_yolov5-3.1_description": "Poskytuje detekci objektů pomocí knihovny YOLOv5 v3.1 s podporou CPU a GPU s podporou CUDA. Tato možnost je nejlepší pro uživatele se staršími GPU CUDA 10.2 a nižšími",
     "aiinfo_yolov5-3.1_title": "Rozpoznávání objektů (YOLOv5 3.1)",
-    "aineedaudiofile2": "Agent DVR potřebuje stáhnout modelový soubor pro rozpoznávání zvuku.",
     "aineedlicense": "K používání této funkce potřebujete placený účet.",
     "ainotresponding": "Server AI není dostupný – viz Nastavení serveru – Nastavení AI",
     "alert": "Upozornění",

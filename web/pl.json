@@ -303,6 +303,7 @@
   "icon": "Ikona",
   "icons": "Ikony",
   "image": "Wizerunek",
+  "images": "Obrazy",
   "importcontent": "Importuj zawartość",
   "importcontenttext": "Wprowadź ścieżkę do folderu (na serwerze) i wybierz urządzenie. Agent zaimportuje całą zawartość multimedialną z lokalizacji do urządzenia.",
   "importpath": "Ścieżka",

@@ -659,7 +659,6 @@
     "aiinfo_txt_update": "Päivittää",
     "aiinfo_yolov5-3.1_description": "Tarjoaa objektien tunnistuksen käyttämällä YOLOv5 v3.1 -kirjastoa, joka tukee suorittimia ja CUDA-yhteensopivia GPU:ita. Tämä vaihtoehto on paras niille, joilla on vanhempi CUDA 10.2 tai vanhempi GPU",
     "aiinfo_yolov5-3.1_title": "Objektin tunnistus (YOLOv5 3.1)",
-    "aineedaudiofile2": "Agent DVR tarvitsee ladata mallitiedoston äänentunnistusta varten.",
     "aineedlicense": "Tarvitset maksullisen tilin tämän ominaisuuden käyttämiseen.",
     "ainotresponding": "AI-palvelin ei ole käytettävissä - Katso Palvelinasetukset - AI-asetukset",
     "alert": "Hälytys",

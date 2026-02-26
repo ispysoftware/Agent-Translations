@@ -659,7 +659,6 @@
     "aiinfo_txt_update": "Frissítés.",
     "aiinfo_yolov5-3.1_description": "Objektumészlelést biztosít a YOLOv5 v3.1 könyvtár használatával, CPU-k és CUDA-képes GPU-k támogatásával. Ez a lehetőség a legmegfelelőbb azok számára, akik régebbi CUDA 10.2-es vagy régebbi GPU-val rendelkeznek.",
     "aiinfo_yolov5-3.1_title": "Objektumészlelés (YOLOv5 3.1)",
-    "aineedaudiofile2": "Az ügynök DVR-nek le kell töltenie egy modellfájlt a hangfelismeréshez.",
     "aineedlicense": "Ehhez a funkcióhoz fizetett fiókra van szükség.",
     "ainotresponding": "AI-kiszolgáló nem érhető el - Lásd: Szerverbeállítások - AI-beállítások",
     "alert": "Riasztás",

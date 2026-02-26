@@ -303,6 +303,7 @@
   "icon": "Icoon",
   "icons": "Pictogrammen",
   "image": "Beeld",
+  "images": "Afbeeldingen",
   "importcontent": "Inhoud importeren",
   "importcontenttext": "Voer een mappad (op de server) in en kies een apparaat. Agent zal alle mediacontent op de locatie naar het apparaat importeren.",
   "importpath": "Pad",
