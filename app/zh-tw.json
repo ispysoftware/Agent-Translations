@@ -1316,7 +1316,7 @@
     "json.fontfamily": "字體系列",
     "json.fontsize": " 字體大小",
     "json.forceh264": "強制 H264",
-    "json.forceh264.help": "始終使用 H264 進行網頁客戶端的串流",
+    "json.forceh264.help": "使用 H264 進行客戶端串流。警告：如果即時視圖停止工作，請取消勾選此選項。",
     "json.forcereload": "強制重新加載",
     "json.forcereload.help": "一些攝像機會生成新的視頻 URL。如果您在重新連接到視頻源時遇到問題，請選中此選項。",
     "json.formatter": "格式化程序",

@@ -1316,7 +1316,7 @@
     "json.fontfamily": "Betűcsalád",
     "json.fontsize": "Betűméret",
     "json.forceh264": "Kényszerített H264",
-    "json.forceh264.help": "Mindig H264-et használjon a webes kliensekhez való streameléshez.",
+    "json.forceh264.help": "Használja a H264-et az ügyfelekhez való streameléshez. FIGYELEM: Törölje a jelölést, ha a élő nézet leáll.",
     "json.forcereload": "Újratöltés kényszerítése",
     "json.forcereload.help": "Néhány kamera új videó URL-eket generál. Jelölje be ezt a lehetőséget, ha problémái vannak a videócsatornákhoz való újracsatlakozással.",
     "json.formatter": "Formázó",

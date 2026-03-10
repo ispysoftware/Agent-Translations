@@ -1316,7 +1316,7 @@
     "json.fontfamily": "Famiglia di font",
     "json.fontsize": "Dimensione Font",
     "json.forceh264": "Forza H264",
-    "json.forceh264.help": "Usa sempre H264 per lo streaming ai client web.",
+    "json.forceh264.help": "Usa H264 per lo streaming ai client. ATTENZIONE: Deseleziona questa opzione se la visualizzazione in tempo reale smette di funzionare.",
     "json.forcereload": "Ricarica forzata",
     "json.forcereload.help": "Alcune telecamere generano nuovi URL video. Seleziona questa opzione se hai problemi a riconnetterti ai feed video",
     "json.formatter": "Formattatore",

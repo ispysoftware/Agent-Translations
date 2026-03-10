@@ -1316,7 +1316,7 @@
     "json.fontfamily": "Font Familie",
     "json.fontsize": "Skriftstørrelse",
     "json.forceh264": "Tving H264",
-    "json.forceh264.help": "Brug altid H264 til streaming til webklienter.",
+    "json.forceh264.help": "Brug H264 til streaming til klienter. ADVARSEL: Fjern markeringen, hvis livevisningen stopper med at fungere.",
     "json.forcereload": "Tving genindlæsning",
     "json.forcereload.help": "Nogle kameraer genererer nye video-URL'er. Marker denne mulighed, hvis du har problemer med at oprette forbindelse til video-feeds igen",
     "json.formatter": "Formater",

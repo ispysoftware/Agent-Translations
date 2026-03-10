@@ -1316,7 +1316,7 @@
     "json.fontfamily": "Typsnittsfamilj",
     "json.fontsize": "Textstorlek",
     "json.forceh264": "Tvinga H264",
-    "json.forceh264.help": "Använd alltid H264 för streaming till webbklienter.",
+    "json.forceh264.help": "Använd H264 för streaming till klienter. VARNING: Avmarkera detta om livevyn slutar fungera.",
     "json.forcereload": "Tvinga omladdning",
     "json.forcereload.help": "Vissa kameror genererar nya videowebbadresser. Markera det här alternativet om du har problem med att återansluta till videoflöden",
     "json.formatter": "Formaterare",

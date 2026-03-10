@@ -1316,7 +1316,7 @@
     "json.fontfamily": "글꼴군",
     "json.fontsize": "글꼴 크기",
     "json.forceh264": "H264 강제 설정",
-    "json.forceh264.help": "웹 클라이언트로 스트리밍할 때는 항상 H264를 사용하세요.",
+    "json.forceh264.help": "클라이언트에 스트리밍할 때 H264를 사용하십시오. 경고: 라이브 뷰가 작동을 멈추면 이 옵션의 선택을 해제하십시오.",
     "json.forcereload": "강제 재장전",
     "json.forcereload.help": "일부 카메라는 새로운 비디오 URL을 생성합니다. 비디오 피드에 다시 연결하는 데 문제가 있는 경우 이 옵션을 선택하십시오.",
     "json.formatter": "포맷터",

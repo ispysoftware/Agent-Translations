@@ -1316,7 +1316,7 @@
     "json.fontfamily": "Keluarga Font",
     "json.fontsize": "Ukuran Font",
     "json.forceh264": "Paksa H264",
-    "json.forceh264.help": "Selalu gunakan H264 untuk streaming ke klien web",
+    "json.forceh264.help": "Gunakan H264 untuk streaming ke klien. PERINGATAN: Hapus centang ini jika tampilan langsung berhenti berfungsi.",
     "json.forcereload": "Muat Ulang Paksa",
     "json.forcereload.help": "Beberapa kamera menghasilkan URL video baru. Periksa opsi ini jika Anda mengalami masalah saat menyambung kembali ke umpan video.",
     "json.formatter": "Pemformat",

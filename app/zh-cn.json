@@ -1316,7 +1316,7 @@
     "json.fontfamily": "字体系列",
     "json.fontsize": "字体大小",
     "json.forceh264": "强制 H264",
-    "json.forceh264.help": "始终使用 H264 进行流式传输到网络客户端",
+    "json.forceh264.help": "使用 H264 进行客户端流媒体传输。警告：如果实时视图停止工作，请取消选中此项。",
     "json.forcereload": "强制重新加载",
     "json.forcereload.help": "一些摄像机会生成新的视频 URL。如果您在重新连接到视频源时遇到问题，请选中此选项。",
     "json.formatter": "格式化",

@@ -1316,7 +1316,7 @@
     "json.fontfamily": "Rodina písem",
     "json.fontsize": " Velikost písma",
     "json.forceh264": "Vynutit H264",
-    "json.forceh264.help": "Vždy používejte H264 pro streamování na webové klienty.",
+    "json.forceh264.help": "Použijte H264 pro streamování k klientům. UPOZORNĚNÍ: Zrušte zaškrtnutí, pokud přestane fungovat živý náhled.",
     "json.forcereload": "Vynutit opětovné načtení",
     "json.forcereload.help": "Některé kamery generují nové adresy URL videa. Zaškrtněte tuto možnost, pokud máte problémy s opětovným připojením k video kanálům",
     "json.formatter": "Formát",

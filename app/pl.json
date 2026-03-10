@@ -1316,7 +1316,7 @@
     "json.fontfamily": "Rodzina czcionek",
     "json.fontsize": "Rozmiar czcionki",
     "json.forceh264": "Wymuś H264",
-    "json.forceh264.help": "Zawsze używaj H264 do strumieniowania do klientów internetowych.",
+    "json.forceh264.help": "Użyj H264 do strumieniowania do klientów. OSTRZEŻENIE: Odznacz to, jeśli podgląd na żywo przestanie działać.",
     "json.forcereload": "Wymuś przeładowanie",
     "json.forcereload.help": "Niektóre kamery generują nowe adresy URL wideo. Zaznacz tę opcję, jeśli masz problemy z ponownym połączeniem z kanałami wideo",
     "json.formatter": "Formater",
