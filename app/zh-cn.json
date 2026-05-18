@@ -1135,6 +1135,7 @@
     "json.datamanagement": "数据管理",
     "json.dateformat": "日期格式",
     "json.days": "天",
+    "json.decodedevice": "解码设备",
     "json.decodedevice.help": "默认留空或指定设备索引或路径（例如 /dev/dri/renderD128 或 /dev/dri/card0）",
     "json.decodekey": "解码关键",
     "json.decoder2": "解码器",

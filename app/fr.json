@@ -1135,6 +1135,7 @@
     "json.datamanagement": "Gestion des données",
     "json.dateformat": "Format de date",
     "json.days": "Journées",
+    "json.decodedevice": "Décodeur de périphérique",
     "json.decodedevice.help": "Laissez vide par défaut ou spécifiez un index ou un chemin de périphérique (par exemple /dev/dri/renderD128 ou /dev/dri/card0)",
     "json.decodekey": "Decode Key",
     "json.decoder2": "Décodeur",

@@ -1135,6 +1135,7 @@
     "json.datamanagement": "Управління даними",
     "json.dateformat": "Формат дати",
     "json.days": "Дні",
+    "json.decodedevice": "Декодувати пристрій",
     "json.decodedevice.help": "Залиште порожнім для значення за замовчуванням або вкажіть індекс пристрою або шлях (наприклад, /dev/dri/renderD128 або /dev/dri/card0)",
     "json.decodekey": "Розшифрувати ключ",
     "json.decoder2": "Декодер",

@@ -1135,6 +1135,7 @@
     "json.datamanagement": "Datahåndtering",
     "json.dateformat": "Datoformat",
     "json.days": "Dage",
+    "json.decodedevice": "Dekodningsenhed",
     "json.decodedevice.help": "Lad stå tomt som standard, eller angiv et enhedsindeks eller -sti (f.eks. /dev/dri/renderD128 eller /dev/dri/card0)",
     "json.decodekey": "Afkod nøgle",
     "json.decoder2": "Dekoder",

@@ -1135,6 +1135,7 @@
     "json.datamanagement": "VeriYönetimi",
     "json.dateformat": "Tarih formatı",
     "json.days": "günler",
+    "json.decodedevice": "Cihazı Çözümle",
     "json.decodedevice.help": "Varsayılan olarak boş bırakın veya bir aygıt dizini veya yolu belirtin (örn. /dev/dri/renderD128 veya /dev/dri/card0)",
     "json.decodekey": "Anahtarın kodunu çöz",
     "json.decoder2": "kod çözücü",

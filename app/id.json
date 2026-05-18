@@ -1135,6 +1135,7 @@
     "json.datamanagement": "ManajemenData",
     "json.dateformat": "Format Tanggal",
     "json.days": "Hari",
+    "json.decodedevice": "Dekode Perangkat",
     "json.decodedevice.help": "Biarkan kosong untuk default atau tentukan indeks perangkat atau jalur (misalnya /dev/dri/renderD128 atau /dev/dri/card0)",
     "json.decodekey": "Kunci Dekode",
     "json.decoder2": "Penerjemah",

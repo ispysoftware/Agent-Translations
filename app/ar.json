@@ -1135,6 +1135,7 @@
     "json.datamanagement": "إدارة البيانات",
     "json.dateformat": "صيغة التاريخ",
     "json.days": "أيام",
+    "json.decodedevice": "فك تشفير الجهاز",
     "json.decodedevice.help": "اتركه فارغًا بشكل افتراضي أو حدد فهرس الجهاز أو المسار (على سبيل المثال /dev/dri/renderD128 أو /dev/dri/card0)",
     "json.decodekey": "مفتاح فك",
     "json.decoder2": "فك",

@@ -1135,6 +1135,7 @@
     "json.datamanagement": "Quản lý dữ liệu",
     "json.dateformat": "Định dạng ngày",
     "json.days": "Ngày",
+    "json.decodedevice": "Giải mã Thiết bị",
     "json.decodedevice.help": "Để trống để mặc định hoặc chỉ định một chỉ mục thiết bị hoặc đường dẫn (ví dụ /dev/dri/renderD128 hoặc /dev/dri/card0)",
     "json.decodekey": "Giải mã Khóa",
     "json.decoder2": "Bộ giải mã",

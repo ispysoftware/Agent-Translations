@@ -1135,6 +1135,7 @@
     "json.datamanagement": "데이터 관리",
     "json.dateformat": "날짜 형식",
     "json.days": "날",
+    "json.decodedevice": "디코드 장치",
     "json.decodedevice.help": "기본값으로 비워 두거나 장치 색인 또는 경로를 지정하십시오(예: /dev/dri/renderD128 또는 /dev/dri/card0).",
     "json.decodekey": "디코드 키",
     "json.decoder2": "디코더",

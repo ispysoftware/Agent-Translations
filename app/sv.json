@@ -1135,6 +1135,7 @@
     "json.datamanagement": "Datahantering",
     "json.dateformat": "Datumformat",
     "json.days": "dagar",
+    "json.decodedevice": "Avkoda enhet",
     "json.decodedevice.help": "Lämna tomt som standard eller ange ett enhetsindex eller sökväg (t.ex. /dev/dri/renderD128 eller /dev/dri/card0)",
     "json.decodekey": "Avkoda nyckel",
     "json.decoder2": "Avkodare",

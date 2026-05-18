@@ -1135,6 +1135,7 @@
     "json.datamanagement": "Gegevensbeheer",
     "json.dateformat": "Datumnotatie",
     "json.days": "Dagen",
+    "json.decodedevice": "Decode-apparaat",
     "json.decodedevice.help": "Laat dit standaard leeg of geef een apparaatindex of pad op (bijvoorbeeld /dev/dri/renderD128 of /dev/dri/card0)",
     "json.decodekey": "Decode Sleutel",
     "json.decoder2": "Decoder",

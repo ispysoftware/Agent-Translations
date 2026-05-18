@@ -1135,6 +1135,7 @@
     "json.datamanagement": "Tietojenhallinta",
     "json.dateformat": "Päivämäärämuoto",
     "json.days": "Päivät",
+    "json.decodedevice": "Purku laite",
     "json.decodedevice.help": "Jätä tyhjäksi oletuksena tai määritä laitehakemisto tai polku (esim. /dev/dri/renderD128 tai /dev/dri/card0)",
     "json.decodekey": "Purkuavain",
     "json.decoder2": "Dekooderi",

@@ -1135,6 +1135,7 @@
     "json.datamanagement": "Adatkezelés",
     "json.dateformat": "Dátumformátum",
     "json.days": "Napok",
+    "json.decodedevice": "Dekódoló eszköz",
     "json.decodedevice.help": "Hagyja üresen az alapértelmezett beállításhoz, vagy adjon meg egy eszközindexet vagy elérési utat (pl. /dev/dri/renderD128 vagy /dev/dri/card0)",
     "json.decodekey": "Dekódolási kulcs",
     "json.decoder2": "Dekóder",

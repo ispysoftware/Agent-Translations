@@ -1135,6 +1135,7 @@
     "json.datamanagement": "डेटा प्रबंधन",
     "json.dateformat": "डेटा प्रारूप",
     "json.days": "दिन",
+    "json.decodedevice": "डिकोड डिवाइस",
     "json.decodedevice.help": "डिफ़ॉल्ट के लिए खाली छोड़ें या डिवाइस इंडेक्स या पथ निर्दिष्ट करें (जैसे /dev/dri/renderD128 या /dev/dri/card0)",
     "json.decodekey": "डिकोड कुंजी",
     "json.decoder2": "डिकोडर",

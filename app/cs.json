@@ -1135,6 +1135,7 @@
     "json.datamanagement": "SprávaDat",
     "json.dateformat": "Formát data",
     "json.days": "Dny",
+    "json.decodedevice": "Dekódovací zařízení",
     "json.decodedevice.help": "Pro výchozí nastavení ponechte prázdné nebo zadejte index zařízení nebo cestu (např. /dev/dri/renderD128 nebo /dev/dri/card0)",
     "json.decodekey": "Dekódovací klíč",
     "json.decoder2": "Dekodér",

@@ -1135,6 +1135,7 @@
     "json.datamanagement": "ডেটা ব্যবস্থাপনা",
     "json.dateformat": "তারিখ বিন্যাস",
     "json.days": "দিন",
+    "json.decodedevice": "ডিকোড ডিভাইস",
     "json.decodedevice.help": "ডিফল্টের জন্য ফাঁকা রাখুন বা একটি ডিভাইস সূচক বা পথ নির্দিষ্ট করুন (যেমন /dev/dri/renderD128 বা /dev/dri/card0)",
     "json.decodekey": "ডিকোড কী",
     "json.decoder2": "ডিকোডার",

@@ -1135,6 +1135,7 @@
     "json.datamanagement": "データ管理",
     "json.dateformat": "日付形式",
     "json.days": "日々",
+    "json.decodedevice": "デコードデバイス",
     "json.decodedevice.help": "デフォルトの場合は空白のままにするか、デバイスのインデックスまたはパスを指定します（例：/dev/dri/renderD128 または /dev/dri/card0）。",
     "json.decodekey": "キーをデコード",
     "json.decoder2": "デコーダ",
