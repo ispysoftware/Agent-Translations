@@ -349,6 +349,7 @@
   "licensingfailedmessage": "<p>Unikátní ID na stránce licencí musí odpovídat ID v licenci. Přejděte na <a href=\"#\" onclick=\"helpers.goWebsite('manage',event)\">Spravovat licence</a>, pokud potřebujete přesunout svou stávající licenci na novou instalaci. Můžete smazat stávající licenci a přidat novou s novým ID.</a></p>",
   "linksent": "Odkaz odeslán - zkontrolujte svůj e-mail",
   "live": "Živé video",
+  "livebadge": "ŽIVĚ",
   "loading": "Načítání",
   "localaccount": "Místní účet",
   "location": "Místo",

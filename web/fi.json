@@ -349,6 +349,7 @@
   "licensingfailedmessage": "<p>Lisenssisivun ainutlaatuinen ID:n on vastattava lisenssissä olevaa ID:tä. Siirry <a href=\"#\" onclick=\"helpers.goWebsite('manage',event)\">Hallitse lisenssejä</a> -osioon, jos sinun tarvitsee siirtää nykyinen lisenssi uuteen asennukseen. Voit poistaa nykyisen lisenssin ja lisätä uuden uuden ID:n kanssa.</a></p>",
   "linksent": "Linkki lähetetty - tarkista sähköpostisi",
   "live": "Live-video",
+  "livebadge": "LIVE",
   "loading": "Ladataan",
   "localaccount": "Paikallinen tili",
   "location": "Sijainti",

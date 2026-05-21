@@ -349,6 +349,7 @@
   "licensingfailedmessage": "<p>Die eindeutige ID auf der Lizenzseite muss mit der ID in der Lizenz übereinstimmen. Gehen Sie zu <a href=\"#\" onclick=\"helpers.goWebsite('manage',event)\">Lizenzen verwalten</a>, wenn Sie Ihre vorhandene Lizenz auf eine neue Installation übertragen müssen. Sie können die vorhandene Lizenz löschen und eine neue mit der neuen ID hinzufügen.</a></p>",
   "linksent": "Link gesendet   Überprüfen Sie Ihre E Mails",
   "live": "Live Video",
+  "livebadge": "LIVE",
   "loading": "Wird geladen",
   "localaccount": "Lokales Konto",
   "location": "Lage",

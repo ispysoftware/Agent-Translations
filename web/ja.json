@@ -349,6 +349,7 @@
   "licensingfailedmessage": "<p>ライセンスページのユニークIDは、ライセンス内のIDと一致する必要があります。既存のライセンスを新しいインストールに移動する必要がある場合は、<a href=\"#\" onclick=\"helpers.goWebsite('manage',event)\">ライセンスの管理</a>に移動してください。既存のライセンスを削除し、新しいIDで新しいライセンスを追加できます。</p>",
   "linksent": "リンク送信-メールを確認してください",
   "live": "ライブビデオ",
+  "livebadge": "ライブ",
   "loading": "読み込み中",
   "localaccount": "ローカル アカウント",
   "location": "位置",

@@ -349,6 +349,7 @@
   "licensingfailedmessage": "<p>ID Unik di halaman lisensi harus cocok dengan ID di lisensi. Pergi ke <a href=\"#\" onclick=\"helpers.goWebsite('manage',event)\">Kelola Lisensi</a> jika Anda perlu memindahkan lisensi yang ada ke instalasi baru. Anda dapat menghapus lisensi yang ada dan menambahkan yang baru dengan ID baru.</a></p>",
   "linksent": "Tautan Terkirim - periksa email Anda",
   "live": "Video Langsung",
+  "livebadge": "LANGSUNG",
   "loading": "Memuat",
   "localaccount": "Akun Lokal",
   "location": "Lokasi",

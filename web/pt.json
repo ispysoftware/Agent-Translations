@@ -349,6 +349,7 @@
   "licensingfailedmessage": "<p>O ID Único na página de licenciamento deve corresponder ao ID na licença. Vá para <a href=\"#\" onclick=\"helpers.goWebsite('manage',event)\">Gerenciar Licenças</a> se você precisar mover sua licença existente para uma nova instalação. Você pode excluir a licença existente e adicionar uma nova com o novo ID.</a></p>",
   "linksent": "Link enviado   verifique seu e mail",
   "live": "Vídeo ao vivo",
+  "livebadge": "AO VIVO",
   "loading": "Carregando",
   "localaccount": "Conta local",
   "location": "Localização",

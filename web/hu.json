@@ -349,6 +349,7 @@
   "licensingfailedmessage": "<p>A licenc oldalon szereplő egyedi azonosítónak meg kell egyeznie a licencben szereplő azonosítóval. Nyissa meg a <a href=\"#\" onclick=\"helpers.goWebsite('manage',event)\">Licencek kezelése</a> oldalt, ha meglévő licencét új telepítésre kell áthelyeznie. Törölheti a meglévő licencet, és hozzáadhat egy újat az új azonosítóval.</a></p>",
   "linksent": "Link elküldve – ellenőrizze e-mailjeit",
   "live": "Élő Videó",
+  "livebadge": "ÉLŐ",
   "loading": "Betöltés",
   "localaccount": "Helyi fiók",
   "location": "Helyszín",

@@ -349,6 +349,7 @@
   "licensingfailedmessage": "<p>Lisans sayfasındaki Benzersiz ID, lisans içindeki ID ile eşleşmelidir. Mevcut lisansınızı yeni bir kurulumda taşımak için <a href=\"#\" onclick=\"helpers.goWebsite('manage',event)\">Lisansları Yönet</a> sayfasına gidin. Mevcut lisansı silebilir ve yeni ID ile yeni bir lisans ekleyebilirsiniz.</p>",
   "linksent": "Bağlantı Gönderildi - e-postanızı kontrol edin",
   "live": "Canlı video",
+  "livebadge": "CANLI",
   "loading": "Yükleniyor",
   "localaccount": "Yerel Hesap",
   "location": "Konum",

@@ -349,6 +349,7 @@
   "licensingfailedmessage": "<p>Den unikke ID på licenssiden skal matche ID'et i licensen. Gå til <a href=\"#\" onclick=\"helpers.goWebsite('manage',event)\">Administrer Licenser</a>, hvis du har brug for at flytte din eksisterende licens til en ny installation. Du kan slette den eksisterende licens og tilføje en ny med den nye ID.</a></p>",
   "linksent": "Link sendt - tjek din e-mail",
   "live": "Live video",
+  "livebadge": "LIVE",
   "loading": "Indlæser",
   "localaccount": "Lokal konto",
   "location": "Beliggenhed",

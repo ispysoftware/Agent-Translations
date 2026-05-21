@@ -349,6 +349,7 @@
   "licensingfailedmessage": "<p>许可证页面上的唯一 ID 必须与许可证中的 ID 匹配。如果您需要将现有许可证移动到新安装，请访问 <a href=\"#\" onclick=\"helpers.goWebsite('manage',event)\">管理许可证</a>。您可以删除现有许可证并添加带有新 ID 的新许可证。</a></p>",
   "linksent": "已发送链接 - 查看您的电子邮件",
   "live": "实时视频流",
+  "livebadge": "直播",
   "loading": "载入中",
   "localaccount": "本地帐户",
   "location": "位置",
