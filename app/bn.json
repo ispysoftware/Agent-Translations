@@ -2283,6 +2283,7 @@
     "json.update": "হালনাগাদ",
     "json.updateavailable": "আপডেট উপলব্ধ",
     "json.updatetrack": "আপডেট ট্র্যাক",
+    "json.updatetrack.help": "আপডেট কোথায় চেক করবেন - বিটা সংস্করণগুলি অস্থিতিশীল হতে পারে।",
     "json.upgradenow": "এখন আপগ্রেড করুন",
     "json.uploadcloudrecording": "ক্লাউড আপলোড বর্তমান রেকর্ডিং",
     "json.uploadftprecording": "FTP আপলোড বর্তমান রেকর্ডিং",

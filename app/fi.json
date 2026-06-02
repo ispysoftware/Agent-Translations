@@ -2283,6 +2283,7 @@
     "json.update": "Päivitä",
     "json.updateavailable": "Päivitys saatavilla",
     "json.updatetrack": "Päivitä Raita",
+    "json.updatetrack.help": "Missä tarkistaa päivitykset - Beta-versiot voivat olla epävakaita.",
     "json.upgradenow": "Päivitä nyt",
     "json.uploadcloudrecording": "Pilvilähetä nykyinen tallennus",
     "json.uploadftprecording": "FTP lataa nykyinen tallennus",

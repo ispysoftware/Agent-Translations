@@ -2283,6 +2283,7 @@
     "json.update": "Oppdater",
     "json.updateavailable": "Oppdatering tilgjengelig",
     "json.updatetrack": "Oppdater spor",
+    "json.updatetrack.help": "Hvor du kan sjekke etter oppdateringer - Beta-versjoner kan være ustabile.",
     "json.upgradenow": "Oppgrader nå",
     "json.uploadcloudrecording": "Skyopplasting av gjeldende opptak",
     "json.uploadftprecording": "FTP-opplasting av gjeldende opptak",

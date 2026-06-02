@@ -2283,6 +2283,7 @@
     "json.update": "Perbarui",
     "json.updateavailable": "Pembaruan Tersedia",
     "json.updatetrack": "Perbarui Jejak",
+    "json.updatetrack.help": "Tempat untuk memeriksa pembaruan - Versi beta mungkin tidak stabil.",
     "json.upgradenow": "Tingkatkan Sekarang",
     "json.uploadcloudrecording": "Unggah rekaman saat ini ke cloud",
     "json.uploadftprecording": "Unggah perekaman saat ini melalui FTP",

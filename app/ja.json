@@ -2283,6 +2283,7 @@
     "json.update": "アップデート",
     "json.updateavailable": "利用可能なアップデート",
     "json.updatetrack": "更新トラック",
+    "json.updatetrack.help": "更新を確認する場所 - ベータ版は不安定な場合があります。",
     "json.upgradenow": "今すぐアップグレード",
     "json.uploadcloudrecording": "現在の録音をクラウドにアップロード",
     "json.uploadftprecording": "FTP アップロード現在の記録",

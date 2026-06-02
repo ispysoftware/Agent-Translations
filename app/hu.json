@@ -2283,6 +2283,7 @@
     "json.update": "Frissítés",
     "json.updateavailable": "Frissítés elérhető",
     "json.updatetrack": "Frissítés nyomkövetés",
+    "json.updatetrack.help": "Hol ellenőrizheti a frissítéseket - A béta verziók instabilak lehetnek.",
     "json.upgradenow": "Frissítés most",
     "json.uploadcloudrecording": "Aktuális felvétel feltöltése felhőbe",
     "json.uploadftprecording": "Aktuális felvétel feltöltése FTP-re",

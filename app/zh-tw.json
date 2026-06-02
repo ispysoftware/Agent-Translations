@@ -2283,6 +2283,7 @@
     "json.update": "更新資料",
     "json.updateavailable": "可用更新",
     "json.updatetrack": "更新追蹤",
+    "json.updatetrack.help": "檢查更新的位置 - 測試版本可能不穩定。",
     "json.upgradenow": "立即升級",
     "json.uploadcloudrecording": "雲端上傳目前錄音",
     "json.uploadftprecording": "FTP上傳目前錄音",

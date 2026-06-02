@@ -2283,6 +2283,7 @@
     "json.update": "Оновлення",
     "json.updateavailable": "Оновлення доступно",
     "json.updatetrack": "Оновлення треку",
+    "json.updatetrack.help": "Де перевірити наявність оновлень - Бета-версії можуть бути нестабільними.",
     "json.upgradenow": "Оновити зараз",
     "json.uploadcloudrecording": "Завантаження в хмару поточного запису",
     "json.uploadftprecording": "Завантаження поточного запису через FTP",

@@ -2283,6 +2283,7 @@
     "json.update": "به‌روزرسانی",
     "json.updateavailable": "به‌روزرسانی موجود است",
     "json.updatetrack": "به‌روزرسانی ردیابی",
+    "json.updatetrack.help": "کجا باید به‌روزرسانی‌ها را بررسی کرد - نسخه‌های بتا ممکن است ناپایدار باشند.",
     "json.upgradenow": "اکنون ارتقا دهید",
     "json.uploadcloudrecording": "بارگذاری ابری ضبط فعلی",
     "json.uploadftprecording": "بارگذاری FTP ضبط فعلی",
