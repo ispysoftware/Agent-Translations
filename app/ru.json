@@ -2282,8 +2282,6 @@
     "json.uniqueid": "Уникальный ID",
     "json.update": "Обновить",
     "json.updateavailable": "Доступно обновление",
-    "json.updatetrack": "Обновить трек",
-    "json.updatetrack.help": "Где проверить обновления - Бета-версии могут быть нестабильными.",
     "json.upgradenow": "Обновить сейчас",
     "json.uploadcloudrecording": "Загрузить текущую запись в облако",
     "json.uploadftprecording": "Загрузить текущую запись на FTP",

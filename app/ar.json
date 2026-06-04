@@ -2282,8 +2282,6 @@
     "json.uniqueid": "هوية مميزة",
     "json.update": "تحديث",
     "json.updateavailable": "التحديث متاح",
-    "json.updatetrack": "تحديث المسار",
-    "json.updatetrack.help": "أين تتحقق من التحديثات - قد تكون الإصدارات التجريبية غير مستقرة.",
     "json.upgradenow": "ترقية الآن",
     "json.uploadcloudrecording": "سحابة تحميل التسجيل الحالي",
     "json.uploadftprecording": "FTP تحميل التسجيل الحالي",

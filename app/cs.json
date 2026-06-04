@@ -2282,8 +2282,6 @@
     "json.uniqueid": "Unikátní ID",
     "json.update": "Aktualizace",
     "json.updateavailable": "Aktualizace k dispozici",
-    "json.updatetrack": "Aktualizace sledování",
-    "json.updatetrack.help": "Kde zkontrolovat aktualizace - Beta verze mohou být nestabilní.",
     "json.upgradenow": "Aktualizovat nyní",
     "json.uploadcloudrecording": "Cloud upload aktuálního záznamu",
     "json.uploadftprecording": "FTP upload aktuální nahrávky",

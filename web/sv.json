@@ -799,6 +799,8 @@
   "uploadfiles": "Ladda upp filer?",
   "url": "URL",
   "use": "Använda sig av",
+  "usebeta_help": "Kontrollera efter uppdateringar från release- eller beta-spåret",
+  "usebeta": "Beta Spår",
   "usecamera": "Använd kamera",
   "used": "Begagnade",
   "usenative": "Använd System",

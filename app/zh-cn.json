@@ -2282,8 +2282,6 @@
     "json.uniqueid": "唯一身份",
     "json.update": "更新",
     "json.updateavailable": "可用更新",
-    "json.updatetrack": "更新跟踪",
-    "json.updatetrack.help": "检查更新的位置 - 测试版可能不稳定。",
     "json.upgradenow": "立即升级",
     "json.uploadcloudrecording": "云端上传当前录音",
     "json.uploadftprecording": "FTP上传当前录音",

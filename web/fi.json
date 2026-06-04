@@ -799,6 +799,8 @@
   "uploadfiles": "Lataa tiedostot?",
   "url": "URL-osoite",
   "use": "Käytä",
+  "usebeta_help": "Tarkista päivitykset julkaisusta tai beetaversiosta.",
+  "usebeta": "Beta Track",
   "usecamera": "Käytä kameraa",
   "used": "Käytetty",
   "usenative": "Käytä järjestelmää",

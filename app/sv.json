@@ -2282,8 +2282,6 @@
     "json.uniqueid": "Unikt ID",
     "json.update": "Uppdatering",
     "json.updateavailable": "Uppdatering tillgänglig",
-    "json.updatetrack": "Uppdatera Spårning",
-    "json.updatetrack.help": "Var man kontrollerar efter uppdateringar - Beta-versioner kan vara instabila.",
     "json.upgradenow": "Uppgradera nu",
     "json.uploadcloudrecording": "Cloud ladda upp aktuell inspelning",
     "json.uploadftprecording": "FTP ladda upp aktuell inspelning",

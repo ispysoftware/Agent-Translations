@@ -799,6 +799,8 @@
   "uploadfiles": "Télécharger des fichiers?",
   "url": "URL",
   "use": "Utilisation",
+  "usebeta_help": "Vérifiez les mises à jour de la version ou de la version bêta",
+  "usebeta": "Beta Track",
   "usecamera": "Utiliser l'appareil photo",
   "used": "Utilisé",
   "usenative": "Utiliser le système",

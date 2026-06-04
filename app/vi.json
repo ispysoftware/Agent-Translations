@@ -2282,8 +2282,6 @@
     "json.uniqueid": "ID duy nhất",
     "json.update": "Cập nhật",
     "json.updateavailable": "Cập Nhật Có Sẵn",
-    "json.updatetrack": "Cập nhật theo dõi",
-    "json.updatetrack.help": "Nơi kiểm tra cập nhật - Phiên bản Beta có thể không ổn định.",
     "json.upgradenow": "Nâng cấp ngay",
     "json.uploadcloudrecording": "Tải lên đám mây bản ghi hiện tại",
     "json.uploadftprecording": "Tải lên ghi lại hiện tại qua FTP",

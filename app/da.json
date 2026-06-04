@@ -2282,8 +2282,6 @@
     "json.uniqueid": "Unikt ID",
     "json.update": "Opdatering",
     "json.updateavailable": "Opdatering tilgængelig",
-    "json.updatetrack": "Opdater spor",
-    "json.updatetrack.help": "Hvor man kan tjekke for opdateringer - Beta-versioner kan være ustabile.",
     "json.upgradenow": "Opgrader nu",
     "json.uploadcloudrecording": "Cloud upload aktuel optagelse",
     "json.uploadftprecording": "FTP upload aktuel optagelse",

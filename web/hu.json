@@ -799,6 +799,8 @@
   "uploadfiles": "Fájlok feltöltése?",
   "url": "URL",
   "use": "Használat",
+  "usebeta_help": "Ellenőrizze a frissítéseket a kiadási vagy béta csatornáról.",
+  "usebeta": "Beta Track",
   "usecamera": "Használja a kamerát",
   "used": "Használt",
   "usenative": "Rendszer használata",

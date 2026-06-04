@@ -799,6 +799,8 @@
   "uploadfiles": "ファイルをアップロードしますか？",
   "url": "URL",
   "use": "使用する",
+  "usebeta_help": "リリースまたはベータトラックからの更新を確認する",
+  "usebeta": "ベータトラック",
   "usecamera": "カメラを使用する",
   "used": "中古",
   "usenative": "システムを使用する",

@@ -2282,8 +2282,6 @@
     "json.uniqueid": "Unique ID",
     "json.update": "Update",
     "json.updateavailable": "Update Available",
-    "json.updatetrack": "Update Track",
-    "json.updatetrack.help": "Where to check for updates - Beta versions may be unstable.",
     "json.upgradenow": "Upgrade Now",
     "json.uploadcloudrecording": "Cloud upload current recording",
     "json.uploadftprecording": "FTP upload current recording",

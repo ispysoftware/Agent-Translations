@@ -2282,8 +2282,6 @@
     "json.uniqueid": "benzersiz kimlik",
     "json.update": "Güncelleme",
     "json.updateavailable": "Güncelleme uygun",
-    "json.updatetrack": "Güncelleme Takibi",
-    "json.updatetrack.help": "Güncellemeleri nereden kontrol edeceğiniz - Beta sürümleri kararsız olabilir.",
     "json.upgradenow": "Şimdi Yükselt",
     "json.uploadcloudrecording": "Mevcut kaydı buluta yükle",
     "json.uploadftprecording": "Geçerli kaydı FTP yükle",

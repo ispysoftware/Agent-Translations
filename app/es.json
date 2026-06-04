@@ -2282,8 +2282,6 @@
     "json.uniqueid": "Identificación única",
     "json.update": "Actualizar",
     "json.updateavailable": "Actualización disponible",
-    "json.updatetrack": "Actualizar seguimiento",
-    "json.updatetrack.help": "Dónde verificar actualizaciones - Las versiones beta pueden ser inestables.",
     "json.upgradenow": "Actualizar ahora",
     "json.uploadcloudrecording": "Cargar en la nube la grabación actual",
     "json.uploadftprecording": "Subir por FTP la grabación actual",

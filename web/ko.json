@@ -799,6 +799,8 @@
   "uploadfiles": "파일을 업로드 하시겠습니까?",
   "url": "URL",
   "use": "사용",
+  "usebeta_help": "릴리스 또는 베타 트랙에서 업데이트 확인",
+  "usebeta": "베타 트랙",
   "usecamera": "카메라 사용",
   "used": "사용된",
   "usenative": "시스템 사용",

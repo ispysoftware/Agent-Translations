@@ -2282,8 +2282,6 @@
     "json.uniqueid": "Unieke ID",
     "json.update": "Bijwerken",
     "json.updateavailable": "Update beschikbaar",
-    "json.updatetrack": "Update Track",
-    "json.updatetrack.help": "Waar te controleren op updates - Bèta-versies kunnen onbetrouwbaar zijn.",
     "json.upgradenow": "Upgrade Nu",
     "json.uploadcloudrecording": "Cloud upload huidige opname",
     "json.uploadftprecording": "FTP-upload huidige opname",

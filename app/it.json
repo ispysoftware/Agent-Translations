@@ -2282,8 +2282,6 @@
     "json.uniqueid": "ID univoco",
     "json.update": "Aggiornare",
     "json.updateavailable": "Aggiornamento disponibile",
-    "json.updatetrack": "Aggiornamento Traccia",
-    "json.updatetrack.help": "Dove controllare gli aggiornamenti - Le versioni beta potrebbero essere instabili.",
     "json.upgradenow": "Aggiorna ora",
     "json.uploadcloudrecording": "Carica la registrazione corrente nel cloud",
     "json.uploadftprecording": "Caricamento FTP della registrazione corrente",

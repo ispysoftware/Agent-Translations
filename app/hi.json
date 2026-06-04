@@ -2282,8 +2282,6 @@
     "json.uniqueid": "एक अलग पहचान",
     "json.update": "अद्यतन",
     "json.updateavailable": "उपलब्ध अद्यतन",
-    "json.updatetrack": "अपडेट ट्रैक",
-    "json.updatetrack.help": "अपडेट के लिए कहाँ जाँच करें - बीटा संस्करण अस्थिर हो सकते हैं।",
     "json.upgradenow": "अब अपग्रेड करें",
     "json.uploadcloudrecording": "क्लाउड अपलोड वर्तमान रिकॉर्डिंग",
     "json.uploadftprecording": "एफ़टीपी वर्तमान रिकॉर्डिंग अपलोड करें",

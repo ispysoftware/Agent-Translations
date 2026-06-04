@@ -799,6 +799,8 @@
   "uploadfiles": "Laste opp filer?",
   "url": "URL",
   "use": "Bruk",
+  "usebeta_help": "Sjekk etter oppdateringer fra utgivelses- eller beta-spor",
+  "usebeta": "Beta Track",
   "usecamera": "Bruk kamera",
   "used": "Brukt",
   "usenative": "Bruk system",

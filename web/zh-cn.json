@@ -799,6 +799,8 @@
   "uploadfiles": "是否上传文件？",
   "url": "网址",
   "use": "使用",
+  "usebeta_help": "检查发布或测试版本的更新",
+  "usebeta": "测试版通道",
   "usecamera": "使用相机",
   "used": "用过的",
   "usenative": "使用系统",
