@@ -1492,7 +1492,6 @@
     "json.ldappassword": "Lösenord",
     "json.ldapport": "Port",
     "json.ldapport.help": "Använd 389 för standard LDAP. Om du använder Active Directory och stöter på referensfel, prova port 3268 (Global Catalog).",
-    "json.ldapprotocolversion": "Protokollversion",
     "json.ldapsearchbase": "LDAP sökbas",
     "json.ldapsearchbase.help": "t.ex.: DC=exempel,DC=com",
     "json.ldapuserintro": "Inloggning ställs in via LDAP",
@@ -1884,6 +1883,7 @@
     "json.profile": "Profil",
     "json.profileapplied": "Profil Tillämpad",
     "json.protocol": "Nätverksprotokoll",
+    "json.protocolversion": "Protokollversion",
     "json.provider": "Leverantör",
     "json.provider.help": "Se Serverinställningar - Moln för att aktivera molntjänster",
     "json.ptz": "PTZ",
@@ -2258,6 +2258,8 @@
     "json.triprepeat": "Upprepa avtryckaren",
     "json.triprepeat.help": "Objekt kan utlösa en snubbeltråd flera gånger",
     "json.tripwires": "Tripwires",
+    "json.trustedproxies": "Betrodda proxier",
+    "json.trustedproxies.help": "IP-adresser för omvända proxier som får rapportera den verkliga klient-IP:n. Lämna tomt om du inte kör en proxy (t.ex. nginx, Caddy, Cloudflare Tunnel) framför Agent DVR.",
     "json.tue": "tis",
     "json.tuning": "Inställning",
     "json.tuning.help": "Prestanda: Hög FPS, färre kameror.<br/>Balanserad: Kvalitet och kvantitet, medelväg<br/>Kapacitet: Fler kameror eller mindre kraftfull hårdvara. Lägre FPS.<br/>*Vi valde automatiskt detta baserat på din hårdvara.",
@@ -2572,6 +2574,7 @@
     "urlinvalid": "Webbadressen du angav är ogiltig",
     "useinactivity": "Använd Inaktivitetsfördröjning",
     "useinactivityhelp": "Återställer inaktivitetsfördröjningen istället för att stoppa omedelbart",
+    "json.validatecertificate": "Validera certifikat",
     "voicelanguagehelp": "Ställ in språk i serverinställningar - Allmänt"
   }
 }

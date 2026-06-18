@@ -1492,7 +1492,6 @@
     "json.ldappassword": "Mot de passe",
     "json.ldapport": "Port",
     "json.ldapport.help": "Utilisez le port 389 pour LDAP standard. Si vous utilisez Active Directory et rencontrez des erreurs de référence, essayez le port 3268 (Catalogue global).",
-    "json.ldapprotocolversion": "Version du protocole",
     "json.ldapsearchbase": "Base de recherche LDAP",
     "json.ldapsearchbase.help": "Par exemple : DC=exemple,DC=com",
     "json.ldapuserintro": "La connexion est définie via LDAP",
@@ -1884,6 +1883,7 @@
     "json.profile": "Profil",
     "json.profileapplied": "Profil Appliqué",
     "json.protocol": "Protocole réseau",
+    "json.protocolversion": "Version du protocole",
     "json.provider": "Fournisseur",
     "json.provider.help": "Voir les paramètres du serveur avoir acces au service du Cloud",
     "json.ptz": "PTZ",
@@ -2258,6 +2258,8 @@
     "json.triprepeat": "Répéter le déclencheur",
     "json.triprepeat.help": "L'objet peut déclencher un fil de déclenchement plusieurs fois",
     "json.tripwires": "Fils de déclenchement",
+    "json.trustedproxies": "Proxies de confiance",
+    "json.trustedproxies.help": "Adresses IP des proxies inverses autorisés à signaler l'adresse IP réelle du client. Laissez vide à moins que vous n'exécutiez un proxy (par exemple, nginx, Caddy, Cloudflare Tunnel) devant Agent.",
     "json.tue": "mar",
     "json.tuning": "Réglage",
     "json.tuning.help": "Performance : FPS élevés, moins de caméras.<br/>Équilibré : Qualité et quantité, juste milieu.<br/>Capacité : Plus de caméras ou matériel moins puissant. FPS plus bas.<br/>*Nous avons sélectionné cela automatiquement en fonction de votre matériel.",
@@ -2572,6 +2574,7 @@
     "urlinvalid": "L'URL que vous avez saisie n'est pas valide",
     "useinactivity": "Utiliser le délai d'inactivité",
     "useinactivityhelp": "Réinitialise le délai d'inactivité au lieu de s'arrêter immédiatement",
+    "json.validatecertificate": "Valider le certificat",
     "voicelanguagehelp": "Définir la langue dans les paramètres du serveur - Général"
   }
 }

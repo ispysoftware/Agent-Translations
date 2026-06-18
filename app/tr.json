@@ -1492,7 +1492,6 @@
     "json.ldappassword": "Parola",
     "json.ldapport": "Port",
     "json.ldapport.help": "Standart LDAP için 389'u kullanın. Active Directory kullanıyorsanız ve Referral hatalarıyla karşılaşıyorsanız, 3268 (Küresel Katalog) portunu deneyin.",
-    "json.ldapprotocolversion": "Protokol Sürümü",
     "json.ldapsearchbase": "LDAP Arama Tabanı",
     "json.ldapsearchbase.help": "örneğin: DC=example,DC=com",
     "json.ldapuserintro": "Giriş LDAP aracılığıyla ayarlanır",
@@ -1884,6 +1883,7 @@
     "json.profile": "Profil",
     "json.profileapplied": "Profil Uygulandı",
     "json.protocol": "Ağ Protokolü",
+    "json.protocolversion": "Protokol Sürümü",
     "json.provider": "Sağlayıcı",
     "json.provider.help": "Bulut hizmetlerini etkinleştirmek için Sunucu Ayarları - Bulut bölümüne bakın",
     "json.ptz": "PTZ",
@@ -2258,6 +2258,8 @@
     "json.triprepeat": "Tekrar Tetikleyici",
     "json.triprepeat.help": "Nesne, bir açma telini birden çok kez tetikleyebilir",
     "json.tripwires": "Tripwires",
+    "json.trustedproxies": "Güvenilir Proxy'ler",
+    "json.trustedproxies.help": "Gerçek istemci IP'sini bildirmesine izin verilen ters proxy'lerin IP adresleri. Agent'ın önünde bir proxy (örneğin nginx, Caddy, Cloudflare Tunnel) çalıştırmıyorsanız boş bırakın.",
     "json.tue": "sal",
     "json.tuning": "Ayarlar",
     "json.tuning.help": "Performans: Yüksek FPS, daha az kamera.<br/>Dengeli: Kalite ve miktar, orta yol<br/>Kapasite: Daha fazla kamera veya daha az güçlü donanım. Daha düşük FPS.<br/>*Bunu donanımınıza göre otomatik olarak seçtik.",
@@ -2572,6 +2574,7 @@
     "urlinvalid": "Girdiğiniz URL geçersiz",
     "useinactivity": "Hareketsizlik Gecikmesini Kullan",
     "useinactivityhelp": "Hemen durmak yerine hareketsizlik gecikmesini sıfırlar",
+    "json.validatecertificate": "Sertifikayı Doğrula",
     "voicelanguagehelp": "Sunucu ayarlarında dil ayarını yapın - Genel"
   }
 }

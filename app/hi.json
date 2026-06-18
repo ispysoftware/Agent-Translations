@@ -1492,7 +1492,6 @@
     "json.ldappassword": "पासवर्ड",
     "json.ldapport": "पोर्ट",
     "json.ldapport.help": "मानक LDAP के लिए 389 का उपयोग करें। यदि आप Active Directory का उपयोग कर रहे हैं और Referral त्रुटियों का सामना कर रहे हैं, तो पोर्ट 3268 (ग्लोबल कैटलॉग) का प्रयास करें।",
-    "json.ldapprotocolversion": "प्रोटोकॉल संस्करण",
     "json.ldapsearchbase": "एलडीएपी खोज आधार",
     "json.ldapsearchbase.help": "eg: DC=example,DC=com",
     "json.ldapuserintro": "लॉगिन एलडीएपी के माध्यम से सेट किया गया है",
@@ -1884,6 +1883,7 @@
     "json.profile": "प्रोफ़ाइल",
     "json.profileapplied": "प्रोफ़ाइल लागू",
     "json.protocol": "नेटवर्क प्रोटोकॉल",
+    "json.protocolversion": "प्रोटोकॉल संस्करण",
     "json.provider": "प्रदाता",
     "json.provider.help": "क्लाउड सेवाओं को सक्षम करने के लिए सर्वर सेटिंग्स देखें",
     "json.ptz": "PTZ",
@@ -2258,6 +2258,8 @@
     "json.triprepeat": "ट्रिगर दोहराएं",
     "json.triprepeat.help": "ऑब्जेक्ट कई बार ट्रिप वायर को ट्रिगर कर सकता है",
     "json.tripwires": "ट्रिपवायर्स",
+    "json.trustedproxies": "विश्वसनीय प्रॉक्सी",
+    "json.trustedproxies.help": "विपरीत प्रॉक्सी के IP पते जिन्हें वास्तविक क्लाइंट IP रिपोर्ट करने की अनुमति है। यदि आप Agent के सामने कोई प्रॉक्सी (जैसे nginx, Caddy, Cloudflare Tunnel) नहीं चला रहे हैं तो खाली छोड़ दें।",
     "json.tue": "मंगल",
     "json.tuning": "ट्यूनिंग",
     "json.tuning.help": "प्रदर्शन: उच्च FPS, कम कैमरे।<br/>संतुलित: गुणवत्ता और मात्रा, मध्य मार्ग<br/>क्षमता: अधिक कैमरे या कम शक्तिशाली हार्डवेयर। कम FPS।<br/>*हमने इसे आपके हार्डवेयर के आधार पर स्वचालित रूप से चुना।",
@@ -2572,6 +2574,7 @@
     "urlinvalid": "आपके द्वारा दर्ज किया गया URL अमान्य है",
     "useinactivity": "निष्क्रियता विलंब का प्रयोग करें",
     "useinactivityhelp": "तुरंत रुकने के बजाय निष्क्रियता विलंब को रीसेट करता है",
+    "json.validatecertificate": "प्रमाणपत्र मान्य करें",
     "voicelanguagehelp": "सर्वर सेटिंग्स में भाषा सेट करें - सामान्य"
   }
 }

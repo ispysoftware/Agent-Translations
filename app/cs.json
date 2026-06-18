@@ -1492,7 +1492,6 @@
     "json.ldappassword": "Heslo",
     "json.ldapport": "Port",
     "json.ldapport.help": "Použijte 389 pro standardní LDAP. Pokud používáte Active Directory a narazíte na chyby s doporučením, zkuste port 3268 (Globální katalog).",
-    "json.ldapprotocolversion": "Verze protokolu",
     "json.ldapsearchbase": "Vyhledávací základna LDAP",
     "json.ldapsearchbase.help": "např.: DC=příklad,DC=com",
     "json.ldapuserintro": "Přihlášení se nastavuje přes LDAP",
@@ -1884,6 +1883,7 @@
     "json.profile": "Profil",
     "json.profileapplied": "Profil použitý",
     "json.protocol": "Síťový protokol",
+    "json.protocolversion": "Verze protokolu",
     "json.provider": " Poskytovatel",
     "json.provider.help": "Informace o aktivaci cloudových služeb naleznete v části Nastavení serveru",
     "json.ptz": "PTZ",
@@ -2258,6 +2258,8 @@
     "json.triprepeat": "Opakujte spouštění",
     "json.triprepeat.help": "Objekt může aktivovat spouštěcí vodič několikrát",
     "json.tripwires": "Překročení hranice",
+    "json.trustedproxies": "Důvěryhodné proxy",
+    "json.trustedproxies.help": "IP adresy reverzních proxy povolených k hlášení skutečné IP klienta. Nechte prázdné, pokud nepoužíváte proxy (např. nginx, Caddy, Cloudflare Tunnel) před Agent DVR.",
     "json.tue": "Út",
     "json.tuning": "Ladění",
     "json.tuning.help": "Výkon: Vysoké FPS, méně kamer.<br/>Vyvážené: Kvalita a množství, střední cesta<br/>Kapacita: Více kamer nebo méně výkonný hardware. Nižší FPS.<br/>*Toto jsme automaticky vybrali na základě vašeho hardwaru.",
@@ -2572,6 +2574,7 @@
     "urlinvalid": "Zadaná adresa URL je neplatná",
     "useinactivity": "Použijte zpoždění při nečinnosti",
     "useinactivityhelp": "Resetuje zpoždění nečinnosti místo okamžitého zastavení",
+    "json.validatecertificate": "Ověřit certifikát",
     "voicelanguagehelp": "Nastavte jazyk v nastavení serveru - Obecné"
   }
 }

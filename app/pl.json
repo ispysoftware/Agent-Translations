@@ -1492,7 +1492,6 @@
     "json.ldappassword": "Hasło",
     "json.ldapport": "Port",
     "json.ldapport.help": "Użyj 389 dla standardowego LDAP. Jeśli używasz Active Directory i napotykasz błędy Referral, spróbuj portu 3268 (Global Catalog).",
-    "json.ldapprotocolversion": "Wersja protokołu",
     "json.ldapsearchbase": "Baza wyszukiwania LDAP",
     "json.ldapsearchbase.help": "np.: DC=przykład, DC=com",
     "json.ldapuserintro": "Logowanie odbywa się poprzez LDAP",
@@ -1884,6 +1883,7 @@
     "json.profile": "Profil",
     "json.profileapplied": "Zastosowany profil",
     "json.protocol": "Protokół sieciowy",
+    "json.protocolversion": "Wersja protokołu",
     "json.provider": "Dostawca",
     "json.provider.help": "Zobacz Ustawienia serwera, aby włączyć usługi w chmurze",
     "json.ptz": "PTZ",
@@ -2258,6 +2258,8 @@
     "json.triprepeat": "Powtórz wyzwalacz",
     "json.triprepeat.help": "Obiekt może wielokrotnie wyzwalać przewód wyzwalający",
     "json.tripwires": "Przewody Trip",
+    "json.trustedproxies": "Zaufane serwery proxy",
+    "json.trustedproxies.help": "Adresy IP odwrotnych proxy, które mogą zgłaszać rzeczywisty adres IP klienta. Pozostaw puste, chyba że uruchamiasz proxy (np. nginx, Caddy, Cloudflare Tunnel) przed Agent DVR.",
     "json.tue": "Wt",
     "json.tuning": "Strojenie",
     "json.tuning.help": "Wydajność: Wysokie FPS, mniej kamer.<br/>Zrównoważony: Jakość i ilość, złoty środek.<br/>Pojemność: Więcej kamer lub mniej wydajny sprzęt. Niższe FPS.<br/>*Automatycznie wybrano to na podstawie twojego sprzętu.",
@@ -2572,6 +2574,7 @@
     "urlinvalid": "Wprowadzony adres URL jest nieprawidłowy",
     "useinactivity": "Użyj opóźnienia bezczynności",
     "useinactivityhelp": "Resetuje opóźnienie braku aktywności zamiast natychmiastowego zatrzymania",
+    "json.validatecertificate": "Waliduj certyfikat",
     "voicelanguagehelp": "Ustaw język w ustawieniach serwera - Ogólne"
   }
 }

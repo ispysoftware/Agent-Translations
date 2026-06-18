@@ -1492,7 +1492,6 @@
     "json.ldappassword": "Contraseña",
     "json.ldapport": "Puerto",
     "json.ldapport.help": "Utilice 389 para LDAP estándar. Si está utilizando Active Directory y encuentra errores de referencia, intente el puerto 3268 (Catálogo Global).",
-    "json.ldapprotocolversion": "Versión del protocolo",
     "json.ldapsearchbase": "Base de búsqueda LDAP",
     "json.ldapsearchbase.help": "por ejemplo: DC=ejemplo,DC=com",
     "json.ldapuserintro": "El inicio de sesión se establece a través de LDAP",
@@ -1884,6 +1883,7 @@
     "json.profile": "Perfil",
     "json.profileapplied": "Perfil Aplicado",
     "json.protocol": "Protocolo de red",
+    "json.protocolversion": "Versión del protocolo",
     "json.provider": "Proveedor",
     "json.provider.help": "Ver Configuración del servidor para habilitar servicios en la nube",
     "json.ptz": "PTZ",
@@ -2258,6 +2258,8 @@
     "json.triprepeat": "Activador de repetición",
     "json.triprepeat.help": "El objeto puede activar un cable de disparo varias veces",
     "json.tripwires": "Cables de viaje",
+    "json.trustedproxies": "Proxies de confianza",
+    "json.trustedproxies.help": "Direcciones IP de proxies inversos permitidos para informar la IP real del cliente. Deje en blanco a menos que ejecute un proxy (por ejemplo, nginx, Caddy, Cloudflare Tunnel) frente a Agent.",
     "json.tue": "Martes",
     "json.tuning": "Sintonización",
     "json.tuning.help": "Rendimiento: Alto FPS, menos cámaras.<br/>Equilibrado: Calidad y cantidad, término medio.<br/>Capacidad: Más cámaras o hardware menos potente. Menor FPS.<br/>*Seleccionamos esto automáticamente según tu hardware.",
@@ -2572,6 +2574,7 @@
     "urlinvalid": "La URL que ingresaste no es válida",
     "useinactivity": "Usar retraso de inactividad",
     "useinactivityhelp": "Restablece el retraso de inactividad en lugar de detenerse inmediatamente",
+    "json.validatecertificate": "Validar certificado",
     "voicelanguagehelp": "Establecer idioma en configuraciones del servidor - General"
   }
 }

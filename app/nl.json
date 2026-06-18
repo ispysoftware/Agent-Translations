@@ -1492,7 +1492,6 @@
     "json.ldappassword": "Wachtwoord",
     "json.ldapport": "Poort",
     "json.ldapport.help": "Gebruik 389 voor standaard LDAP. Als u Active Directory gebruikt en Referral-fouten tegenkomt, probeer dan poort 3268 (Global Catalog).",
-    "json.ldapprotocolversion": "Protocolversie",
     "json.ldapsearchbase": "LDAP-zoekbasis",
     "json.ldapsearchbase.help": "bijv.: DC=voorbeeld,DC=com",
     "json.ldapuserintro": "Inloggen gebeurt via LDAP",
@@ -1884,6 +1883,7 @@
     "json.profile": "Profiel",
     "json.profileapplied": "Profiel Toegepast",
     "json.protocol": "Netwerkprotocol",
+    "json.protocolversion": "Protocolversie",
     "json.provider": "Cloud provider",
     "json.provider.help": "Zie Serverinstellingen om cloud diensten in te schakelen",
     "json.ptz": "PTZ",
@@ -2258,6 +2258,8 @@
     "json.triprepeat": "Herhaal Trigger",
     "json.triprepeat.help": "Object kan een struikeldraad meerdere keren activeren",
     "json.tripwires": "Tripdraden",
+    "json.trustedproxies": "Vertrouwde Proxies",
+    "json.trustedproxies.help": "IP-adressen van reverse proxies die zijn toegestaan om het echte client-IP te rapporteren. Laat leeg tenzij u een proxy (bijv. nginx, Caddy, Cloudflare Tunnel) voor Agent draait.",
     "json.tue": "Din",
     "json.tuning": "Afstemming",
     "json.tuning.help": "Prestaties: Hoge FPS, minder camera's.<br/>Gebalanceerd: Kwaliteit en kwantiteit, middenweg<br/>Capaciteit: Meer camera's of minder krachtige hardware. Lagere FPS.<br/>*We hebben dit automatisch geselecteerd op basis van uw hardware.",
@@ -2572,6 +2574,7 @@
     "urlinvalid": "De opgegeven URL is ongeldig",
     "useinactivity": "Gebruik inactiviteitsvertraging",
     "useinactivityhelp": "Reset de inactiviteitsvertraging in plaats van onmiddellijk te stoppen",
+    "json.validatecertificate": "Certificaat valideren",
     "voicelanguagehelp": "Stel taal in bij serverinstellingen - Algemeen"
   }
 }

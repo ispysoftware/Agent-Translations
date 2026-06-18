@@ -1492,7 +1492,6 @@
     "json.ldappassword": "Salasana",
     "json.ldapport": "Portti",
     "json.ldapport.help": "Käytä 389 standardille LDAP. Jos käytät Active Directorya ja kohtaat viittausvirheitä, kokeile porttia 3268 (Global Catalog).",
-    "json.ldapprotocolversion": "Protokollan versio",
     "json.ldapsearchbase": "LDAP-hakupohja",
     "json.ldapsearchbase.help": "esim.: DC=esimerkki,DC=fi",
     "json.ldapuserintro": "Kirjautuminen tapahtuu LDAP:n kautta",
@@ -1884,6 +1883,7 @@
     "json.profile": "Profiili",
     "json.profileapplied": "Profiili käytössä",
     "json.protocol": "Verkkoprotokolla",
+    "json.protocolversion": "Protokollan versio",
     "json.provider": " Palveluntarjoaja",
     "json.provider.help": "Katso Palvelinasetukset - Pilvi ottaaksesi pilvipalvelut käyttöön",
     "json.ptz": "PTZ",
@@ -2258,6 +2258,8 @@
     "json.triprepeat": "Toista laukaisu",
     "json.triprepeat.help": "Kohde voi laukaista ansalangan useita kertoja",
     "json.tripwires": "Ansalangat",
+    "json.trustedproxies": "Luotettavat välityspalvelimet",
+    "json.trustedproxies.help": "Käänteisten välityspalvelimien IP-osoitteet, jotka saavat raportoida todellisen asiakas-IP:n. Jätä tyhjäksi, ellei sinulla ole välityspalvelinta (esim. nginx, Caddy, Cloudflare Tunnel) Agentin edessä.",
     "json.tue": "Ti",
     "json.tuning": "Viritys",
     "json.tuning.help": "Suorituskyky: Korkea FPS, vähemmän kameroita.<br/>Tasapaino: Laatu ja määrä, keskiväli<br/>Kapasiteetti: Enemmän kameroita tai vähemmän tehokasta laitteistoa. Alhaisempi FPS.<br/>*Valitsimme tämän automaattisesti laitteistosi perusteella.",
@@ -2572,6 +2574,7 @@
     "urlinvalid": "Antamasi URL-osoite on virheellinen",
     "useinactivity": "Käytä passiivisuuden viivettä",
     "useinactivityhelp": "Nollaa toimettomuusviiveen sen sijaan, että pysähtyisi välittömästi",
+    "json.validatecertificate": "Vahvista sertifikaatti",
     "voicelanguagehelp": "Aseta kieli palvelimen asetuksissa - Yleinen"
   }
 }

@@ -1492,7 +1492,6 @@
     "json.ldappassword": "رمز عبور",
     "json.ldapport": "پورت",
     "json.ldapport.help": "برای LDAP استاندارد از ۳۸۹ استفاده کنید. اگر از Active Directory استفاده می‌کنید و با خطاهای Referral مواجه شدید، پورت ۳۲۶۸ (کاتالوگ سراسری) را امتحان کنید",
-    "json.ldapprotocolversion": "نسخه پروتکل",
     "json.ldapsearchbase": "پایه جستجوی LDAP",
     "json.ldapsearchbase.help": "مثلاً: DC=example,DC=com",
     "json.ldapuserintro": "ورود توسط LDAP کنترل می‌شود",
@@ -1884,6 +1883,7 @@
     "json.profile": "پروفایل",
     "json.profileapplied": "پروفایل اعمال شد",
     "json.protocol": "پروتکل",
+    "json.protocolversion": "نسخه پروتکل",
     "json.provider": "ارائه‌دهنده",
     "json.provider.help": "برای فعال‌سازی سرویس‌های ابری به تنظیمات سرور - ابر مراجعه کنید",
     "json.ptz": "PTZ",
@@ -2258,6 +2258,8 @@
     "json.triprepeat": "تکرار محرک",
     "json.triprepeat.help": "شیء می‌تواند یک سیم تله را چند بار فعال کند",
     "json.tripwires": "سیم‌های تله",
+    "json.trustedproxies": "پروکسی‌های معتبر",
+    "json.trustedproxies.help": "آدرس‌های IP پروکسی‌های معکوس مجاز به گزارش IP واقعی مشتری. در غیر این صورت خالی بگذارید مگر اینکه پروکسی (مانند nginx، Caddy، Cloudflare Tunnel) در جلوی Agent اجرا کنید.",
     "json.tue": "سه‌شنبه",
     "json.tuning": "تنظیم دقیق",
     "json.tuning.help": "کارایی: FPS بالا، دوربین‌های کمتر.<br/>متعادل: کیفیت و کمیت، حد وسط<br/>ظرفیت: دوربین‌های بیشتر یا سخت‌افزار کم‌قدرت‌تر. FPS پایین‌تر.<br/>*ما این را بر اساس سخت‌افزار شما به‌طور خودکار انتخاب کردیم.",
@@ -2572,6 +2574,7 @@
     "urlinvalid": "URL واردشده نامعتبر است",
     "useinactivity": "استفاده از تأخیر عدم فعالیت",
     "useinactivityhelp": "به‌جای توقف فوری، تأخیر عدم فعالیت را بازنشانی می‌کند",
+    "json.validatecertificate": "اعتبارسنجی گواهی نامه",
     "voicelanguagehelp": "زبان را در تنظیمات سرور - عمومی تنظیم کنید"
   }
 }

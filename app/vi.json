@@ -1492,7 +1492,6 @@
     "json.ldappassword": "Mật khẩu",
     "json.ldapport": "Cổng",
     "json.ldapport.help": "Sử dụng 389 cho LDAP chuẩn. Nếu bạn đang sử dụng Active Directory và gặp lỗi Referral, hãy thử cổng 3268 (Global Catalog).",
-    "json.ldapprotocolversion": "Phiên bản giao thức",
     "json.ldapsearchbase": "Tìm kiếm LDAP",
     "json.ldapsearchbase.help": "Ví dụ: DC=example,DC=com",
     "json.ldapuserintro": "Đăng nhập được kiểm soát bởi LDAP.",
@@ -1884,6 +1883,7 @@
     "json.profile": "Hồ sơ",
     "json.profileapplied": "Hồ sơ Đã Áp Dụng",
     "json.protocol": "Giao thức",
+    "json.protocolversion": "Phiên bản giao thức",
     "json.provider": "Nhà cung cấp",
     "json.provider.help": "Xem Cài đặt Máy chủ - Đám mây để kích hoạt dịch vụ đám mây",
     "json.ptz": "PTZ: Pan-Tilt-Zoom",
@@ -2258,6 +2258,8 @@
     "json.triprepeat": "Kích hoạt Lặp lại",
     "json.triprepeat.help": "Đối tượng có thể kích hoạt dây đánh bẫy nhiều lần",
     "json.tripwires": "Dây chằng.",
+    "json.trustedproxies": "Proxy đáng tin cậy",
+    "json.trustedproxies.help": "Địa chỉ IP của các reverse proxy được phép báo cáo IP của khách hàng thực. Để trống trừ khi bạn chạy một proxy (ví dụ: nginx, Caddy, Cloudflare Tunnel) trước Agent.",
     "json.tue": "Thứ ba",
     "json.tuning": "Điều chỉnh",
     "json.tuning.help": "Hiệu suất: FPS cao, ít camera.<br/>Cân bằng: Chất lượng và số lượng, điểm giữa<br/>Dung lượng: Nhiều camera hơn hoặc phần cứng kém mạnh mẽ hơn. FPS thấp hơn.<br/>*Chúng tôi đã tự động chọn điều này dựa trên phần cứng của bạn.",
@@ -2572,6 +2574,7 @@
     "urlinvalid": "Địa chỉ URL bạn đã nhập không hợp lệ",
     "useinactivity": "Sử dụng Độ Trễ Không Hoạt Động",
     "useinactivityhelp": "Đặt lại độ trễ không hoạt động thay vì dừng ngay lập tức",
+    "json.validatecertificate": "Xác thực Chứng chỉ",
     "voicelanguagehelp": "Thiết lập ngôn ngữ trong cài đặt máy chủ - Chung"
   }
 }

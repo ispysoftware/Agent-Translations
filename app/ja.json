@@ -1492,7 +1492,6 @@
     "json.ldappassword": "パスワード",
     "json.ldapport": "ポート",
     "json.ldapport.help": "標準LDAPには389を使用してください。Active Directoryを使用していてリファラルエラーが発生した場合は、ポート3268（グローバルカタログ）を試してください。",
-    "json.ldapprotocolversion": "プロトコルのバージョン",
     "json.ldapsearchbase": "LDAP検索ベース",
     "json.ldapsearchbase.help": "例: DC=example,DC=com",
     "json.ldapuserintro": "ログインはLDAP経由で設定されています",
@@ -1884,6 +1883,7 @@
     "json.profile": "プロフィール",
     "json.profileapplied": "プロファイルが適用されました",
     "json.protocol": "ネットワークプロトコル",
+    "json.protocolversion": "プロトコルのバージョン",
     "json.provider": "プロバイダー",
     "json.provider.help": "クラウドサービスを有効にするには、サーバー設定-クラウドを参照してください",
     "json.ptz": "PTZ",
@@ -2258,6 +2258,8 @@
     "json.triprepeat": "トリガーを繰り返す",
     "json.triprepeat.help": "オブジェクトはトリップワイヤを複数回トリガーできます",
     "json.tripwires": "トリップワイヤー",
+    "json.trustedproxies": "信頼できるプロキシ",
+    "json.trustedproxies.help": "Agentの前にプロキシ（例：nginx、Caddy、Cloudflare Tunnel）を実行していない限り、空白のままにしてください。実際のクライアントIPを報告することが許可されたリバースプロキシのIPアドレス。",
     "json.tue": "火",
     "json.tuning": "調整",
     "json.tuning.help": "パフォーマンス: 高FPS、カメラ数が少ない。<br/>バランス: 品質と数量、妥協点<br/>キャパシティ: より多くのカメラまたはより低性能のハードウェア。低FPS。<br/>*これはあなたのハードウェアに基づいて自動選択されました。",
@@ -2572,6 +2574,7 @@
     "urlinvalid": "入力したURLが無効です",
     "useinactivity": "非アクティブ遅延を使用する",
     "useinactivityhelp": "すぐに停止するのではなく、非アクティブ遅延をリセットします",
+    "json.validatecertificate": "証明書を検証する",
     "voicelanguagehelp": "サーバー設定で言語を設定します - 一般"
   }
 }

@@ -1492,7 +1492,6 @@
     "json.ldappassword": "পাসওয়ার্ড",
     "json.ldapport": "পোর্ট",
     "json.ldapport.help": "স্ট্যান্ডার্ড LDAP এর জন্য ৩৮৯ ব্যবহার করুন। যদি আপনি Active Directory ব্যবহার করেন এবং Referral ত্রুটির সম্মুখীন হন, তবে পোর্ট ৩২৬৮ (গ্লোবাল ক্যাটালগ) চেষ্টা করুন।",
-    "json.ldapprotocolversion": "প্রোটোকল সংস্করণ",
     "json.ldapsearchbase": "LDAP অনুসন্ধান বেস",
     "json.ldapsearchbase.help": "যেমন: DC=example,DC=com",
     "json.ldapuserintro": "লগইন LDAP এর মাধ্যমে সেট করা হয়েছে",
@@ -1884,6 +1883,7 @@
     "json.profile": "প্রোফাইল",
     "json.profileapplied": "প্রোফাইল প্রয়োগ করা হয়েছে।",
     "json.protocol": "নেটওয়ার্ক প্রোটোকল",
+    "json.protocolversion": "প্রোটোকল সংস্করণ",
     "json.provider": "প্রদানকারী",
     "json.provider.help": "ক্লাউড পরিষেবা সক্ষম করতে সার্ভার সেটিংস দেখুন",
     "json.ptz": "PTZ",
@@ -2258,6 +2258,8 @@
     "json.triprepeat": "পুনরাবৃত্তি ট্রিগার",
     "json.triprepeat.help": "অবজেক্ট একাধিকবার ট্রিপ ওয়্যার ট্রিগার করতে পারে",
     "json.tripwires": "Tripwires",
+    "json.trustedproxies": "বিশ্বাসযোগ্য প্রোক্সি",
+    "json.trustedproxies.help": "রিভার্স প্রক্সির IP ঠিকানা যা প্রকৃত ক্লায়েন্ট IP রিপোর্ট করতে অনুমোদিত। যদি আপনি Agent-এর সামনে একটি প্রক্সি (যেমন nginx, Caddy, Cloudflare Tunnel) চালান না, তবে খালি রাখুন।",
     "json.tue": "মঙ্গল",
     "json.tuning": "টিউনিং",
     "json.tuning.help": "পারফরম্যান্স: উচ্চ FPS, কম ক্যামেরা।<br/>সন্তুলিত: গুণমান এবং পরিমাণ, মধ্যম পন্থা<br/>ক্ষমতা: আরও ক্যামেরা বা কম শক্তিশালী হার্ডওয়্যার। কম FPS।<br/>*আমরা আপনার হার্ডওয়্যারের ভিত্তিতে এটি স্বয়ংক্রিয়ভাবে নির্বাচন করেছি।",
@@ -2572,6 +2574,7 @@
     "urlinvalid": "আপনার প্রবেশ করা URL টি অবৈধ",
     "useinactivity": "নিষ্ক্রিয়তা বিলম্ব ব্যবহার করুন",
     "useinactivityhelp": "অবিলম্বে বন্ধ করার পরিবর্তে নিষ্ক্রিয়তা বিলম্ব পুনরায় সেট করুন",
+    "json.validatecertificate": "সার্টিফিকেট যাচাই করুন",
     "voicelanguagehelp": "সার্ভার সেটিংস - সাধারণ ভাষা সেট করুন"
   }
 }

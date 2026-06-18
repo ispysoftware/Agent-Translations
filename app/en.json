@@ -1492,7 +1492,6 @@
     "json.ldappassword": "Password",
     "json.ldapport": "Port",
     "json.ldapport.help": "Use 389 for standard LDAP. If you are using Active Directory and encounter Referral errors, try port 3268 (Global Catalog)",
-    "json.ldapprotocolversion": "Protocol Version",
     "json.ldapsearchbase": "LDAP Search Base",
     "json.ldapsearchbase.help": "eg: DC=example,DC=com",
     "json.ldapuserintro": "Login is controlled by LDAP",
@@ -1884,6 +1883,7 @@
     "json.profile": "Profile",
     "json.profileapplied": "Profile Applied",
     "json.protocol": "Protocol",
+    "json.protocolversion": "Protocol Version",
     "json.provider": "Provider",
     "json.provider.help": "See Server Settings - Cloud to enable cloud services",
     "json.ptz": "PTZ",
@@ -2258,6 +2258,8 @@
     "json.triprepeat": "Repeat Trigger",
     "json.triprepeat.help": "Object can trigger a trip wire multiple times",
     "json.tripwires": "Tripwires",
+    "json.trustedproxies": "Trusted Proxies",
+    "json.trustedproxies.help": "IP addresses of reverse proxies allowed to report the real client IP. Leave blank unless you run a proxy (e.g. nginx, Caddy, Cloudflare Tunnel) in front of Agent.",
     "json.tue": "Tue",
     "json.tuning": "Tuning",
     "json.tuning.help": "Performance: High FPS, fewer cameras.<br/>Balanced: Quality and quantity, middle ground<br/>Capacity: More cameras or less powerful hardware. Lower FPS.<br/>*We auto selected this based on your hardware.",
@@ -2572,6 +2574,7 @@
     "urlinvalid": "The URL you entered is invalid",
     "useinactivity": "Use Inactivity Delay",
     "useinactivityhelp": "Resets the inactivity delay instead of stopping immediately",
+    "json.validatecertificate": "Validate Certificate",
     "voicelanguagehelp": "Set language in server settings - General"
   }
 }

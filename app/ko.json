@@ -1492,7 +1492,6 @@
     "json.ldappassword": "암호",
     "json.ldapport": "포트",
     "json.ldapport.help": "표준 LDAP에는 389 포트를 사용하세요. Active Directory를 사용하고 Referral 오류가 발생하면 3268 포트(글로벌 카탈로그)를 시도해 보세요.",
-    "json.ldapprotocolversion": "프로토콜 버전",
     "json.ldapsearchbase": "LDAP 검색 기반",
     "json.ldapsearchbase.help": "eg: DC=example,DC=com",
     "json.ldapuserintro": "로그인은 LDAP를 통해 설정됩니다.",
@@ -1884,6 +1883,7 @@
     "json.profile": "프로필",
     "json.profileapplied": "프로필 적용",
     "json.protocol": "네트워크 프로토콜",
+    "json.protocolversion": "프로토콜 버전",
     "json.provider": "공급자",
     "json.provider.help": "클라우드 서비스를 활성화하려면 서버 설정 - 클라우드를 참조하세요.",
     "json.ptz": "PTZ",
@@ -2258,6 +2258,8 @@
     "json.triprepeat": "반복 트리거",
     "json.triprepeat.help": "객체가 트립 와이어를 여러 번 트리거할 수 있음",
     "json.tripwires": "트립와이어",
+    "json.trustedproxies": "신뢰할 수 있는 프록시",
+    "json.trustedproxies.help": "실제 클라이언트 IP를 보고할 수 있는 리버스 프록시의 IP 주소. Agent 앞에 프록시(예: nginx, Caddy, Cloudflare Tunnel)를 실행하지 않는 한 비워 두십시오.",
     "json.tue": "화",
     "json.tuning": "조정",
     "json.tuning.help": "성능: 높은 FPS, 적은 카메라.<br/>균형: 품질과 수량, 중간 지점<br/>용량: 더 많은 카메라 또는 덜 강력한 하드웨어. 낮은 FPS.<br/>*귀하의 하드웨어를 기반으로 자동 선택했습니다.",
@@ -2572,6 +2574,7 @@
     "urlinvalid": "입력한 URL이 잘못되었습니다.",
     "useinactivity": "비활성 지연 사용",
     "useinactivityhelp": "즉시 중지하는 대신 비활성 지연을 재설정합니다.",
+    "json.validatecertificate": "인증서 확인",
     "voicelanguagehelp": "서버 설정에서 언어 설정 - 일반"
   }
 }

@@ -1492,7 +1492,6 @@
     "json.ldappassword": "密碼",
     "json.ldapport": "埠",
     "json.ldapport.help": "使用389作為標準LDAP。如果您正在使用Active Directory並遇到引用錯誤，請嘗試端口3268（全局目錄）。",
-    "json.ldapprotocolversion": "協議版本",
     "json.ldapsearchbase": "LDAP 搜尋庫",
     "json.ldapsearchbase.help": "eg: DC=example,DC=com",
     "json.ldapuserintro": "透過 LDAP 設定登入",
@@ -1884,6 +1883,7 @@
     "json.profile": "配置文件",
     "json.profileapplied": "應用配置文件",
     "json.protocol": "網路協定",
+    "json.protocolversion": "協議版本",
     "json.provider": " 提供者",
     "json.provider.help": "請參閱服務器設置以啟用雲服務",
     "json.ptz": "PTZ",
@@ -2258,6 +2258,8 @@
     "json.triprepeat": "重複觸發",
     "json.triprepeat.help": "對象可以多次觸發跳閘線",
     "json.tripwires": "跳閘線",
+    "json.trustedproxies": "受信任的代理伺服器",
+    "json.trustedproxies.help": "允許報告真實客戶端 IP 的反向代理的 IP 地址。除非您在 Agent 前面運行代理（例如 nginx、Caddy、Cloudflare Tunnel），否則請留空。",
     "json.tue": "週二",
     "json.tuning": "調整",
     "json.tuning.help": "性能：高幀率，較少的攝像頭。<br/>平衡：質量和數量的中間地帶<br/>容量：更多攝像頭或較不強大的硬體。較低的幀率。<br/>*我們根據您的硬體自動選擇了這個。",
@@ -2572,6 +2574,7 @@
     "urlinvalid": "您輸入的網址無效",
     "useinactivity": "使用不活動延遲",
     "useinactivityhelp": "重置不活動延遲而不是立即停止",
+    "json.validatecertificate": "驗證證書",
     "voicelanguagehelp": "在伺服器設定中設置語言 - 一般"
   }
 }

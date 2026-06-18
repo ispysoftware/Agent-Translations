@@ -1492,7 +1492,6 @@
     "json.ldappassword": "Jelszó",
     "json.ldapport": "Port",
     "json.ldapport.help": "Használja a 389-es portot a standard LDAP-hoz. Ha Active Directory-t használ, és Referral hibákkal találkozik, próbálja meg a 3268-as portot (Globális Katalógus).",
-    "json.ldapprotocolversion": "Protokoll verziója",
     "json.ldapsearchbase": "LDAP keresési bázis",
     "json.ldapsearchbase.help": "pl.: DC=example,DC=com",
     "json.ldapuserintro": "A bejelentkezést az LDAP vezérli",
@@ -1884,6 +1883,7 @@
     "json.profile": "Profil",
     "json.profileapplied": "Alkalmazott profil",
     "json.protocol": "Protokoll",
+    "json.protocolversion": "Protokoll verziója",
     "json.provider": "Szolgáltató",
     "json.provider.help": "A felhőszolgáltatások engedélyezéséhez lásd a Szerverbeállítások - Felhő részt.",
     "json.ptz": "PTZ",
@@ -2258,6 +2258,8 @@
     "json.triprepeat": "Indító Ismétlés",
     "json.triprepeat.help": "Az objektum többször is kiválthatja a virtuális érzékelő vonalak bekapcsolását",
     "json.tripwires": "Virtuális érzékelő vonalak",
+    "json.trustedproxies": "Megbízható proxyk",
+    "json.trustedproxies.help": "A fordított proxyk IP-címei, amelyek engedélyezettek a valódi kliens IP jelentésére. Hagyja üresen, hacsak nem futtat proxy-t (pl. nginx, Caddy, Cloudflare Tunnel) az Agent előtt.",
     "json.tue": "Kedd",
     "json.tuning": "Hangolás",
     "json.tuning.help": "Teljesítmény: Magas FPS, kevesebb kamera.<br/>Kiegyensúlyozott: Minőség és mennyiség, középutas.<br/>Kapacitás: Több kamera vagy gyengébb hardver. Alacsonyabb FPS.<br/>*Ezt automatikusan kiválasztottuk a hardvered alapján.",
@@ -2572,6 +2574,7 @@
     "urlinvalid": "A megadott URL érvénytelen",
     "useinactivity": "Inaktivitási késleltetés használata",
     "useinactivityhelp": "Visszaállítja az inaktivitási késleltetést az azonnali leállítás helyett",
+    "json.validatecertificate": "Tanúsítvány érvényesítése",
     "voicelanguagehelp": "Nyelv beállítása a szerverbeállításokban - Általános"
   }
 }

@@ -1492,7 +1492,6 @@
     "json.ldappassword": "كلمة المرور",
     "json.ldapport": "منفذ",
     "json.ldapport.help": "استخدم 389 لـ LDAP القياسي. إذا كنت تستخدم Active Directory وواجهت أخطاء الإحالة، جرب المنفذ 3268 (الفهرس العالمي).",
-    "json.ldapprotocolversion": "إصدار البروتوكول",
     "json.ldapsearchbase": "قاعدة بحث LDAP",
     "json.ldapsearchbase.help": "eg: DC=example,DC=com",
     "json.ldapuserintro": "يتم تعيين تسجيل الدخول عبر LDAP",
@@ -1884,6 +1883,7 @@
     "json.profile": "الملف الشخصي",
     "json.profileapplied": "الملف المُطبق",
     "json.protocol": "بروتوكول الشبكة",
+    "json.protocolversion": "إصدار البروتوكول",
     "json.provider": "مزود",
     "json.provider.help": "انظر إعدادات الخادم لتمكين الخدمات السحابية",
     "json.ptz": "PTZ",
@@ -2258,6 +2258,8 @@
     "json.triprepeat": "كرر الزناد",
     "json.triprepeat.help": "يمكن للكائن تشغيل سلك الرحلة عدة مرات",
     "json.tripwires": "أسلاك التعثر",
+    "json.trustedproxies": "الوكلاء الموثوقون",
+    "json.trustedproxies.help": "عناوين IP للوكيلات العكسية المسموح لها بالإبلاغ عن عنوان IP الحقيقي للعميل. اتركه فارغًا ما لم تكن تشغل وكيلًا (مثل nginx، Caddy، Cloudflare Tunnel) أمام Agent DVR.",
     "json.tue": "الثلاثاء",
     "json.tuning": "تعديل",
     "json.tuning.help": "الأداء: FPS عالي، عدد أقل من الكاميرات.<br/>متوازن: الجودة والكمية، أرضية وسطى<br/>السعة: المزيد من الكاميرات أو أجهزة أقل قوة. FPS أقل.<br/>*لقد اخترنا هذا تلقائيًا بناءً على جهازك.",
@@ -2572,6 +2574,7 @@
     "urlinvalid": "عنوان URL الذي أدخلته غير صالح",
     "useinactivity": "استخدام تأخير الخمول",
     "useinactivityhelp": "يعيد ضبط تأخير عدم النشاط بدلاً من التوقف على الفور",
+    "json.validatecertificate": "تحقق من الشهادة",
     "voicelanguagehelp": "تعيين اللغة في إعدادات الخادم - عام"
   }
 }

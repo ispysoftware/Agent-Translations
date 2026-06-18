@@ -1492,7 +1492,6 @@
     "json.ldappassword": "Kata sandi",
     "json.ldapport": "Port",
     "json.ldapport.help": "Gunakan 389 untuk LDAP standar. Jika Anda menggunakan Active Directory dan mengalami kesalahan Referral, coba port 3268 (Katalog Global).",
-    "json.ldapprotocolversion": "Versi Protokol",
     "json.ldapsearchbase": "Basis Pencarian LDAP",
     "json.ldapsearchbase.help": "Contoh: DC=contoh,DC=com",
     "json.ldapuserintro": "Login dikontrol oleh LDAP",
@@ -1884,6 +1883,7 @@
     "json.profile": "Profil",
     "json.profileapplied": "Profil Diterapkan",
     "json.protocol": "Protokol",
+    "json.protocolversion": "Versi Protokol",
     "json.provider": "Penyedia",
     "json.provider.help": "Lihat Pengaturan Server - Cloud untuk mengaktifkan layanan cloud",
     "json.ptz": "PTZ",
@@ -2258,6 +2258,8 @@
     "json.triprepeat": "Pemicu Ulang",
     "json.triprepeat.help": "Objek dapat memicu kawat jebakan beberapa kali",
     "json.tripwires": "Tripwires menjadi: Garis Pemicu",
+    "json.trustedproxies": "Proksi Terpercaya",
+    "json.trustedproxies.help": "Alamat IP dari reverse proxy yang diizinkan untuk melaporkan IP klien yang sebenarnya. Kosongkan kecuali Anda menjalankan proxy (misalnya nginx, Caddy, Cloudflare Tunnel) di depan Agent.",
     "json.tue": "Selasa",
     "json.tuning": "Penyetelan",
     "json.tuning.help": "Kinerja: FPS tinggi, lebih sedikit kamera.<br/>Seimbang: Kualitas dan kuantitas, jalan tengah<br/>Kapasitas: Lebih banyak kamera atau perangkat keras yang kurang kuat. FPS lebih rendah.<br/>*Kami memilih ini secara otomatis berdasarkan perangkat keras Anda.",
@@ -2572,6 +2574,7 @@
     "urlinvalid": "URL yang Anda masukkan tidak valid",
     "useinactivity": "Menggunakan Penundaan Ketidakaktifan",
     "useinactivityhelp": "Mereset keterlambatan ketidakaktifan daripada berhenti secara langsung",
+    "json.validatecertificate": "Validasi Sertifikat",
     "voicelanguagehelp": "Atur bahasa dalam pengaturan server - Umum"
   }
 }

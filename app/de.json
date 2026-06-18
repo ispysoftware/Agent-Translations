@@ -1492,7 +1492,6 @@
     "json.ldappassword": "Passwort",
     "json.ldapport": "Port",
     "json.ldapport.help": "Verwenden Sie 389 für standard LDAP. Wenn Sie Active Directory verwenden und auf Referral-Fehler stoßen, versuchen Sie den Port 3268 (Global Catalog).",
-    "json.ldapprotocolversion": "Protokollversion",
     "json.ldapsearchbase": "LDAP-Suchbasis",
     "json.ldapsearchbase.help": "Beispiel: DC=Beispiel,DC=com",
     "json.ldapuserintro": "Die Anmeldung erfolgt über LDAP",
@@ -1884,6 +1883,7 @@
     "json.profile": "Profil",
     "json.profileapplied": "Profil angewendet",
     "json.protocol": "Netzwerkprotokoll",
+    "json.protocolversion": "Protokollversion",
     "json.provider": "Versorger",
     "json.provider.help": "Siehe Servereinstellungen Cloud-Services zu ermöglichen",
     "json.ptz": "PTZ",
@@ -2258,6 +2258,8 @@
     "json.triprepeat": "Trigger wiederholen",
     "json.triprepeat.help": "Das Objekt kann mehrmals einen Auslösedraht auslösen",
     "json.tripwires": "Trip Drähte",
+    "json.trustedproxies": "Vertrauenswürdige Proxys",
+    "json.trustedproxies.help": "IP-Adressen von Reverse-Proxys, die erlaubt sind, die echte Client-IP zu melden. Lassen Sie es leer, es sei denn, Sie betreiben einen Proxy (z. B. nginx, Caddy, Cloudflare Tunnel) vor Agent.",
     "json.tue": "Di",
     "json.tuning": "Einstellung",
     "json.tuning.help": "Leistung: Hohe FPS, weniger Kameras.<br/>Ausgewogen: Qualität und Quantität, Mittelweg<br/>Kapazität: Mehr Kameras oder weniger leistungsstarke Hardware. Niedrigere FPS.<br/>*Wir haben dies basierend auf Ihrer Hardware automatisch ausgewählt.",
@@ -2572,6 +2574,7 @@
     "urlinvalid": "Die eingegebene URL ist ungültig",
     "useinactivity": "Verwenden Sie die Inaktivitätsverzögerung",
     "useinactivityhelp": "Setzt die Inaktivitätsverzögerung zurück, anstatt sofort zu stoppen",
+    "json.validatecertificate": "Zertifikat validieren",
     "voicelanguagehelp": "Sprache in Servereinstellungen festlegen - Allgemein"
   }
 }

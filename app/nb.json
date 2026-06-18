@@ -1492,7 +1492,6 @@
     "json.ldappassword": "Passord",
     "json.ldapport": "Port",
     "json.ldapport.help": "Bruk 389 for standard LDAP. Hvis du bruker Active Directory og får Referral-feil, prøv port 3268 (Global Catalog).",
-    "json.ldapprotocolversion": "Protokollversjon",
     "json.ldapsearchbase": "LDAP-søkebase",
     "json.ldapsearchbase.help": "f.eks.: DC=example,DC=com",
     "json.ldapuserintro": "Pålogging kontrolleres av LDAP",
@@ -1884,6 +1883,7 @@
     "json.profile": "Profil",
     "json.profileapplied": "Profil brukt",
     "json.protocol": "Protokoll",
+    "json.protocolversion": "Protokollversjon",
     "json.provider": "Tilbyder",
     "json.provider.help": "Se Serverinnstillinger - Sky for å aktivere skytjenester",
     "json.ptz": "PTZ",
@@ -2258,6 +2258,8 @@
     "json.triprepeat": "Gjenta utløser",
     "json.triprepeat.help": "Objekt kan utløse en snubletråd flere ganger",
     "json.tripwires": "Snubletråder",
+    "json.trustedproxies": "Pålitelige proxyer",
+    "json.trustedproxies.help": "IP-adresser til omvendte proxyer som har lov til å rapportere den ekte klient-IP-en. La stå tomt med mindre du kjører en proxy (f.eks. nginx, Caddy, Cloudflare Tunnel) foran Agent.",
     "json.tue": "Tir",
     "json.tuning": "Finjustering",
     "json.tuning.help": "Ytelse: Høy FPS, færre kameraer.<br/>Balansert: Kvalitet og kvantitet, mellomting<br/>Kapacitet: Flere kameraer eller mindre kraftig maskinvare. Lavere FPS.<br/>*Vi valgte dette automatisk basert på din maskinvare.",
@@ -2572,6 +2574,7 @@
     "urlinvalid": "URL-en du skrev inn er ugyldig",
     "useinactivity": "Bruk inaktivitetsforsinkelse",
     "useinactivityhelp": "Tilbakestiller inaktivitetsforsinkelsen i stedet for å stoppe umiddelbart",
+    "json.validatecertificate": "Valider sertifikat",
     "voicelanguagehelp": "Still inn språk i serverinnstillinger - Generelt"
   }
 }

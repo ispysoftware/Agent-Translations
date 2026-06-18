@@ -1492,7 +1492,6 @@
     "json.ldappassword": "Пароль",
     "json.ldapport": "Порт",
     "json.ldapport.help": "Используйте 389 для стандартного LDAP. Если вы используете Active Directory и сталкиваетесь с ошибками перенаправления, попробуйте порт 3268 (Глобальный каталог).",
-    "json.ldapprotocolversion": "Версия протокола",
     "json.ldapsearchbase": "Основа поиска (LDAP Search Base)",
     "json.ldapsearchbase.help": "напр. DC=example,DC=com",
     "json.ldapuserintro": "Авторизация управляется LDAP",
@@ -1884,6 +1883,7 @@
     "json.profile": "Профиль",
     "json.profileapplied": "Профиль применён",
     "json.protocol": "Протокол",
+    "json.protocolversion": "Версия протокола",
     "json.provider": "Провайдер",
     "json.provider.help": "См. Server Settings → Cloud, чтобы включить облачные сервисы",
     "json.ptz": "PTZ",
@@ -2258,6 +2258,8 @@
     "json.triprepeat": "Повтор триггера",
     "json.triprepeat.help": "Объект может несколько раз срабатывать на пересечение линии",
     "json.tripwires": "Линии пересечения (tripwires)",
+    "json.trustedproxies": "Доверенные прокси",
+    "json.trustedproxies.help": "IP-адреса обратных прокси, разрешенных для передачи реального IP-адреса клиента. Оставьте пустым, если вы не используете прокси (например, nginx, Caddy, Cloudflare Tunnel) перед Agent.",
     "json.tue": "Вт",
     "json.tuning": "Настройка",
     "json.tuning.help": "Производительность: Высокий FPS, меньше камер.<br/>Сбалансированный: Качество и количество, золотая середина<br/>Вместимость: Больше камер или менее мощное оборудование. Более низкий FPS.<br/>*Мы автоматически выбрали это на основе вашего оборудования.",
@@ -2572,6 +2574,7 @@
     "urlinvalid": "Введён неверный URL",
     "useinactivity": "Использовать задержку бездействия",
     "useinactivityhelp": "Сбрасывает таймер бездействия вместо немедленной остановки",
+    "json.validatecertificate": "Проверить сертификат",
     "voicelanguagehelp": "Выберите язык в настройках сервера → General"
   }
 }
