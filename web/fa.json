@@ -310,8 +310,8 @@
   "groups": "گروه‌ها",
   "hdstreaming": "دسترسی از راه دور با پخش جریانی 1080P",
   "help": {
-    "content": "<p>لطفاً برای کمک در مورد Agent DVR به منابع زیر مراجعه کنید:</p><ul><li><a href=\"#\" onclick=\"helpers.goWebsite('docs/agent/')\">راهنمای کاربر</a></li><li><a href=\"https://www.reddit.com/r/ispyconnect\" target=\"_blank\">انجمن Reddit</a> (برای پشتیبانی انجمن)</li><li><a href=\"https://www.ispyconnect.com/contact\" target=\"_blank\">تماس با ما</a> (برای پشتیبانی مشتری - فقط انگلیسی).</li></ul>",
-    "help": "راهنما"
+    "help": "راهنما",
+    "content": "<p>لطفاً برای کمک با Agent DVR به منابع زیر مراجعه کنید:</p><ul><li><a href=\"#\" onclick=\"helpers.goWebsite('docs/agent/')\">راهنمای کاربر</a></li><li><a href=\"https://www.reddit.com/r/ispyconnect\" target=\"_blank\">فروم ردیت</a> (برای پشتیبانی جامعه)</li><li><a href=\"https://www.ispyconnect.com/contact\" target=\"_blank\">با ما تماس بگیرید</a> (برای پشتیبانی مشتری - فقط به زبان انگلیسی).</li></ul>"
   },
   "hours": "ساعت",
   "icon": "نماد",

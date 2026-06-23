@@ -310,8 +310,8 @@
   "groups": "群組",
   "hdstreaming": "1080P 串流遠端存取",
   "help": {
-    "content": "<p>如需 Agent DVR 的使用說明，請參考以下資源：</p><ul><li><a href=\"#\" onclick=\"helpers.goWebsite('docs/agent/')\">使用者指南</a></li><li><a href=\"https://www.reddit.com/r/ispyconnect\" target=\"_blank\">Reddit 論壇</a>（社群支援）</li><li><a href=\"https://www.ispyconnect.com/contact\" target=\"_blank\">聯絡我們</a>（客戶支援 - 僅提供英文）。</li></ul>",
-    "help": "說明"
+    "help": "說明",
+    "content": "<p>請參閱以下資源以獲取 Agent DVR 的幫助：</p><ul><li><a href=\"#\" onclick=\"helpers.goWebsite('docs/agent/')\">使用者指南</a></li><li><a href=\"https://www.reddit.com/r/ispyconnect\" target=\"_blank\">Reddit 論壇</a>（用於社群支援）</li><li><a href=\"https://www.ispyconnect.com/contact\" target=\"_blank\">聯絡我們</a>（用於客戶支援 - 僅限英文）。</li></ul>"
   },
   "hours": "小時",
   "icon": "圖示",

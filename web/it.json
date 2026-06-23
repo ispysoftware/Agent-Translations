@@ -310,8 +310,8 @@
   "groups": "gruppi",
   "hdstreaming": "Streaming 1080P",
   "help": {
-    "content": "<p>Si prega di consultare le seguenti risorse per ottenere aiuto con Agent DVR:</p><ul><li><a href=\"#\" onclick=\"helpers.goWebsite('docs/agent/')\">Guida per l'utente</a></li><li><a href=\"https://www.reddit.com/r/ispyconnect\" target=\"_blank\">Forum Reddit</a> (per il supporto della comunità)</li><li><a href=\"https://www.ispyconnect.com/contact\" target=\"_blank\">Contattaci</a> (per il supporto clienti - solo in inglese).</li></ul>",
-    "help": "Aiuto"
+    "help": "Aiuto",
+    "content": "<p>Si prega di consultare le seguenti risorse per assistenza con Agent DVR:</p><ul><li><a href=\"#\" onclick=\"helpers.goWebsite('docs/agent/')\">Guida dell'utente</a></li><li><a href=\"https://www.reddit.com/r/ispyconnect\" target=\"_blank\">Forum di Reddit</a> (per supporto della comunità)</li><li><a href=\"https://www.ispyconnect.com/contact\" target=\"_blank\">Contattaci</a> (per supporto clienti - solo in inglese).</li></ul>"
   },
   "hours": "Ore",
   "icon": "Icona",

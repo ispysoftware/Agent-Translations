@@ -310,8 +310,8 @@
   "groups": "组",
   "hdstreaming": "1080P 远程串流的权限",
   "help": {
-    "content": "请查看以下资源以获取有关Agent DVR的帮助：<ul><li><a href=\"#\" onclick=\"helpers.goWebsite('docs/agent/')\">用户指南</a></li><li><a href=\"https://www.reddit.com/r/ispyconnect\" target=\"_blank\">Reddit论坛</a>（社区支持）</li><li><a href=\"https://www.ispyconnect.com/contact\" target=\"_blank\">联系我们</a>（客户支持-仅限英语）。</li></ul>",
-    "help": "帮助"
+    "help": "帮助",
+    "content": "<p>请查看以下资源以获取有关Agent DVR的帮助：</p><ul><li><a href=\"#\" onclick=\"helpers.goWebsite('docs/agent/')\">用户指南</a></li><li><a href=\"https://www.reddit.com/r/ispyconnect\" target=\"_blank\">Reddit论坛</a>（用于社区支持）</li><li><a href=\"https://www.ispyconnect.com/contact\" target=\"_blank\">联系我们</a>（用于客户支持 - 仅限英语）。</li></ul>"
   },
   "hours": "小时",
   "icon": "图标",

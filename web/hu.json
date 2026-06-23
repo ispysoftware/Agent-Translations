@@ -310,8 +310,8 @@
   "groups": "Csoportok",
   "hdstreaming": "1080P Streaming Remote Access",
   "help": {
-    "content": "<p>Kérjük, tekintse meg a következő forrásokat, ha segítségre van szüksége az Agent DVR-rel kapcsolatban:</p><ul><li><a href=\"#\" onclick=\"helpers.goWebsite('docs/agent/')\">Felhasználói útmutató</a></li><li><a href=\"https://www.reddit.com/r/ispyconnect\" közösségnek</a>Reddit\" target=\"_t támogatás)</li><li><a href=\"https://www.ispyconnect.com/contact\" target=\"_blank\">Vegye fel velünk a kapcsolatot</a> (ügyfélszolgálatért – csak angol nyelven).</li></ul>",
-    "help": "Segítség"
+    "help": "Segítség",
+    "content": "<p>Kérjük, tekintse meg az alábbi forrásokat az Agent DVR-hez kapcsolódó segítségért:</p><ul><li><a href=\"#\" onclick=\"helpers.goWebsite('docs/agent/')\">Felhasználói útmutató</a></li><li><a href=\"https://www.reddit.com/r/ispyconnect\" target=\"_blank\">Reddit Fórum</a> (közösségi támogatásért)</li><li><a href=\"https://www.ispyconnect.com/contact\" target=\"_blank\">Kapcsolatfelvétel</a> (ügyfélszolgálat - csak angolul).</li></ul>"
   },
   "hours": "Órák",
   "icon": "Ikon",

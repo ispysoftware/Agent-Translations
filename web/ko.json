@@ -310,8 +310,8 @@
   "groups": "그룹",
   "hdstreaming": "1080P 스트리밍 원격 액세스",
   "help": {
-    "content": "<p>Agent DVR 도움말을 찾으려면 다음 자료를 참조하십시오:</p><ul><li><a href=\"#\" onclick=\"helpers.goWebsite('docs/agent/')\">사용자 가이드</a></li><li><a href=\"https://www.reddit.com/r/ispyconnect\" target=\"_blank\">Reddit 포럼</a> (커뮤니티 지원용)</li><li><a href=\"https://www.ispyconnect.com/contact\" target=\"_blank\">문의하기</a> (고객 지원용 - 영어 전용).</li></ul>",
-    "help": "도움말"
+    "help": "도움말",
+    "content": "<p>Agent DVR에 대한 도움을 위해 다음 리소스를 참조하십시오:</p><ul><li><a href=\"#\" onclick=\"helpers.goWebsite('docs/agent/')\">사용자 가이드</a></li><li><a href=\"https://www.reddit.com/r/ispyconnect\" target=\"_blank\">레딧 포럼</a> (커뮤니티 지원용)</li><li><a href=\"https://www.ispyconnect.com/contact\" target=\"_blank\">문의하기</a> (고객 지원 - 영어 전용).</li></ul>"
   },
   "hours": "시간",
   "icon": "아이콘",

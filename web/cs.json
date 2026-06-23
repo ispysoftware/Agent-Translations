@@ -310,8 +310,8 @@
   "groups": "Skupiny",
   "hdstreaming": "Streamování 1080p",
   "help": {
-    "content": "<p>Pro pomoc s Agent DVR se podívejte na následující zdroje:</p><ul><li><a href=\"#\" onclick=\"helpers.goWebsite('docs/agent/')\">Uživatelský průvodce</a></li><li><a href=\"https://www.reddit.com/r/ispyconnect\" target=\"_blank\">Reddit Fórum</a> (pro podporu komunity)</li><li><a href=\"https://www.ispyconnect.com/contact\" target=\"_blank\">Kontaktujte nás</a> (pro zákaznickou podporu - pouze anglicky).</li></ul>",
-    "help": "Nápověda"
+    "help": "Nápověda",
+    "content": "<p>Prosím, podívejte se na následující zdroje pro pomoc s Agent DVR:</p><ul><li><a href=\"#\" onclick=\"helpers.goWebsite('docs/agent/')\">Uživatelská příručka</a></li><li><a href=\"https://www.reddit.com/r/ispyconnect\" target=\"_blank\">Reddit Fórum</a> (pro podporu komunity)</li><li><a href=\"https://www.ispyconnect.com/contact\" target=\"_blank\">Kontaktujte nás</a> (pro zákaznickou podporu - pouze anglicky).</li></ul>"
   },
   "hours": "Hodin",
   "icon": "Ikona",
