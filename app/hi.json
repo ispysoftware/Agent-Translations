@@ -1151,6 +1151,8 @@
     "json.defaultfont": "मूलभूत अक्षर",
     "json.defaultlanguage": "डिफ़ॉल्ट भाषा",
     "json.defaultlanguage.help": "छवि ओवरले में उपयोग करने के लिए भाषा सेट करता है।",
+    "json.defaultlogin": "डिफ़ॉल्ट लॉगिन",
+    "json.defaultlogin.help": "आपके कैमरों के लिए मानक लॉगिन (यदि आपके पास एक है)",
     "json.defaultmjpegsize": "डिफ़ॉल्ट एमजेपीईजी आकार",
     "json.defaultvoice": "डिफ़ॉल्ट वॉयस",
     "json.delay": "विलंब",
@@ -2339,6 +2341,7 @@
     "json.usesnapshoturi.help": "लाइव स्ट्रीम के बजाय स्नैपशॉट URI से एक छवि का उपयोग करें (तस्वीरें देखें)।",
     "json.usessl": "एसएसएल का प्रयोग करें",
     "json.usingdirectoryrules": "मीडिया निर्देशिका नियमों का उपयोग करना",
+    "json.validatecertificate": "प्रमाणपत्र मान्य करें",
     "json.version": "संस्करण",
     "json.verticalonly": "केवल लंबवत",
     "json.video": "वीडियो",
@@ -2574,7 +2577,6 @@
     "urlinvalid": "आपके द्वारा दर्ज किया गया URL अमान्य है",
     "useinactivity": "निष्क्रियता विलंब का प्रयोग करें",
     "useinactivityhelp": "तुरंत रुकने के बजाय निष्क्रियता विलंब को रीसेट करता है",
-    "json.validatecertificate": "प्रमाणपत्र मान्य करें",
     "voicelanguagehelp": "सर्वर सेटिंग्स में भाषा सेट करें - सामान्य"
   }
 }

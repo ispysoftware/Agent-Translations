@@ -1151,6 +1151,8 @@
     "json.defaultfont": "Oletusfontti",
     "json.defaultlanguage": "Oletuskieli",
     "json.defaultlanguage.help": "Asettaa peittokuvien kielen",
+    "json.defaultlogin": "Oletusarvoinen kirjautuminen",
+    "json.defaultlogin.help": "Oletusarvoinen kirjautuminen kameroihisi (jos sinulla on sellainen)",
     "json.defaultmjpegsize": "MJPEG-oletuskoko",
     "json.defaultvoice": "Oletusääni",
     "json.delay": "Kuvien väli",
@@ -2339,6 +2341,7 @@
     "json.usesnapshoturi.help": "Käytä tilannekuvan URI:n kuvaa suoratoiston sijaan (katso Kuvat)",
     "json.usessl": "Käytä SSL:ää",
     "json.usingdirectoryrules": "Mediahakemiston sääntöjen käyttäminen",
+    "json.validatecertificate": "Vahvista sertifikaatti",
     "json.version": "Versio",
     "json.verticalonly": "Pystysuunnassa",
     "json.video": "Video",
@@ -2574,7 +2577,6 @@
     "urlinvalid": "Antamasi URL-osoite on virheellinen",
     "useinactivity": "Käytä passiivisuuden viivettä",
     "useinactivityhelp": "Nollaa toimettomuusviiveen sen sijaan, että pysähtyisi välittömästi",
-    "json.validatecertificate": "Vahvista sertifikaatti",
     "voicelanguagehelp": "Aseta kieli palvelimen asetuksissa - Yleinen"
   }
 }

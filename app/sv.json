@@ -1151,6 +1151,8 @@
     "json.defaultfont": "Standardteckensnitt",
     "json.defaultlanguage": "Standardspråk",
     "json.defaultlanguage.help": "Ställer in språket som ska användas i bildöverlägg",
+    "json.defaultlogin": "Standardinloggning",
+    "json.defaultlogin.help": "Standardinloggning för dina kameror (om du har en)",
     "json.defaultmjpegsize": "Standard MJPEG-storlek",
     "json.defaultvoice": "Standardröst",
     "json.delay": "Dröjsmål",
@@ -2339,6 +2341,7 @@
     "json.usesnapshoturi.help": "Använd en bild från ögonblicksbildens URI istället för livestreamen (se Foton)",
     "json.usessl": "Använd SSL",
     "json.usingdirectoryrules": "Använda regler för mediekatalogen",
+    "json.validatecertificate": "Validera certifikat",
     "json.version": "Version",
     "json.verticalonly": "Endast vertikalt",
     "json.video": "Video",
@@ -2574,7 +2577,6 @@
     "urlinvalid": "Webbadressen du angav är ogiltig",
     "useinactivity": "Använd Inaktivitetsfördröjning",
     "useinactivityhelp": "Återställer inaktivitetsfördröjningen istället för att stoppa omedelbart",
-    "json.validatecertificate": "Validera certifikat",
     "voicelanguagehelp": "Ställ in språk i serverinställningar - Allmänt"
   }
 }

@@ -1151,6 +1151,8 @@
     "json.defaultfont": "За замовчуванням шрифт",
     "json.defaultlanguage": "Мова за замовчуванням",
     "json.defaultlanguage.help": "Встановлює мову для використання в накладаннях на зображення",
+    "json.defaultlogin": "Типовий вхід",
+    "json.defaultlogin.help": "Стандартний вхід для ваших камер (якщо у вас є)",
     "json.defaultmjpegsize": "Розмір MJPEG за замовчуванням",
     "json.defaultvoice": "Стандартний Голос",
     "json.delay": "Затримка",
@@ -2339,6 +2341,7 @@
     "json.usesnapshoturi.help": "Використовуйте зображення з URI знімка замість прямого ефіру (див. Фотографії)",
     "json.usessl": "Використовуйте SSL.",
     "json.usingdirectoryrules": "Використання правил медіа-директорії",
+    "json.validatecertificate": "Перевірити сертифікат",
     "json.version": "Версія",
     "json.verticalonly": "Тільки вертикально",
     "json.video": "Відео",
@@ -2574,7 +2577,6 @@
     "urlinvalid": "URL, який ви ввели, є недійсним.",
     "useinactivity": "Використовуйте Затримку бездіяльності",
     "useinactivityhelp": "Скидає затримку бездіяльності замість негайного зупинення",
-    "json.validatecertificate": "Перевірити сертифікат",
     "voicelanguagehelp": "Встановити мову в налаштуваннях сервера - Загальне"
   }
 }

@@ -1151,6 +1151,8 @@
     "json.defaultfont": "فونت پیش‌فرض",
     "json.defaultlanguage": "زبان پیش‌فرض",
     "json.defaultlanguage.help": "زبان مورد استفاده در پوشش‌های تصویر را تنظیم می‌کند",
+    "json.defaultlogin": "ورود پیش‌فرض",
+    "json.defaultlogin.help": "ورود استاندارد برای دوربین‌های شما (اگر یکی دارید)",
     "json.defaultmjpegsize": "اندازه پیش‌فرض MJPEG",
     "json.defaultvoice": "صدای پیش‌فرض",
     "json.delay": "تأخیر",
@@ -2339,6 +2341,7 @@
     "json.usesnapshoturi.help": "به‌جای جریان زنده از یک تصویر از URI عکس استفاده کن (به عکس‌ها مراجعه کنید)",
     "json.usessl": "استفاده از SSL",
     "json.usingdirectoryrules": "استفاده از قواعد دایرکتوری رسانه",
+    "json.validatecertificate": "اعتبارسنجی گواهی نامه",
     "json.version": "نسخه",
     "json.verticalonly": "فقط عمودی",
     "json.video": "ویدیو",
@@ -2574,7 +2577,6 @@
     "urlinvalid": "URL واردشده نامعتبر است",
     "useinactivity": "استفاده از تأخیر عدم فعالیت",
     "useinactivityhelp": "به‌جای توقف فوری، تأخیر عدم فعالیت را بازنشانی می‌کند",
-    "json.validatecertificate": "اعتبارسنجی گواهی نامه",
     "voicelanguagehelp": "زبان را در تنظیمات سرور - عمومی تنظیم کنید"
   }
 }

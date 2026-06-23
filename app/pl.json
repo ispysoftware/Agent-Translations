@@ -1151,6 +1151,8 @@
     "json.defaultfont": "Domyślna czcionka",
     "json.defaultlanguage": "Domyślny język",
     "json.defaultlanguage.help": "Ustawia język używany w nakładkach graficznych",
+    "json.defaultlogin": "Domyślne logowanie",
+    "json.defaultlogin.help": "Standardowe logowanie do twoich kamer (jeśli je masz)",
     "json.defaultmjpegsize": "Domyślny rozmiar MJPEG",
     "json.defaultvoice": "Domyślny głos",
     "json.delay": "Opóźnienie",
@@ -2339,6 +2341,7 @@
     "json.usesnapshoturi.help": "Użyj obrazu z identyfikatora URI migawki zamiast strumienia na żywo (zobacz Zdjęcia)",
     "json.usessl": "Użyj SSL",
     "json.usingdirectoryrules": "Używanie reguł katalogu mediów",
+    "json.validatecertificate": "Waliduj certyfikat",
     "json.version": "Wersja",
     "json.verticalonly": "Tylko w pionie",
     "json.video": "Wideo",
@@ -2574,7 +2577,6 @@
     "urlinvalid": "Wprowadzony adres URL jest nieprawidłowy",
     "useinactivity": "Użyj opóźnienia bezczynności",
     "useinactivityhelp": "Resetuje opóźnienie braku aktywności zamiast natychmiastowego zatrzymania",
-    "json.validatecertificate": "Waliduj certyfikat",
     "voicelanguagehelp": "Ustaw język w ustawieniach serwera - Ogólne"
   }
 }

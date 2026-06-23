@@ -1151,6 +1151,8 @@
     "json.defaultfont": "Výchozí písmo",
     "json.defaultlanguage": "Základní jazyk",
     "json.defaultlanguage.help": "Nastaví jazyk pro použití v překryvných obrázcích",
+    "json.defaultlogin": "Výchozí přihlášení",
+    "json.defaultlogin.help": "Standardní přihlášení k vašim kamerám (pokud nějaké máte)",
     "json.defaultmjpegsize": "Výchozí velikost MJPEG",
     "json.defaultvoice": "Výchozí hlas",
     "json.delay": "Zpoždění",
@@ -2339,6 +2341,7 @@
     "json.usesnapshoturi.help": "Místo živého přenosu použijte obrázek z URI snímku (viz Fotografie)",
     "json.usessl": "Použijte SSL",
     "json.usingdirectoryrules": "Používání pravidel adresáře médií",
+    "json.validatecertificate": "Ověřit certifikát",
     "json.version": "Verze",
     "json.verticalonly": "Pouze vertikálně",
     "json.video": "Video",
@@ -2574,7 +2577,6 @@
     "urlinvalid": "Zadaná adresa URL je neplatná",
     "useinactivity": "Použijte zpoždění při nečinnosti",
     "useinactivityhelp": "Resetuje zpoždění nečinnosti místo okamžitého zastavení",
-    "json.validatecertificate": "Ověřit certifikát",
     "voicelanguagehelp": "Nastavte jazyk v nastavení serveru - Obecné"
   }
 }

@@ -1151,6 +1151,8 @@
     "json.defaultfont": "Standardschriftart",
     "json.defaultlanguage": "Standardsprache",
     "json.defaultlanguage.help": "Legt die in Bildüberlagerungen zu verwendende Sprache fest",
+    "json.defaultlogin": "Standardanmeldung",
+    "json.defaultlogin.help": "Standardanmeldung für Ihre Kameras (falls vorhanden)",
     "json.defaultmjpegsize": "Standard-MJPEG-Größe",
     "json.defaultvoice": "Standardstimme",
     "json.delay": "Verzögern",
@@ -2339,6 +2341,7 @@
     "json.usesnapshoturi.help": "Verwenden Sie anstelle des Live-Streams ein Bild aus der Snapshot-URI (siehe Fotos)",
     "json.usessl": "SSL verwenden",
     "json.usingdirectoryrules": "Verwendung von Medienverzeichnisregeln",
+    "json.validatecertificate": "Zertifikat validieren",
     "json.version": "Version",
     "json.verticalonly": "Nur vertikal",
     "json.video": "Video",
@@ -2574,7 +2577,6 @@
     "urlinvalid": "Die eingegebene URL ist ungültig",
     "useinactivity": "Verwenden Sie die Inaktivitätsverzögerung",
     "useinactivityhelp": "Setzt die Inaktivitätsverzögerung zurück, anstatt sofort zu stoppen",
-    "json.validatecertificate": "Zertifikat validieren",
     "voicelanguagehelp": "Sprache in Servereinstellungen festlegen - Allgemein"
   }
 }

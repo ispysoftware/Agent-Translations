@@ -1151,6 +1151,8 @@
     "json.defaultfont": "默认字体",
     "json.defaultlanguage": "默认语言",
     "json.defaultlanguage.help": "设置在图像叠加层中使用的语言。",
+    "json.defaultlogin": "默认登录",
+    "json.defaultlogin.help": "摄像头的标准登录（如果有的话）",
     "json.defaultmjpegsize": "默认 MJPEG 大小",
     "json.defaultvoice": "默认语音",
     "json.delay": "延迟",
@@ -2339,6 +2341,7 @@
     "json.usesnapshoturi.help": "使用来自快照 URI 的图像而不是实时流（参见照片）。",
     "json.usessl": "使用SSL",
     "json.usingdirectoryrules": "使用媒体目录规则",
+    "json.validatecertificate": "验证证书",
     "json.version": "版本",
     "json.verticalonly": "仅垂直",
     "json.video": "视频",
@@ -2574,7 +2577,6 @@
     "urlinvalid": "您输入的网址无效",
     "useinactivity": "使用不活动延迟",
     "useinactivityhelp": "重置不活动延迟而不是立即停止",
-    "json.validatecertificate": "验证证书",
     "voicelanguagehelp": "在服务器设置中设置语言 - 通用"
   }
 }

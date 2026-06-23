@@ -1151,6 +1151,8 @@
     "json.defaultfont": "Alapértelmezett betűtípus",
     "json.defaultlanguage": "Alapértelmezett nyelv",
     "json.defaultlanguage.help": "Beállítja a képátfedésekben használt nyelvet",
+    "json.defaultlogin": "Alapértelmezett bejelentkezés",
+    "json.defaultlogin.help": "A kameráid standard bejelentkezése (ha van)",
     "json.defaultmjpegsize": "Alapértelmezett MJPEG méret",
     "json.defaultvoice": "Alapértelmezett hang",
     "json.delay": "Késleltetés",
@@ -2339,6 +2341,7 @@
     "json.usesnapshoturi.help": "A pillanatkép URI-jából származó kép használata az élő közvetítés helyett (lásd a Fényképeket)",
     "json.usessl": "SSL használata",
     "json.usingdirectoryrules": "Média könyvtár szabályok használata",
+    "json.validatecertificate": "Tanúsítvány érvényesítése",
     "json.version": "Verzió",
     "json.verticalonly": "Csak függőleges",
     "json.video": "Videó",
@@ -2574,7 +2577,6 @@
     "urlinvalid": "A megadott URL érvénytelen",
     "useinactivity": "Inaktivitási késleltetés használata",
     "useinactivityhelp": "Visszaállítja az inaktivitási késleltetést az azonnali leállítás helyett",
-    "json.validatecertificate": "Tanúsítvány érvényesítése",
     "voicelanguagehelp": "Nyelv beállítása a szerverbeállításokban - Általános"
   }
 }

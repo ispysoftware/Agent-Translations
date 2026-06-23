@@ -1151,6 +1151,8 @@
     "json.defaultfont": "기본 글꼴",
     "json.defaultlanguage": "기본 설정 언어",
     "json.defaultlanguage.help": "이미지 오버레이에 사용할 언어를 설정합니다.",
+    "json.defaultlogin": "기본 로그인",
+    "json.defaultlogin.help": "카메라의 표준 로그인(있는 경우)",
     "json.defaultmjpegsize": "기본 MJPEG 크기",
     "json.defaultvoice": "기본 음성",
     "json.delay": "지연",
@@ -2339,6 +2341,7 @@
     "json.usesnapshoturi.help": "라이브 스트림 대신 스냅샷 URI의 이미지를 사용하세요(사진 참조).",
     "json.usessl": "SSL 사용",
     "json.usingdirectoryrules": "미디어 디렉터리 규칙 사용하기",
+    "json.validatecertificate": "인증서 확인",
     "json.version": "버전",
     "json.verticalonly": "수직만",
     "json.video": "동영상",
@@ -2574,7 +2577,6 @@
     "urlinvalid": "입력한 URL이 잘못되었습니다.",
     "useinactivity": "비활성 지연 사용",
     "useinactivityhelp": "즉시 중지하는 대신 비활성 지연을 재설정합니다.",
-    "json.validatecertificate": "인증서 확인",
     "voicelanguagehelp": "서버 설정에서 언어 설정 - 일반"
   }
 }

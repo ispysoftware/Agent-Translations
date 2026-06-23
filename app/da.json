@@ -1151,6 +1151,8 @@
     "json.defaultfont": "Standard skrifttype",
     "json.defaultlanguage": "Standardsprog",
     "json.defaultlanguage.help": "Indstiller det sprog, der skal bruges i billedoverlejringer",
+    "json.defaultlogin": "Standardlogin",
+    "json.defaultlogin.help": "Standard login for dine kameraer (hvis du har en)",
     "json.defaultmjpegsize": "Standard MJPEG-størrelse",
     "json.defaultvoice": "Standardstemme",
     "json.delay": "Forsinke",
@@ -2339,6 +2341,7 @@
     "json.usesnapshoturi.help": "Brug et billede fra snapshot-URI'en i stedet for livestreamen (se billeder)",
     "json.usessl": "Brug SSL",
     "json.usingdirectoryrules": "Brug af mediedirektørregler",
+    "json.validatecertificate": "Valider certifikat",
     "json.version": "Version",
     "json.verticalonly": "Kun lodret",
     "json.video": "Video",
@@ -2574,7 +2577,6 @@
     "urlinvalid": "Den URL, du indtastede, er ugyldig",
     "useinactivity": "Brug Inaktivitetsforsinkelse",
     "useinactivityhelp": "Nulstiller inaktivitetsforsinkelsen i stedet for at stoppe med det samme",
-    "json.validatecertificate": "Valider certifikat",
     "voicelanguagehelp": "Indstil sprog i serverindstillinger - Generelt"
   }
 }

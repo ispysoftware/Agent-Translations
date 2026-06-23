@@ -1151,6 +1151,8 @@
     "json.defaultfont": "Шрифт по умолчанию",
     "json.defaultlanguage": "Язык по умолчанию",
     "json.defaultlanguage.help": "Задаёт язык надписей на изображениях",
+    "json.defaultlogin": "Стандартный вход",
+    "json.defaultlogin.help": "Стандартный логин для ваших камер (если он у вас есть)",
     "json.defaultmjpegsize": "Размер MJPEG по умолчанию",
     "json.defaultvoice": "Голос по умолчанию",
     "json.delay": "Задержка",
@@ -2339,6 +2341,7 @@
     "json.usesnapshoturi.help": "Использовать изображение из snapshot URI вместо потока в режиме «Фото»",
     "json.usessl": "Использовать SSL",
     "json.usingdirectoryrules": "Использование правил медиа-каталога",
+    "json.validatecertificate": "Проверить сертификат",
     "json.version": "Версия",
     "json.verticalonly": "Только по вертикали",
     "json.video": "Видео",
@@ -2574,7 +2577,6 @@
     "urlinvalid": "Введён неверный URL",
     "useinactivity": "Использовать задержку бездействия",
     "useinactivityhelp": "Сбрасывает таймер бездействия вместо немедленной остановки",
-    "json.validatecertificate": "Проверить сертификат",
     "voicelanguagehelp": "Выберите язык в настройках сервера → General"
   }
 }

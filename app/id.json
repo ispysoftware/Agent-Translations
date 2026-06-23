@@ -1151,6 +1151,8 @@
     "json.defaultfont": "Font Default",
     "json.defaultlanguage": "Bahasa Default",
     "json.defaultlanguage.help": "Mengatur bahasa yang digunakan dalam overlay gambar",
+    "json.defaultlogin": "Login Default",
+    "json.defaultlogin.help": "Login standar untuk kamera Anda (jika Anda memilikinya)",
     "json.defaultmjpegsize": "Ukuran MJPEG Default",
     "json.defaultvoice": "Suara Default",
     "json.delay": "Tunda",
@@ -2339,6 +2341,7 @@
     "json.usesnapshoturi.help": "Gunakan gambar dari URI snapshot alih-alih streaming langsung (lihat Foto)",
     "json.usessl": "Gunakan SSL",
     "json.usingdirectoryrules": "Menggunakan aturan direktori media",
+    "json.validatecertificate": "Validasi Sertifikat",
     "json.version": "Versi",
     "json.verticalonly": "Hanya Vertikal",
     "json.video": "Video",
@@ -2574,7 +2577,6 @@
     "urlinvalid": "URL yang Anda masukkan tidak valid",
     "useinactivity": "Menggunakan Penundaan Ketidakaktifan",
     "useinactivityhelp": "Mereset keterlambatan ketidakaktifan daripada berhenti secara langsung",
-    "json.validatecertificate": "Validasi Sertifikat",
     "voicelanguagehelp": "Atur bahasa dalam pengaturan server - Umum"
   }
 }

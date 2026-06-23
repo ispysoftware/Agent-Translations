@@ -1151,6 +1151,8 @@
     "json.defaultfont": "Varsayılan yazı tipi",
     "json.defaultlanguage": "Varsayılan dil",
     "json.defaultlanguage.help": "Görüntü bindirmelerinde kullanılacak dili ayarlar",
+    "json.defaultlogin": "Varsayılan Giriş",
+    "json.defaultlogin.help": "Kameralarınız için standart giriş (eğer varsa)",
     "json.defaultmjpegsize": "Varsayılan MJPEG Boyutu",
     "json.defaultvoice": "Varsayılan Ses",
     "json.delay": "Gecikme",
@@ -2339,6 +2341,7 @@
     "json.usesnapshoturi.help": "Canlı akış yerine anlık görüntü URI'sinden bir görüntü kullanın (bkz. Fotoğraflar)",
     "json.usessl": "SSL kullan",
     "json.usingdirectoryrules": "Medya dizin kurallarını kullanma",
+    "json.validatecertificate": "Sertifikayı Doğrula",
     "json.version": "Sürüm",
     "json.verticalonly": "Yalnızca Dikey",
     "json.video": "Video",
@@ -2574,7 +2577,6 @@
     "urlinvalid": "Girdiğiniz URL geçersiz",
     "useinactivity": "Hareketsizlik Gecikmesini Kullan",
     "useinactivityhelp": "Hemen durmak yerine hareketsizlik gecikmesini sıfırlar",
-    "json.validatecertificate": "Sertifikayı Doğrula",
     "voicelanguagehelp": "Sunucu ayarlarında dil ayarını yapın - Genel"
   }
 }

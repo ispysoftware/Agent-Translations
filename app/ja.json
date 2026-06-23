@@ -1151,6 +1151,8 @@
     "json.defaultfont": "デフォルトのフォント",
     "json.defaultlanguage": "既定の言語",
     "json.defaultlanguage.help": "画像オーバーレイで使用する言語を設定します。",
+    "json.defaultlogin": "デフォルトログイン",
+    "json.defaultlogin.help": "カメラの標準ログイン（もしあれば）",
     "json.defaultmjpegsize": "デフォルトのMJPEGサイズ",
     "json.defaultvoice": "デフォルトの音声",
     "json.delay": "遅れ",
@@ -2339,6 +2341,7 @@
     "json.usesnapshoturi.help": "ライブ ストリームの代わりにスナップショット URI からの画像を使用します (「写真」を参照)。",
     "json.usessl": "SSLを使用する",
     "json.usingdirectoryrules": "メディアディレクトリルールの使用",
+    "json.validatecertificate": "証明書を検証する",
     "json.version": "バージョン",
     "json.verticalonly": "垂直のみ",
     "json.video": "ビデオ",
@@ -2574,7 +2577,6 @@
     "urlinvalid": "入力したURLが無効です",
     "useinactivity": "非アクティブ遅延を使用する",
     "useinactivityhelp": "すぐに停止するのではなく、非アクティブ遅延をリセットします",
-    "json.validatecertificate": "証明書を検証する",
     "voicelanguagehelp": "サーバー設定で言語を設定します - 一般"
   }
 }

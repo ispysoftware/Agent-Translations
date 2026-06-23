@@ -1151,6 +1151,8 @@
     "json.defaultfont": "ডিফল্ট ফন্ট",
     "json.defaultlanguage": "নির্ধারিত ভাষা",
     "json.defaultlanguage.help": "ছবি ওভারলে ব্যবহার করার জন্য ভাষা সেট করে।",
+    "json.defaultlogin": "ডিফল্ট লগইন",
+    "json.defaultlogin.help": "আপনার ক্যামেরার জন্য স্ট্যান্ডার্ড লগইন (যদি আপনার একটি থাকে)",
     "json.defaultmjpegsize": "ডিফল্ট MJPEG আকার",
     "json.defaultvoice": "ডিফল্ট ভয়েস",
     "json.delay": "বিলম্ব",
@@ -2339,6 +2341,7 @@
     "json.usesnapshoturi.help": "লাইভ স্ট্রিমের পরিবর্তে স্ন্যাপশট URI থেকে একটি ছবি ব্যবহার করুন (ফটো দেখুন)।",
     "json.usessl": "SSL ব্যবহার করুন",
     "json.usingdirectoryrules": "মিডিয়া ডিরেক্টরি নিয়ম ব্যবহার করা",
+    "json.validatecertificate": "সার্টিফিকেট যাচাই করুন",
     "json.version": "সংস্করণ",
     "json.verticalonly": "শুধুমাত্র উল্লম্ব",
     "json.video": "ভিডিও",
@@ -2574,7 +2577,6 @@
     "urlinvalid": "আপনার প্রবেশ করা URL টি অবৈধ",
     "useinactivity": "নিষ্ক্রিয়তা বিলম্ব ব্যবহার করুন",
     "useinactivityhelp": "অবিলম্বে বন্ধ করার পরিবর্তে নিষ্ক্রিয়তা বিলম্ব পুনরায় সেট করুন",
-    "json.validatecertificate": "সার্টিফিকেট যাচাই করুন",
     "voicelanguagehelp": "সার্ভার সেটিংস - সাধারণ ভাষা সেট করুন"
   }
 }

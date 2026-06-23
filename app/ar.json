@@ -1151,6 +1151,8 @@
     "json.defaultfont": "الخط الافتراضي",
     "json.defaultlanguage": "اللغة الافتراضية",
     "json.defaultlanguage.help": "يضبط اللغة المراد استخدامها في تراكبات الصور",
+    "json.defaultlogin": "تسجيل الدخول الافتراضي",
+    "json.defaultlogin.help": "تسجيل الدخول القياسي لكاميراتك (إذا كان لديك واحدة)",
     "json.defaultmjpegsize": "حجم MJPEG الافتراضي",
     "json.defaultvoice": "الصوت الافتراضي",
     "json.delay": "تأخير",
@@ -2339,6 +2341,7 @@
     "json.usesnapshoturi.help": "استخدم صورة من لقطة URI بدلاً من البث المباشر (انظر الصور)",
     "json.usessl": "استخدم SSL",
     "json.usingdirectoryrules": "استخدام قواعد دليل الوسائط",
+    "json.validatecertificate": "تحقق من الشهادة",
     "json.version": "إصدار",
     "json.verticalonly": "عمودي فقط",
     "json.video": "فيديو",
@@ -2574,7 +2577,6 @@
     "urlinvalid": "عنوان URL الذي أدخلته غير صالح",
     "useinactivity": "استخدام تأخير الخمول",
     "useinactivityhelp": "يعيد ضبط تأخير عدم النشاط بدلاً من التوقف على الفور",
-    "json.validatecertificate": "تحقق من الشهادة",
     "voicelanguagehelp": "تعيين اللغة في إعدادات الخادم - عام"
   }
 }

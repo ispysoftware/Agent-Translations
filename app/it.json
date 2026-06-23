@@ -1151,6 +1151,8 @@
     "json.defaultfont": "Carattere predefinito",
     "json.defaultlanguage": "Lingua predefinita",
     "json.defaultlanguage.help": "Imposta la lingua da utilizzare nelle sovrapposizioni di immagini",
+    "json.defaultlogin": "Accesso predefinito",
+    "json.defaultlogin.help": "Accesso standard per le tue telecamere (se ne hai uno)",
     "json.defaultmjpegsize": "Dimensione MJPEG predefinita",
     "json.defaultvoice": "Voce predefinita",
     "json.delay": "Ritardo",
@@ -2339,6 +2341,7 @@
     "json.usesnapshoturi.help": "Utilizza un'immagine dall'URI dell'istantanea invece del live streaming (vedi Foto)",
     "json.usessl": "Usa SSL",
     "json.usingdirectoryrules": "Utilizzare le regole della directory multimediale",
+    "json.validatecertificate": "Convalida certificato",
     "json.version": "Versione",
     "json.verticalonly": "Solo verticale",
     "json.video": "Video",
@@ -2574,7 +2577,6 @@
     "urlinvalid": "L'URL inserito non è valido",
     "useinactivity": "Usa il ritardo di inattività",
     "useinactivityhelp": "Azzera il ritardo di inattività invece di arrestarsi immediatamente",
-    "json.validatecertificate": "Convalida certificato",
     "voicelanguagehelp": "Imposta lingua nelle impostazioni del server - Generale"
   }
 }

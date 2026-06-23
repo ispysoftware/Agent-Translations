@@ -1151,6 +1151,8 @@
     "json.defaultfont": "Phông chữ mặc định",
     "json.defaultlanguage": "Ngôn ngữ mặc định",
     "json.defaultlanguage.help": "Thiết lập ngôn ngữ để sử dụng trong các lớp phủ hình ảnh",
+    "json.defaultlogin": "Đăng nhập mặc định",
+    "json.defaultlogin.help": "Đăng nhập tiêu chuẩn cho camera của bạn (nếu bạn có)",
     "json.defaultmjpegsize": "Kích thước MJPEG mặc định",
     "json.defaultvoice": "Giọng nói mặc định",
     "json.delay": "Trễ hẹn",
@@ -2339,6 +2341,7 @@
     "json.usesnapshoturi.help": "Sử dụng một hình ảnh từ URI chụp ảnh thay vì luồng trực tiếp (xem Ảnh)",
     "json.usessl": "Sử dụng SSL",
     "json.usingdirectoryrules": "Sử dụng quy tắc thư mục phương tiện",
+    "json.validatecertificate": "Xác thực Chứng chỉ",
     "json.version": "Phiên bản",
     "json.verticalonly": "Chỉ dọc",
     "json.video": "Video",
@@ -2574,7 +2577,6 @@
     "urlinvalid": "Địa chỉ URL bạn đã nhập không hợp lệ",
     "useinactivity": "Sử dụng Độ Trễ Không Hoạt Động",
     "useinactivityhelp": "Đặt lại độ trễ không hoạt động thay vì dừng ngay lập tức",
-    "json.validatecertificate": "Xác thực Chứng chỉ",
     "voicelanguagehelp": "Thiết lập ngôn ngữ trong cài đặt máy chủ - Chung"
   }
 }

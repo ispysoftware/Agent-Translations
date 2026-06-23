@@ -1151,6 +1151,8 @@
     "json.defaultfont": "Standard skrifttype",
     "json.defaultlanguage": "Standard språk",
     "json.defaultlanguage.help": "Angir språket som skal brukes i bildeoverlegg",
+    "json.defaultlogin": "Standard pålogging",
+    "json.defaultlogin.help": "Standard pålogging for kameraene dine (hvis du har en)",
     "json.defaultmjpegsize": "Standard MJPEG-størrelse",
     "json.defaultvoice": "Standard stemme",
     "json.delay": "Forsinkelse",
@@ -2339,6 +2341,7 @@
     "json.usesnapshoturi.help": "Bruk et bilde fra bilde-URI-en i stedet for live-strømmen (se Bilder)",
     "json.usessl": "Bruk SSL",
     "json.usingdirectoryrules": "Bruke mediadirektoryregler",
+    "json.validatecertificate": "Valider sertifikat",
     "json.version": "Versjon",
     "json.verticalonly": "Kun vertikal",
     "json.video": "Video",
@@ -2574,7 +2577,6 @@
     "urlinvalid": "URL-en du skrev inn er ugyldig",
     "useinactivity": "Bruk inaktivitetsforsinkelse",
     "useinactivityhelp": "Tilbakestiller inaktivitetsforsinkelsen i stedet for å stoppe umiddelbart",
-    "json.validatecertificate": "Valider sertifikat",
     "voicelanguagehelp": "Still inn språk i serverinnstillinger - Generelt"
   }
 }

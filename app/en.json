@@ -1151,6 +1151,8 @@
     "json.defaultfont": "Default Font",
     "json.defaultlanguage": "Default Language",
     "json.defaultlanguage.help": "Sets the language to use in image overlays",
+    "json.defaultlogin": "Default Login",
+    "json.defaultlogin.help": "Standard login for your cameras (if you have one)",
     "json.defaultmjpegsize": "Default MJPEG Size",
     "json.defaultvoice": "Default Voice",
     "json.delay": "Delay",
@@ -2339,6 +2341,7 @@
     "json.usesnapshoturi.help": "Use an image from the snapshot URI instead of the live stream (see Photos)",
     "json.usessl": "Use SSL",
     "json.usingdirectoryrules": "Using media directory rules",
+    "json.validatecertificate": "Validate Certificate",
     "json.version": "Version",
     "json.verticalonly": "Vertical Only",
     "json.video": "Video",
@@ -2574,7 +2577,6 @@
     "urlinvalid": "The URL you entered is invalid",
     "useinactivity": "Use Inactivity Delay",
     "useinactivityhelp": "Resets the inactivity delay instead of stopping immediately",
-    "json.validatecertificate": "Validate Certificate",
     "voicelanguagehelp": "Set language in server settings - General"
   }
 }

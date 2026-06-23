@@ -1151,6 +1151,8 @@
     "json.defaultfont": "Standaardlettertype",
     "json.defaultlanguage": "Standaard taal",
     "json.defaultlanguage.help": "Stelt de taal in die in afbeeldingsoverlays moet worden gebruikt",
+    "json.defaultlogin": "Standaard inloggen",
+    "json.defaultlogin.help": "Standaard inlog voor uw camera's (als u er een heeft)",
     "json.defaultmjpegsize": "Standaard MJPEG-formaat",
     "json.defaultvoice": "Standaard stem",
     "json.delay": "Vertraging",
@@ -2339,6 +2341,7 @@
     "json.usesnapshoturi.help": "Gebruik een afbeelding van de snapshot-URI in plaats van de livestream (zie Foto's)",
     "json.usessl": "Gebruik SSL",
     "json.usingdirectoryrules": "Gebruik van media-directoryregels",
+    "json.validatecertificate": "Certificaat valideren",
     "json.version": "Versie",
     "json.verticalonly": "Alleen verticaal",
     "json.video": "Video",
@@ -2574,7 +2577,6 @@
     "urlinvalid": "De opgegeven URL is ongeldig",
     "useinactivity": "Gebruik inactiviteitsvertraging",
     "useinactivityhelp": "Reset de inactiviteitsvertraging in plaats van onmiddellijk te stoppen",
-    "json.validatecertificate": "Certificaat valideren",
     "voicelanguagehelp": "Stel taal in bij serverinstellingen - Algemeen"
   }
 }
