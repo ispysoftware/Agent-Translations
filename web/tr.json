@@ -310,8 +310,8 @@
   "groups": "Gruplar",
   "hdstreaming": "1080P Akış",
   "help": {
-    "help": "Yardım",
-    "content": "<p>Lütfen Agent DVR ile ilgili yardım için aşağıdaki kaynaklara bakın:</p><ul><li><a href=\"#\" onclick=\"helpers.goWebsite('docs/agent/')\">Kullanıcı Kılavuzu</a></li><li><a href=\"https://www.reddit.com/r/ispyconnect\" target=\"_blank\">Reddit Forumu</a> (topluluk desteği için)</li><li><a href=\"https://www.ispyconnect.com/contact\" target=\"_blank\">Bize Ulaşın</a> (müşteri desteği için - yalnızca İngilizce).</li></ul>"
+    "content": "<p>Lütfen Agent DVR ile ilgili yardım için aşağıdaki kaynaklara bakın:</p><ul><li><a href=\"#\" onclick=\"helpers.goWebsite('docs/agent/')\">Kullanıcı Kılavuzu</a></li><li><a href=\"https://www.reddit.com/r/ispyconnect\" target=\"_blank\">Reddit Forumu</a> (topluluk desteği için)</li><li><a href=\"https://www.ispyconnect.com/contact\" target=\"_blank\">Bize Ulaşın</a> (müşteri desteği için - yalnızca İngilizce).</li></ul>",
+    "help": "Yardım"
   },
   "hours": "Saat",
   "icon": "simge",
@@ -539,6 +539,7 @@
   "recordondetecthelpaudio": "Ses algılandığında kaydet",
   "recordraw": "Ham Kayıt",
   "recordrawhelp": "CPU'dan tasarruf sağlar, ancak daha büyük dosya boyutları ve bindirme olmaz.",
+  "reducefalsepositives": "Yapay zeka öğrenimi ile yanlış pozitifleri azaltın - daha fazla bilgi edinin",
   "reference": "Fatura Referansı",
   "reference_help": "Her faturada basılacak proje veya PO numarası.",
   "reload": "Tekrar yükle",

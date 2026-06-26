@@ -310,8 +310,8 @@
   "groups": "gruppi",
   "hdstreaming": "Streaming 1080P",
   "help": {
-    "help": "Aiuto",
-    "content": "<p>Si prega di consultare le seguenti risorse per assistenza con Agent DVR:</p><ul><li><a href=\"#\" onclick=\"helpers.goWebsite('docs/agent/')\">Guida dell'utente</a></li><li><a href=\"https://www.reddit.com/r/ispyconnect\" target=\"_blank\">Forum di Reddit</a> (per supporto della comunità)</li><li><a href=\"https://www.ispyconnect.com/contact\" target=\"_blank\">Contattaci</a> (per supporto clienti - solo in inglese).</li></ul>"
+    "content": "<p>Si prega di consultare le seguenti risorse per assistenza con Agent DVR:</p><ul><li><a href=\"#\" onclick=\"helpers.goWebsite('docs/agent/')\">Guida dell'utente</a></li><li><a href=\"https://www.reddit.com/r/ispyconnect\" target=\"_blank\">Forum di Reddit</a> (per supporto della comunità)</li><li><a href=\"https://www.ispyconnect.com/contact\" target=\"_blank\">Contattaci</a> (per supporto clienti - solo in inglese).</li></ul>",
+    "help": "Aiuto"
   },
   "hours": "Ore",
   "icon": "Icona",
@@ -539,6 +539,7 @@
   "recordondetecthelpaudio": "Registra quando viene rilevato un suono",
   "recordraw": "Nessuna codifica",
   "recordrawhelp": "Salva CPU ma file di dimensioni maggiori e senza sovrapposizioni.",
+  "reducefalsepositives": "Riduci i falsi positivi con l'apprendimento AI - scopri di più",
   "reference": "Riferimento Fattura",
   "reference_help": "Numero di progetto o PO da stampare su ogni fattura.",
   "reload": "Ricaricare",

@@ -310,8 +310,8 @@
   "groups": "groepen",
   "hdstreaming": "1080P-streaming",
   "help": {
-    "help": "Help",
-    "content": "<p>Zie de volgende bronnen voor hulp met Agent DVR:</p><ul><li><a href=\"#\" onclick=\"helpers.goWebsite('docs/agent/')\">Gebruikershandleiding</a></li><li><a href=\"https://www.reddit.com/r/ispyconnect\" target=\"_blank\">Reddit Forum</a> (voor gemeenschapsondersteuning)</li><li><a href=\"https://www.ispyconnect.com/contact\" target=\"_blank\">Neem contact met ons op</a> (voor klantenondersteuning - alleen in het Engels).</li></ul>"
+    "content": "<p>Zie de volgende bronnen voor hulp met Agent DVR:</p><ul><li><a href=\"#\" onclick=\"helpers.goWebsite('docs/agent/')\">Gebruikershandleiding</a></li><li><a href=\"https://www.reddit.com/r/ispyconnect\" target=\"_blank\">Reddit Forum</a> (voor gemeenschapsondersteuning)</li><li><a href=\"https://www.ispyconnect.com/contact\" target=\"_blank\">Neem contact met ons op</a> (voor klantenondersteuning - alleen in het Engels).</li></ul>",
+    "help": "Help"
   },
   "hours": "Uren",
   "icon": "Icoon",
@@ -539,6 +539,7 @@
   "recordondetecthelpaudio": "Neem op wanneer geluid wordt gedetecteerd",
   "recordraw": "Geen codering",
   "recordrawhelp": "Bespaart CPU maar grotere bestandsgroottes en geen overlays.",
+  "reducefalsepositives": "Verminder valse positieven met AI-leren - leer meer",
   "reference": "Factuurreferentie",
   "reference_help": "Project- of PO-nummer om op elke factuur te printen.",
   "reload": "vernieuwen",

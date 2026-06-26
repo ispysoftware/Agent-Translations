@@ -310,8 +310,8 @@
   "groups": "Los grupos",
   "hdstreaming": "Transmisión 1080P",
   "help": {
-    "help": "Ayuda",
-    "content": "<p>Por favor, consulte los siguientes recursos para obtener ayuda con Agent DVR:</p><ul><li><a href=\"#\" onclick=\"helpers.goWebsite('docs/agent/')\">Guía del Usuario</a></li><li><a href=\"https://www.reddit.com/r/ispyconnect\" target=\"_blank\">Foro de Reddit</a> (para soporte de la comunidad)</li><li><a href=\"https://www.ispyconnect.com/contact\" target=\"_blank\">Contáctenos</a> (para soporte al cliente - solo en inglés).</li></ul>"
+    "content": "<p>Por favor, consulte los siguientes recursos para obtener ayuda con Agent DVR:</p><ul><li><a href=\"#\" onclick=\"helpers.goWebsite('docs/agent/')\">Guía del Usuario</a></li><li><a href=\"https://www.reddit.com/r/ispyconnect\" target=\"_blank\">Foro de Reddit</a> (para soporte de la comunidad)</li><li><a href=\"https://www.ispyconnect.com/contact\" target=\"_blank\">Contáctenos</a> (para soporte al cliente - solo en inglés).</li></ul>",
+    "help": "Ayuda"
   },
   "hours": "Horas",
   "icon": "Icono",
@@ -539,6 +539,7 @@
   "recordondetecthelpaudio": "Grabar cuando se detecte sonido",
   "recordraw": "No codificar",
   "recordrawhelp": "Ahorra CPU pero archivos de mayor tamaño y sin superposiciones.",
+  "reducefalsepositives": "Reduce los falsos positivos con aprendizaje de IA - aprende más",
   "reference": "Referencia de Factura",
   "reference_help": "Número de proyecto o PO para imprimir en cada factura.",
   "reload": "Recargar",

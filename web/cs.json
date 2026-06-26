@@ -310,8 +310,8 @@
   "groups": "Skupiny",
   "hdstreaming": "Streamování 1080p",
   "help": {
-    "help": "Nápověda",
-    "content": "<p>Prosím, podívejte se na následující zdroje pro pomoc s Agent DVR:</p><ul><li><a href=\"#\" onclick=\"helpers.goWebsite('docs/agent/')\">Uživatelská příručka</a></li><li><a href=\"https://www.reddit.com/r/ispyconnect\" target=\"_blank\">Reddit Fórum</a> (pro podporu komunity)</li><li><a href=\"https://www.ispyconnect.com/contact\" target=\"_blank\">Kontaktujte nás</a> (pro zákaznickou podporu - pouze anglicky).</li></ul>"
+    "content": "<p>Prosím, podívejte se na následující zdroje pro pomoc s Agent DVR:</p><ul><li><a href=\"#\" onclick=\"helpers.goWebsite('docs/agent/')\">Uživatelská příručka</a></li><li><a href=\"https://www.reddit.com/r/ispyconnect\" target=\"_blank\">Reddit Fórum</a> (pro podporu komunity)</li><li><a href=\"https://www.ispyconnect.com/contact\" target=\"_blank\">Kontaktujte nás</a> (pro zákaznickou podporu - pouze anglicky).</li></ul>",
+    "help": "Nápověda"
   },
   "hours": "Hodin",
   "icon": "Ikona",
@@ -539,6 +539,7 @@
   "recordondetecthelpaudio": "Zaznamenejte, když je detekován zvuk",
   "recordraw": "Záznam ve formátu Raw",
   "recordrawhelp": "Šetří CPU, ale vytváří větší soubory bez překryvů.",
+  "reducefalsepositives": "Snižte falešné pozitivní výsledky pomocí AI učení - dozvědět se více",
   "reference": "Referenční číslo faktury",
   "reference_help": "Číslo projektu nebo PO, které se má vytisknout na každé faktuře.",
   "reload": "Znovu načíst",

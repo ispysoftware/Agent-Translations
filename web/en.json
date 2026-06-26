@@ -310,8 +310,8 @@
   "groups": "Groups",
   "hdstreaming": "1080P Streaming Remote Access",
   "help": {
-    "help": "Help",
-    "content": "<p>Please see the following resources for help with Agent DVR:</p><ul><li><a href=\"#\" onclick=\"helpers.goWebsite('docs/agent/')\">User Guide</a></li><li><a href=\"https://www.reddit.com/r/ispyconnect\" target=\"_blank\">Reddit Forum</a> (for community support)</li><li><a href=\"https://www.ispyconnect.com/contact\" target=\"_blank\">Contact Us</a> (for customer support - English only).</li></ul>"
+    "content": "<p>Please see the following resources for help with Agent DVR:</p><ul><li><a href=\"#\" onclick=\"helpers.goWebsite('docs/agent/')\">User Guide</a></li><li><a href=\"https://www.reddit.com/r/ispyconnect\" target=\"_blank\">Reddit Forum</a> (for community support)</li><li><a href=\"https://www.ispyconnect.com/contact\" target=\"_blank\">Contact Us</a> (for customer support - English only).</li></ul>",
+    "help": "Help"
   },
   "hours": "Hours",
   "icon": "Icon",
@@ -539,6 +539,7 @@
   "recordondetecthelpaudio": "Record when sound is detected",
   "recordraw": "Record Raw",
   "recordrawhelp": "Saves CPU but larger file sizes and no overlays",
+  "reducefalsepositives": "Reduce false positives with AI learning - learn more",
   "reference": "Invoice Reference",
   "reference_help": "Project or PO number to print on every invoice.",
   "reload": "Reload",

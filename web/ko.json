@@ -310,8 +310,8 @@
   "groups": "그룹",
   "hdstreaming": "1080P 스트리밍 원격 액세스",
   "help": {
-    "help": "도움말",
-    "content": "<p>Agent DVR에 대한 도움을 위해 다음 리소스를 참조하십시오:</p><ul><li><a href=\"#\" onclick=\"helpers.goWebsite('docs/agent/')\">사용자 가이드</a></li><li><a href=\"https://www.reddit.com/r/ispyconnect\" target=\"_blank\">레딧 포럼</a> (커뮤니티 지원용)</li><li><a href=\"https://www.ispyconnect.com/contact\" target=\"_blank\">문의하기</a> (고객 지원 - 영어 전용).</li></ul>"
+    "content": "<p>Agent DVR에 대한 도움을 위해 다음 리소스를 참조하십시오:</p><ul><li><a href=\"#\" onclick=\"helpers.goWebsite('docs/agent/')\">사용자 가이드</a></li><li><a href=\"https://www.reddit.com/r/ispyconnect\" target=\"_blank\">레딧 포럼</a> (커뮤니티 지원용)</li><li><a href=\"https://www.ispyconnect.com/contact\" target=\"_blank\">문의하기</a> (고객 지원 - 영어 전용).</li></ul>",
+    "help": "도움말"
   },
   "hours": "시간",
   "icon": "아이콘",
@@ -539,6 +539,7 @@
   "recordondetecthelpaudio": "소리가 감지되면 녹화",
   "recordraw": "원본 녹화",
   "recordrawhelp": "CPU를 절약하지만 파일 크기가 더 크고 오버레이가 없습니다.",
+  "reducefalsepositives": "AI 학습으로 허위 긍정 감소 - 자세히 알아보기",
   "reference": "청구서 참조",
   "reference_help": "모든 송장에 인쇄할 프로젝트 또는 PO 번호.",
   "reload": "새로고침",

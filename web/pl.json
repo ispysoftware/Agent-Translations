@@ -310,8 +310,8 @@
   "groups": "Grupy",
   "hdstreaming": "Przesyłanie strumieniowe 1080P",
   "help": {
-    "help": "Pomoc",
-    "content": "<p>Proszę zapoznać się z następującymi zasobami, aby uzyskać pomoc z Agent DVR:</p><ul><li><a href=\"#\" onclick=\"helpers.goWebsite('docs/agent/')\">Podręcznik użytkownika</a></li><li><a href=\"https://www.reddit.com/r/ispyconnect\" target=\"_blank\">Forum Reddit</a> (dla wsparcia społeczności)</li><li><a href=\"https://www.ispyconnect.com/contact\" target=\"_blank\">Skontaktuj się z nami</a> (dla wsparcia klienta - tylko w języku angielskim).</li></ul>"
+    "content": "<p>Proszę zapoznać się z następującymi zasobami, aby uzyskać pomoc z Agent DVR:</p><ul><li><a href=\"#\" onclick=\"helpers.goWebsite('docs/agent/')\">Podręcznik użytkownika</a></li><li><a href=\"https://www.reddit.com/r/ispyconnect\" target=\"_blank\">Forum Reddit</a> (dla wsparcia społeczności)</li><li><a href=\"https://www.ispyconnect.com/contact\" target=\"_blank\">Skontaktuj się z nami</a> (dla wsparcia klienta - tylko w języku angielskim).</li></ul>",
+    "help": "Pomoc"
   },
   "hours": "Godzin",
   "icon": "Ikona",
@@ -539,6 +539,7 @@
   "recordondetecthelpaudio": "Nagrywaj po wykryciu dźwięku",
   "recordraw": "Zapis nieprzetworzony",
   "recordrawhelp": "Oszczędza procesor, ale większe rozmiary plików i brak nakładek.",
+  "reducefalsepositives": "Zredukuj fałszywe alarmy dzięki uczeniu AI - dowiedz się więcej",
   "reference": "Numer referencyjny faktury",
   "reference_help": "Numer projektu lub numer zamówienia do wydrukowania na każdej fakturze.",
   "reload": "Przeładuj",

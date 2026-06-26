@@ -310,8 +310,8 @@
   "groups": "Grup",
   "hdstreaming": "Akses Jarak Jauh Streaming 1080P",
   "help": {
-    "help": "Bantuan",
-    "content": "<p>Silakan lihat sumber berikut untuk bantuan dengan Agent DVR:</p><ul><li><a href=\"#\" onclick=\"helpers.goWebsite('docs/agent/')\">Panduan Pengguna</a></li><li><a href=\"https://www.reddit.com/r/ispyconnect\" target=\"_blank\">Forum Reddit</a> (untuk dukungan komunitas)</li><li><a href=\"https://www.ispyconnect.com/contact\" target=\"_blank\">Hubungi Kami</a> (untuk dukungan pelanggan - hanya dalam bahasa Inggris).</li></ul>"
+    "content": "<p>Silakan lihat sumber berikut untuk bantuan dengan Agent DVR:</p><ul><li><a href=\"#\" onclick=\"helpers.goWebsite('docs/agent/')\">Panduan Pengguna</a></li><li><a href=\"https://www.reddit.com/r/ispyconnect\" target=\"_blank\">Forum Reddit</a> (untuk dukungan komunitas)</li><li><a href=\"https://www.ispyconnect.com/contact\" target=\"_blank\">Hubungi Kami</a> (untuk dukungan pelanggan - hanya dalam bahasa Inggris).</li></ul>",
+    "help": "Bantuan"
   },
   "hours": "Jam",
   "icon": "Ikon",
@@ -539,6 +539,7 @@
   "recordondetecthelpaudio": "Merekam saat suara terdeteksi",
   "recordraw": "Rekam Mentah",
   "recordrawhelp": "Menyimpan CPU tetapi ukuran file lebih besar dan tidak ada overlay",
+  "reducefalsepositives": "Kurangi positif palsu dengan pembelajaran AI - pelajari lebih lanjut",
   "reference": "Referensi Faktur",
   "reference_help": "Nomor Proyek atau PO untuk dicetak di setiap faktur.",
   "reload": "Muat Ulang",

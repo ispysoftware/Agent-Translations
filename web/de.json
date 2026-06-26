@@ -310,8 +310,8 @@
   "groups": "Gruppen",
   "hdstreaming": "1080P-Streaming",
   "help": {
-    "help": "Hilfe",
-    "content": "<p>Bitte sehen Sie sich die folgenden Ressourcen für Hilfe mit Agent DVR an:</p><ul><li><a href=\"#\" onclick=\"helpers.goWebsite('docs/agent/')\">Benutzerhandbuch</a></li><li><a href=\"https://www.reddit.com/r/ispyconnect\" target=\"_blank\">Reddit-Forum</a> (für Community-Support)</li><li><a href=\"https://www.ispyconnect.com/contact\" target=\"_blank\">Kontaktieren Sie uns</a> (für Kundensupport - nur auf Englisch).</li></ul>"
+    "content": "<p>Bitte sehen Sie sich die folgenden Ressourcen für Hilfe mit Agent DVR an:</p><ul><li><a href=\"#\" onclick=\"helpers.goWebsite('docs/agent/')\">Benutzerhandbuch</a></li><li><a href=\"https://www.reddit.com/r/ispyconnect\" target=\"_blank\">Reddit-Forum</a> (für Community-Support)</li><li><a href=\"https://www.ispyconnect.com/contact\" target=\"_blank\">Kontaktieren Sie uns</a> (für Kundensupport - nur auf Englisch).</li></ul>",
+    "help": "Hilfe"
   },
   "hours": "Stunden",
   "icon": "Symbol",
@@ -539,6 +539,7 @@
   "recordondetecthelpaudio": "Nehmen Sie auf, wenn Ton erkannt wird",
   "recordraw": "Kein Code",
   "recordrawhelp": "Spart CPU, aber größere Dateien und keine Überlagerungen.",
+  "reducefalsepositives": "Falsche Positiven mit KI-Lernen reduzieren - mehr erfahren",
   "reference": "Rechnungsreferenz",
   "reference_help": "Projekt- oder PO-Nummer, die auf jeder Rechnung gedruckt werden soll.",
   "reload": "Neu laden",

@@ -310,8 +310,8 @@
   "groups": "Nhóm",
   "hdstreaming": "Truyền phát từ xa 1080P",
   "help": {
-    "help": "Trợ giúp",
-    "content": "<p>Vui lòng xem các tài nguyên sau để được hỗ trợ với Agent DVR:</p><ul><li><a href=\"#\" onclick=\"helpers.goWebsite('docs/agent/')\">Hướng dẫn sử dụng</a></li><li><a href=\"https://www.reddit.com/r/ispyconnect\" target=\"_blank\">Diễn đàn Reddit</a> (để hỗ trợ cộng đồng)</li><li><a href=\"https://www.ispyconnect.com/contact\" target=\"_blank\">Liên hệ với chúng tôi</a> (để hỗ trợ khách hàng - chỉ tiếng Anh).</li></ul>"
+    "content": "<p>Vui lòng xem các tài nguyên sau để được hỗ trợ với Agent DVR:</p><ul><li><a href=\"#\" onclick=\"helpers.goWebsite('docs/agent/')\">Hướng dẫn sử dụng</a></li><li><a href=\"https://www.reddit.com/r/ispyconnect\" target=\"_blank\">Diễn đàn Reddit</a> (để hỗ trợ cộng đồng)</li><li><a href=\"https://www.ispyconnect.com/contact\" target=\"_blank\">Liên hệ với chúng tôi</a> (để hỗ trợ khách hàng - chỉ tiếng Anh).</li></ul>",
+    "help": "Trợ giúp"
   },
   "hours": "Giờ",
   "icon": "Biểu tượng",
@@ -539,6 +539,7 @@
   "recordondetecthelpaudio": "Ghi âm khi phát hiện âm thanh",
   "recordraw": "Ghi lại Raw",
   "recordrawhelp": "Tiết kiệm CPU nhưng kích thước tệp lớn hơn và không có lớp phủ",
+  "reducefalsepositives": "Giảm thiểu báo động giả với học máy AI - tìm hiểu thêm",
   "reference": "Tham chiếu hóa đơn",
   "reference_help": "Số dự án hoặc số PO để in trên mỗi hóa đơn.",
   "reload": "Nạp lại",

@@ -310,8 +310,8 @@
   "groups": "Grupper",
   "hdstreaming": "1080P strømming fjerntilgang",
   "help": {
-    "help": "Hjelp",
-    "content": "<p>Vennligst se følgende ressurser for hjelp med Agent DVR:</p><ul><li><a href=\"#\" onclick=\"helpers.goWebsite('docs/agent/')\">Brukerhåndbok</a></li><li><a href=\"https://www.reddit.com/r/ispyconnect\" target=\"_blank\">Reddit Forum</a> (for fellesskapsstøtte)</li><li><a href=\"https://www.ispyconnect.com/contact\" target=\"_blank\">Kontakt oss</a> (for kundestøtte - kun engelsk).</li></ul>"
+    "content": "<p>Vennligst se følgende ressurser for hjelp med Agent DVR:</p><ul><li><a href=\"#\" onclick=\"helpers.goWebsite('docs/agent/')\">Brukerhåndbok</a></li><li><a href=\"https://www.reddit.com/r/ispyconnect\" target=\"_blank\">Reddit Forum</a> (for fellesskapsstøtte)</li><li><a href=\"https://www.ispyconnect.com/contact\" target=\"_blank\">Kontakt oss</a> (for kundestøtte - kun engelsk).</li></ul>",
+    "help": "Hjelp"
   },
   "hours": "Timer",
   "icon": "Ikon",
@@ -539,6 +539,7 @@
   "recordondetecthelpaudio": "Ta opp når lyd oppdages",
   "recordraw": "Ta opp råformat",
   "recordrawhelp": "Sparer CPU, men gir større filstørrelser og ingen overlegg",
+  "reducefalsepositives": "Reduser falske positiver med AI-læring - lær mer",
   "reference": "Faktura Referanse",
   "reference_help": "Prosjekt- eller PO-nummer som skal skrives ut på hver faktura.",
   "reload": "Last på nytt",

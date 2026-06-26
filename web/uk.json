@@ -310,8 +310,8 @@
   "groups": "Групи",
   "hdstreaming": "1080P трансляція віддалений доступ",
   "help": {
-    "help": "Довідка",
-    "content": "<p>Будь ласка, ознайомтеся з наступними ресурсами для отримання допомоги з Agent DVR:</p><ul><li><a href=\"#\" onclick=\"helpers.goWebsite('docs/agent/')\">Посібник користувача</a></li><li><a href=\"https://www.reddit.com/r/ispyconnect\" target=\"_blank\">Форум Reddit</a> (для підтримки спільноти)</li><li><a href=\"https://www.ispyconnect.com/contact\" target=\"_blank\">Зв'яжіться з нами</a> (для підтримки клієнтів - тільки англійською).</li></ul>"
+    "content": "<p>Будь ласка, ознайомтеся з наступними ресурсами для отримання допомоги з Agent DVR:</p><ul><li><a href=\"#\" onclick=\"helpers.goWebsite('docs/agent/')\">Посібник користувача</a></li><li><a href=\"https://www.reddit.com/r/ispyconnect\" target=\"_blank\">Форум Reddit</a> (для підтримки спільноти)</li><li><a href=\"https://www.ispyconnect.com/contact\" target=\"_blank\">Зв'яжіться з нами</a> (для підтримки клієнтів - тільки англійською).</li></ul>",
+    "help": "Довідка"
   },
   "hours": "Години",
   "icon": "Іконка",
@@ -539,6 +539,7 @@
   "recordondetecthelpaudio": "Записувати, коли виявлено звук",
   "recordraw": "Запис Raw",
   "recordrawhelp": "Зберігає ЦП, але має більший розмір файлу та відсутність наложень.",
+  "reducefalsepositives": "Зменшіть кількість хибнопозитивних сповіщень за допомогою навчання ШІ - дізнайтеся більше",
   "reference": "Посилання на рахунок-фактуру",
   "reference_help": "Номер проекту або ПН для друку на кожному рахунку.",
   "reload": "Перезавантажити",

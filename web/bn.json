@@ -310,8 +310,8 @@
   "groups": "গোষ্ঠী",
   "hdstreaming": "1080P স্ট্রিমিং",
   "help": {
-    "help": "সাহায্য",
-    "content": "<p>দয়া করে Agent DVR-এর সাহায্যের জন্য নিম্নলিখিত সম্পদগুলি দেখুন:</p><ul><li><a href=\"#\" onclick=\"helpers.goWebsite('docs/agent/')\">ব্যবহারকারীর গাইড</a></li><li><a href=\"https://www.reddit.com/r/ispyconnect\" target=\"_blank\">Reddit ফোরাম</a> (কমিউনিটি সহায়তার জন্য)</li><li><a href=\"https://www.ispyconnect.com/contact\" target=\"_blank\">আমাদের সাথে যোগাযোগ করুন</a> (গ্রাহক সহায়তার জন্য - শুধুমাত্র ইংরেজিতে)।</li></ul>"
+    "content": "<p>দয়া করে Agent DVR-এর সাহায্যের জন্য নিম্নলিখিত সম্পদগুলি দেখুন:</p><ul><li><a href=\"#\" onclick=\"helpers.goWebsite('docs/agent/')\">ব্যবহারকারীর গাইড</a></li><li><a href=\"https://www.reddit.com/r/ispyconnect\" target=\"_blank\">Reddit ফোরাম</a> (কমিউনিটি সহায়তার জন্য)</li><li><a href=\"https://www.ispyconnect.com/contact\" target=\"_blank\">আমাদের সাথে যোগাযোগ করুন</a> (গ্রাহক সহায়তার জন্য - শুধুমাত্র ইংরেজিতে)।</li></ul>",
+    "help": "সাহায্য"
   },
   "hours": "ঘন্টার",
   "icon": "আইকন",
@@ -539,6 +539,7 @@
   "recordondetecthelpaudio": "শব্দ শনাক্ত হলে রেকর্ড করুন",
   "recordraw": "রেকর্ড কাঁচা",
   "recordrawhelp": "সিপিইউ সংরক্ষণ করে কিন্তু বড় ফাইলের আকার এবং কোন ওভারলে নেই।",
+  "reducefalsepositives": "AI শিক্ষণের মাধ্যমে মিথ্যা পজিটিভ কমান - আরও জানুন",
   "reference": "চালান রেফারেন্স",
   "reference_help": "প্রতিটি ইনভয়েসে মুদ্রণের জন্য প্রকল্প বা পিও নম্বর।",
   "reload": "পুনরায় লোড করুন",

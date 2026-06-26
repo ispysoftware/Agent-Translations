@@ -310,8 +310,8 @@
   "groups": "组",
   "hdstreaming": "1080P 远程串流的权限",
   "help": {
-    "help": "帮助",
-    "content": "<p>请查看以下资源以获取有关Agent DVR的帮助：</p><ul><li><a href=\"#\" onclick=\"helpers.goWebsite('docs/agent/')\">用户指南</a></li><li><a href=\"https://www.reddit.com/r/ispyconnect\" target=\"_blank\">Reddit论坛</a>（用于社区支持）</li><li><a href=\"https://www.ispyconnect.com/contact\" target=\"_blank\">联系我们</a>（用于客户支持 - 仅限英语）。</li></ul>"
+    "content": "<p>请查看以下资源以获取有关Agent DVR的帮助：</p><ul><li><a href=\"#\" onclick=\"helpers.goWebsite('docs/agent/')\">用户指南</a></li><li><a href=\"https://www.reddit.com/r/ispyconnect\" target=\"_blank\">Reddit论坛</a>（用于社区支持）</li><li><a href=\"https://www.ispyconnect.com/contact\" target=\"_blank\">联系我们</a>（用于客户支持 - 仅限英语）。</li></ul>",
+    "help": "帮助"
   },
   "hours": "小时",
   "icon": "图标",
@@ -539,6 +539,7 @@
   "recordondetecthelpaudio": "当检测到声音时录像",
   "recordraw": "原始视频流录制",
   "recordrawhelp": "CPU占用小，但是文件体积大，并且遮罩功能不可用",
+  "reducefalsepositives": "通过AI学习减少误报 - 了解更多",
   "reference": "发票参考",
   "reference_help": "每张发票上打印的项目或采购订单号码。",
   "reload": "刷新",
