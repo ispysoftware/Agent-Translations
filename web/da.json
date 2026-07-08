@@ -125,6 +125,7 @@
   "changesubscription2": "Administrer licenser",
   "channel": "Klik på redigeringsikonet for at tilføje enheder",
   "channel_help": "Bruges normalt kun af DVR'er. Standard er 0",
+  "claimedby": "Overtaget af: [USER]",
   "clearall": "Ryd alle",
   "clearlearningconfirm": "Fjern alt, hvad dette kamera har lært fra din alarmfeedback? Undertrykte alarmer vil begynde at give besked igen. Dette kan ikke fortrydes.",
   "click": "klik",

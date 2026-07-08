@@ -125,6 +125,7 @@
   "changesubscription2": "Kelola Lisensi",
   "channel": "Saluran",
   "channel_help": "Biasanya hanya digunakan oleh DVR. Default adalah 0",
+  "claimedby": "Diklaim oleh: [USER]",
   "clearall": "Bersihkan semua",
   "clearlearningconfirm": "Hapus semua yang telah dipelajari kamera ini dari umpan balik peringatan Anda? Peringatan yang dibatasi akan mulai memberikan peringatan lagi. Ini tidak dapat dibatalkan.",
   "click": "klik",

@@ -125,6 +125,7 @@
   "changesubscription2": "管理许可证",
   "channel": "通道",
   "channel_help": "通常仅由 DVR 使用。默认为 0",
+  "claimedby": "已申领：[USER]",
   "clearall": "全部清除",
   "clearlearningconfirm": "删除此摄像头从您的警报反馈中学到的所有内容？被抑制的警报将重新开始触发。此操作无法撤销。",
   "click": "点击",

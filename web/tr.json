@@ -125,6 +125,7 @@
   "changesubscription2": "Lisansları yönet",
   "channel": "Kanal",
   "channel_help": "Genellikle yalnızca DVR'lar tarafından kullanılır. Varsayılan 0'dır",
+  "claimedby": "Sahibi: [USER]",
   "clearall": "Tümünü temizle",
   "clearlearningconfirm": "Bu kameranın alarm geri bildirimlerinizden öğrendiği her şeyi silmek istiyor musunuz? Engellenen alarmlar yeniden uyarı vermeye başlayacaktır. Bu işlem geri alınamaz.",
   "click": "tıklayın",

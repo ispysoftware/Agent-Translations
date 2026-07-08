@@ -125,6 +125,7 @@
   "changesubscription2": "Hallinnoi lisenssejä",
   "channel": "Kanava",
   "channel_help": "Käytetään yleensä vain DVR-laitteissa. Oletus on 0",
+  "claimedby": "Varannut: [USER]",
   "clearall": "Tyhjennä kaikki",
   "clearlearningconfirm": "Poistetaanko kaikki, mitä tämä kamera on oppinut hälytyspalautteestasi? Estetyt hälytykset alkavat ilmoittaa uudelleen. Tätä ei voi peruuttaa.",
   "click": "napsauta",

@@ -125,6 +125,7 @@
   "changesubscription2": "Lizenzen verwalten",
   "channel": "Kanal",
   "channel_help": "Wird normalerweise nur von DVRs verwendet. Standard ist 0",
+  "claimedby": "Beansprucht von: [USER]",
   "clearall": "Alle löschen",
   "clearlearningconfirm": "Möchten Sie alle gelernten Informationen dieser Kamera aus Ihrem Alert-Feedback entfernen? Unterdrückte Alarme werden wieder aktiviert. Dies kann nicht rückgängig gemacht werden.",
   "click": "klicken",

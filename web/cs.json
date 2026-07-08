@@ -125,6 +125,7 @@
   "changesubscription2": "Spravovat licence",
   "channel": "Kanál",
   "channel_help": "Obvykle se používá pouze u DVR. Výchozí hodnota je 0",
+  "claimedby": "Vlastník: [USER]",
   "clearall": "Vymazat vše",
   "clearlearningconfirm": "Odstranit vše, co se tato kamera naučila z vašich zpětných vazeb k upozorněním? Potlačená upozornění budou znovu začínat hlásit. Nelze vrátit zpět.",
   "click": "kliknout",

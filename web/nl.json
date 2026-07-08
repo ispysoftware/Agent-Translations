@@ -125,6 +125,7 @@
   "changesubscription2": "Licenties beheren",
   "channel": "Klik op het bewerkingsicoon om apparaten toe te voegen",
   "channel_help": "Meestal alleen gebruikt door DVR's. Standaard is 0",
+  "claimedby": "Geclaimd door: [USER]",
   "clearall": "Alles wissen",
   "clearlearningconfirm": "Alles wat deze camera heeft geleerd verwijderen uit uw meldingenfeedback? Onderdrukte meldingen zullen weer meldingen geven. Dit kan niet ongedaan worden gemaakt.",
   "click": "klik",

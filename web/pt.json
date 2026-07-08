@@ -125,6 +125,7 @@
   "changesubscription2": "Gerenciar Licenças",
   "channel": "Canal",
   "channel_help": "Geralmente usado apenas por DVRs. O padrão é 0.",
+  "claimedby": "Reivindicado por: [USER]",
   "clearall": "Limpar tudo",
   "clearlearningconfirm": "Remover tudo o que esta câmera aprendeu com seu feedback de alerta? Alertas suprimidos começarão a alertar novamente. Isso não pode ser desfeito.",
   "click": "clique",

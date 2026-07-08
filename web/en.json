@@ -125,6 +125,7 @@
   "changesubscription2": "Manage Licenses",
   "channel": "Channel",
   "channel_help": "Usually only used by DVRs. Default is 0",
+  "claimedby": "Claimed By: [USER]",
   "clearall": "Clear all",
   "clearlearningconfirm": "Remove everything this camera has learned from your alert feedback? Suppressed alerts will start alerting again. This cannot be undone.",
   "click": "click",

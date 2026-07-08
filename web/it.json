@@ -125,6 +125,7 @@
   "changesubscription2": "Gestione licenze",
   "channel": "Canale",
   "channel_help": "Solitamente usato solo dai DVR. Il valore predefinito è 0",
+  "claimedby": "Preso in carico da: [USER]",
   "clearall": "Cancella tutto",
   "clearlearningconfirm": "Rimuovere tutto ciò che questa telecamera ha appreso dai feedback sugli avvisi? Gli avvisi silenziati torneranno a suonare. Questa operazione non può essere annullata.",
   "click": "clicca",

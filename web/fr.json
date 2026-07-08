@@ -125,6 +125,7 @@
   "changesubscription2": "Gérer les licences",
   "channel": "Canal",
   "channel_help": "Habituellement utilisé uniquement par les DVR. La valeur par défaut est 0.",
+  "claimedby": "Réclamé par : [USER]",
   "clearall": "Tout effacer",
   "clearlearningconfirm": "Supprimer tout ce que cette caméra a appris de vos retours d'alerte ? Les alertes supprimées commenceront à alerter à nouveau. Cela ne peut pas être annulé.",
   "click": "Cliquez sur",

@@ -125,6 +125,7 @@
   "changesubscription2": "Zarządzaj licencjami",
   "channel": "Kanał",
   "channel_help": "Zazwyczaj używane tylko przez DVR. Domyślnie: 0",
+  "claimedby": "Zarejestrowane przez: [USER]",
   "clearall": "Wyczyść wszystko",
   "clearlearningconfirm": "Czy usunąć wszystkie dane, których ta kamera nauczyła się na podstawie Twoich opinii o alertach? Wyciszone alerty zaczną ponownie powiadamiać. Nie można cofnąć tej operacji.",
   "click": "kliknij",

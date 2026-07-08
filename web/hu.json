@@ -125,6 +125,7 @@
   "changesubscription2": "Licencifik quảnása",
   "channel": "Csatorna",
   "channel_help": "Általában csak DVR-ek használják. Az alapértelmezett 0",
+  "claimedby": "Igényelte: [USER]",
   "clearall": "Összes törlése",
   "clearlearningconfirm": "Eltünteti mindent, amit ez a kamera megtanult az értesítési visszajelzéseiből? Az elnémított értesítések újra meg fognak jelenni. Ez nem visszavonható.",
   "click": "kattintson",

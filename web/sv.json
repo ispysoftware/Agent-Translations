@@ -125,6 +125,7 @@
   "changesubscription2": "Hantera licenser",
   "channel": "Kanal",
   "channel_help": "Används vanligtvis endast av DVR:er. Standard är 0",
+  "claimedby": "Övertagen av: [USER]",
   "clearall": "Rensa alla",
   "clearlearningconfirm": "Ta bort allt som denna kamera har lärt sig från din återkoppling på larm? Undertryckta larm kommer att börja varna igen. Detta kan inte ångras.",
   "click": "klicka",

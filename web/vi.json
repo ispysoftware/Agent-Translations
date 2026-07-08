@@ -125,6 +125,7 @@
   "changesubscription2": "Quản lý giấy phép",
   "channel": "Kênh",
   "channel_help": "Thường chỉ được sử dụng bởi DVR. Mặc định là 0",
+  "claimedby": "Được xác nhận bởi: [USER]",
   "clearall": "Xóa tất cả",
   "clearlearningconfirm": "Xóa mọi thứ camera này đã học được từ phản hồi cảnh báo của bạn? Các cảnh báo bị chặn sẽ bắt đầu cảnh báo trở lại. Thao tác này không thể hoàn tác.",
   "click": "nhấp",

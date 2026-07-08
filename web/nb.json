@@ -125,6 +125,7 @@
   "changesubscription2": "Administrer lisenser",
   "channel": "Kanal",
   "channel_help": "Brukes vanligvis bare av DVR-er. Standard er 0",
+  "claimedby": "Tatt i bruk av: [USER]",
   "clearall": "Tøm alle",
   "clearlearningconfirm": "Fjerne alt dette kameraet har lært fra din varslingsrespons? Undertrykte varsler vil begynne å varsle igjen. Dette kan ikke angres.",
   "click": "klikk",
