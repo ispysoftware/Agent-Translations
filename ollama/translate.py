@@ -354,7 +354,8 @@ def load_existing_translations(output_file, src_paths):
 def translate_language(lang_code, args):
     english_name, native_name = LANGUAGES.get(lang_code, (lang_code, None))
     model = pick_model(lang_code, args.model)
-    output_file = args.output or f"{lang_code}.json"
+    # Outputs live next to the input file, so `-i ..\web` reads AND writes in ..\web
+    output_file = args.output or os.path.join(os.path.dirname(args.input) or ".", f"{lang_code}.json")
 
     print(f"\n🌍 Translating to {english_name} -> '{output_file}' (model: {model})")
     print(f"📖 Loading '{args.input}'...")
@@ -382,7 +383,35 @@ def translate_language(lang_code, args):
             if isinstance(key_or_idx, str):
                 key_hints[text] = key_or_idx
 
-    if args.resume:
+    forced_texts = set()
+    if args.prune_only or args.keys:
+        # Surgical mode: trust every existing value unconditionally (even
+        # English-identical ones); only do what was explicitly asked.
+        if not os.path.exists(output_file):
+            print(f" -> '{output_file}' does not exist; nothing to update surgically. Skipping.")
+            return
+        src_paths = collect_paths(source_json)
+        with open(output_file, 'r', encoding='utf-8') as f:
+            prev_paths = collect_paths(json.load(f))
+        cache = {orig: prev_paths[p] for p, orig in src_paths.items()
+                 if isinstance(prev_paths.get(p), str)}
+        added = [p for p in src_paths if p not in prev_paths]
+        dropped = [p for p in prev_paths if p not in src_paths]
+        print(f" -> Sync: {len(dropped)} removed key(s) dropped, {len(added)} new key(s) kept in English.")
+        for label, paths in (("dropped", dropped), ("new", added)):
+            if paths:
+                names = ", ".join("/".join(map(str, p)) for p in paths[:20])
+                print(f"    {label}: {names}{' ...' if len(paths) > 20 else ''}")
+        if args.keys:
+            for key in args.keys:
+                path = tuple(key.split('/'))
+                if path not in src_paths:
+                    print(f"   ⚠️ --keys '{key}' not found in source; ignoring.")
+                else:
+                    forced_texts.add(src_paths[path])
+                    cache.pop(src_paths[path], None)  # force retranslation (overrides pins)
+            print(f" -> Retranslating {len(forced_texts)} targeted string(s) only.")
+    elif args.resume:
         src_paths = collect_paths(source_json)
         cache, new_count, removed_count = load_existing_translations(output_file, src_paths)
         if cache:
@@ -391,6 +420,10 @@ def translate_language(lang_code, args):
     else:
         cache = {}
     remaining = [t for t in unique_texts if t not in cache]
+    if args.prune_only:
+        remaining = []          # structure sync only, no LLM calls
+    elif args.keys:
+        remaining = [t for t in remaining if t in forced_texts]
     print(f" -> {len(string_references)} strings, {len(unique_texts)} unique translatable, {len(remaining)} to do.")
 
     def write_output():
@@ -419,26 +452,41 @@ def main():
     parser = argparse.ArgumentParser(description="Translate English JSON tokens via Ollama.")
     parser.add_argument("languages", nargs="+",
                         help="Target language codes (e.g. fr de zh-cn) or 'all' for every supported language")
-    parser.add_argument("-i", "--input", default=DEFAULT_INPUT)
+    parser.add_argument("-i", "--input", default=DEFAULT_INPUT,
+                        help="Source en.json, or a folder containing one (e.g. ..\\web). "
+                             "Translations are written to the same folder.")
     parser.add_argument("-o", "--output", default=None, help="Output file (single language only; default <code>.json)")
     parser.add_argument("-m", "--model", default=None,
                         help="Force one model for all languages (default: auto-pick per language)")
     parser.add_argument("-c", "--chunk-size", type=int, default=DEFAULT_CHUNK_SIZE)
     parser.add_argument("--no-resume", dest="resume", action="store_false",
                         help="Regenerate the whole file from scratch instead of updating the existing one")
+    parser.add_argument("--prune-only", action="store_true",
+                        help="No translation: sync each existing file's structure with the source "
+                             "(removed keys are dropped, new keys are added in English)")
+    parser.add_argument("-k", "--keys", nargs="+", default=None, metavar="KEY",
+                        help="Retranslate ONLY these keys (nested paths use '/', e.g. tt/openplans). "
+                             "Every other value is kept exactly as-is. Also syncs structure like --prune-only.")
     args = parser.parse_args()
 
     if args.languages == ["all"]:
         args.languages = ALL_LANGUAGES
     if args.output and len(args.languages) > 1:
         parser.error("--output can only be used with a single language")
+    if os.path.isdir(args.input):
+        args.input = os.path.join(args.input, DEFAULT_INPUT)
     if not os.path.exists(args.input):
         print(f"❌ Error: Input file '{args.input}' not found.")
         sys.exit(1)
 
-    # Ensure every model we'll need is installed (deduped)
-    for model in sorted({pick_model(lc, args.model) for lc in args.languages}):
-        ensure_model_installed(model)
+    # Group languages by model so each multi-GB model loads into VRAM only once
+    # (stable sort: alphabetical order is preserved within each model group)
+    args.languages.sort(key=lambda lc: pick_model(lc, args.model))
+
+    # Ensure every model we'll need is installed (deduped); prune-only makes no LLM calls
+    if not args.prune_only:
+        for model in sorted({pick_model(lc, args.model) for lc in args.languages}):
+            ensure_model_installed(model)
 
     for lang_code in args.languages:
         translate_language(lang_code, args)
