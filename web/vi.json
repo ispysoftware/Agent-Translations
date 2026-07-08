@@ -348,6 +348,7 @@
   "keymappings": "Ánh xạ phím",
   "labels": "Nhãn",
   "language": "Ngôn ngữ",
+  "language_help": "Cải thiện bản dịch trên GitHub",
   "large": "Lớn",
   "latlng": "Vị trí GPS",
   "latlng_help": "Thông tin này được sử dụng để tính toán thời gian bình minh và hoàng hôn trong trình lập lịch",

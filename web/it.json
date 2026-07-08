@@ -348,6 +348,7 @@
   "keymappings": "Mappatura tasti",
   "labels": "Etichette",
   "language": "Lingua",
+  "language_help": "Migliora le traduzioni su GitHub",
   "large": "Grande",
   "latlng": "Posizione GPS",
   "latlng_help": "Utilizzata per calcolare gli orari di alba e tramonto nella pianificazione",

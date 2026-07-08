@@ -348,6 +348,7 @@
   "keymappings": "Asignación de teclas",
   "labels": "Rótulos",
   "language": "Idioma",
+  "language_help": "Mejorar las traducciones en GitHub",
   "large": "Grande",
   "latlng": "Posición GPS",
   "latlng_help": "Esto se utiliza para calcular las horas de salida y puesta del sol en el programador",

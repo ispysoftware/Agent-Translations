@@ -348,6 +348,7 @@
   "keymappings": "Mappings de touches",
   "labels": "Étiquettes",
   "language": "Langue",
+  "language_help": "Améliorer les traductions sur GitHub",
   "large": "Grand",
   "latlng": "Localisation GPS",
   "latlng_help": "Ceci est utilisé pour calculer les heures de lever et de coucher du soleil dans le planificateur",

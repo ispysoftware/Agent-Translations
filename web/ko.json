@@ -348,6 +348,7 @@
   "keymappings": "키 매핑",
   "labels": "레이블",
   "language": "언어",
+  "language_help": "GitHub 에서 번역 개선하기",
   "large": "대형",
   "latlng": "GPS 위치",
   "latlng_help": "이 정보는 스케줄러에서 일출 및 일몰 시간을 계산하는 데 사용됩니다.",

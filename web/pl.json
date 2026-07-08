@@ -348,6 +348,7 @@
   "keymappings": "Mapowanie klawiszy",
   "labels": "Etykiety",
   "language": "Język",
+  "language_help": "Popraw tłumaczenia na GitHub",
   "large": "Duży",
   "latlng": "Pozycja GPS",
   "latlng_help": "Służy do obliczania czasu wschodu i zachodu słońca w harmonogramie",

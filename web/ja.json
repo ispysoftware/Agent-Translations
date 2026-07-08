@@ -348,6 +348,7 @@
   "keymappings": "キー割り当ての変更",
   "labels": "ラベル",
   "language": "言語",
+  "language_help": "GitHub で翻訳を改善する",
   "large": "大サイズ",
   "latlng": "GPS 位置情報",
   "latlng_help": "スケジューラーで日の出と日没の時刻を計算するために使用します。",

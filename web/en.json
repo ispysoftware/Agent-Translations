@@ -348,6 +348,7 @@
   "keymappings": "Key Mappings",
   "labels": "Labels",
   "language": "Language",
+  "language_help": "Improve translations on GitHub",
   "large": "Large",
   "latlng": "GPS Position",
   "latlng_help": "This is used to calculate sunrise and sunset times in the scheduler",

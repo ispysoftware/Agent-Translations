@@ -348,6 +348,7 @@
   "keymappings": "Tangentordsmappning",
   "labels": "Etiketter",
   "language": "Språk",
+  "language_help": "Förbättra översättningar på GitHub",
   "large": "Stor",
   "latlng": "GPS-position",
   "latlng_help": "Detta används för att beräkna soluppgångs- och solnedgångstider i schemaläggaren",

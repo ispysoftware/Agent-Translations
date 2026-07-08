@@ -348,6 +348,7 @@
   "keymappings": "Tastaturoppsett",
   "labels": "Etiketter",
   "language": "Språk",
+  "language_help": "Forbedre oversettelser på GitHub",
   "large": "Stor",
   "latlng": "GPS-posisjon",
   "latlng_help": "Dette brukes til å beregne soloppgangs- og solnedgangstider i tidsplanleggeren",

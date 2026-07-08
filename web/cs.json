@@ -348,6 +348,7 @@
   "keymappings": "Mapování kláves",
   "labels": "Popisky",
   "language": "Jazyk",
+  "language_help": "Zlepšete překlady na GitHubu",
   "large": "Velké",
   "latlng": "GPS poloha",
   "latlng_help": "Slouží k výpočtu času východu a západu slunce v plánovačem",

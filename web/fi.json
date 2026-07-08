@@ -348,6 +348,7 @@
   "keymappings": "Näppäinkartoitukset",
   "labels": "Etiketit",
   "language": "Kieli",
+  "language_help": "Paranna käännöksiä GitHubissa",
   "large": "Suuri",
   "latlng": "GPS-sijainti",
   "latlng_help": "Tätä käytetään laskemaan auringonnousun ja -laskun ajat ajastimessa",

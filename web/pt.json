@@ -348,6 +348,7 @@
   "keymappings": "Mapeamento de Teclas",
   "labels": "Rótulos",
   "language": "Idioma",
+  "language_help": "Melhore as traduções no GitHub",
   "large": "Grande",
   "latlng": "Posição GPS",
   "latlng_help": "Isso é usado para calcular os horários do nascer e do pôr do sol no agendador",

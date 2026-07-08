@@ -348,6 +348,7 @@
   "keymappings": "Tastenbelegung",
   "labels": "Beschriftungen",
   "language": "Sprache",
+  "language_help": "Übersetzungen auf GitHub verbessern",
   "large": "Groß",
   "latlng": "GPS-Position",
   "latlng_help": "Dies wird verwendet, um Sonnenaufgangs- und Sonnenuntergangszeiten im Zeitplan zu berechnen",

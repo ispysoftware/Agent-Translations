@@ -348,6 +348,7 @@
   "keymappings": "تعيين المفاتيح",
   "labels": "العلامات",
   "language": "اللغة",
+  "language_help": "تحسين الترجمات على GitHub",
   "large": "كبير",
   "latlng": "موقع GPS",
   "latlng_help": "يُستخدم هذا لحساب أوقات شروق وغروب الشمس في المجدول",

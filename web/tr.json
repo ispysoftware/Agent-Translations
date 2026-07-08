@@ -348,6 +348,7 @@
   "keymappings": "Tuş atamaları",
   "labels": "Etiketler",
   "language": "Dil",
+  "language_help": "Çevirileri GitHub üzerinden iyileştirin",
   "large": "Büyük",
   "latlng": "GPS konumu",
   "latlng_help": "Bu, zamanlayıcıdaki gün doğumu ve gün batımı saatlerini hesaplamak için kullanılır",

@@ -348,6 +348,7 @@
   "keymappings": "按鍵映射",
   "labels": "標籤",
   "language": "語言",
+  "language_help": "在 GitHub 上改善翻譯",
   "large": "大尺寸",
   "latlng": "GPS 座標",
   "latlng_help": "此功能用於排程器計算日出與日落時間",

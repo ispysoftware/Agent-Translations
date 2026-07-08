@@ -348,6 +348,7 @@
   "keymappings": "Billentyűk beállítása",
   "labels": "Címkék",
   "language": "Nyelv",
+  "language_help": "Fordítások javítása a GitHubon",
   "large": "Nagy",
   "latlng": "GPS pozíció",
   "latlng_help": "Ez a napfelkelte és naplemente időpontjának kiszámítására szolgál az ütemezőben",

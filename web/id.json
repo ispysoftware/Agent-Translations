@@ -348,6 +348,7 @@
   "keymappings": "Pemetaan Tombol",
   "labels": "Label",
   "language": "Bahasa",
+  "language_help": "Tingkatkan terjemahan di GitHub",
   "large": "Besar",
   "latlng": "Posisi GPS",
   "latlng_help": "Ini digunakan untuk menghitung waktu matahari terbit dan matahari terbenam dalam penjadwal",

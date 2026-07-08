@@ -348,6 +348,7 @@
   "keymappings": "Toetsenbordinstellingen",
   "labels": "Labels",
   "language": "Taal",
+  "language_help": "Verbeter vertalingen op GitHub",
   "large": "Groot",
   "latlng": "GPS-positie",
   "latlng_help": "Dit wordt gebruikt om zonsopkomst- en zonsondergangtijden in de planner te berekenen",
