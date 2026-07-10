@@ -1409,6 +1409,8 @@
     "json.height": "উচ্চতা",
     "json.heightlimits": "উচ্চতার সীমা",
     "json.heightlimits.help": "শনাক্তকৃত বস্তুর ঊর্ধ্ব ও নিম্ন সীমা",
+    "json.hidpi": "উচ্চ DPI",
+    "json.hidpi.help": "ভিডিও রেন্ডার করতে উচ্চ DPI ব্যবহার করুন (অনেক CPU ব্যবহার করতে পারে)",
     "json.high": "উচ্চ",
     "json.highperfresize": "হাই পারফরম্যান্স রিসাইজিং",
     "json.highperfresize.help": "ইমেজ রিসাইজিং পারফরম্যান্স (CPU) সর্বোচ্চ করে কিন্তু প্লেব্যাকের সময় অমসৃণ প্রান্ত তৈরি করতে পারে",

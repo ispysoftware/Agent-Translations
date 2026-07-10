@@ -1409,6 +1409,8 @@
     "json.height": "Hoogte",
     "json.heightlimits": "Hoogtelimieten",
     "json.heightlimits.help": "Bovenste en onderste limieten voor gedetecteerde objecten",
+    "json.hidpi": "Hoge DPI",
+    "json.hidpi.help": "Gebruik hoge DPI om video weer te geven (kan veel CPU gebruiken)",
     "json.high": "Hoog",
     "json.highperfresize": "Hoge-prestaties resizing",
     "json.highperfresize.help": "Maximaliseert de prestaties van het vergroten van afbeeldingen (CPU), maar kan resulteren in kartelige randen tijdens weergave",

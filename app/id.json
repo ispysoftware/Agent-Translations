@@ -1409,6 +1409,8 @@
     "json.height": "Tinggi",
     "json.heightlimits": "Batas tinggi",
     "json.heightlimits.help": "Batas atas dan bawah untuk objek yang terdeteksi",
+    "json.hidpi": "DPI Tinggi",
+    "json.hidpi.help": "Gunakan DPI tinggi untuk merender video (dapat menggunakan banyak CPU)",
     "json.high": "Tinggi",
     "json.highperfresize": "Pengubahan ukuran performa tinggi",
     "json.highperfresize.help": "Memaksimalkan performa pengubahan ukuran gambar (CPU) tetapi dapat mengakibatkan tepi bergerigi saat pemutaran",

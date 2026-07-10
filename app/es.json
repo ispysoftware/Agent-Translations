@@ -1409,6 +1409,8 @@
     "json.height": "Altura",
     "json.heightlimits": "Límites de altura",
     "json.heightlimits.help": "Límites superior e inferior para objetos detectados",
+    "json.hidpi": "Alta DPI",
+    "json.hidpi.help": "Utiliza alta DPI para renderizar video (puede usar mucha CPU)",
     "json.high": "Alto",
     "json.highperfresize": "Redimensionamiento de alto rendimiento",
     "json.highperfresize.help": "Maximiza el rendimiento del redimensionado de imagen (CPU) pero puede dar lugar a bordes dentados en la reproducción",

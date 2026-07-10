@@ -1409,6 +1409,8 @@
     "json.height": "高度",
     "json.heightlimits": "高度限制",
     "json.heightlimits.help": "偵測物件的上限與下限",
+    "json.hidpi": "高DPI",
+    "json.hidpi.help": "使用高 DPI 來渲染視頻（可能會使用大量 CPU）",
     "json.high": "高",
     "json.highperfresize": "高效能縮放",
     "json.highperfresize.help": "最大化影像縮放效能（CPU），但可能導致播放時邊緣鋸齒化",

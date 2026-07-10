@@ -1409,6 +1409,8 @@
     "json.height": "Højde",
     "json.heightlimits": "Højdelimitter",
     "json.heightlimits.help": "Øvre og nedre grænser for detekterede objekter",
+    "json.hidpi": "Høj DPI",
+    "json.hidpi.help": "Brug høj DPI til at gengive video (kan bruge meget CPU)",
     "json.high": "Høj",
     "json.highperfresize": "Højtydende skalering",
     "json.highperfresize.help": "Maksimerer ydeevnen ved billedskalering (CPU), men kan resultere i takkede kanter under afspilning",

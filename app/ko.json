@@ -1409,6 +1409,8 @@
     "json.height": "높이",
     "json.heightlimits": "높이 제한",
     "json.heightlimits.help": "감지된 객체의 상한 및 하한 높이",
+    "json.hidpi": "고해상도 DPI",
+    "json.hidpi.help": "비디오 렌더링을 위해 높은 DPI 사용 (CPU를 많이 사용할 수 있음)",
     "json.high": "고",
     "json.highperfresize": "고성능 리사이징",
     "json.highperfresize.help": "이미지 크기 조정 성능 (CPU) 을 최대화하지만 재생 시 계단 현상이 발생할 수 있습니다",

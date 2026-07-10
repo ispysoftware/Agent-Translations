@@ -1409,6 +1409,8 @@
     "json.height": "Výška",
     "json.heightlimits": "Limity výšky",
     "json.heightlimits.help": "Horní a dolní limity pro detekované objekty",
+    "json.hidpi": "Vysoké DPI",
+    "json.hidpi.help": "Použijte vysoké DPI pro vykreslení videa (může využívat hodně CPU)",
     "json.high": "Vysoká",
     "json.highperfresize": "Vysoce výkonné změnování velikosti",
     "json.highperfresize.help": "Maximalizuje výkon změnování velikosti obrazu (CPU), ale může způsobit zubaté okraje při přehrávání",

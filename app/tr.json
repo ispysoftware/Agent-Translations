@@ -1409,6 +1409,8 @@
     "json.height": "Yükseklik",
     "json.heightlimits": "Yükseklik Sınırları",
     "json.heightlimits.help": "Algılanan nesneler için üst ve alt sınırlar",
+    "json.hidpi": "Yüksek DPI",
+    "json.hidpi.help": "Videoyu işlemek için yüksek DPI kullanın (çok fazla CPU kullanabilir)",
     "json.high": "Yüksek",
     "json.highperfresize": "Yüksek Performanslı Yeniden Boyutlandırma",
     "json.highperfresize.help": "Görüntü yeniden boyutlandırma performansını maksimize eder (CPU) ancak oynatmada tırtıklı kenarlara neden olabilir",

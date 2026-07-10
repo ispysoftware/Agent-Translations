@@ -1409,6 +1409,8 @@
     "json.height": "Chiều cao",
     "json.heightlimits": "Giới hạn chiều cao",
     "json.heightlimits.help": "Giới hạn trên và dưới cho các đối tượng được phát hiện",
+    "json.hidpi": "Độ phân giải cao DPI",
+    "json.hidpi.help": "Sử dụng DPI cao để hiển thị video (có thể sử dụng nhiều CPU)",
     "json.high": "Cao",
     "json.highperfresize": "Thay đổi kích thước hiệu suất cao",
     "json.highperfresize.help": "Tối đa hóa hiệu suất thay đổi kích thước hình ảnh (CPU) nhưng có thể dẫn đến các cạnh bị răng cưa khi xem lại",

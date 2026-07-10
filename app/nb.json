@@ -1409,6 +1409,8 @@
     "json.height": "Høyde",
     "json.heightlimits": "Høydegrenser",
     "json.heightlimits.help": "Øvre og nedre grenser for detekterte objekter",
+    "json.hidpi": "Høy DPI",
+    "json.hidpi.help": "Bruk høy DPI for å gjengi video (kan bruke mye CPU)",
     "json.high": "Høy",
     "json.highperfresize": "Ytelsesoptimalisert skalering",
     "json.highperfresize.help": "Maksimerer ytelsen for bildeoppskalering (CPU), men kan resultere i ujevne kanter under avspilling",

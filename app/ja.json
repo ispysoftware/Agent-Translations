@@ -1409,6 +1409,8 @@
     "json.height": "高さ",
     "json.heightlimits": "高さ制限",
     "json.heightlimits.help": "検出対象の高さの上限と下限",
+    "json.hidpi": "高DPI",
+    "json.hidpi.help": "高DPIを使用してビデオをレンダリングします（CPUを多く使用する可能性があります）",
     "json.high": "高",
     "json.highperfresize": "高性能リサイズ",
     "json.highperfresize.help": "画像のリサイズパフォーマンス（CPU）を最大化しますが、再生時にギザギザしたエッジが発生する可能性があります",

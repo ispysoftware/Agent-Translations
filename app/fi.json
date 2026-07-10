@@ -1409,6 +1409,8 @@
     "json.height": "Korkeus",
     "json.heightlimits": "Korkeusrajat",
     "json.heightlimits.help": "Ylä- ja alarajat havaituille kohteille",
+    "json.hidpi": "Korkea DPI",
+    "json.hidpi.help": "Käytä korkeaa DPI:tä videon renderöimiseen (voi käyttää paljon CPU:ta)",
     "json.high": "Korkea",
     "json.highperfresize": "Suorituskykyinen uudellekokoonpano",
     "json.highperfresize.help": "Maksimoi kuvan uudellekokoonpanon suorituskyvyn (CPU), mutta voi aiheuttaa epätasaisia reunoja toistossa",

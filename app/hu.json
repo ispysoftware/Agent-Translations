@@ -1409,6 +1409,8 @@
     "json.height": "Magasság",
     "json.heightlimits": "Magassági határértékek",
     "json.heightlimits.help": "Felső és alsó határértékek a detektált objektumokhoz",
+    "json.hidpi": "Magas DPI",
+    "json.hidpi.help": "Használjon magas DPI-t a videó rendereléséhez (sok CPU-t használhat)",
     "json.high": "Magas",
     "json.highperfresize": "Nagy teljesítményű átméretezés",
     "json.highperfresize.help": "Maximizálja a képátméretezés teljesítményét (CPU), de a lejátszás során fogásos éleket eredményezhet",
