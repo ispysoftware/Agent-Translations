@@ -88,6 +88,8 @@
   "autohide_help": "A lejátszási aktivitási grafikon automatikus elrejtése",
   "autohideplayback": "Lejátszási vezérlők elrejtése",
   "autohideplayback_help": "A lejátszási vezérlők automatikus elrejtése",
+  "automobilelayout": "Automatikus mobil elrendezés",
+  "automobilelayout_help": "Nézetek megjelenítése egyszerű kamerarácsként mobileszközökön",
   "automute": "Automatikus némítás",
   "automutehelp": "Hang lecsendesítése a lapok váltásakor",
   "autoplayaudio": "Audio automatikus lejátszása",
@@ -309,8 +311,12 @@
   "groups": "Csoportok",
   "hdstreaming": "1080P streaming távoli hozzáférés",
   "help": {
-    "content": "<p>Kérjük, tekintsen az alábbi forrásokra az Agent DVR használatával kapcsolatos segítségért:</p><ul><li><a href=\"#\" onclick=\"helpers.goWebsite('docs/agent/')\">Felhasználói útmutató</a></li><li><a href=\"https://www.reddit.com/r/ispyconnect\" target=\"_blank\">Reddit fórum</a> (közösségi támogatáshoz)</li><li><a href=\"https://www.ispyconnect.com/contact\" target=\"_blank\">Kapcsolatfelvétel</a> (ügyfélszolgálat - csak angol nyelven).</li></ul>",
-    "help": "Segítség"
+    "community": "Közösségi támogatás más felhasználóktól.",
+    "customer": "Ügyfélszolgálat (csak angolul).",
+    "help": "Segítség",
+    "intro": "Kérjük, nézze meg az alábbi forrásokat az Agent DVR-hez kapcsolódó segítségért:",
+    "setup": "Beállítás, funkciók és hibaelhárítás",
+    "userguide": "Felhasználói útmutató"
   },
   "hours": "Óra",
   "icon": "Ikon",
@@ -380,6 +386,8 @@
   "logs_help": "A HTML naplók a helyi szerveren is elérhetők: /logs.html",
   "lookingforconnections": "Csatlakozások keresése",
   "lostconnection": "Szakadt kapcsolat",
+  "lowlatency": "Alacsony késleltetésű streaming",
+  "lowlatency_help": "Mutassa a valós idejű médiát minimális késleltetéssel. Kapcsolja ki, ha a távoli hang vagy videó akadozik.",
   "lpr": "LPR",
   "maindisplay": "Fő megjelenítés",
   "mainmenu": "Fő menü",

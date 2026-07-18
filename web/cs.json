@@ -88,6 +88,8 @@
   "autohide_help": "Automaticky skrýt graf aktivity přehrávání",
   "autohideplayback": "Skrýt ovládací prvky přehrávání",
   "autohideplayback_help": "Automaticky skrýt ovládací prvky přehrávání",
+  "automobilelayout": "Automatické mobilní rozložení",
+  "automobilelayout_help": "Zobrazit pohledy jako jednoduchou mřížku kamer na mobilních zařízeních",
   "automute": "Automatické utišení",
   "automutehelp": "Utišit zvuk při přepínání karet",
   "autoplayaudio": "Automatické přehrávání zvuku",
@@ -309,8 +311,12 @@
   "groups": "Skupiny",
   "hdstreaming": "Vzdálený přístup se streamováním 1080p",
   "help": {
-    "content": "<p>Pro pomoc s Agent DVR navštivte následující zdroje:</p><ul><li><a href=\"#\" onclick=\"helpers.goWebsite('docs/agent/')\">Uživatelská příručka</a></li><li><a href=\"https://www.reddit.com/r/ispyconnect\" target=\"_blank\">Reddit fórum</a> (pro komunitní podporu)</li><li><a href=\"https://www.ispyconnect.com/contact\" target=\"_blank\">Kontaktujte nás</a> (pro zákaznickou podporu - pouze v angličtině).</li></ul>",
-    "help": "Nápověda"
+    "community": "Podpora komunity od ostatních uživatelů.",
+    "customer": "Zákaznická podpora (pouze anglicky).",
+    "help": "Nápověda",
+    "intro": "Prosím, podívejte se na následující zdroje pro pomoc s Agent DVR:",
+    "setup": "Nastavení, funkce a odstraňování problémů",
+    "userguide": "Uživatelská příručka"
   },
   "hours": "Hodiny",
   "icon": "Ikona",
@@ -380,6 +386,8 @@
   "logs_help": "HTML protokoly jsou k dispozici také na místním serveru na adrese /logs.html",
   "lookingforconnections": "Hledání připojení",
   "lostconnection": "Ztraceno připojení",
+  "lowlatency": "Nízká latence streamování",
+  "lowlatency_help": "Zobrazit živá média s minimálním zpožděním. Vypněte, pokud vzdálený zvuk nebo video trhá.",
   "lpr": "LPR",
   "maindisplay": "Hlavní obraz",
   "mainmenu": "Hlavní menu",

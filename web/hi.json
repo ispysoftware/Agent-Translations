@@ -88,6 +88,8 @@
   "autohide_help": "प्लेबैक गतिविधि ग्राफ को स्वचालित रूप से छिपाएं",
   "autohideplayback": "प्लेबैक कंट्रोल छिपाएं",
   "autohideplayback_help": "प्लेबैक कंट्रोल को स्वचालित रूप से छिपाएं",
+  "automobilelayout": "स्वचालित मोबाइल लेआउट",
+  "automobilelayout_help": "मोबाइल उपकरणों पर व्यू को सरल कैमरा ग्रिड के रूप में दिखाएं",
   "automute": "ऑटो म्यूट",
   "automutehelp": "टैब बदलते समय ऑडियो म्यूट करें",
   "autoplayaudio": "ऑटोप्ले ऑडियो",
@@ -309,8 +311,12 @@
   "groups": "समूह",
   "hdstreaming": "1080पी स्ट्रीमिंग रिमोट एक्सेस",
   "help": {
-    "content": "<p>Agent DVR में सहायता के लिए कृपया निम्नलिखित संसाधनों को देखें:</p><ul><li><a href=\"#\" onclick=\"helpers.goWebsite('docs/agent/')\">यूजर गाइड</a></li><li><a href=\"https://www.reddit.com/r/ispyconnect\" target=\"_blank\">Reddit फ़ोरम</a> (सामुदायिक सहायता के लिए)</li><li><a href=\"https://www.ispyconnect.com/contact\" target=\"_blank\">हमसे संपर्क करें</a> (ग्राहक सहायता के लिए - केवल अंग्रेजी)।</li></ul>",
-    "help": "सहायता"
+    "community": "अन्य उपयोगकर्ताओं से सामुदायिक समर्थन।",
+    "customer": "ग्राहक सहायता (केवल अंग्रेजी)।",
+    "help": "सहायता",
+    "intro": "कृपया Agent DVR के लिए सहायता के लिए निम्नलिखित संसाधनों को देखें:",
+    "setup": "सेटअप, विशेषताएँ और समस्या निवारण",
+    "userguide": "उपयोगकर्ता मार्गदर्शिका"
   },
   "hours": "घंटे",
   "icon": "आइकन",
@@ -380,6 +386,8 @@
   "logs_help": "HTML लॉग स्थानीय सर्वर पर /logs.html पर भी उपलब्ध हैं",
   "lookingforconnections": "कनेक्शन खोजे जा रहे हैं",
   "lostconnection": "कनेक्शन टूट गया",
+  "lowlatency": "कम विलंबता स्ट्रीमिंग",
+  "lowlatency_help": "न्यूनतम विलंब के साथ लाइव मीडिया दिखाएँ। यदि दूरस्थ ऑडियो या वीडियो में रुकावट आती है तो बंद करें।",
   "lpr": "LPR",
   "maindisplay": "मुख्य डिस्प्ले",
   "mainmenu": "मुख्य मेनू",

@@ -88,6 +88,8 @@
   "autohide_help": "Sembunyikan grafik aktivitas pemutaran secara otomatis",
   "autohideplayback": "Sembunyikan kontrol pemutaran",
   "autohideplayback_help": "Sembunyikan kontrol pemutaran secara otomatis",
+  "automobilelayout": "Tata letak seluler otomatis",
+  "automobilelayout_help": "Tampilkan tampilan sebagai kisi kamera sederhana di perangkat seluler",
   "automute": "Bisukan otomatis",
   "automutehelp": "Bisukan audio saat berpindah tab",
   "autoplayaudio": "Putar audio otomatis",
@@ -309,8 +311,12 @@
   "groups": "Grup",
   "hdstreaming": "Akses Jarak Jauh Streaming 1080P",
   "help": {
-    "content": "<p>Silakan lihat sumber daya berikut untuk bantuan dengan Agent DVR:</p><ul><li><a href=\"#\" onclick=\"helpers.goWebsite('docs/agent/')\">Panduan Pengguna</a></li><li><a href=\"https://www.reddit.com/r/ispyconnect\" target=\"_blank\">Forum Reddit</a> (untuk dukungan komunitas)</li><li><a href=\"https://www.ispyconnect.com/contact\" target=\"_blank\">Hubungi Kami</a> (untuk dukungan pelanggan - hanya bahasa Inggris).</li></ul>",
-    "help": "Bantuan"
+    "community": "Dukungan komunitas dari pengguna lain.",
+    "customer": "Dukungan pelanggan (hanya dalam bahasa Inggris).",
+    "help": "Bantuan",
+    "intro": "Silakan lihat sumber berikut untuk bantuan dengan Agent DVR:",
+    "setup": "Pengaturan, fitur, dan pemecahan masalah",
+    "userguide": "Panduan Pengguna"
   },
   "hours": "Jam",
   "icon": "Ikon",
@@ -380,6 +386,8 @@
   "logs_help": "Log HTML juga tersedia di server lokal pada /logs.html",
   "lookingforconnections": "Mencari koneksi",
   "lostconnection": "Koneksi Terputus",
+  "lowlatency": "Streaming Latensi Rendah",
+  "lowlatency_help": "Tampilkan media langsung dengan minimal keterlambatan. Matikan jika audio atau video jarak jauh tersendat.",
   "lpr": "LPR",
   "maindisplay": "Tampilan utama",
   "mainmenu": "Menu utama",

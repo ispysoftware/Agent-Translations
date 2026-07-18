@@ -88,6 +88,8 @@
   "autohide_help": "Automatycznie ukrywaj wykres aktywności odtwarzania",
   "autohideplayback": "Ukryj sterowanie odtwarzaniem",
   "autohideplayback_help": "Automatycznie ukrywaj sterowanie odtwarzaniem",
+  "automobilelayout": "Automatyczny układ mobilny",
+  "automobilelayout_help": "Pokazuj widoki jako prostą siatkę kamer na urządzeniach mobilnych",
   "automute": "Auto wyciszenie",
   "automutehelp": "Wycisz dźwięk podczas przełączania kart",
   "autoplayaudio": "Autoodtwarzanie dźwięku",
@@ -309,8 +311,12 @@
   "groups": "Grupy",
   "hdstreaming": "Zdalny dostęp ze strumieniowaniem 1080P",
   "help": {
-    "content": "<p>Aby uzyskać pomoc dotyczącą Agent DVR, zapoznaj się z poniższymi zasobami:</p><ul><li><a href=\"#\" onclick=\"helpers.goWebsite('docs/agent/')\">Przewodnik użytkownika</a></li><li><a href=\"https://www.reddit.com/r/ispyconnect\" target=\"_blank\">Forum Reddit</a> (w celu uzyskania wsparcia społeczności)</li><li><a href=\"https://www.ispyconnect.com/contact\" target=\"_blank\">Skontaktuj się z nami</a> (w celu uzyskania wsparcia klienta - tylko w języku angielskim).</li</ul>",
-    "help": "Pomoc"
+    "community": "Wsparcie społeczności od innych użytkowników.",
+    "customer": "Wsparcie klienta (tylko w języku angielskim).",
+    "help": "Pomoc",
+    "intro": "Proszę zapoznać się z następującymi zasobami, aby uzyskać pomoc dotyczącą Agent DVR:",
+    "setup": "Konfiguracja, funkcje i rozwiązywanie problemów",
+    "userguide": "Podręcznik użytkownika"
   },
   "hours": "Godziny",
   "icon": "Ikona",
@@ -380,6 +386,8 @@
   "logs_help": "Dzienniki HTML są również dostępne na lokalnym serwerze pod adresem /logs.html",
   "lookingforconnections": "Szukanie połączeń",
   "lostconnection": "Utracono połączenie",
+  "lowlatency": "Niskolatencyjne przesyłanie strumieniowe",
+  "lowlatency_help": "Pokaż media na żywo z minimalnym opóźnieniem. Wyłącz, jeśli zdalny dźwięk lub wideo się zacinają.",
   "lpr": "LPR",
   "maindisplay": "Ekran główny",
   "mainmenu": "Menu główne",

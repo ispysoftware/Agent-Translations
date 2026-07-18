@@ -88,6 +88,8 @@
   "autohide_help": "Piilota toistograafi automaattisesti",
   "autohideplayback": "Piilota toistopainikkeet",
   "autohideplayback_help": "Piilota toistopainikkeet automaattisesti",
+  "automobilelayout": "Automaattinen mobiiliasettelu",
+  "automobilelayout_help": "Näytä näkymät yksinkertaisena kameraruudukkona mobiililaitteilla",
   "automute": "Automaattinen mykistys",
   "automutehelp": "Mykistä ääni välilehtiä vaihdettaessa",
   "autoplayaudio": "Toista ääni automaattisesti",
@@ -309,8 +311,12 @@
   "groups": "Ryhmät",
   "hdstreaming": "1080p-suoratoisto",
   "help": {
-    "content": "<p>Katso seuraavat resurssit saadaksesi apua Agent DVR:n kanssa:</p><ul><li><a href=\"#\" onclick=\"helpers.goWebsite('docs/agent/')\">Käyttöopas</a></li><li><a href=\"https://www.reddit.com/r/ispyconnect\" target=\"_blank\">Reddit-foorumi</a> (yhteisön tukea varten)</li><li><a href=\"https://www.ispyconnect.com/contact\" target=\"_blank\">Ota yhteyttä</a> (asiakastukea varten - vain englanniksi).</li></ul>",
-    "help": "Ohje"
+    "community": "Yhteisön tuki muilta käyttäjiltä.",
+    "customer": "Asiakastuki (vain englanniksi).",
+    "help": "Ohje",
+    "intro": "Ole hyvä ja katso seuraavia resursseja saadaksesi apua Agent DVR:lle:",
+    "setup": "Asennus, ominaisuudet ja vianetsintä",
+    "userguide": "Käyttäjän opas"
   },
   "hours": "Tunnit",
   "icon": "Kuvake",
@@ -380,6 +386,8 @@
   "logs_help": "HTML-lokit ovat saatavilla myös paikallisella palvelimella osoitteessa /logs.html",
   "lookingforconnections": "Etsitään yhteyksiä",
   "lostconnection": "Yhteys katkesi",
+  "lowlatency": "Matala viiveen suoratoisto",
+  "lowlatency_help": "Näytä live-mediaa minimaalisen viiveen kanssa. Sammuta, jos etäaudio tai -video nykii.",
   "lpr": "LPR",
   "maindisplay": "Pää näyttö",
   "mainmenu": "Päävalikko",

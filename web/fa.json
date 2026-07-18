@@ -88,6 +88,8 @@
   "autohide_help": "مخفی کردن خودکار نمودار فعالیت بازپخش",
   "autohideplayback": "مخفی کردن کنترل‌های بازپخش",
   "autohideplayback_help": "مخفی کردن خودکار کنترل‌های بازپخش",
+  "automobilelayout": "چیدمان خودکار موبایل",
+  "automobilelayout_help": "نمایش نماها به صورت شبکه ساده دوربین در دستگاه‌های همراه",
   "automute": "بی‌صدا کردن خودکار",
   "automutehelp": "بی‌صدا کردن صدا هنگام تعویض تب‌ها",
   "autoplayaudio": "پخش خودکار صدا",
@@ -309,8 +311,12 @@
   "groups": "گروه‌ها",
   "hdstreaming": "دسترسی از راه دور با پخش جریانی 1080P",
   "help": {
-    "content": "<p>لطفاً برای کمک در مورد Agent DVR به منابع زیر مراجعه کنید:</p><ul><li><a href=\"#\" onclick=\"helpers.goWebsite('docs/agent/')\">راهنمای کاربر</a></li><li><a href=\"https://www.reddit.com/r/ispyconnect\" target=\"_blank\">انجمن Reddit</a> (برای پشتیبانی جامعه کاربری)</li><li><a href=\"https://www.ispyconnect.com/contact\" target=\"_blank\">تماس با ما</a> (برای پشتیبانی مشتریان - فقط به زبان انگلیسی).</li></ul>",
-    "help": "راهنما"
+    "community": "پشتیبانی جامعه از سایر کاربران.",
+    "customer": "پشتیبانی مشتری (فقط به زبان انگلیسی).",
+    "help": "راهنما",
+    "intro": "لطفاً منابع زیر را برای کمک با Agent DVR مشاهده کنید:",
+    "setup": "راه‌اندازی، ویژگی‌ها و عیب‌یابی",
+    "userguide": "راهنمای کاربر"
   },
   "hours": "ساعت‌ها",
   "icon": "آیکون",
@@ -380,6 +386,8 @@
   "logs_help": "گزارش‌های HTML در سرور محلی در مسیر /logs.html نیز در دسترس هستند",
   "lookingforconnections": "در حال جستجوی اتصالات",
   "lostconnection": "اتصال قطع شد",
+  "lowlatency": "استریم با تأخیر کم",
+  "lowlatency_help": "رسانه زنده را با حداقل تأخیر نمایش دهید. در صورت قطع و وصلی صدا یا ویدئو از راه دور، خاموش کنید.",
   "lpr": "LPR",
   "maindisplay": "نمایش اصلی",
   "mainmenu": "منوی اصلی",

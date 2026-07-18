@@ -88,6 +88,8 @@
   "autohide_help": "Nascondi automaticamente il grafico dell'attività di riproduzione",
   "autohideplayback": "Nascondi i controlli di ripercussione",
   "autohideplayback_help": "Nascondi automaticamente i controlli di riproduzione",
+  "automobilelayout": "Layout mobile automatico",
+  "automobilelayout_help": "Mostra le viste come una semplice griglia di telecamere sui dispositivi mobili",
   "automute": "Muto automatico",
   "automutehelp": "Disattiva l'audio quando si cambia scheda",
   "autoplayaudio": "Riproduzione automatica audio",
@@ -309,8 +311,12 @@
   "groups": "Gruppi",
   "hdstreaming": "Accesso remoto streaming 1080P",
   "help": {
-    "content": "<p>Consulta le seguenti risorse per assistenza con Agent DVR:</p><ul><li><a href=\"#\" onclick=\"helpers.goWebsite('docs/agent/')\">Guida utente</a></li><li><a href=\"https://www.reddit.com/r/ispyconnect\" target=\"_blank\">Forum Reddit</a> (per il supporto della community)</li><li><a href=\"https://www.ispyconnect.com/contact\" target=\"_blank\">Contattaci</a> (per il supporto clienti - solo in inglese).</li</ul>",
-    "help": "Aiuto"
+    "community": "Supporto della comunità da parte di altri utenti.",
+    "customer": "Assistenza clienti (solo in inglese).",
+    "help": "Aiuto",
+    "intro": "Si prega di consultare le seguenti risorse per assistenza con Agent DVR:",
+    "setup": "Configurazione, funzionalità e risoluzione dei problemi",
+    "userguide": "Guida dell'utente"
   },
   "hours": "Ore",
   "icon": "Icona",
@@ -380,6 +386,8 @@
   "logs_help": "I log HTML sono disponibili anche sul server locale all'indirizzo /logs.html",
   "lookingforconnections": "Ricerca connessioni",
   "lostconnection": "Connessione persa",
+  "lowlatency": "Streaming a bassa latenza",
+  "lowlatency_help": "Mostra i media in diretta con un ritardo minimo. Disattiva se l'audio o il video remoto presentano interruzioni.",
   "lpr": "LPR",
   "maindisplay": "Display principale",
   "mainmenu": "Menu principale",

@@ -88,6 +88,8 @@
   "autohide_help": "Tự động ẩn biểu đồ hoạt động phát lại",
   "autohideplayback": "Ẩn điều khiển phát lại",
   "autohideplayback_help": "Tự động ẩn các điều khiển phát lại",
+  "automobilelayout": "Bố cục di động tự động",
+  "automobilelayout_help": "Hiển thị các chế độ xem dưới dạng lưới camera đơn giản trên thiết bị di động",
   "automute": "Tự động tắt tiếng",
   "automutehelp": "Tắt âm thanh khi chuyển tab",
   "autoplayaudio": "Tự động phát âm thanh",
@@ -309,8 +311,12 @@
   "groups": "Nhóm",
   "hdstreaming": "Truyền phát từ xa 1080P",
   "help": {
-    "content": "<p>Vui lòng xem các tài nguyên sau để được trợ giúp về Agent DVR:</p><ul><li><a href=\"#\" onclick=\"helpers.goWebsite('docs/agent/')\">Hướng dẫn sử dụng</a></li><li><a href=\"https://www.reddit.com/r/ispyconnect\" target=\"_blank\">Diễn đàn Reddit</a> (để được cộng đồng hỗ trợ)</li><li><a href=\"https://www.ispyconnect.com/contact\" target=\"_blank\">Liên hệ với chúng tôi</a> (để được hỗ trợ khách hàng - chỉ tiếng Anh).</li></ul>",
-    "help": "Trợ giúp"
+    "community": "Hỗ trợ cộng đồng từ các người dùng khác.",
+    "customer": "Hỗ trợ khách hàng (chỉ tiếng Anh).",
+    "help": "Trợ giúp",
+    "intro": "Vui lòng xem các tài nguyên sau để được hỗ trợ với Agent DVR:",
+    "setup": "Cài đặt, tính năng và khắc phục sự cố",
+    "userguide": "Hướng dẫn sử dụng"
   },
   "hours": "Giờ",
   "icon": "Biểu tượng",
@@ -380,6 +386,8 @@
   "logs_help": "Nhật ký HTML cũng có sẵn trên máy chủ cục bộ tại /logs.html",
   "lookingforconnections": "Đang tìm kiếm các kết nối",
   "lostconnection": "Mất kết nối",
+  "lowlatency": "Truyền phát độ trễ thấp",
+  "lowlatency_help": "Hiển thị phương tiện trực tiếp với độ trễ tối thiểu. Tắt nếu âm thanh hoặc video từ xa bị giật.",
   "lpr": "LPR",
   "maindisplay": "Hiển thị chính",
   "mainmenu": "Menu chính",

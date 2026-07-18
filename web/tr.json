@@ -88,6 +88,8 @@
   "autohide_help": "Oynatma etkinliği grafiğini otomatik olarak gizle",
   "autohideplayback": "Oynatma kontrollerini gizle",
   "autohideplayback_help": "Oynatma kontrollerini otomatik olarak gizle",
+  "automobilelayout": "Otomatik mobil düzen",
+  "automobilelayout_help": "Mobil cihazlarda görünümleri basit bir kamera ızgarası olarak göster",
   "automute": "Otomatik sessize al",
   "automutehelp": "Sekmeler arası geçiş yaparken sesi sessize al",
   "autoplayaudio": "Sesi otomatik oynat",
@@ -309,8 +311,12 @@
   "groups": "Gruplar",
   "hdstreaming": "1080P Akışlı Uzaktan Erişim",
   "help": {
-    "content": "<p>Agent DVR ile ilgili yardım için lütfen aşağıdaki kaynaklara göz atın:</p><ul><li><a href=\"#\" onclick=\"helpers.goWebsite('docs/agent/')\">Kullanım Kılavuzu</a></li><li><a href=\"https://www.reddit.com/r/ispyconnect\" target=\"_blank\">Reddit Forumu</a> (topluluk desteği için)</li><li><a href=\"https://www.ispyconnect.com/contact\" target=\"_blank\">Bize Ulaşın</a> (müşteri desteği için - sadece İngilizce).</li></ul>",
-    "help": "Yardım"
+    "community": "Diğer kullanıcılar tarafından topluluk desteği.",
+    "customer": "Müşteri desteği (sadece İngilizce).",
+    "help": "Yardım",
+    "intro": "Lütfen Agent DVR ile ilgili yardım için aşağıdaki kaynaklara bakın:",
+    "setup": "Kurulum, özellikler ve sorun giderme",
+    "userguide": "Kullanıcı Kılavuzu"
   },
   "hours": "Saatler",
   "icon": "Simge",
@@ -380,6 +386,8 @@
   "logs_help": "HTML günlüklerine yerel sunucudaki /logs.html adresinden de ulaşılabilir",
   "lookingforconnections": "Bağlantılar aranıyor",
   "lostconnection": "Bağlantı Kesildi",
+  "lowlatency": "Düşük Gecikme Akışı",
+  "lowlatency_help": "Canlı medyayı minimum gecikme ile göster. Uzaktan ses veya video takılırsa kapat.",
   "lpr": "LPR",
   "maindisplay": "Ana ekran",
   "mainmenu": "Ana menü",

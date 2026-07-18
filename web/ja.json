@@ -88,6 +88,8 @@
   "autohide_help": "再生アクティビティグラフを自動的に非表示にします",
   "autohideplayback": "再生コントロールを非表示にする",
   "autohideplayback_help": "再生コントロールを自動的に非表示にします",
+  "automobilelayout": "自動モバイルレイアウト",
+  "automobilelayout_help": "モバイルデバイスでビューをシンプルなカメラグリッドとして表示",
   "automute": "自動ミュート",
   "automutehelp": "タブ切り替え時にオーディオをミュートします",
   "autoplayaudio": "音声の自動再生",
@@ -309,8 +311,12 @@
   "groups": "グループ",
   "hdstreaming": "1080Pストリーミングリモートアクセス",
   "help": {
-    "content": "<p>Agent DVR のサポートについては、以下のリソースをご覧ください：</p><ul><li><a href=\"#\" onclick=\"helpers.goWebsite('docs/agent/')\">ユーザーガイド</a></li><li><a href=\"https://www.reddit.com/r/ispyconnect\" target=\"_blank\">Reddit フォーラム</a>（コミュニティサポート）</li><li><a href=\"https://www.ispyconnect.com/contact\" target=\"_blank\">お問い合わせ</a>（カスタマーサポート - 英語のみ）。</li></ul>",
-    "help": "ヘルプ"
+    "community": "他のユーザーからのコミュニティサポート。",
+    "customer": "カスタマーサポート（英語のみ）。",
+    "help": "ヘルプ",
+    "intro": "Agent DVRのサポートに関するリソースは以下をご覧ください。",
+    "setup": "セットアップ、機能、トラブルシューティング",
+    "userguide": "ユーザーガイド"
   },
   "hours": "時間",
   "icon": "アイコン",
@@ -380,6 +386,8 @@
   "logs_help": "HTML ログはローカルサーバーの /logs.html でも利用可能です",
   "lookingforconnections": "接続を検索中",
   "lostconnection": "接続が切断されました",
+  "lowlatency": "低遅延ストリーミング",
+  "lowlatency_help": "遅延を最小限に抑えてライブメディアを表示します。リモートオーディオまたはビデオが途切れる場合はオフにしてください。",
   "lpr": "LPR",
   "maindisplay": "メインディスプレイ",
   "mainmenu": "メインメニュー",

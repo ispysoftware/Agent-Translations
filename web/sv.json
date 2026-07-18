@@ -88,6 +88,8 @@
   "autohide_help": "Dölj aktivitetsgrafen för uppspelning automatiskt",
   "autohideplayback": "Dölj uppspelningskontroller",
   "autohideplayback_help": "Dölj uppspelningskontroller automatiskt",
+  "automobilelayout": "Automatisk mobillayout",
+  "automobilelayout_help": "Visa vyer som ett enkelt kamerarutnät på mobila enheter",
   "automute": "Automute",
   "automutehelp": "Tysta ljudet när du byter flikar",
   "autoplayaudio": "Autouppspelning av ljud",
@@ -309,8 +311,12 @@
   "groups": "Grupper",
   "hdstreaming": "1080P strömmande fjärråtkomst",
   "help": {
-    "content": "<p>Se följande resurser för hjälp med Agent DVR:</p><ul><li><a href=\"#\" onclick=\"helpers.goWebsite('docs/agent/')\">Användarguide</a></li><li><a href=\"https://www.reddit.com/r/ispyconnect\" target=\"_blank\">Reddit-forum</a> (för community-support)</li><li><a href=\"https://www.ispyconnect.com/contact\" target=\"_blank\">Kontakta oss</a> (för kundsupport - endast engelska).</li></ul>",
-    "help": "Hjälp"
+    "community": "Gemenskapsstöd från andra användare.",
+    "customer": "Kundsupport (endast engelska).",
+    "help": "Hjälp",
+    "intro": "Vänligen se följande resurser för hjälp med Agent DVR:",
+    "setup": "Installation, funktioner och felsökning",
+    "userguide": "Användarguide"
   },
   "hours": "Timmar",
   "icon": "Ikon",
@@ -380,6 +386,8 @@
   "logs_help": "HTML-loggar finns även tillgängliga på den lokala servern vid /logs.html",
   "lookingforconnections": "Letar efter anslutningar",
   "lostconnection": "Anslutningen bröts",
+  "lowlatency": "Låg latensströmning",
+  "lowlatency_help": "Visa live-media med minimal fördröjning. Stäng av om fjärrljud eller video hackar.",
   "lpr": "LPR",
   "maindisplay": "Huvudskärm",
   "mainmenu": "Huvudmeny",

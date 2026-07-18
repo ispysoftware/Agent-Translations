@@ -88,6 +88,8 @@
   "autohide_help": "Verberg de grafiek van de afspeelactiviteit automatisch",
   "autohideplayback": "Afspeelbediening verbergen",
   "autohideplayback_help": "Verberg de afspeelbediening automatisch",
+  "automobilelayout": "Automatische mobiele lay-out",
+  "automobilelayout_help": "Weergaven tonen als een eenvoudig cameraraster op mobiele apparaten",
   "automute": "Automatisch dempen",
   "automutehelp": "Demp audio bij het wisselen van tabbladen",
   "autoplayaudio": "Audio automatisch afspelen",
@@ -309,8 +311,12 @@
   "groups": "Groepen",
   "hdstreaming": "1080P-streaming externe toegang",
   "help": {
-    "content": "<p>Raadpleeg de volgende bronnen voor hulp met Agent DVR:</p><ul><li><a href=\"#\" onclick=\"helpers.goWebsite('docs/agent/')\">Gebruikershandleiding</a></li><li><a href=\"https://www.reddit.com/r/ispyconnect\" target=\"_blank\">Reddit-forum</a> (voor communityondersteuning)</li><li><a href=\"https://www.ispyconnect.com/contact\" target=\"_blank\">Neem contact met ons op</a> (voor klantenservice - alleen Engels).</li></ul>",
-    "help": "Help"
+    "community": "Gemeenschapssteun van andere gebruikers.",
+    "customer": "Klantenservice (alleen Engels).",
+    "help": "Help",
+    "intro": "Raadpleeg de volgende bronnen voor hulp met Agent DVR:",
+    "setup": "Instelling, functies en probleemoplossing",
+    "userguide": "Gebruikershandleiding"
   },
   "hours": "Uren",
   "icon": "Icoon",
@@ -380,6 +386,8 @@
   "logs_help": "HTML-logs zijn ook beschikbaar op de lokale server via /logs.html",
   "lookingforconnections": "Zoeken naar verbindingen",
   "lostconnection": "Verbinding verloren",
+  "lowlatency": "Lage Latentie Streaming",
+  "lowlatency_help": "Toon live media met minimale vertraging. Zet uit als audio of video op afstand stottert.",
   "lpr": "LPR",
   "maindisplay": "Hoofdscherm",
   "mainmenu": "Hoofdmenu",

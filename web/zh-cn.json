@@ -88,6 +88,8 @@
   "autohide_help": "自动隐藏回放活动图",
   "autohideplayback": "隐藏回放控件",
   "autohideplayback_help": "自动隐藏回放控件",
+  "automobilelayout": "自动移动布局",
+  "automobilelayout_help": "在移动设备上将视图显示为简单的摄像机网格",
   "automute": "自动静音",
   "automutehelp": "切换标签页时静音音频",
   "autoplayaudio": "自动播放音频",
@@ -309,8 +311,12 @@
   "groups": "组",
   "hdstreaming": "1080P 远程串流的权限",
   "help": {
-    "content": "<p>请参阅以下资源以获取 Agent DVR 的帮助：</p><ul><li><a href=\"#\" onclick=\"helpers.goWebsite('docs/agent/')\">用户指南</a></li><li><a href=\"https://www.reddit.com/r/ispyconnect\" target=\"_blank\">Reddit 论坛</a>（社区支持）</li><li><a href=\"https://www.ispyconnect.com/contact\" target=\"_blank\">联系我们</a>（客户支持 - 仅限英语）。</li></ul>",
-    "help": "帮助"
+    "community": "来自其他用户的社区支持。",
+    "customer": "客户支持（仅限英语）。",
+    "help": "帮助",
+    "intro": "请参阅以下资源以获取有关Agent DVR的帮助：",
+    "setup": "设置、功能和故障排除",
+    "userguide": "用户指南"
   },
   "hours": "小时",
   "icon": "图标",
@@ -380,6 +386,8 @@
   "logs_help": "HTML 日志也可在本地服务器的 /logs.html 上获取",
   "lookingforconnections": "正在查找连接",
   "lostconnection": "连接丢失",
+  "lowlatency": "低延迟流媒体",
+  "lowlatency_help": "以最小延迟显示实时媒体。如果远程音频或视频卡顿，请关闭。",
   "lpr": "LPR",
   "maindisplay": "主显示",
   "mainmenu": "主菜单",

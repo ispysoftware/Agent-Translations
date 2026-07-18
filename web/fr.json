@@ -88,6 +88,8 @@
   "autohide_help": "Masquer automatiquement le graphique d'activité de lecture",
   "autohideplayback": "Masquer les commandes de lecture",
   "autohideplayback_help": "Masquer automatiquement les commandes de lecture",
+  "automobilelayout": "Disposition mobile automatique",
+  "automobilelayout_help": "Afficher les vues sous forme de grille de caméras simple sur les appareils mobiles",
   "automute": "Auto Muet",
   "automutehelp": "Couper le son lors du changement d'onglets",
   "autoplayaudio": "Lecture automatique du son",
@@ -309,8 +311,12 @@
   "groups": "Groupes",
   "hdstreaming": "Accès à distance avec diffusion 1080P",
   "help": {
-    "content": "<p>Veuillez consulter les ressources suivantes pour obtenir de l'aide avec Agent DVR :</p><ul><li><a href=\"#\" onclick=\"helpers.goWebsite('docs/agent/')\">Guide de l'utilisateur</a></li><li><a href=\"https://www.reddit.com/r/ispyconnect\" target=\"_blank\">Forum Reddit</a> (pour le support communautaire)</li><li><a href=\"https://www.ispyconnect.com/contact\" target=\"_blank\">Contactez-nous</a> (pour le support client - anglais uniquement).</li></ul>",
-    "help": "Aide"
+    "community": "Soutien communautaire d'autres utilisateurs.",
+    "customer": "Support client (anglais uniquement).",
+    "help": "Aide",
+    "intro": "Veuillez consulter les ressources suivantes pour obtenir de l'aide avec Agent DVR :",
+    "setup": "Configuration, fonctionnalités et dépannage",
+    "userguide": "Guide de l'utilisateur"
   },
   "hours": "Heures",
   "icon": "Icône",
@@ -380,6 +386,8 @@
   "logs_help": "Les journaux HTML sont également disponibles sur le serveur local à l'adresse /logs.html",
   "lookingforconnections": "Recherche de connexions",
   "lostconnection": "Connexion perdue",
+  "lowlatency": "Streaming à faible latence",
+  "lowlatency_help": "Afficher les médias en direct avec un délai minimal. Désactivez si l'audio ou la vidéo à distance bégaye.",
   "lpr": "LPR",
   "maindisplay": "Visionneuse principale",
   "mainmenu": "Menu Principal",

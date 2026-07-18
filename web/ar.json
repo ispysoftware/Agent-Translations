@@ -88,6 +88,8 @@
   "autohide_help": "إخفاء مخطط نشاط التشغيل تلقائياً",
   "autohideplayback": "إخفاء عناصر تحكم التشغيل",
   "autohideplayback_help": "إخفاء عناصر تحرام التشغيل تلقائياً",
+  "automobilelayout": "تخطيط الجوال التلقائي",
+  "automobilelayout_help": "عرض طرق العرض كشبكة كاميرات بسيطة على الأجهزة المحمولة",
   "automute": "كتم تلقائي",
   "automutehelp": "كتم الصوت عند تبديل علامات التبويب",
   "autoplayaudio": "تشغيل الصوت تلقائياً",
@@ -309,8 +311,12 @@
   "groups": "المجموعات",
   "hdstreaming": "وصول عن بُعد ببث 1080P",
   "help": {
-    "content": "<p>يرجى الاطلاع على الموارد التالية للحصول على المساعدة بخصوص Agent DVR:</p><ul><li><a href=\"#\" onclick=\"helpers.goWebsite('docs/agent/')\">دليل المستخدم</a></li><li><a href=\"https://www.reddit.com/r/ispyconnect\" target=\"_blank\">منتدى Reddit</a> (لدعم المجتمع)</li><li><a href=\"https://www.ispyconnect.com/contact\" target=\"_blank\">اتصل بنا</a> (لدعم العملاء - باللغة الإنجليزية فقط).</li></ul>",
-    "help": "مساعدة"
+    "community": "دعم المجتمع من المستخدمين الآخرين.",
+    "customer": "دعم العملاء (بالإنجليزية فقط).",
+    "help": "مساعدة",
+    "intro": "يرجى الاطلاع على الموارد التالية للحصول على المساعدة بشأن Agent DVR:",
+    "setup": "الإعداد، الميزات واستكشاف الأخطاء وإصلاحها",
+    "userguide": "دليل المستخدم"
   },
   "hours": "ساعات",
   "icon": "أيقونة",
@@ -380,6 +386,8 @@
   "logs_help": "تتوفر سجلات HTML أيضاً على الخادم المحلي عبر /logs.html",
   "lookingforconnections": "البحث عن الاتصالات",
   "lostconnection": "فقد الاتصال",
+  "lowlatency": "بث منخفض الكمون",
+  "lowlatency_help": "عرض الوسائط الحية مع الحد الأدنى من التأخير. قم بإيقاف التشغيل إذا كان الصوت أو الفيديو عن بُعد يتقطع.",
   "lpr": "LPR",
   "maindisplay": "العرض الرئيسي",
   "mainmenu": "القائمة الرئيسية",
