@@ -863,7 +863,7 @@
     "json.aimodel": "Model",
     "json.aimodel.help": "AI menggunakan model untuk mencari hal-hal spesifik",
     "json.aimodelinternal": "Model",
-    "json.aimodelinternal.help": "Pilih model yang sudah ada atau tambahkan milik Anda sendiri di pengaturan server - Server AI",
+    "json.aimodelinternal.help": "Pilih model yang sudah dibuat sebelumnya atau tambahkan milik Anda sendiri di pengaturan server - Pengaturan AI",
     "json.aimodelname": "Nama",
     "json.aimodelname.help": "Berikan nama pada model Anda",
     "json.aimodelonnx2": "File Model",

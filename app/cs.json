@@ -863,7 +863,7 @@
     "json.aimodel": "Model",
     "json.aimodel.help": "AI využívá modely k hledání konkrétních věcí",
     "json.aimodelinternal": "Model",
-    "json.aimodelinternal.help": "Vyberte předem sestavený model nebo přidejte vlastní v nastavení serveru - AI Servery",
+    "json.aimodelinternal.help": "Vyberte předem vytvořený model nebo přidejte svůj vlastní v nastavení serveru - AI Nastavení",
     "json.aimodelname": "Název",
     "json.aimodelname.help": "Přiřaďte modelu název",
     "json.aimodelonnx2": "Soubor modelu",

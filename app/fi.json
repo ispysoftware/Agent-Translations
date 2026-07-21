@@ -863,7 +863,7 @@
     "json.aimodel": "Malli",
     "json.aimodel.help": "AI käyttää malleja tiettyjen asioiden etsimiseen",
     "json.aimodelinternal": "Malli",
-    "json.aimodelinternal.help": "Valitse valmiiksi rakennettu malli tai lisää oma palvelimen asetuksista - AI-palvelimet",
+    "json.aimodelinternal.help": "Valitse esirakennettu malli tai lisää oma palvelinasetuksissa - AI-asetukset",
     "json.aimodelname": "Nimi",
     "json.aimodelname.help": "Anna mallillesi nimi",
     "json.aimodelonnx2": "Mallitiedosto",

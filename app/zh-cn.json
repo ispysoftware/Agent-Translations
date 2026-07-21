@@ -863,7 +863,7 @@
     "json.aimodel": "模型",
     "json.aimodel.help": "AI 使用模型来寻找特定事物",
     "json.aimodelinternal": "模型",
-    "json.aimodelinternal.help": "选择预构建模型或在服务器设置 - AI 服务器中添加您自己的模型",
+    "json.aimodelinternal.help": "在服务器设置 - AI 设置中选择一个预构建模型或添加您自己的模型",
     "json.aimodelname": "名称",
     "json.aimodelname.help": "为您的模型命名",
     "json.aimodelonnx2": "模型文件",

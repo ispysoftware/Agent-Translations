@@ -863,7 +863,7 @@
     "json.aimodel": "النموذج",
     "json.aimodel.help": "يستخدم AI النماذج للبحث عن أشياء محددة",
     "json.aimodelinternal": "النموذج",
-    "json.aimodelinternal.help": "اختر نموذجاً جاهزاً أو أضف نموذجك الخاص في إعدادات الخادم - AI Servers",
+    "json.aimodelinternal.help": "اختر نموذجًا مسبق البناء أو أضف نموذجك الخاص في إعدادات الخادم - إعدادات الذكاء الاصطناعي",
     "json.aimodelname": "الاسم",
     "json.aimodelname.help": "قم بتسمية النموذج الخاص بك",
     "json.aimodelonnx2": "ملف النموذج",

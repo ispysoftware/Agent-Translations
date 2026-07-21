@@ -863,7 +863,7 @@
     "json.aimodel": "Mô hình",
     "json.aimodel.help": "AI sử dụng các mô hình để tìm kiếm những thứ cụ thể",
     "json.aimodelinternal": "Mô hình",
-    "json.aimodelinternal.help": "Chọn một mô hình có sẵn hoặc thêm mô hình của riêng bạn trong cài đặt máy chủ - Máy chủ AI",
+    "json.aimodelinternal.help": "Chọn một mô hình đã được xây dựng sẵn hoặc thêm mô hình của riêng bạn trong cài đặt máy chủ - Cài đặt AI",
     "json.aimodelname": "Tên",
     "json.aimodelname.help": "Đặt tên cho mô hình của bạn",
     "json.aimodelonnx2": "Tệp mô hình",

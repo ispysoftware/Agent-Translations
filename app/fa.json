@@ -863,7 +863,7 @@
     "json.aimodel": "مدل",
     "json.aimodel.help": "AI از مدل‌ها برای جستجوی موارد خاص استفاده می‌کند",
     "json.aimodelinternal": "مدل",
-    "json.aimodelinternal.help": "یک مدل پیش‌ساخته را انتخاب کنید یا مدل خود را در تنظیمات سرور - AI Servers اضافه کنید",
+    "json.aimodelinternal.help": "مدل از پیش ساخته شده‌ای را انتخاب کنید یا مدل خود را در تنظیمات سرور - تنظیمات هوش مصنوعی اضافه کنید.",
     "json.aimodelname": "نام",
     "json.aimodelname.help": "نامی برای مدل خود انتخاب کنید",
     "json.aimodelonnx2": "فایل مدل",

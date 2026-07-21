@@ -863,7 +863,7 @@
     "json.aimodel": "Model",
     "json.aimodel.help": "AI uses models to look for specific things",
     "json.aimodelinternal": "Model",
-    "json.aimodelinternal.help": "Select a pre-built model or add your own in server settings - AI Servers",
+    "json.aimodelinternal.help": "Select a pre-built model or add your own in server settings - AI Settings",
     "json.aimodelname": "Name",
     "json.aimodelname.help": "Give your model a name",
     "json.aimodelonnx2": "Model File",

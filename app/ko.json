@@ -863,7 +863,7 @@
     "json.aimodel": "모델",
     "json.aimodel.help": "AI 는 특정 항목을 찾기 위해 모델을 사용합니다.",
     "json.aimodelinternal": "모델",
-    "json.aimodelinternal.help": "사전 구축된 모델을 선택하거나 서버 설정 - 'AI 서버'에서 자체 모델을 추가하세요.",
+    "json.aimodelinternal.help": "서버 설정 - AI 설정에서 미리 구축된 모델을 선택하거나 자신의 모델을 추가하세요.",
     "json.aimodelname": "이름",
     "json.aimodelname.help": "모델에 이름을 지정합니다.",
     "json.aimodelonnx2": "모델 파일",

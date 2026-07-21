@@ -863,7 +863,7 @@
     "json.aimodel": "मॉडल",
     "json.aimodel.help": "AI विशिष्ट चीजों को खोजने के लिए मॉडल का उपयोग करता है",
     "json.aimodelinternal": "मॉडल",
-    "json.aimodelinternal.help": "एक प्री-बिल्ट मॉडल चुनें या सर्वर सेटिंग्स - AI Servers में अपना स्वयं का जोड़ें",
+    "json.aimodelinternal.help": "सर्वर सेटिंग्स - एआई सेटिंग्स में एक पूर्व-निर्मित मॉडल चुनें या अपना खुद का जोड़ें।",
     "json.aimodelname": "नाम",
     "json.aimodelname.help": "अपने मॉडल को एक नाम दें",
     "json.aimodelonnx2": "मॉडल फ़ाइल",

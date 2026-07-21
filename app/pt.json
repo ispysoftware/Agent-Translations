@@ -863,7 +863,7 @@
     "json.aimodel": "Modelo",
     "json.aimodel.help": "A IA utiliza modelos para buscar coisas específicas",
     "json.aimodelinternal": "Modelo",
-    "json.aimodelinternal.help": "Selecione um modelo pré-construído ou adicione o seu próprio nas configurações do servidor - Servidores de IA",
+    "json.aimodelinternal.help": "Selecione um modelo pré-construído ou adicione o seu próprio nas configurações do servidor - Configurações de IA",
     "json.aimodelname": "Nome",
     "json.aimodelname.help": "Dê um nome ao seu modelo",
     "json.aimodelonnx2": "Arquivo do modelo",

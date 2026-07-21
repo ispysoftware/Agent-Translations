@@ -863,7 +863,7 @@
     "json.aimodel": "Modell",
     "json.aimodel.help": "KI nutzt Modelle, um nach bestimmten Dingen zu suchen",
     "json.aimodelinternal": "Modell",
-    "json.aimodelinternal.help": "Wählen Sie ein vorgefertigtes Modell oder fügen Sie ein eigenes in den Servereinstellungen unter 'KI-Server' hinzu",
+    "json.aimodelinternal.help": "Wählen Sie ein vorgefertigtes Modell aus oder fügen Sie Ihr eigenes in den Servereinstellungen - KI-Einstellungen hinzu.",
     "json.aimodelname": "Name",
     "json.aimodelname.help": "Geben Sie Ihrem Modell einen Namen",
     "json.aimodelonnx2": "Modell-Datei",

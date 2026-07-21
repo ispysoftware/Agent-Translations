@@ -863,7 +863,7 @@
     "json.aimodel": "モデル",
     "json.aimodel.help": "AI は特定のものを検知するためにモデルを使用します",
     "json.aimodelinternal": "モデル",
-    "json.aimodelinternal.help": "サーバー設定（AI サーバー）でプリビルトのモデルを選択するか、独自のモデルを追加してください",
+    "json.aimodelinternal.help": "サーバー設定 - AI設定で、プリビルドモデルを選択するか、自分のモデルを追加します。",
     "json.aimodelname": "名前",
     "json.aimodelname.help": "モデルに名前を付けます",
     "json.aimodelonnx2": "モデルファイル",

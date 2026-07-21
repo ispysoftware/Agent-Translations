@@ -863,7 +863,7 @@
     "json.aimodel": "Модель",
     "json.aimodel.help": "AI использует модели для поиска определенных объектов",
     "json.aimodelinternal": "Модель",
-    "json.aimodelinternal.help": "Выберите готовую модель или добавьте свою в настройках сервера — AI Servers",
+    "json.aimodelinternal.help": "Выберите предустановленную модель или добавьте свою в настройках сервера - Настройки ИИ",
     "json.aimodelname": "Имя",
     "json.aimodelname.help": "Присвойте модели имя",
     "json.aimodelonnx2": "Файл модели",

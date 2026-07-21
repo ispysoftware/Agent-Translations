@@ -863,7 +863,7 @@
     "json.aimodel": "Modell",
     "json.aimodel.help": "Az AI modelleket használ specifikus dolgok keresésére",
     "json.aimodelinternal": "Modell",
-    "json.aimodelinternal.help": "Válasszon egy előre épített modellt, vagy adjon hozzá sajátot a szerverbeállításokban - AI szerverek",
+    "json.aimodelinternal.help": "Válasszon egy előre elkészített modellt, vagy adjon hozzá sajátot a szerverbeállításokban - AI Beállítások",
     "json.aimodelname": "Név",
     "json.aimodelname.help": "Adjon meg egy nevet a modellnek",
     "json.aimodelonnx2": "Modell fájl",

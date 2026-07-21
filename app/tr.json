@@ -863,7 +863,7 @@
     "json.aimodel": "Model",
     "json.aimodel.help": "Yapay zeka, belirli şeyleri aramak için modeller kullanır",
     "json.aimodelinternal": "Model",
-    "json.aimodelinternal.help": "Önceden oluşturulmuş bir model seçin veya sunucu ayarlarında - Yapay Zeka Sunucuları kısmından kendi modelinizi ekleyin",
+    "json.aimodelinternal.help": "Önceden oluşturulmuş bir modeli seçin veya kendi modelinizi sunucu ayarlarında - AI Ayarları ekleyin.",
     "json.aimodelname": "Ad",
     "json.aimodelname.help": "Modelinize bir ad verin",
     "json.aimodelonnx2": "Model Dosyası",

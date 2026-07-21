@@ -863,7 +863,7 @@
     "json.aimodel": "Model",
     "json.aimodel.help": "AI gebruikt modellen om naar specifieke zaken te zoeken",
     "json.aimodelinternal": "Model",
-    "json.aimodelinternal.help": "Selecteer een vooraf gebouwd model of voeg uw eigen toe in de serverinstellingen - AI-servers",
+    "json.aimodelinternal.help": "Selecteer een vooraf gebouwd model of voeg je eigen model toe in de serverinstellingen - AI-instellingen",
     "json.aimodelname": "Naam",
     "json.aimodelname.help": "Geef uw model een naam",
     "json.aimodelonnx2": "Modelfil",

@@ -863,7 +863,7 @@
     "json.aimodel": "Modell",
     "json.aimodel.help": "AI använder modeller för att leta efter specifika saker",
     "json.aimodelinternal": "Modell",
-    "json.aimodelinternal.help": "Välj en färdigbyggd modell eller lägg till din egen i serverinställningar - AI-servrar",
+    "json.aimodelinternal.help": "Välj en förbyggd modell eller lägg till din egen i serverinställningar - AI-inställningar",
     "json.aimodelname": "Namn",
     "json.aimodelname.help": "Ge din modell ett namn",
     "json.aimodelonnx2": "Modellfil",

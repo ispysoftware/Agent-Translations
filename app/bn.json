@@ -863,7 +863,7 @@
     "json.aimodel": "মডেল",
     "json.aimodel.help": "AI নির্দিষ্ট জিনিস খোঁজার জন্য মডেল ব্যবহার করে",
     "json.aimodelinternal": "মডেল",
-    "json.aimodelinternal.help": "একটি প্রি-বিল্ট মডেল নির্বাচন করুন বা সার্ভার সেটিংস - AI Servers-এ আপনার নিজস্ব মডেল যোগ করুন",
+    "json.aimodelinternal.help": "সার্ভার সেটিংসে একটি পূর্বনির্মিত মডেল নির্বাচন করুন অথবা আপনার নিজস্ব মডেল যোগ করুন - AI সেটিংস",
     "json.aimodelname": "নাম",
     "json.aimodelname.help": "আপনার মডেলের একটি নাম দিন",
     "json.aimodelonnx2": "মডেল ফাইল",
