@@ -1627,7 +1627,7 @@
     "json.messaging.help": "Aktifkan atau nonaktifkan tindakan pesan seperti Email atau SMS",
     "json.messagingdisabledwarning": "Peringatan: Pesan dinonaktifkan pada tab peringatan",
     "json.microphone": "Mikrofon",
-    "json.microphone.help": "Tambahkan mikrofon ke server untuk menambahkannya ke daftar ini",
+    "json.microphone.help": "Tambahkan mikrofon melalui menu server - tambahkan perangkat untuk ditambahkan ke daftar ini",
     "json.middle": "Tengah",
     "json.minframerate": "FPS min",
     "json.minframerate.help": "Frame rate minimum saat mengurangi penggunaan CPU",

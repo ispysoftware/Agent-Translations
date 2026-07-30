@@ -1627,7 +1627,7 @@
     "json.messaging.help": "Aktiver eller deaktiver beskedhandlinger som e-mail eller SMS",
     "json.messagingdisabledwarning": "Advarsel: Beskedtjeneste er deaktiveret på fanen advarsler",
     "json.microphone": "Mikrofon",
-    "json.microphone.help": "Tilføj en mikrofon til serveren for at tilføje den til denne liste",
+    "json.microphone.help": "Tilføj en mikrofon via servermenuen - tilføj en enhed for at tilføje til denne liste",
     "json.middle": "Midten",
     "json.minframerate": "Min. billedrate",
     "json.minframerate.help": "Minimum billedrate ved reduktion af CPU",

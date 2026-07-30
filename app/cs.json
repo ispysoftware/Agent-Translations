@@ -1627,7 +1627,7 @@
     "json.messaging.help": "Povolit nebo zakázat akce pro zprávy, jako je e-mail nebo SMS",
     "json.messagingdisabledwarning": "Varování: Zprávování je na kartě upozornění zakázáno",
     "json.microphone": "Mikrofon",
-    "json.microphone.help": "Přidejte mikrofon do serveru pro přidání do tohoto seznamu",
+    "json.microphone.help": "Přidejte mikrofon přes serverové menu - přidat zařízení do tohoto seznamu",
     "json.middle": "Střed",
     "json.minframerate": "Min. snímková frekvence",
     "json.minframerate.help": "Minimální snímková frekvence při snižování vytížení CPU",

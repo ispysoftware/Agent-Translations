@@ -1627,7 +1627,7 @@
     "json.messaging.help": "Az olyan üzenetküldési műveletek engedélyezése vagy letiltása, mint az e-mail vagy SMS",
     "json.messagingdisabledwarning": "Figyelmeztetés: Az üzenetküldés ki van kapcsolva az értesítési lapon",
     "json.microphone": "Mikrofon",
-    "json.microphone.help": "Adjon hozzá egy mikrofont a szerverhez a listához való hozzáadás érdekében",
+    "json.microphone.help": "Adj hozzá egy mikrofont a szerver menüjén keresztül - eszköz hozzáadása ehhez a listához",
     "json.middle": "Közép",
     "json.minframerate": "Min. képfrekvencia",
     "json.minframerate.help": "Minimum képfrekvencia CPU csökkentése esetén",

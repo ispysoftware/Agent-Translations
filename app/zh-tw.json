@@ -1627,7 +1627,7 @@
     "json.messaging.help": "啟用或停用如電子郵件或簡訊等訊息動作",
     "json.messagingdisabledwarning": "警告：警示標籤中的訊息功能已停用",
     "json.microphone": "麥克風",
-    "json.microphone.help": "將麥克風加入伺服器以新增至此清單中",
+    "json.microphone.help": "透過伺服器菜單添加麥克風 - 添加設備以加入此列表",
     "json.middle": "中間",
     "json.minframerate": "最低幀率",
     "json.minframerate.help": "降低 CPU 使用時的最低幀率",

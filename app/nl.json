@@ -1627,7 +1627,7 @@
     "json.messaging.help": "Berichtacties zoals e-mail of SMS inschakelen of uitschakelen",
     "json.messagingdisabledwarning": "Waarschuwing: Berichten zijn uitgeschakeld op het tabblad waarschuwingen",
     "json.microphone": "Microfoon",
-    "json.microphone.help": "Voeg een microfoon toe aan de server om deze aan deze lijst toe te voegen",
+    "json.microphone.help": "Voeg een microfoon toe via het servermenu - apparaat toevoegen om aan deze lijst toe te voegen",
     "json.middle": "Midden",
     "json.minframerate": "Min. framerate",
     "json.minframerate.help": "Minimale framerate bij het verminderen van CPU-belasting",

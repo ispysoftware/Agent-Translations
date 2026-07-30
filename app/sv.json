@@ -1627,7 +1627,7 @@
     "json.messaging.help": "Aktivera eller inaktivera meddelandeåtgärder som e-post eller SMS",
     "json.messagingdisabledwarning": "Varning: Meddelanden är inaktiverade på fliken varningar",
     "json.microphone": "Mikrofon",
-    "json.microphone.help": "Lägg till en mikrofon på servern för att lägga till den i denna lista",
+    "json.microphone.help": "Lägg till en mikrofon via servermenyn - lägg till enhet för att lägga till i denna lista",
     "json.middle": "Mitten",
     "json.minframerate": "Min bildfrekvens",
     "json.minframerate.help": "Minimal bildfrekvens vid minskad CPU-belastning",

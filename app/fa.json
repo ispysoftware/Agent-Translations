@@ -1627,7 +1627,7 @@
     "json.messaging.help": "فعال یا غیرفعال کردن اقدامات پیام‌رسانی مانند Email یا SMS",
     "json.messagingdisabledwarning": "هشدار: پیام‌رسانی در تب هشدارها غیرفعال است",
     "json.microphone": "میکروفون",
-    "json.microphone.help": "یک میکروفون به سرور اضافه کنید تا به این لیست افزوده شود",
+    "json.microphone.help": "از منوی سرور میکروفن اضافه کنید - دستگاهی را برای اضافه کردن به این لیست اضافه کنید",
     "json.middle": "وسط",
     "json.minframerate": "حداقل نرخ فریم",
     "json.minframerate.help": "حداقل نرخ فریم هنگام کاهش مصرف CPU",

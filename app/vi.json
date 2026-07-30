@@ -1627,7 +1627,7 @@
     "json.messaging.help": "Bật hoặc tắt các hành động tin nhắn như Email hoặc SMS",
     "json.messagingdisabledwarning": "Cảnh báo: Tin nhắn đã bị tắt trong tab cảnh báo",
     "json.microphone": "Microphone",
-    "json.microphone.help": "Thêm microphone vào máy chủ để thêm vào danh sách này",
+    "json.microphone.help": "Thêm một microphone qua menu máy chủ - thêm thiết bị để thêm vào danh sách này",
     "json.middle": "Giữa",
     "json.minframerate": "Tốc độ khung hình tối thiểu",
     "json.minframerate.help": "Tốc độ khung hình tối thiểu khi giảm tải CPU",

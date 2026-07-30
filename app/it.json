@@ -1627,7 +1627,7 @@
     "json.messaging.help": "Abilita o disabilita le azioni di messaggistica come Email o SMS",
     "json.messagingdisabledwarning": "Avviso: la messaggistica è disabilitata nella scheda avvisi",
     "json.microphone": "Microfono",
-    "json.microphone.help": "Aggiungi un microfono al server per aggiungerlo a questo elenco",
+    "json.microphone.help": "Aggiungi un microfono tramite il menu server - aggiungi dispositivo per aggiungere a questa lista",
     "json.middle": "Centro",
     "json.minframerate": "Framerate minimo",
     "json.minframerate.help": "Framerate minimo quando si riduce la CPU",

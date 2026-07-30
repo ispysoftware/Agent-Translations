@@ -1627,7 +1627,7 @@
     "json.messaging.help": "이메일 또는 SMS와 같은 메시징 작업 활성화 또는 비활성화",
     "json.messagingdisabledwarning": "경고: 알림 탭에서 메시징이 비활성화됨",
     "json.microphone": "마이크로폰",
-    "json.microphone.help": "목록에 추가하려면 서버에 마이크로폰을 추가하세요",
+    "json.microphone.help": "서버 메뉴를 통해 마이크 추가 - 이 목록에 추가할 장치 추가",
     "json.middle": "중앙",
     "json.minframerate": "최소 프레임률",
     "json.minframerate.help": "CPU 를 줄일 때의 최소 프레임률",

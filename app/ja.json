@@ -1627,7 +1627,7 @@
     "json.messaging.help": "電子メールや SMS などのメッセージングアクションを有効化または無効化する",
     "json.messagingdisabledwarning": "警告：アラートタブでメッセージが無効になっています",
     "json.microphone": "マイク",
-    "json.microphone.help": "このリストに追加するには、サーバーにマイクを追加します",
+    "json.microphone.help": "サーバーメニューからマイクを追加 - このリストに追加するデバイスを追加",
     "json.middle": "中央",
     "json.minframerate": "最小フレームレート",
     "json.minframerate.help": "CPU を削減する際の最低フレームレート",

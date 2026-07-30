@@ -1627,7 +1627,7 @@
     "json.messaging.help": "启用或禁用邮件或短信等消息操作",
     "json.messagingdisabledwarning": "警告：警报选项卡中的消息功能已禁用",
     "json.microphone": "麦克风",
-    "json.microphone.help": "向服务器添加一个麦克风以将其加入此列表",
+    "json.microphone.help": "通过服务器菜单添加麦克风 - 添加设备以将其添加到此列表",
     "json.middle": "中间",
     "json.minframerate": "最低帧率",
     "json.minframerate.help": "降低 CPU 使用时的最低帧率",

@@ -1627,7 +1627,7 @@
     "json.messaging.help": "Ativar ou desativar ações de mensagens como E-mail ou SMS",
     "json.messagingdisabledwarning": "Aviso: As mensagens estão desativadas na aba de alertas",
     "json.microphone": "Microfone",
-    "json.microphone.help": "Adicione um microfone ao servidor para adicionar a esta lista",
+    "json.microphone.help": "Adicionar um microfone através do menu do servidor - adicionar dispositivo para incluir nesta lista",
     "json.middle": "Centro",
     "json.minframerate": "Taxa de quadros mínima",
     "json.minframerate.help": "Taxa de quadros mínima ao reduzir a CPU",

@@ -1627,7 +1627,7 @@
     "json.messaging.help": "Email या SMS जैसी मैसेजिंग क्रियाओं को सक्षम या अक्षम करें",
     "json.messagingdisabledwarning": "चेतावनी: अलर्ट टैब पर मैसेजिंग अक्षम है",
     "json.microphone": "माइक्रोफ़ोन",
-    "json.microphone.help": "इस सूची में जोड़ने के लिए सर्वर में एक माइक्रोफ़ोन जोड़ें",
+    "json.microphone.help": "सर्वर मेनू के माध्यम से एक माइक्रोफ़ोन जोड़ें - इस सूची में जोड़ने के लिए डिवाइस जोड़ें",
     "json.middle": "मध्य",
     "json.minframerate": "न्यूनतम फ्रेमरेट",
     "json.minframerate.help": "CPU कम करते समय न्यूनतम फ्रेमरेट",

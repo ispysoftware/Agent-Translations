@@ -1627,7 +1627,7 @@
     "json.messaging.help": "Ota viestintätoiminnot, kuten sähköposti tai SMS, käyttöön tai poista käytöstä",
     "json.messagingdisabledwarning": "Varoitus: Viestintä on poistettu käytöstä hälytystensiivissä",
     "json.microphone": "Mikrofoni",
-    "json.microphone.help": "Lisää mikrofoni palvelimeen lisätäksesi sen tähän luetteloon",
+    "json.microphone.help": "Lisää mikrofoni palvelimen valikon kautta - lisää laite tähän luetteloon",
     "json.middle": "Keskellä",
     "json.minframerate": "Minimikehysten määrä",
     "json.minframerate.help": "Minimikehysten määrä CPU:n kuormituksen vähentämiseksi",

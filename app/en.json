@@ -1627,7 +1627,7 @@
     "json.messaging.help": "Enable or disable messaging actions like Email or SMS",
     "json.messagingdisabledwarning": "Warning: Messaging is disabled on alerts tab",
     "json.microphone": "Microphone",
-    "json.microphone.help": "Add a microphone to the server to add to this list",
+    "json.microphone.help": "Add a microphone via server menu - add device to add to this list",
     "json.middle": "Middle",
     "json.minframerate": "Min Framerate",
     "json.minframerate.help": "Minimum framerate when reducing CPU",

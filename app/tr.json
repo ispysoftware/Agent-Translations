@@ -1627,7 +1627,7 @@
     "json.messaging.help": "E-posta veya SMS gibi mesajlaşma eylemlerini etkinleştirin veya devre dışı bırakın",
     "json.messagingdisabledwarning": "Uyarı: Mesajlaşma uyarılar sekmesinde devre dışı bırakıldı",
     "json.microphone": "Mikrofon",
-    "json.microphone.help": "Bu listeye eklemek için sunucuya bir mikrofon ekleyin",
+    "json.microphone.help": "Sunucu menüsü aracılığıyla bir mikrofon ekleyin - bu listeye eklemek için cihaz ekle",
     "json.middle": "Orta",
     "json.minframerate": "Minimum kare hızı",
     "json.minframerate.help": "CPU düşürülürken minimum kare hızı",

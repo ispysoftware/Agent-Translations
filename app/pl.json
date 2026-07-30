@@ -1627,7 +1627,7 @@
     "json.messaging.help": "Włącz lub wyłącz akcje powiadomień, takie jak e-mail lub SMS",
     "json.messagingdisabledwarning": "Ostrzeżenie: Powiadomienia są wyłączone w zakładce alerty",
     "json.microphone": "Mikrofon",
-    "json.microphone.help": "Dodaj mikrofon do serwera, aby dodać go do tej listy",
+    "json.microphone.help": "Dodaj mikrofon za pomocą menu serwera - dodaj urządzenie, aby dodać do tej listy",
     "json.middle": "Środek",
     "json.minframerate": "Min. liczba klatek",
     "json.minframerate.help": "Minimalna liczba klatek podczas zmniejszania obciążenia CPU",

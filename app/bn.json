@@ -1627,7 +1627,7 @@
     "json.messaging.help": "Email বা SMS এর মতো মেসেজিং অ্যাকশনগুলো চালু বা নিষ্ক্রিয় করুন",
     "json.messagingdisabledwarning": "সতর্কতা: অ্যালার্ট ট্যাবে মেসেজিং নিষ্ক্রিয় করা আছে",
     "json.microphone": "মাইক্রোফোন",
-    "json.microphone.help": "এই লিস্টে যোগ করার জন্য সার্ভারে একটি মাইক্রোফোন যোগ করুন",
+    "json.microphone.help": "সার্ভার মেনুর মাধ্যমে একটি মাইক্রোফোন যোগ করুন - এই তালিকায় যোগ করতে ডিভাইস যোগ করুন",
     "json.middle": "মাঝখানে",
     "json.minframerate": "সর্বনিম্ন ফ্রেমরেট",
     "json.minframerate.help": "CPU কমানোর সময় সর্বনিম্ন ফ্রেমরেট",
