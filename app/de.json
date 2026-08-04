@@ -2157,7 +2157,7 @@
     "json.storageinterval.help": "Häufigkeit der Speicherverwaltung (Minuten)",
     "json.storagelocationsconfigure": "Konfigurieren",
     "json.storagelocationsconfigure.help": "Speicherorte hinzufügen oder bearbeiten",
-    "json.storagenotifyemail": "E-Mail-Adresse für Speicherbenachrichtigungen",
+    "json.storagenotifyemail": "E-Mail für Warnungen",
     "json.storagenotifyemail.help": "E-Mail-Adresse für Speicherwarnungen",
     "json.storagenotifyemailintervalhours": "E-Mail-Intervall",
     "json.storagenotifyemailintervalhours.help": "Häufigkeit der E-Mail-Warnungen (Stunden)",
