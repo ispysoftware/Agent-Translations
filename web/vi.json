@@ -862,7 +862,7 @@
     "codeinvalid": "Mã không hợp lệ",
     "codenotfound": "Không tìm thấy mã",
     "completefields": "Vui lòng hoàn tất tất cả các trường",
-    "emailexists": "Địa chỉ email đã tồn tại",
+    "confirmdelete": "Gõ \"[WORD]\" để xác nhận",    "emailexists": "Địa chỉ email đã tồn tại",
     "entermessage": "Nhập tin nhắn",
     "entermobile": "Vui lòng nhập số điện thoại di động của bạn theo cách bạn vẫn gọi ở quốc gia của mình",
     "failuresendingemail": "Không thể gửi email, vui lòng gửi thủ công đến sean@ispyconnect.com",

@@ -862,7 +862,7 @@
     "codeinvalid": "Code invalide",
     "codenotfound": "Code non trouvé",
     "completefields": "Veuillez renseigner tous les champs",
-    "emailexists": "L'adresse e-mail existe déjà",
+    "confirmdelete": "Tapez \"[WORD]\" pour confirmer",    "emailexists": "L'adresse e-mail existe déjà",
     "entermessage": "Saisissez le message",
     "entermobile": "Veuillez entrer votre numéro de téléphone portable au format national",
     "failuresendingemail": "Impossible d'envoyer un courrier électronique, veuillez l'envoyer manuellement à l'adresse sean@ispyconnect.com.",

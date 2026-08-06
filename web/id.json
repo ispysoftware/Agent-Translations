@@ -862,7 +862,7 @@
     "codeinvalid": "Kode tidak valid",
     "codenotfound": "Kode tidak ditemukan",
     "completefields": "Silakan lengkapi semua kolom",
-    "emailexists": "Alamat email sudah ada",
+    "confirmdelete": "Ketik \"[WORD]\" untuk mengonfirmasi",    "emailexists": "Alamat email sudah ada",
     "entermessage": "Masukkan pesan",
     "entermobile": "Silakan masukkan nomor ponsel Anda seperti yang Anda hubungi di negara Anda sendiri",
     "failuresendingemail": "Tidak dapat mengirim email, silakan kirim secara manual ke sean@ispyconnect.com",

@@ -862,7 +862,7 @@
     "codeinvalid": "コードが無効です",
     "codenotfound": "コードが見つかりません",
     "completefields": "すべてのフィールドを入力してください",
-    "emailexists": "メールアドレスは既に存在します",
+    "confirmdelete": "「[WORD]」と入力して確認してください",    "emailexists": "メールアドレスは既に存在します",
     "entermessage": "メッセージを入力してください",
     "entermobile": "ご自身の国でダイヤルする形式で携帯電話番号を入力してください",
     "failuresendingemail": "メールを送信できませんでした。sean@ispyconnect.com に手動でお送りください",

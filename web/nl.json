@@ -862,7 +862,7 @@
     "codeinvalid": "Ongeldige code",
     "codenotfound": "Code niet gevonden",
     "completefields": "Vul alle velden in",
-    "emailexists": "E-mailadres bestaat al",
+    "confirmdelete": "Typ \"[WORD]\" om te bevestigen",    "emailexists": "E-mailadres bestaat al",
     "entermessage": "Voer een bericht in",
     "entermobile": "Voer uw mobiele nummer in zoals u dit in uw eigen land zou bellen",
     "failuresendingemail": "E-mail verzenden mislukt, stuur handmatig naar sean@ispyconnect.com",

@@ -862,7 +862,7 @@
     "codeinvalid": "Geçersiz kod",
     "codenotfound": "Kod bulunamadı",
     "completefields": "Lütfen tüm alanları doldurun",
-    "emailexists": "E-posta adresi zaten mevcut",
+    "confirmdelete": "\"[WORD]\" yazarak onaylayın",    "emailexists": "E-posta adresi zaten mevcut",
     "entermessage": "Bir mesaj girin",
     "entermobile": "Lütfen cep telefonu numaranızı kendi ülkenizde arayacağınız şekilde girin",
     "failuresendingemail": "E-posta gönderilemedi, lütfen manuel olarak sean@ispyconnect.com adresine gönderin",

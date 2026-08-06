@@ -862,7 +862,7 @@
     "codeinvalid": "الرمز غير صالح",
     "codenotfound": "الرمز غير موجود",
     "completefields": "يرجى إكمال جميع الحقول",
-    "emailexists": "عنوان البريد الإلكتروني موجود بالفعل",
+    "confirmdelete": "اكتب \"[WORD]\" للتأكيد",    "emailexists": "عنوان البريد الإلكتروني موجود بالفعل",
     "entermessage": "أدخل رسالة",
     "entermobile": "يرجى إدخال رقم هاتفك المحمول كما تطلبه في بلدك",
     "failuresendingemail": "تعذر إرسال البريد الإلكتروني، يرجى الإرسال يدوياً إلى sean@ispyconnect.com",

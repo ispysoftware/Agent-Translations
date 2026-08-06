@@ -862,7 +862,7 @@
     "codeinvalid": "Ugyldig kode",
     "codenotfound": "Koden ble ikke funnet",
     "completefields": "Vennligst fyll ut alle felt",
-    "emailexists": "E-postadressen eksisterer allerede",
+    "confirmdelete": "Skriv \"[WORD]\" for å bekrefte",    "emailexists": "E-postadressen eksisterer allerede",
     "entermessage": "Skriv inn en melding",
     "entermobile": "Vennligst skriv inn mobilnummeret ditt slik du ville tastet det i ditt eget land",
     "failuresendingemail": "Kunne ikke sende e-post, vennligst send manuelt til sean@ispyconnect.com",

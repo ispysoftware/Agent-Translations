@@ -862,7 +862,7 @@
     "codeinvalid": "Érvénytelen kód",
     "codenotfound": "Nem található kód",
     "completefields": "Kérjük, töltse ki az összes mezőt",
-    "emailexists": "Az e-mail cím már létezik",
+    "confirmdelete": "Írd be a \"[WORD]\" szót a megerősítéshez",    "emailexists": "Az e-mail cím már létezik",
     "entermessage": "Írjon be egy üzenetet",
     "entermobile": "Kérjük, adja meg mobiltelefonszámát úgy, ahogy a saját országában is lenneforgatva",
     "failuresendingemail": "Nem küldhető az e-mail, kérjük, küldje manuálisan a címre: sean@ispyconnect.com",

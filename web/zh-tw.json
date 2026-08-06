@@ -862,7 +862,7 @@
     "codeinvalid": "代碼無效",
     "codenotfound": "找不到代碼",
     "completefields": "請填寫所有欄位",
-    "emailexists": "電子郵件地址已存在",
+    "confirmdelete": "輸入「[WORD]」以確認",    "emailexists": "電子郵件地址已存在",
     "entermessage": "輸入訊息",
     "entermobile": "請依您所在國家的撥號方式輸入行動電話號碼",
     "failuresendingemail": "無法發送電子郵件，請手動寄送至 sean@ispyconnect.com",
