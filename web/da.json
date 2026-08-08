@@ -843,6 +843,7 @@
   "updateagent": "Opdater Agent DVR?",
   "updateavailable": "Opdatering tilgængelig",
   "updateavailablehelp": "Vigtigt: Tag backup af din enhedskonfiguration via servermenuen før opdatering",
+  "updatemacinstaller": "For at opdatere Agent DVR på macOS skal du køre macOS-installationsprogrammet igen fra downloadside.",
   "upgraderequired": "Opgradering påkrævet",
   "upload": "Upload",
   "uploadfiles": "Upload filer?",

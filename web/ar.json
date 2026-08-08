@@ -843,6 +843,7 @@
   "updateagent": "هل تريد تحديث Agent DVR؟",
   "updateavailable": "تحديث متاح",
   "updateavailablehelp": "هام: قم بعمل نسخة احتياطية لتكوين جهازك باستخدام قائمة الخادم قبل التحديث",
+  "updatemacinstaller": "لتحديث Agent DVR على macOS، أعد تشغيل مثبت macOS من صفحة التحميل.",
   "upgraderequired": "مطلوب ترقية",
   "upload": "رفع",
   "uploadfiles": "هل تريد رفع الملفات؟",

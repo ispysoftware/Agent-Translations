@@ -843,6 +843,7 @@
   "updateagent": "Päivitetäänkö Agent DVR?",
   "updateavailable": "Päivitys saatavilla",
   "updateavailablehelp": "Tärkeää: Varmuuskopioi laitteen asetukset palvelinvalikon kautta ennen päivittämistä",
+  "updatemacinstaller": "Päivitä Agent DVR macOS:ssa lataamalla ja suorittamalla uudelleen macOS-asennusohjelman lataussivulta.",
   "upgraderequired": "Päivitys vaaditaan",
   "upload": "Lataa ylös",
   "uploadfiles": "Ladataanko tiedostot ylös?",

@@ -843,6 +843,7 @@
   "updateagent": "Agent DVR aktualisieren?",
   "updateavailable": "Update verfügbar",
   "updateavailablehelp": "Wichtig: Sichern Sie Ihre Gerätekonfiguration über das Servermenü, bevor Sie das Update durchführen",
+  "updatemacinstaller": "Um Agent DVR auf macOS zu aktualisieren, führen Sie das macOS-Installationsprogramm von der Download-Seite erneut aus.",
   "upgraderequired": "Upgrade erforderlich",
   "upload": "Hochladen",
   "uploadfiles": "Dateien hochladen?",

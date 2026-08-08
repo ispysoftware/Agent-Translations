@@ -843,6 +843,7 @@
   "updateagent": "Cập nhật Agent DVR?",
   "updateavailable": "Có bản cập nhật mới",
   "updateavailablehelp": "Quan trọng: Hãy sao lưu cấu hình thiết bị của bạn bằng menu máy chủ trước khi cập nhật",
+  "updatemacinstaller": "Để cập nhật Agent DVR trên macOS, hãy chạy lại trình cài đặt macOS từ trang tải xuống.",
   "upgraderequired": "Yêu cầu nâng cấp",
   "upload": "Tải lên",
   "uploadfiles": "Tải các tệp lên?",

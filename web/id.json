@@ -843,6 +843,7 @@
   "updateagent": "Perbarui Agent DVR?",
   "updateavailable": "Pembaruan tersedia",
   "updateavailablehelp": "Penting: Cadangkan konfigurasi perangkat Anda menggunakan menu server sebelum memperbarui",
+  "updatemacinstaller": "Untuk memperbarui Agent DVR di macOS, jalankan kembali installer macOS dari halaman unduhan.",
   "upgraderequired": "Upgrade diperlukan",
   "upload": "Unggah",
   "uploadfiles": "Unggah file?",

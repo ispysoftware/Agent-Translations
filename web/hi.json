@@ -843,6 +843,7 @@
   "updateagent": "Agent DVR अपडेट करें?",
   "updateavailable": "अपडेट उपलब्ध है",
   "updateavailablehelp": "महत्वपूर्ण: अपडेट करने से पहले सर्वर मेनू का उपयोग करके अपने डिवाइस कॉन्फ़िगरेशन का बैकअप लें",
+  "updatemacinstaller": "Agent DVR को macOS पर अपडेट करने के लिए, डाउनलोड पृष्ठ से macOS इंस्टॉलर को फिर से चलाएँ।",
   "upgraderequired": "अपग्रेड आवश्यक है",
   "upload": "अपलोड",
   "uploadfiles": "फाइलें अपलोड करें?",

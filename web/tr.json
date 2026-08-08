@@ -843,6 +843,7 @@
   "updateagent": "Agent DVR güncellensin mi?",
   "updateavailable": "Güncelleme mevcut",
   "updateavailablehelp": "Önemli: Güncellemeden önce sunucu menüsünü kullanarak cihaz yapılandırmanızı yedekleyin",
+  "updatemacinstaller": "Agent DVR'yi macOS'ta güncellemek için indirme sayfasından macOS yükleyicisini yeniden çalıştırın.",
   "upgraderequired": "Yükseltme gerekli",
   "upload": "Yükle",
   "uploadfiles": "Dosyalar yüklensin mi?",

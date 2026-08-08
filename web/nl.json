@@ -843,6 +843,7 @@
   "updateagent": "Agent DVR bijwerken?",
   "updateavailable": "Update beschikbaar",
   "updateavailablehelp": "Belangrijk: Maak een back-up van uw apparaatconfiguratie via het servermenu voordat u bijwerkt",
+  "updatemacinstaller": "Om Agent DVR op macOS bij te werken, voert u het macOS-installatieprogramma opnieuw uit van de downloadpagina.",
   "upgraderequired": "Upgrade vereist",
   "upload": "Uploaden",
   "uploadfiles": "Bestanden uploaden?",

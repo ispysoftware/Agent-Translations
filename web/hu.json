@@ -843,6 +843,7 @@
   "updateagent": "Frissítje az Agent DVR-t?",
   "updateavailable": "Frissítés elérhető",
   "updateavailablehelp": "Fontos: A frissítés előtt készítsen biztonsági mentést az eszköz konfigurációjáról a szerver menü használatával",
+  "updatemacinstaller": "Az Agent DVR macOS-en való frissítéséhez futtassa újra a macOS telepítőt a letöltési oldalról.",
   "upgraderequired": "Frissítés szükséges",
   "upload": "Feltöltés",
   "uploadfiles": "Fájlok feltöltése?",

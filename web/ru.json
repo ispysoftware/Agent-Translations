@@ -843,6 +843,7 @@
   "updateagent": "Обновить Agent DVR?",
   "updateavailable": "Доступно обновление",
   "updateavailablehelp": "Важно: перед обновлением создайте резервную копию конфигурации устройства через меню сервера",
+  "updatemacinstaller": "Чтобы обновить Agent DVR на macOS, повторно запустите установщик macOS со страницы загрузки.",
   "upgraderequired": "Требуется обновление",
   "upload": "Загрузить",
   "uploadfiles": "Загрузить файлы?",
