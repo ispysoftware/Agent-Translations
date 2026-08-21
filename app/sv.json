@@ -143,7 +143,7 @@
     "ffmpegvariantbusy": "En FFmpeg-version hämtas redan - kodkarinställningen lämnades oförändrad. Försök igen efter att Agent har startat om.",
     "ffmpegvariantdownloading": "Laddar ned det valda FFmpeg-bygget. Agent startas om automatiskt när det är klart.",
     "ffmpegvariantfailed": "FFmpeg-nedladdning misslyckades. Inställningen Software Encoders har återställts - kontrollera att servern har internetåtkomst och försök igen.",
-    "ffmpegvariantrestart": "FFmpeg-nedladdning slutförd. Startar om Agent för att tillämpa den nya versionen.",
+    "ffmpegvariantrestart": "Startar om Agent för att tillämpa den valda FFmpeg-byggnaden.",
     "file": "Fil",
     "fileeditcomplete": "Filredigering slutförd",
     "fileinqueue": "Filen ligger i kön",

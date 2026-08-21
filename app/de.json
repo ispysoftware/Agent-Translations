@@ -143,7 +143,7 @@
     "ffmpegvariantbusy": "Ein FFmpeg-Build-Download ist bereits in Bearbeitung - die Encodereinstellung wurde nicht geändert. Versuchen Sie es erneut, nachdem Agent neu gestartet wird.",
     "ffmpegvariantdownloading": "Lädt den ausgewählten FFmpeg-Build herunter. Agent wird automatisch neu gestartet, wenn er bereit ist.",
     "ffmpegvariantfailed": "FFmpeg-Download fehlgeschlagen. Die Einstellung Software Encoders wurde zurückgesetzt - überprüfen Sie, dass der Server Internetzugriff hat, und versuchen Sie es erneut.",
-    "ffmpegvariantrestart": "FFmpeg-Download abgeschlossen. Agent wird neu gestartet, um die neue Version zu übernehmen.",
+    "ffmpegvariantrestart": "Starten Sie Agent neu, um den ausgewählten FFmpeg-Build anzuwenden.",
     "file": "Datei",
     "fileeditcomplete": "Dateibearbeitung abgeschlossen",
     "fileinqueue": "Datei befindet sich in der Warteschlange",

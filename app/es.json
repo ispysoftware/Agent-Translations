@@ -143,7 +143,7 @@
     "ffmpegvariantbusy": "Ya está en curso una descarga de compilación de FFmpeg - la configuración del codificador se dejó sin cambios. Intenta de nuevo después de que Agent se reinicie.",
     "ffmpegvariantdownloading": "Descargando la compilación FFmpeg seleccionada. Agent se reiniciará automáticamente cuando esté listo.",
     "ffmpegvariantfailed": "La descarga de FFmpeg falló. La configuración de Software Encoders se ha revertido - verifica que el servidor tenga acceso a internet e intenta de nuevo.",
-    "ffmpegvariantrestart": "Descarga de FFmpeg completada. Reiniciando Agent para aplicar la nueva compilación.",
+    "ffmpegvariantrestart": "Reiniciando Agent para aplicar la compilación de FFmpeg seleccionada.",
     "file": "Archivo",
     "fileeditcomplete": "Edición de archivo completada",
     "fileinqueue": "El archivo está en cola",

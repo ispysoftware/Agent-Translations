@@ -143,7 +143,7 @@
     "ffmpegvariantbusy": "FFmpeg 빌드 다운로드가 이미 진행 중입니다. 인코더 설정은 변경되지 않았습니다. Agent가 다시 시작된 후 다시 시도하세요.",
     "ffmpegvariantdownloading": "선택한 FFmpeg 빌드를 다운로드 중입니다. 준비가 완료되면 Agent가 자동으로 다시 시작됩니다.",
     "ffmpegvariantfailed": "FFmpeg 다운로드에 실패했습니다. Software Encoders 설정이 되돌려졌습니다 - 서버에 인터넷 연결이 있는지 확인하고 다시 시도하십시오.",
-    "ffmpegvariantrestart": "FFmpeg 다운로드가 완료되었습니다. Agent를 다시 시작하여 새 빌드를 적용합니다.",
+    "ffmpegvariantrestart": "선택한 FFmpeg 빌드를 적용하기 위해 Agent를 다시 시작합니다.",
     "file": "파일",
     "fileeditcomplete": "파일 편집 완료",
     "fileinqueue": "파일이 대기열에 있습니다",

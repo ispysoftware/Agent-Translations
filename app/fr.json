@@ -143,7 +143,7 @@
     "ffmpegvariantbusy": "Un téléchargement de compilation FFmpeg est déjà en cours - le paramètre d'encodeur a été laissé inchangé. Réessayez après le redémarrage d'Agent.",
     "ffmpegvariantdownloading": "Téléchargement de la compilation FFmpeg sélectionnée. Agent redémarrera automatiquement quand elle sera prête.",
     "ffmpegvariantfailed": "Le téléchargement FFmpeg a échoué. Le paramètre Software Encoders a été rétabli - vérifiez que le serveur a accès à Internet et réessayez.",
-    "ffmpegvariantrestart": "Téléchargement de FFmpeg terminé. Redémarrage d'Agent pour appliquer la nouvelle version.",
+    "ffmpegvariantrestart": "Redémarrage d'Agent pour appliquer la version FFmpeg sélectionnée.",
     "file": "Fichier",
     "fileeditcomplete": "Modification du fichier terminée",
     "fileinqueue": "Le fichier est en file d'attente",

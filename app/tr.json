@@ -143,7 +143,7 @@
     "ffmpegvariantbusy": "FFmpeg derlemesi indirmesi zaten devam ediyor - kodlayıcı ayarı değiştirilmedi. Agent yeniden başladıktan sonra tekrar deneyin.",
     "ffmpegvariantdownloading": "Seçilen FFmpeg derlemesi indiriliyor. Hazır olduğunda Agent otomatik olarak yeniden başlayacaktır.",
     "ffmpegvariantfailed": "FFmpeg indir işlemi başarısız oldu. Yazılım Kodlayıcıları ayarı geri döndürüldü - sunucunun internet erişimi olduğunu kontrol edin ve tekrar deneyin.",
-    "ffmpegvariantrestart": "FFmpeg indirmesi tamamlandı. Yeni derlemeyi uygulamak için Agent yeniden başlatılıyor.",
+    "ffmpegvariantrestart": "Seçilen FFmpeg derlemesini uygulamak için Agent yeniden başlatılıyor.",
     "file": "Dosya",
     "fileeditcomplete": "Dosya Düzenleme Tamamlandı",
     "fileinqueue": "Dosya kuyrukta",

@@ -143,7 +143,7 @@
     "ffmpegvariantbusy": "Een FFmpeg-build-download is al bezig - de encoder-instelling is ongewijzigd gelaten. Probeer opnieuw na het herstarten van Agent.",
     "ffmpegvariantdownloading": "Het geselecteerde FFmpeg-build wordt gedownload. Agent wordt automatisch opnieuw gestart wanneer het klaar is.",
     "ffmpegvariantfailed": "FFmpeg-download mislukt. De instelling Software Encoders is hersteld - controleer of de server internettoegang heeft en probeer het opnieuw.",
-    "ffmpegvariantrestart": "FFmpeg-download voltooid. Agent wordt opnieuw gestart om de nieuwe build toe te passen.",
+    "ffmpegvariantrestart": "Agent opnieuw starten om de geselecteerde FFmpeg-build toe te passen.",
     "file": "Bestand",
     "fileeditcomplete": "Bewerken bestand voltooid",
     "fileinqueue": "Bestand staat in wachtrij",

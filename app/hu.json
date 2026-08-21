@@ -143,7 +143,7 @@
     "ffmpegvariantbusy": "Az FFmpeg-összeállítás letöltése már folyamatban van - az encoder beállítás változatlan maradt. Próbálja újra az Agent újraindítása után.",
     "ffmpegvariantdownloading": "A kiválasztott FFmpeg verzió letöltése folyamatban van. Az Agent automatikusan újraindul, amikor elkészül.",
     "ffmpegvariantfailed": "Az FFmpeg letöltése meghiúsult. A Software Encoders beállítás vissza lett állítva - ellenőrizze, hogy a szerver rendelkezik-e internetkapcsolattal, és próbálja újra.",
-    "ffmpegvariantrestart": "FFmpeg letöltése befejezve. Agent újraindítása az új build alkalmazásához.",
+    "ffmpegvariantrestart": "Az Agent újraindítása a kiválasztott FFmpeg verzió alkalmazásához.",
     "file": "Fájl",
     "fileeditcomplete": "Fájlszerkesztés befejezve",
     "fileinqueue": "A fájl a sorban van",

@@ -143,7 +143,7 @@
     "ffmpegvariantbusy": "جاري بالفعل تحميل نسخة FFmpeg - تم ترك إعدادات المشفر دون تغيير. حاول مرة أخرى بعد إعادة تشغيل Agent.",
     "ffmpegvariantdownloading": "جاري تنزيل بناء FFmpeg المحدد. سيعاد تشغيل Agent تلقائياً عند الانتهاء.",
     "ffmpegvariantfailed": "فشل تحميل FFmpeg. تم استرجاع إعدادات برامج التشفير - تحقق من أن الخادم لديه وصول إلى الإنترنت وحاول مرة أخرى.",
-    "ffmpegvariantrestart": "تم تحميل FFmpeg بنجاح. إعادة تشغيل Agent لتطبيق الإصدار الجديد.",
+    "ffmpegvariantrestart": "إعادة تشغيل Agent لتطبيق إصدار FFmpeg المحدد.",
     "file": "ملف",
     "fileeditcomplete": "اكتمل تعديل الملف",
     "fileinqueue": "الملف في قائمة الانتظار",

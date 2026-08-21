@@ -143,7 +143,7 @@
     "ffmpegvariantbusy": "Un download della build di FFmpeg è già in corso - l'impostazione dell'encoder è rimasta invariata. Riprova dopo il riavvio di Agent.",
     "ffmpegvariantdownloading": "Download della build FFmpeg selezionata in corso. Agent si riavvierà automaticamente quando sarà pronto.",
     "ffmpegvariantfailed": "Il download di FFmpeg non è riuscito. L'impostazione Software Encoders è stata ripristinata - verifica che il server abbia accesso a Internet e riprova.",
-    "ffmpegvariantrestart": "Download di FFmpeg completato. Riavvio di Agent per applicare la nuova build.",
+    "ffmpegvariantrestart": "Riavvio di Agent per applicare la compilazione FFmpeg selezionata.",
     "file": "File",
     "fileeditcomplete": "Modifica file completata",
     "fileinqueue": "Il file è in coda",

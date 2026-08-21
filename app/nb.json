@@ -143,7 +143,7 @@
     "ffmpegvariantbusy": "En FFmpeg-byggednlasting pågår allerede - koderinnstillingen ble ikke endret. Prøv igjen etter at Agent starter på nytt.",
     "ffmpegvariantdownloading": "Laster ned den valgte FFmpeg-versjonen. Agent vil starte på nytt automatisk når den er klar.",
     "ffmpegvariantfailed": "FFmpeg-nedlastingen mislyktes. Innstillingen Programvareenkodere har blitt tilbakestilt - kontroller at serveren har internettilgang og prøv igjen.",
-    "ffmpegvariantrestart": "FFmpeg-nedlastingen er fullført. Starter Agent på nytt for å bruke det nye bygget.",
+    "ffmpegvariantrestart": "Starter Agent på nytt for å bruke den valgte FFmpeg-versjonen.",
     "file": "Geo-gjerde-hendelser: AV",
     "fileeditcomplete": "Filredigering fullført",
     "fileinqueue": "Filen er i kø",

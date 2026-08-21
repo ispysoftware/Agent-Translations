@@ -143,7 +143,7 @@
     "ffmpegvariantbusy": "Stahování build FFmpeg je již v průběhu - nastavení kodéru bylo ponecháno beze změn. Zkuste to znovu poté, co se Agent restartuje.",
     "ffmpegvariantdownloading": "Stahování vybraného sestavení FFmpeg. Agent se automaticky restartuje, jakmile bude připraven.",
     "ffmpegvariantfailed": "Stažení FFmpeg se nezdařilo. Nastavení Software Encoders bylo vráceno zpět - zkontrolujte, že server má přístup k internetu, a zkuste znovu.",
-    "ffmpegvariantrestart": "Stahování FFmpeg je hotovo. Restartování Agent k aplikování nového buildu.",
+    "ffmpegvariantrestart": "Restartování agenta pro použití vybraného FFmpeg buildu.",
     "file": "Soubor",
     "fileeditcomplete": "Úprava souboru dokončena",
     "fileinqueue": "Soubor je ve frontě",

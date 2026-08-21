@@ -143,7 +143,7 @@
     "ffmpegvariantbusy": "یک دانلود ساخت FFmpeg در حال انجام است - تنظیم رمزگذار بدون تغییر باقی ماند. بعد از راه‌اندازی مجدد Agent دوباره تلاش کنید.",
     "ffmpegvariantdownloading": "در حال دانلود نسخه انتخاب‌شدهٔ FFmpeg است. Agent به‌طور خودکار هنگام آماده‌بودن دوباره راه‌اندازی می‌شود.",
     "ffmpegvariantfailed": "دانلود FFmpeg ناموفق بود. تنظیم Software Encoders برگردانده شده است - بررسی کنید که سرور دسترسی اینترنتی دارد و دوباره امتحان کنید.",
-    "ffmpegvariantrestart": "دانلود FFmpeg تکمیل شد. Agent را مجدد راه‌اندازی می‌کنیم تا ساخت جدید اعمال شود.",
+    "ffmpegvariantrestart": "در حال راه‌اندازی مجدد Agent برای اعمال نسخه FFmpeg انتخاب‌شده.",
     "file": "فایل",
     "fileeditcomplete": "ویرایش فایل کامل شد",
     "fileinqueue": "فایل در صف است",

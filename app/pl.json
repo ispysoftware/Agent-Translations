@@ -143,7 +143,7 @@
     "ffmpegvariantbusy": "Pobieranie kompilacji FFmpeg jest już w toku - ustawienie kodera pozostało niezmienione. Spróbuj ponownie po ponownym uruchomieniu Agent DVR.",
     "ffmpegvariantdownloading": "Pobieranie wybranej kompilacji FFmpeg. Agent uruchomi się automatycznie, gdy będzie gotowy.",
     "ffmpegvariantfailed": "Pobieranie FFmpeg nie powiodło się. Ustawienie Kodery oprogramowania zostało przywrócone - sprawdź, czy serwer ma dostęp do Internetu i spróbuj ponownie.",
-    "ffmpegvariantrestart": "Pobieranie FFmpeg zakończone. Ponowne uruchamianie Agent w celu zastosowania nowej kompilacji.",
+    "ffmpegvariantrestart": "Ponowne uruchamianie Agent w celu zastosowania wybranej kompilacji FFmpeg.",
     "file": "Plik",
     "fileeditcomplete": "Edycja pliku zakończona",
     "fileinqueue": "Plik jest w kolejce",

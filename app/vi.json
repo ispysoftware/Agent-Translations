@@ -143,7 +143,7 @@
     "ffmpegvariantbusy": "Quá trình tải xuống bản dựng FFmpeg đã được bắt đầu - cài đặt bộ mã hóa không được thay đổi. Thử lại sau khi Agent khởi động lại.",
     "ffmpegvariantdownloading": "Đang tải xuống bản dựng FFmpeg đã chọn. Agent sẽ tự động khởi động lại khi sẵn sàng.",
     "ffmpegvariantfailed": "Tải xuống FFmpeg không thành công. Cài đặt Software Encoders đã được khôi phục - kiểm tra xem máy chủ có kết nối internet và thử lại.",
-    "ffmpegvariantrestart": "Tải xuống FFmpeg hoàn tất. Khởi động lại Agent để áp dụng bản dựng mới.",
+    "ffmpegvariantrestart": "Khởi động lại Agent để áp dụng bản dựng FFmpeg đã chọn.",
     "file": "Tệp",
     "fileeditcomplete": "Chỉnh sửa tệp hoàn tất",
     "fileinqueue": "Tệp đang trong hàng đợi",

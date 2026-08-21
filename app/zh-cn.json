@@ -143,7 +143,7 @@
     "ffmpegvariantbusy": "FFmpeg 构建版本的下载已在进行中 - 编码器设置保持不变。请在 Agent 重启后重试。",
     "ffmpegvariantdownloading": "正在下载选定的 FFmpeg 构建。Agent 准备好后将自动重启。",
     "ffmpegvariantfailed": "FFmpeg 下载失败。软件编码器设置已还原 - 请检查服务器是否有互联网访问权限，然后重试。",
-    "ffmpegvariantrestart": "FFmpeg 下载完成。正在重新启动 Agent 以应用新版本。",
+    "ffmpegvariantrestart": "正在重新启动 Agent 以应用选定的 FFmpeg 构建版本。",
     "file": "文件",
     "fileeditcomplete": "文件编辑完成",
     "fileinqueue": "文件已在队列中",

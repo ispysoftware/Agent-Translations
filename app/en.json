@@ -143,7 +143,7 @@
     "ffmpegvariantbusy": "An FFmpeg build download is already in progress - the encoder setting was left unchanged. Try again after Agent restarts.",
     "ffmpegvariantdownloading": "Downloading the selected FFmpeg build. Agent will restart automatically when it is ready.",
     "ffmpegvariantfailed": "FFmpeg download failed. The Software Encoders setting has been reverted - check that the server has internet access and try again.",
-    "ffmpegvariantrestart": "FFmpeg download complete. Restarting Agent to apply the new build.",
+    "ffmpegvariantrestart": "Restarting Agent to apply the selected FFmpeg build.",
     "file": "File",
     "fileeditcomplete": "File Edit Complete",
     "fileinqueue": "File is in queue",

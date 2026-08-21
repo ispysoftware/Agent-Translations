@@ -143,7 +143,7 @@
     "ffmpegvariantbusy": "En FFmpeg-build-download er allerede i gang - indstillingen for encoder blev ikke ændret. Prøv igen efter Agent-genstart.",
     "ffmpegvariantdownloading": "Der downloades det valgte FFmpeg-build. Agent genstarter automatisk, når det er klar.",
     "ffmpegvariantfailed": "FFmpeg-download mislykkedes. Indstillingen Software Encoders er blevet gendannet - kontroller, at serveren har internetadgang, og prøv igen.",
-    "ffmpegvariantrestart": "FFmpeg download afsluttet. Genstarter Agent for at anvende det nye build.",
+    "ffmpegvariantrestart": "Genstarter Agent for at anvende det valgte FFmpeg-build.",
     "file": "Fil",
     "fileeditcomplete": "Filredigering fuldført",
     "fileinqueue": "Filen er i kø",

@@ -143,7 +143,7 @@
     "ffmpegvariantbusy": "Unduhan build FFmpeg sudah berlangsung - pengaturan encoder dibiarkan tidak berubah. Coba lagi setelah Agent dimulai ulang.",
     "ffmpegvariantdownloading": "Mengunduh versi FFmpeg yang dipilih. Agent akan dimulai ulang secara otomatis saat siap.",
     "ffmpegvariantfailed": "Unduhan FFmpeg gagal. Pengaturan Software Encoders telah dikembalikan - periksa bahwa server memiliki akses internet dan coba lagi.",
-    "ffmpegvariantrestart": "Unduhan FFmpeg selesai. Memulai ulang Agent untuk menerapkan build baru.",
+    "ffmpegvariantrestart": "Memulai ulang Agent untuk menerapkan build FFmpeg yang dipilih.",
     "file": "Berkas",
     "fileeditcomplete": "Edit berkas selesai",
     "fileinqueue": "Berkas ada dalam antrean",

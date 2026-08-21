@@ -143,7 +143,7 @@
     "ffmpegvariantbusy": "FFmpeg 建置下載已在進行中 - 編碼器設定保持不變。請在 Agent 重新啟動後重試。",
     "ffmpegvariantdownloading": "正在下載選定的 FFmpeg 建置。Agent 準備就緒時會自動重新啟動。",
     "ffmpegvariantfailed": "FFmpeg 下載失敗。軟體編碼器設定已還原 - 請檢查伺服器是否有網際網路存取，然後重試。",
-    "ffmpegvariantrestart": "FFmpeg 下載完成。重新啟動 Agent 以套用新建置。",
+    "ffmpegvariantrestart": "正在重新啟動 Agent 以套用所選的 FFmpeg 組建。",
     "file": "檔案",
     "fileeditcomplete": "檔案編輯完成",
     "fileinqueue": "檔案已加入佇列",

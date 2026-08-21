@@ -143,7 +143,7 @@
     "ffmpegvariantbusy": "FFmpeg ビルドのダウンロードが既に進行中です - エンコーダー設定は変更されていません。Agent の再起動後にもう一度お試しください。",
     "ffmpegvariantdownloading": "選択されたFFmpegビルドをダウンロードしています。準備ができたときに Agent が自動的に再起動します。",
     "ffmpegvariantfailed": "FFmpegのダウンロードに失敗しました。ソフトウェアエンコーダー設定がリセットされました。サーバーがインターネットにアクセスできることを確認してから、もう一度試してください。",
-    "ffmpegvariantrestart": "FFmpegのダウンロードが完了しました。新しいビルドを適用するためにAgentを再起動しています。",
+    "ffmpegvariantrestart": "選択したFFmpegビルドを適用するためにAgentを再起動しています。",
     "file": "ファイル",
     "fileeditcomplete": "ファイル編集完了",
     "fileinqueue": "キューに追加済みです",
