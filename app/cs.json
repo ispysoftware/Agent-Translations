@@ -642,6 +642,8 @@
     "json.do": "Provádět",
     "json.doubletake": "DoubleTake",
     "json.doubletake.help": "DoubleTake poskytuje jednotné API pro servery rozpoznávání tváří. Viz <a href=\"https://github.com/skrashevich/double-take\" target=\"_blank\">https://github.com/skrashevich/double-take</a>",
+    "json.doubletakepassword": "Heslo / API Token",
+    "json.doubletakepassword.help": "Vyžadováno pouze v případě, že je v DoubleTake povoleno ověřování. Zadejte buď heslo ke svému přihlášení do DoubleTake, nebo API token (vytvořte jej v DoubleTake pod Nastavení > Tokeny). Ponechte prázdné, pokud je ověřování vypnuto.",
     "json.downloadmodel": "Instalovat model",
     "json.downloadmodel.help": "Kliknutím na tlačítko stáhnete soubor modelu a po obnovení této karty aktivujete inteligentní funkce",
     "json.downloadobjects": "Stáhnout objekty",

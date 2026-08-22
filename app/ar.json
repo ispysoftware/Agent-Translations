@@ -642,6 +642,8 @@
     "json.do": "تنفيذ",
     "json.doubletake": "DoubleTake",
     "json.doubletake.help": "يوفر DoubleTake واجهة برمجة تطبيقات موحدة لخوادم التعرف على الوجه. راجع <a href=\"https://github.com/skrashevich/double-take\" target=\"_blank\">https://github.com/skrashevich/double-take</a>",
+    "json.doubletakepassword": "كلمة المرور / رمز API",
+    "json.doubletakepassword.help": "مطلوب فقط إذا تم تفعيل المصادقة في DoubleTake. أدخل كلمة مرور تسجيل الدخول الخاصة بك في DoubleTake أو رمز API (قم بإنشاء واحد في DoubleTake ضمن Settings > Tokens). اترك الحقل فارغاً إذا تم تعطيل المصادقة.",
     "json.downloadmodel": "تثبيت النموذج",
     "json.downloadmodel.help": "انقر على الزر لتنزيل ملف النموذج وإعادة تحميل هذه التبويب لتفعيل الذكاء الاصطناعي",
     "json.downloadobjects": "تنزيل الكائنات",

@@ -642,6 +642,8 @@
     "json.do": "実行",
     "json.doubletake": "DoubleTake",
     "json.doubletake.help": "DoubleTakeは、顔認識サーバーのための統一APIを提供します。<a href=\"https://github.com/skrashevich/double-take\" target=\"_blank\">https://github.com/skrashevich/double-take</a>を参照してください。",
+    "json.doubletakepassword": "パスワード / API トークン",
+    "json.doubletakepassword.help": "DoubleTakeで認証が有効になっている場合にのみ必要です。DoubleTakeのログインパスワードまたはAPIトークンのいずれかを入力してください(DoubleTakeの設定 > トークンで作成できます)。認証が無効な場合は空白のままにしてください。",
     "json.downloadmodel": "モデルのインストール",
     "json.downloadmodel.help": "ボタンをクリックしてモデルファイルをダウンロードし、このタブを再読み込みするとインテリジェンス機能が有効になります",
     "json.downloadobjects": "オブジェクトのダウンロード",

@@ -642,6 +642,8 @@
     "json.do": "Fai",
     "json.doubletake": "DoubleTake",
     "json.doubletake.help": "DoubleTake fornisce un'API unificata per i server di riconoscimento facciale. Vedi <a href=\"https://github.com/skrashevich/double-take\" target=\"_blank\">https://github.com/skrashevich/double-take</a>",
+    "json.doubletakepassword": "Password / Token API",
+    "json.doubletakepassword.help": "Necessario solo se l'autenticazione è abilitata in DoubleTake. Immettere la password di accesso DoubleTake o un token API (crearne uno in DoubleTake in Impostazioni > Token). Lasciare vuoto se l'autenticazione è disabilitata.",
     "json.downloadmodel": "Installa modello",
     "json.downloadmodel.help": "Clicca sul pulsante per scaricare il file del modello e ricarica questa scheda per abilitare l'intelligenza",
     "json.downloadobjects": "Scarica oggetti",

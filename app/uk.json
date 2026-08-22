@@ -642,6 +642,8 @@
     "json.do": "Виконувати",
     "json.doubletake": "DoubleTake",
     "json.doubletake.help": "DoubleTake надає єдиний API для серверів розпізнавання облич. Дивіться <a href=\"https://github.com/skrashevich/double-take\" target=\"_blank\">https://github.com/skrashevich/double-take</a>",
+    "json.doubletakepassword": "Пароль / Токен API",
+    "json.doubletakepassword.help": "Потрібно тільки, якщо в DoubleTake увімкнена автентифікація. Введіть свій пароль входу DoubleTake або API токен (створіть його в DoubleTake за допомогою Settings > Tokens). Залиште порожнім, якщо автентифікація вимкнена.",
     "json.downloadmodel": "Встановити модель",
     "json.downloadmodel.help": "Натисніть кнопку, щоб завантажити файл моделі та перезавантажте цю вкладку для активації інтелекту",
     "json.downloadobjects": "Завантажити об'єкти",

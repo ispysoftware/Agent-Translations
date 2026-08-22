@@ -642,6 +642,8 @@
     "json.do": "Doen",
     "json.doubletake": "DoubleTake",
     "json.doubletake.help": "DoubleTake biedt een uniforme API voor gezichtsherkenningsservers. Zie <a href=\"https://github.com/skrashevich/double-take\" target=\"_blank\">https://github.com/skrashevich/double-take</a>",
+    "json.doubletakepassword": "Wachtwoord / API Token",
+    "json.doubletakepassword.help": "Alleen nodig als verificatie is ingeschakeld in DoubleTake. Voer uw DoubleTake-aanmeldingswachtwoord of een API-token in (maak er een aan in DoubleTake onder Settings > Tokens). Laat leeg als verificatie is uitgeschakeld.",
     "json.downloadmodel": "Model installeren",
     "json.downloadmodel.help": "Klik op de knop om het modelbestand te downloaden en herlaad dit tabblad om intelligentie in te schakelen",
     "json.downloadobjects": "Objecten downloaden",

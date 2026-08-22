@@ -642,6 +642,8 @@
     "json.do": "Tee",
     "json.doubletake": "DoubleTake",
     "json.doubletake.help": "DoubleTake tarjoaa yhtenäisen API:n kasvojentunnistuspalvelimille. Katso <a href=\"https://github.com/skrashevich/double-take\" target=\"_blank\">https://github.com/skrashevich/double-take</a>",
+    "json.doubletakepassword": "Salasana / API-tunnus",
+    "json.doubletakepassword.help": "Tarvitaan vain, jos todennus on käytössä DoubleTakessa. Syötä joko DoubleTake-kirjautumissalasanasi tai API-tunnus (luo sellainen DoubleTakessa kohdasta Settings > Tokens). Jätä tyhjäksi, jos todennus on poistettu käytöstä.",
     "json.downloadmodel": "Asenna malli",
     "json.downloadmodel.help": "Klikkaa painiketta ladataksesi mallitiedoston ja lataa tämä välilehti ottaaksesi älykkyyden käyttöön",
     "json.downloadobjects": "Lataa kohteet",

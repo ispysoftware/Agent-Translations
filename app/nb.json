@@ -642,6 +642,8 @@
     "json.do": "Utfør",
     "json.doubletake": "DoubleTake",
     "json.doubletake.help": "DoubleTake tilbyr et enhetlig API for ansiktsgjenkjenningsservere. Se <a href=\"https://github.com/skrashevich/double-take\" target=\"_blank\">https://github.com/skrashevich/double-take</a>",
+    "json.doubletakepassword": "Passord / API-token",
+    "json.doubletakepassword.help": "Bare nødvendig hvis autentisering er aktivert i DoubleTake. Skriv inn enten DoubleTake-påloggingspassordet eller en API-token (opprett en i DoubleTake under Settings > Tokens). La feltet stå tomt hvis autentisering er deaktivert.",
     "json.downloadmodel": "Installer modell",
     "json.downloadmodel.help": "Klikk på knappen for å laste ned modellfilen og last inn denne fanen på nytt for å aktivere intelligens",
     "json.downloadobjects": "Last ned objekter",

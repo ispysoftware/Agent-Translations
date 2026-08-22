@@ -642,6 +642,8 @@
     "json.do": "انجام دادن",
     "json.doubletake": "DoubleTake",
     "json.doubletake.help": "DoubleTake یک API یکپارچه برای سرورهای تشخیص چهره ارائه می‌دهد. ببینید <a href=\"https://github.com/skrashevich/double-take\" target=\"_blank\">https://github.com/skrashevich/double-take</a>",
+    "json.doubletakepassword": "رمزعبور / توکن API",
+    "json.doubletakepassword.help": "تنها در صورتی ضروری است که احراز هویت در DoubleTake فعال باشد. رمز عبور ورود DoubleTake یا یک توکن API خود را وارد کنید (یکی را در DoubleTake تحت Settings > Tokens ایجاد کنید). اگر احراز هویت غیرفعال است، خالی بگذارید.",
     "json.downloadmodel": "نصب مدل",
     "json.downloadmodel.help": "برای دانلود فایل مدل و بارگذاری مجدد این تب جهت فعال‌سازی هوشمندی، روی دکمه کلیک کنید",
     "json.downloadobjects": "دانلود اشیاء",

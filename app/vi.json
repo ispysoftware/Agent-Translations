@@ -642,6 +642,8 @@
     "json.do": "Thực hiện",
     "json.doubletake": "DoubleTake",
     "json.doubletake.help": "DoubleTake cung cấp một API thống nhất cho các máy chủ nhận diện khuôn mặt. Xem <a href=\"https://github.com/skrashevich/double-take\" target=\"_blank\">https://github.com/skrashevich/double-take</a>",
+    "json.doubletakepassword": "Mật khẩu / Mã thông báo API",
+    "json.doubletakepassword.help": "Chỉ cần thiết nếu xác thực được bật trong DoubleTake. Nhập mật khẩu đăng nhập DoubleTake của bạn hoặc một token API (tạo token trong DoubleTake dưới Settings > Tokens). Để trống nếu xác thực bị vô hiệu hóa.",
     "json.downloadmodel": "Cài đặt mô hình",
     "json.downloadmodel.help": "Nhấp vào nút để tải xuống tệp mô hình và tải lại tab này để kích hoạt tính năng thông minh",
     "json.downloadobjects": "Tải xuống đối tượng",

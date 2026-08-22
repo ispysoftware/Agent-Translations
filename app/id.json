@@ -642,6 +642,8 @@
     "json.do": "Lakukan",
     "json.doubletake": "DoubleTake",
     "json.doubletake.help": "DoubleTake menyediakan API terpadu untuk server pengenalan wajah. Lihat <a href=\"https://github.com/skrashevich/double-take\" target=\"_blank\">https://github.com/skrashevich/double-take</a>",
+    "json.doubletakepassword": "Sandi / Token API",
+    "json.doubletakepassword.help": "Hanya diperlukan jika autentikasi diaktifkan di DoubleTake. Masukkan kata sandi login DoubleTake Anda atau token API (buat satu di DoubleTake di bawah Settings > Tokens). Biarkan kosong jika autentikasi dinonaktifkan.",
     "json.downloadmodel": "Instal Model",
     "json.downloadmodel.help": "Klik tombol untuk mengunduh file model dan muat ulang tab ini untuk mengaktifkan kecerdasan",
     "json.downloadobjects": "Unduh Objek",

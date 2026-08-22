@@ -642,6 +642,8 @@
     "json.do": "执行",
     "json.doubletake": "DoubleTake",
     "json.doubletake.help": "DoubleTake 为面部识别服务器提供统一的API。参见 <a href=\"https://github.com/skrashevich/double-take\" target=\"_blank\">https://github.com/skrashevich/double-take</a>",
+    "json.doubletakepassword": "密码 / API Token",
+    "json.doubletakepassword.help": "仅在 DoubleTake 中启用了身份验证时才需要。输入您的 DoubleTake 登录密码或 API 令牌（在 DoubleTake 的\"设置\">\"令牌\"下创建）。如果身份验证已禁用，则留空。",
     "json.downloadmodel": "安装模型",
     "json.downloadmodel.help": "点击按钮下载模型文件并重新加载此选项卡以启用智能功能",
     "json.downloadobjects": "下载对象",

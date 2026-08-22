@@ -642,6 +642,8 @@
     "json.do": "Yap",
     "json.doubletake": "DoubleTake",
     "json.doubletake.help": "DoubleTake, yüz tanıma sunucuları için birleşik bir API sağlar. Bakınız: <a href=\"https://github.com/skrashevich/double-take\" target=\"_blank\">https://github.com/skrashevich/double-take</a>",
+    "json.doubletakepassword": "Parola / API Token",
+    "json.doubletakepassword.help": "DoubleTake'de kimlik doğrulama etkinse yalnızca gereklidir. DoubleTake giriş parolanızı veya bir API jetonunu girin (DoubleTake'de Ayarlar > Jetonlar altında bir tane oluşturun). Kimlik doğrulama devre dışıysa boş bırakın.",
     "json.downloadmodel": "Modeli yükle",
     "json.downloadmodel.help": "Model dosyasını indirmek için düğmeye tıklayın ve zekayı etkinleştirmek için bu sekmeyi yeniden yükleyin",
     "json.downloadobjects": "Nesneleri indir",

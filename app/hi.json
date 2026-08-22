@@ -642,6 +642,8 @@
     "json.do": "करें",
     "json.doubletake": "DoubleTake",
     "json.doubletake.help": "DoubleTake चेहरे की पहचान करने वाले सर्वरों के लिए एक एकीकृत API प्रदान करता है। देखें <a href=\"https://github.com/skrashevich/double-take\" target=\"_blank\">https://github.com/skrashevich/double-take</a>",
+    "json.doubletakepassword": "पासवर्ड / API Token",
+    "json.doubletakepassword.help": "केवल तभी आवश्यक है यदि DoubleTake में प्रमाणीकरण सक्षम है। अपना DoubleTake लॉगिन पासवर्ड या API टोकन दर्ज करें (DoubleTake में Settings > Tokens के अंतर्गत एक बनाएं)। यदि प्रमाणीकरण अक्षम है तो खाली छोड़ें।",
     "json.downloadmodel": "मॉडल इंस्टॉल करें",
     "json.downloadmodel.help": "मॉडल फ़ाइल डाउनलोड करने के लिए बटन पर क्लिक करें और इंटेलिजेंस सक्षम करने के लिए इस टैब को रीलोड करें",
     "json.downloadobjects": "ऑब्जेक्ट्स डाउनलोड करें",

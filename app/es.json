@@ -642,6 +642,8 @@
     "json.do": "Hacer",
     "json.doubletake": "DoubleTake",
     "json.doubletake.help": "DoubleTake proporciona una API unificada para servidores de reconocimiento facial. Consulte <a href=\"https://github.com/skrashevich/double-take\" target=\"_blank\">https://github.com/skrashevich/double-take</a>",
+    "json.doubletakepassword": "Contraseña / Token de API",
+    "json.doubletakepassword.help": "Solo es necesario si la autenticación está habilitada en DoubleTake. Ingrese su contraseña de inicio de sesión de DoubleTake o un token de API (cree uno en DoubleTake en Configuración > Tokens). Deje en blanco si la autenticación está deshabilitada.",
     "json.downloadmodel": "Instalar modelo",
     "json.downloadmodel.help": "Haga clic en el botón para descargar el archivo del modelo y recargue esta pestaña para habilitar la inteligencia",
     "json.downloadobjects": "Descargar objetos",

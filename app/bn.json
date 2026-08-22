@@ -642,6 +642,8 @@
     "json.do": "করুন",
     "json.doubletake": "DoubleTake",
     "json.doubletake.help": "DoubleTake ফেসিয়াল রিকগনিশন সার্ভারগুলির জন্য একটি ইউনিফাইড API প্রদান করে। দেখুন <a href=\"https://github.com/skrashevich/double-take\" target=\"_blank\">https://github.com/skrashevich/double-take</a>",
+    "json.doubletakepassword": "পাসওয়ার্ড / API টোকেন",
+    "json.doubletakepassword.help": "শুধুমাত্র প্রয়োজন যদি DoubleTake এ অথেনটিকেশন সক্ষম থাকে। আপনার DoubleTake লগইন পাসওয়ার্ড অথবা একটি API টোকেন প্রবেश করুন (DoubleTake এ Settings > Tokens এর অধীনে একটি তৈরি করুন)। যদি অথেনটিকেশন নিষ্ক্রিয় থাকে তবে খালি রাখুন।",
     "json.downloadmodel": "মডেল ইনস্টল করুন",
     "json.downloadmodel.help": "মডেল ফাইলটি ডাউনলোড করতে বাটনে ক্লিক করুন এবং ইন্টেলিজেন্স সক্ষম করতে এই ট্যাবটি রিলোড করুন",
     "json.downloadobjects": "অবজেক্ট ডাউনলোড করুন",

@@ -642,6 +642,8 @@
     "json.do": "Készítsen",
     "json.doubletake": "DoubleTake",
     "json.doubletake.help": "A DoubleTake egységes API-t biztosít az arcfelismerő szerverek számára. Lásd: <a href=\"https://github.com/skrashevich/double-take\" target=\"_blank\">https://github.com/skrashevich/double-take</a>",
+    "json.doubletakepassword": "Jelszó / API Token",
+    "json.doubletakepassword.help": "Csak akkor szükséges, ha a hitelesítés engedélyezve van a DoubleTake-ben. Adja meg a DoubleTake bejelentkezési jelszavát vagy egy API tokent (létrehozhat egyet a DoubleTake-ben a Settings > Tokens menüpontban). Hagyja üresen, ha a hitelesítés le van tiltva.",
     "json.downloadmodel": "Modell telepítése",
     "json.downloadmodel.help": "Kattintson a gombra a modellfájl letöltéséhez, majd töltse újra ezt a fült, az intelligencia aktiválásához",
     "json.downloadobjects": "Objektumok letöltése",
