@@ -98,6 +98,7 @@
     "cloudconfigwarning": "Auktorisera molnleverantör i serverinställningar",
     "cmdnotrecognized": "Kommandot känns inte igen: [CMD]",
     "command": "Kommando",
+    "commandnotfound": "Kommando kändes inte igen",
     "configurertmp": "Konfigurera streaming i serverinställningar",
     "configuresms": "(Kräver SMS-krediter) Ta bort inledande 0, inkludera landskod t.ex. för Australien: 61410123456",
     "configuresmtp": "Prenumerera på eller konfigurera SMTP i serverinställningar",

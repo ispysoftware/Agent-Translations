@@ -98,6 +98,7 @@
     "cloudconfigwarning": "Autorizujte poskytovatele Cloud v nastavení serveru",
     "cmdnotrecognized": "Příkaz nebyl rozpoznán: [CMD]",
     "command": "Příkaz",
+    "commandnotfound": "Příkaz není rozpoznán",
     "configurertmp": "Konfigurujte streamování v nastavení serveru",
     "configuresms": "(Vyžaduje SMS kredity) Odstraňte vedoucí nulu, uveďte kód země, např. pro Austrálii: 61410123456",
     "configuresmtp": "Odebírejte nebo nakonfigurujte SMTP v nastavení serveru",

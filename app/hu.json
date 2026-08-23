@@ -98,6 +98,7 @@
     "cloudconfigwarning": "Cloud szolgáltató engélyesítése a Szerver beállításokban",
     "cmdnotrecognized": "Nem ismert parancs: [CMD]",
     "command": "Parancs",
+    "commandnotfound": "Parancs nem ismerhető fel",
     "configurertmp": "A Streaming konfigurálása a Szerver beállításokban",
     "configuresms": "(SMS kreditek szükségesek) Eltávolítsa az első 0-t, tartalmazza az országkódot, pl. Ausztrália esetén: 61410123456",
     "configuresmtp": "SMTP feliratkozás vagy konfigurálás a szerver beállításokban",

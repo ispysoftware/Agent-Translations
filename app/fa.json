@@ -98,6 +98,7 @@
     "cloudconfigwarning": "ارائه‌ی مجوز به Cloud provider در تنظیمات سرور",
     "cmdnotrecognized": "دستور شناسایی نشد: [CMD]",
     "command": "دستور",
+    "commandnotfound": "فرمان شناخته نشد",
     "configurertmp": "پیکربندی Streaming در تنظیمات سرور",
     "configuresms": "(نیاز به اعتبار SMS دارد) صفر ابتدایی را حذف کنید، کد کشور را وارد کنید؛ مثلاً برای استرالیا: 61410123456",
     "configuresmtp": "اشتراک یا پیکربندی SMTP در تنظیمات سرور",

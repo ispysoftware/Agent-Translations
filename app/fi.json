@@ -98,6 +98,7 @@
     "cloudconfigwarning": "Hyväksy pilvipalveluntarjoaja palvelinasetuksissa",
     "cmdnotrecognized": "Komento ei ole tunnistettu: [CMD]",
     "command": "Komento",
+    "commandnotfound": "Komentoa ei tunnistettu",
     "configurertmp": "Määritä suoratoisto palvelinasetuksissa",
     "configuresms": "(Vaatii SMS-saldoja) Poista ensimmäinen 0, sisällytä maakoodi, esim. Australia: 61410123456",
     "configuresmtp": "Tilaa tai määritä SMTP palvelinasetuksissa",

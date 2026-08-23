@@ -98,6 +98,7 @@
     "cloudconfigwarning": "Cloud-Anbieter in den Servereinstellungen autorisieren",
     "cmdnotrecognized": "Befehl nicht erkannt: [CMD]",
     "command": "Befehl",
+    "commandnotfound": "Befehl nicht erkannt",
     "configurertmp": "Streaming in den Servereinstellungen konfigurieren",
     "configuresms": "(SMS-Guthaben erforderlich) Führende 0 weglassen, Ländercode einschließen, z. B. für Australien: 61410123456",
     "configuresmtp": "SMTP in den Servereinstellungen abonnieren oder konfigurieren",

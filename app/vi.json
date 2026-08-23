@@ -98,6 +98,7 @@
     "cloudconfigwarning": "Cấp quyền cho nhà cung cấp Cloud trong Cài đặt máy chủ",
     "cmdnotrecognized": "Lệnh không được nhận diện: [CMD]",
     "command": "Lệnh",
+    "commandnotfound": "Lệnh không được nhận dạng",
     "configurertmp": "Cấu hình Streaming trong Cài đặt máy chủ",
     "configuresms": "(Yêu cầu tín dụng SMS) Bỏ số 0 ở đầu, bao gồm mã quốc gia, ví dụ cho Úc: 61410123456",
     "configuresmtp": "Đăng ký hoặc cấu hình SMTP trong cài đặt máy chủ",

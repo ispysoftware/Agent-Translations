@@ -98,6 +98,7 @@
     "cloudconfigwarning": "Berikan otorisasi penyedia Cloud di Pengaturan Server",
     "cmdnotrecognized": "Perintah tidak dikenali: [CMD]",
     "command": "Perintah",
+    "commandnotfound": "Perintah tidak dikenal",
     "configurertmp": "Konfigurasi Streaming di Pengaturan Server",
     "configuresms": "(Memerlukan kredit SMS) Hapus angka 0 di depan, sertakan kode negara misal untuk Australia: 61410123456",
     "configuresmtp": "Berlangganan atau konfigurasi SMTP di pengaturan server",

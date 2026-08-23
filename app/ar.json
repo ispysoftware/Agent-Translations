@@ -98,6 +98,7 @@
     "cloudconfigwarning": "قم بتفويض مزود Cloud في إعدادات الخادم",
     "cmdnotrecognized": "الأمر غير معروف: [CMD]",
     "command": "الأمر",
+    "commandnotfound": "الأمر غير معترف به",
     "configurertmp": "قم بتكوين البث (Streaming) في إعدادات الخادم",
     "configuresms": "(يتطلب رصيد SMS) احذف الصفر الأول، وأدرج رمز الدولة، مثال لأستراليا: 61410123456",
     "configuresmtp": "اشترك في SMTP أو قم بتكوينه في إعدادات الخادم",

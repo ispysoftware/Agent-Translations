@@ -98,6 +98,7 @@
     "cloudconfigwarning": "在伺服器設定中授權雲端服務商",
     "cmdnotrecognized": "無法識別命令：[CMD]",
     "command": "命令",
+    "commandnotfound": "命令無法辨識",
     "configurertmp": "在伺服器設定中配置串流",
     "configuresms": "(需 SMS 點數) 省略開頭的 0，並包含國家代碼。例如澳洲：61410123456",
     "configuresmtp": "訂閱或在伺服器設定中配置 SMTP",

@@ -98,6 +98,7 @@
     "cloudconfigwarning": "サーバー設定でクラウドプロバイダーを認証してください",
     "cmdnotrecognized": "コマンドが認識されません：[CMD]",
     "command": "コマンド",
+    "commandnotfound": "コマンドが認識されません",
     "configurertmp": "サーバー設定でストリーミングを設定してください",
     "configuresms": "(SMS クレジットが必要です) 先頭の 0 を削除し、国コードを含めてください。例（オーストラリア）: 61410123456",
     "configuresmtp": "サーバー設定で SMTP にサブスクライブまたは設定してください",

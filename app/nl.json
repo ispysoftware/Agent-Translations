@@ -98,6 +98,7 @@
     "cloudconfigwarning": "Autoriseer Cloud-provider in de serverinstellingen",
     "cmdnotrecognized": "Commando niet herkend: [CMD]",
     "command": "Commando",
+    "commandnotfound": "Commando niet herkend",
     "configurertmp": "Configureer streaming in de serverinstellingen",
     "configuresms": "(SMS-tegoed vereist) Laat de eerste 0 weg, voeg landcode toe bijv. voor Australië: 61410123456",
     "configuresmtp": "Abonneer of configureer SMTP in de serverinstellingen",

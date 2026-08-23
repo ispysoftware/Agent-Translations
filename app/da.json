@@ -98,6 +98,7 @@
     "cloudconfigwarning": "Autoriser cloud-udbyder i serverindstillinger",
     "cmdnotrecognized": "Ukendt kommando: [CMD]",
     "command": "Kommando",
+    "commandnotfound": "Kommando ikke genkendt",
     "configurertmp": "Konfigurer streaming i serverindstillinger",
     "configuresms": "(Kræver SMS-kredit) Udelad indledende 0, inkluder landekode f.eks. for Australien: 61410123456",
     "configuresmtp": "Abonner på eller konfigurer SMTP i serverindstillinger",

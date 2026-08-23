@@ -98,6 +98,7 @@
     "cloudconfigwarning": "Autorizzare il provider Cloud nelle impostazioni del server",
     "cmdnotrecognized": "Comando non riconosciuto: [CMD]",
     "command": "Comando",
+    "commandnotfound": "Comando non riconosciuto",
     "configurertmp": "Configurare lo streaming nelle impostazioni del server",
     "configuresms": "(Richiede crediti SMS) Rimuovere lo 0 iniziale, includere il prefisso internazionale ad es. per l'Australia: 61410123456",
     "configuresmtp": "Iscriversi o configurare SMTP nelle impostazioni del server",

@@ -98,6 +98,7 @@
     "cloudconfigwarning": "Zezwól na dostęp dostawcy Cloud w ustawieniach serwera",
     "cmdnotrecognized": "Nie rozpoznano polecenia: [CMD]",
     "command": "Polecenie",
+    "commandnotfound": "Polecenie nie rozpoznane",
     "configurertmp": "Skonfiguruj strumieniowanie w ustawieniach serwera",
     "configuresms": "(Wymagane środki SMS) Usuń początkowe 0, podaj kod kraju, np. dla Australii: 61410123456",
     "configuresmtp": "Zapisz się lub skonfiguruj SMTP w ustawieniach serwera",

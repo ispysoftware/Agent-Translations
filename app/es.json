@@ -98,6 +98,7 @@
     "cloudconfigwarning": "Autorice el proveedor de la nube en la configuración del servidor",
     "cmdnotrecognized": "Comando no reconocido: [CMD]",
     "command": "Comando",
+    "commandnotfound": "Comando no reconocido",
     "configurertmp": "Configure el streaming en la configuración del servidor",
     "configuresms": "(Requiere créditos SMS) Elimine el 0 inicial, incluya el código de país, ej. para Australia: 61410123456",
     "configuresmtp": "Suscríbase o configure SMTP en la configuración del servidor",

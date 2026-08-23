@@ -98,6 +98,7 @@
     "cloudconfigwarning": "Authorise Cloud provider in Server Settings",
     "cmdnotrecognized": "Command not recognized: [CMD]",
     "command": "Command",
+    "commandnotfound": "Command not recognised",
     "configurertmp": "Configure Streaming in Server Settings",
     "configuresms": "(Requires SMS credits) Drop leading 0, include country code eg for Australia: 61410123456",
     "configuresmtp": "Subscribe or configure SMTP in server settings",

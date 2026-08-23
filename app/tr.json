@@ -98,6 +98,7 @@
     "cloudconfigwarning": "Bulut sağlayıcısını Sunucu Ayarlarında yetkilendirin",
     "cmdnotrecognized": "Komut tanınmadı: [CMD]",
     "command": "Komut",
+    "commandnotfound": "Komut tanınmadı",
     "configurertmp": "Akışı Sunucu Ayarlarında yapılandırın",
     "configuresms": "(SMS kredisi gerektirir) Baştaki 0'ı kaldırın, ülke kodunu ekleyin örn. Avustralya için: 61410123456",
     "configuresmtp": "Sunucu ayarlarında SMTP'ye abone olun veya yapılandırın",

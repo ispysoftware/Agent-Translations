@@ -98,6 +98,7 @@
     "cloudconfigwarning": "在服务器设置中授权云提供商",
     "cmdnotrecognized": "无法识别命令：[CMD]",
     "command": "命令",
+    "commandnotfound": "命令无法识别",
     "configurertmp": "在服务器设置中配置流媒体",
     "configuresms": "(需要短信积分) 去掉前导零，包含国家代码，例如澳大利亚：61410123456",
     "configuresmtp": "订阅或在服务器设置中配置 SMTP",

@@ -98,6 +98,7 @@
     "cloudconfigwarning": "서버 설정에서 클라우드 제공자 승인하기",
     "cmdnotrecognized": "명령을 인식하지 못함: [CMD]",
     "command": "명령",
+    "commandnotfound": "명령을 인식할 수 없습니다",
     "configurertmp": "서버 설정에서 스트리밍 구성하기",
     "configuresms": "(SMS 크레딧 필요) 앞의 0 을 생략하고 국가 코드를 포함하세요. 예시 (호주): 61410123456",
     "configuresmtp": "서버 설정에서 구독하거나 SMTP 를 구성하세요",

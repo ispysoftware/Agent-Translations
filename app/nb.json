@@ -98,6 +98,7 @@
     "cloudconfigwarning": "Autoriser skyleverandør i serverinnstillinger",
     "cmdnotrecognized": "Ukjent kommando: [CMD]",
     "command": "Kommando",
+    "commandnotfound": "Kommando ikke gjenkjent",
     "configurertmp": "Konfigurer strømming i serverinnstillinger",
     "configuresms": "(Krever SMS-kreditt) Dropp ledende 0, inkluder landskode, f.eks. for Australia: 61410123456",
     "configuresmtp": "Abonner på eller konfigurer SMTP i serverinnstillinger",
