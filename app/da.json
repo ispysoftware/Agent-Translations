@@ -1223,6 +1223,8 @@
     "json.overlay": "Overlay",
     "json.overlayai": "Overlay",
     "json.overlayai.help": "Vis overlay-resultater på live video",
+    "json.overlayaiall": "Overlejr Alle Lyde",
+    "json.overlayaiall.help": "Overlejr også lyde, du ikke lytter efter. Brug dette til at se, hvad modellen høre, når en lyd ikke bliver registreret.",
     "json.overlaydetector": "Overlay-detektor",
     "json.overlayimage": "Overlay-billede",
     "json.overlayimage.help": "Gennemsigtigt billede til overlay - Tilføjes via servermenu, filupload",

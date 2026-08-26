@@ -1223,6 +1223,8 @@
     "json.overlay": "Päällekkäiskuva",
     "json.overlayai": "Päällekkäiskuva",
     "json.overlayai.help": "Näytä tulokset päällekkäiskuvana live-videossa",
+    "json.overlayaiall": "Päällekkäin kaikki äänet",
+    "json.overlayaiall.help": "Lisää myös ääniä, joita et kuuntele. Käytä tätä nähdäksesi, mitä malli kuulee, kun ääntä ei tunnisteta.",
     "json.overlaydetector": "Ilmaisimen päällekkäiskuva",
     "json.overlayimage": "Päällekkäiskuva",
     "json.overlayimage.help": "Läpinäkyvä kuva päällekkäiskuvaa varten - Lisää palvelinvalikon tiedostolatauksella",

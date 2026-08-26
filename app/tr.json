@@ -1223,6 +1223,8 @@
     "json.overlay": "Katman",
     "json.overlayai": "Katman",
     "json.overlayai.help": "Sonuçları canlı video üzerine bindirin",
+    "json.overlayaiall": "Tüm Sesleri Üst Üste Yerleştir",
+    "json.overlayaiall.help": "Ayrıca dinlemediğiniz sesleri de görüntüleyin. Bir ses algılanmadığında modelin ne duyduğunu görmek için bunu kullanın",
     "json.overlaydetector": "Dedektör Katmanı",
     "json.overlayimage": "Katman Resmi",
     "json.overlayimage.help": "Katman için şeffaf resim - Sunucu Menüsü, Dosya Yükleme kullanarak ekleyin",

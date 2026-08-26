@@ -1223,6 +1223,8 @@
     "json.overlay": "تراكب",
     "json.overlayai": "تراكب",
     "json.overlayai.help": "تراكب النتائج على الفيديو المباشر",
+    "json.overlayaiall": "تراكب جميع الأصوات",
+    "json.overlayaiall.help": "كما يمكنك دمج الأصوات التي لا تستمع إليها. استخدم هذا لمعرفة ما يسمعه النموذج عندما لا يتم كشف الصوت",
     "json.overlaydetector": "تراكب الكاشف",
     "json.overlayimage": "صورة التراكب",
     "json.overlayimage.help": "صورة شفافة للتراكب - أضفها باستخدام قائمة الخادم، رفع ملف",

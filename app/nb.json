@@ -1223,6 +1223,8 @@
     "json.overlay": "Overlegg",
     "json.overlayai": "Overlegg",
     "json.overlayai.help": "Legg overleggsresultater på live video",
+    "json.overlayaiall": "Overlegg alle lyder",
+    "json.overlayaiall.help": "Overlayer også lyder du ikke lytter etter. Bruk dette til å se hva modellen hører når en lyd ikke blir oppdaget",
     "json.overlaydetector": "Detektor-overlegg",
     "json.overlayimage": "Overleggsbilde",
     "json.overlayimage.help": "Gjennomsiktig bilde for overlegg - Legg til via servermeny, filopplasting",

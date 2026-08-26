@@ -1223,6 +1223,8 @@
     "json.overlay": "オーバーレイ",
     "json.overlayai": "オーバーレイ",
     "json.overlayai.help": "ライブビデオに結果を重ねます",
+    "json.overlayaiall": "すべての音声をオーバーレイ",
+    "json.overlayaiall.help": "また、リッスンしていない音もオーバーレイします。サウンドが検出されていない場合に、モデルが何を聞いているのかを確認するために使用します",
     "json.overlaydetector": "検出器のオーバーレイ",
     "json.overlayimage": "画像のオーバーレイ",
     "json.overlayimage.help": "オーバーレイ用の透過画像 - サーバーメニューのファイルアップロードで追加します",

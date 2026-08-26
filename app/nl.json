@@ -1223,6 +1223,8 @@
     "json.overlay": "Overlay",
     "json.overlayai": "Overlay",
     "json.overlayai.help": "Resultaten over live video weergeven",
+    "json.overlayaiall": "Alle geluiden bedekken",
+    "json.overlayaiall.help": "Ook geluiden waarnaar u niet luistert overlaysn. Gebruik dit om te zien wat het model hoort wanneer een geluid niet wordt gedetecteerd.",
     "json.overlaydetector": "Detector-overlay",
     "json.overlayimage": "Afbeeldingsoverlay",
     "json.overlayimage.help": "Transparante afbeelding voor overlay - Toevoegen via Servermenu, Bestand uploaden",

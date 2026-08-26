@@ -1223,6 +1223,8 @@
     "json.overlay": "Lớp phủ",
     "json.overlayai": "Lớp phủ",
     "json.overlayai.help": "Hiển thị kết quả lớp phủ trên video trực tiếp",
+    "json.overlayaiall": "Phủ lên tất cả các âm thanh",
+    "json.overlayaiall.help": "Cũng hiển thị các âm thanh mà bạn không đang nghe. Sử dụng điều này để xem mô hình đang nghe gì khi một âm thanh không được phát hiện",
     "json.overlaydetector": "Lớp phủ bộ dò tìm",
     "json.overlayimage": "Hình ảnh lớp phủ",
     "json.overlayimage.help": "Hình ảnh trong suốt để làm lớp phủ - Thêm bằng Server Menu, Tải tệp lên",

@@ -1223,6 +1223,8 @@
     "json.overlay": "Nakładka",
     "json.overlayai": "Nakładka",
     "json.overlayai.help": "Nakładaj wyniki na obraz wideo na żywo",
+    "json.overlayaiall": "Nałóż wszystkie dźwięki",
+    "json.overlayaiall.help": "Nakładaj również dźwięki, których nie słuchajesz. Użyj tego, aby zobaczyć, co model słyszy, gdy dźwięk nie jest wykrywany.",
     "json.overlaydetector": "Nakładka detektora",
     "json.overlayimage": "Obraz nakładki",
     "json.overlayimage.help": "Przezroczysty obraz dla nakładki - Dodaj za pomocą Menu Serwera, Prześlij plik",

@@ -1223,6 +1223,8 @@
     "json.overlay": "Superposition",
     "json.overlayai": "Superposition",
     "json.overlayai.help": "Superposer les résultats sur la vidéo en direct",
+    "json.overlayaiall": "Superposer Tous les Sons",
+    "json.overlayaiall.help": "Superposez également les sons que vous n'écoutez pas. Utilisez ceci pour voir ce que le modèle entend quand un son n'est pas détecté.",
     "json.overlaydetector": "Superposition du détecteur",
     "json.overlayimage": "Image de superposition",
     "json.overlayimage.help": "Image transparente pour superposition - Ajoutez via le menu du serveur, téléchargement de fichier",

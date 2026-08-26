@@ -1223,6 +1223,8 @@
     "json.overlay": "Feliratkozás (Overlay)",
     "json.overlayai": "Feliratkozás (Overlay)",
     "json.overlayai.help": "Eredmények megjelenítése a élő videón",
+    "json.overlayaiall": "Összes hang felülírása",
+    "json.overlayaiall.help": "Szintén átfedi azokat a hangokat, amelyekre nem figyelsz. Ezzel megtekintheted, hogy a modell mit hall, amikor egy hang nem kerül észlelésre.",
     "json.overlaydetector": "Detektor feliratkozás",
     "json.overlayimage": "Feliratkozási kép",
     "json.overlayimage.help": "Áttetsző kép a feliratkozáshoz - Adja hozzá a Szerver menü, Fájl feltöltése lehetőséggel",

@@ -1223,6 +1223,8 @@
     "json.overlay": "Overlay",
     "json.overlayai": "Overlay",
     "json.overlayai.help": "Sovrapposizione dei risultati sul video in diretta",
+    "json.overlayaiall": "Sovrapponi Tutti i Suoni",
+    "json.overlayaiall.help": "Inoltre sovrapponi i suoni che non stai ascoltando. Usa questo per vedere cosa sta ascoltando il modello quando un suono non viene rilevato",
     "json.overlaydetector": "Overlay rilevatore",
     "json.overlayimage": "Immagine overlay",
     "json.overlayimage.help": "Immagine trasparente per l'overlay - Aggiungere tramite Menu Server, Caricamento file",

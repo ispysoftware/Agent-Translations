@@ -1223,6 +1223,8 @@
     "json.overlay": "覆蓋層",
     "json.overlayai": "覆蓋層",
     "json.overlayai.help": "將結果疊加在即時視訊上",
+    "json.overlayaiall": "覆蓋所有聲音",
+    "json.overlayaiall.help": "另外覆蓋您沒有監聽的聲音。使用此功能可查看當未偵測到聲音時模型正在聽取的內容",
     "json.overlaydetector": "偵測器覆蓋層",
     "json.overlayimage": "影像覆蓋層",
     "json.overlayimage.help": "用於覆蓋層的透明圖片 - 使用伺服器選單中的檔案上傳功能新增",

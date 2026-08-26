@@ -1223,6 +1223,8 @@
     "json.overlay": "叠加层",
     "json.overlayai": "叠加层",
     "json.overlayai.help": "在实时视频上叠加结果",
+    "json.overlayaiall": "覆盖所有声音",
+    "json.overlayaiall.help": "同时覆盖您未在监听的声音。使用此功能查看模型在未检测到声音时听到的内容。",
     "json.overlaydetector": "检测器叠加层",
     "json.overlayimage": "图像叠加层",
     "json.overlayimage.help": "用于叠加的透明图像 - 使用服务器菜单中的文件上传添加",

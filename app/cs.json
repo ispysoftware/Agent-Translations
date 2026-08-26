@@ -1223,6 +1223,8 @@
     "json.overlay": "Překrytí",
     "json.overlayai": "Překrytí",
     "json.overlayai.help": "Překrytí výsledků v živém videu",
+    "json.overlayaiall": "Překrýt všechny zvuky",
+    "json.overlayaiall.help": "Také překryjte zvuky, které neposloucháte. Použijte to, abyste viděli, co model slyší, když zvuk není detekován.",
     "json.overlaydetector": "Překrytí detektoru",
     "json.overlayimage": "Obrázek překrytí",
     "json.overlayimage.help": "Transparentní obrázek pro překrytí - Přidat pomocí nabídky Server, Nahrát soubor",

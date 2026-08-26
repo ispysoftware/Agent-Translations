@@ -1223,6 +1223,8 @@
     "json.overlay": "Overlay",
     "json.overlayai": "Overlay",
     "json.overlayai.help": "Tampilkan hasil overlay pada video langsung",
+    "json.overlayaiall": "Tumpang Tindih Semua Suara",
+    "json.overlayaiall.help": "Juga tumpangkan suara yang tidak Anda dengarkan. Gunakan ini untuk melihat apa yang didengar model ketika suara tidak terdeteksi",
     "json.overlaydetector": "Overlay detektor",
     "json.overlayimage": "Gambar overlay",
     "json.overlayimage.help": "Gambar transparan untuk overlay - Tambahkan menggunakan Menu Server, Unggah File",

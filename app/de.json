@@ -1223,6 +1223,8 @@
     "json.overlay": "Overlay",
     "json.overlayai": "Overlay",
     "json.overlayai.help": "Ergebnisse im Live-Video einblenden",
+    "json.overlayaiall": "Alle Töne überlagern",
+    "json.overlayaiall.help": "Auch Overlay-Sounds, auf die Sie nicht hören. Verwenden Sie dies, um zu sehen, was das Modell hört, wenn ein Sound nicht erkannt wird.",
     "json.overlaydetector": "Detector-Overlay",
     "json.overlayimage": "Overlay-Bild",
     "json.overlayimage.help": "Transparentes Bild für Overlay – Hinzufügen über Server-Menü, Datei-Upload",

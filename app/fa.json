@@ -1223,6 +1223,8 @@
     "json.overlay": "لایه روی تصویر (Overlay)",
     "json.overlayai": "لایه روی تصویر (Overlay)",
     "json.overlayai.help": "نمایش نتایج بر روی ویدیو زنده",
+    "json.overlayaiall": "روی هم ریزی تمام صداها",
+    "json.overlayaiall.help": "همچنین صداهایی را روی آن قرار دهید که شما برای آنها گوش نمی دهید. از این برای دیدن آنچه مدل می شنود هنگامی که صدا تشخیص داده نمی شود استفاده کنید",
     "json.overlaydetector": "لایه روی تصویر تشخیص‌دهنده",
     "json.overlayimage": "لایه روی تصویر عکس",
     "json.overlayimage.help": "تصویر شفاف برای لایه روی تصویر - افزودن از طریق منوی Server، بخش File Upload",
