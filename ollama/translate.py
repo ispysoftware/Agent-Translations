@@ -45,6 +45,7 @@ PINNED_KEYS = {"timelapse", "appconnect"}
 # Matches the website's language list.
 LANGUAGES = {
     "ar": ("Modern Standard Arabic", "عربي"),
+    "be": ("Belarusian", "Беларуская"),
     "bn": ("Bengali", "বাংলা"),
     "cs": ("Czech", "Čeština"),
     "da": ("Danish", "Dansk"),
