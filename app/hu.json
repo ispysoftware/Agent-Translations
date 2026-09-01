@@ -54,6 +54,7 @@
     "aiinfo_yolov5-3.1_title": "Objektumfelesség (YOLOv5 3.1)",
     "aineedlicense": "Licenc szükséges ehhez a funkció használatához",
     "ainotresponding": "AI szerver nem elérhető - Lásd a szerver beállításokat - AI beállítások",
+    "aiosunsupported": "A beépített AI nem támogatott a Windows ezen verziójában. Windows 10 verzió 1903 (18362-es build) vagy később szükséges",
     "airatelimited": "Az AI-szolgáltató sebességkorláttal rendelkezik: az API-kulcs túllépte a kérelmek vagy kvótakorlátokat. Az ingyenes szintek napi szinten alaphelyzetbe állnak. A részletekért ellenőrizze a kiszolgáló naplóit.",
     "alert": "Riasztás",
     "alerts: off": "Riasztások: KI",

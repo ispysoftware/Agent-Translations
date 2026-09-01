@@ -54,6 +54,7 @@
     "aiinfo_yolov5-3.1_title": "Detección de objetos (YOLOv5 3.1)",
     "aineedlicense": "Necesita una licencia para utilizar esta función",
     "ainotresponding": "Servidor de IA no disponible - Consulte la configuración del servidor - Configuración de IA",
+    "aiosunsupported": "La IA integrada no es compatible en esta versión de Windows. Se requiere Windows 10 versión 1903 (compilación 18362) o posterior",
     "airatelimited": "El proveedor de IA tiene límites de velocidad: la clave API ha superado sus límites de solicitudes o cuota. Los niveles gratuitos se restablecen diariamente. Revise los registros del servidor para más detalles",
     "alert": "Alerta",
     "alerts: off": "Alertas: DESACTIVADO",

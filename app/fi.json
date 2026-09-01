@@ -54,6 +54,7 @@
     "aiinfo_yolov5-3.1_title": "Objektintunnistus (YOLOv5 3.1)",
     "aineedlicense": "Tarvitset lisenssin käyttääksesi tätä ominaisuutta",
     "ainotresponding": "AI-palvelin ei ole käytettävissä - Katso palvelimen asetukset - AI-asetukset",
+    "aiosunsupported": "Sisäänrakennettu tekoäly ei ole tuettu tässä Windows-versiossa. Vaaditaan Windows 10 versio 1903 (koontiversio 18362) tai uudempi",
     "airatelimited": "AI-palvelun tarjoaja on nopeusrajoitettu: API-avain on ylittänyt pyyntö- tai kiintiörajoja. Ilmaiset tasot nollaantuvat päivittäin. Tarkista palvelimen lokit yksityiskohdista.",
     "alert": "Hälytys",
     "alerts: off": "Hälytykset: POIS",

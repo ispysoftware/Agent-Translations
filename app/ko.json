@@ -54,6 +54,7 @@
     "aiinfo_yolov5-3.1_title": "객체 감지 (YOLOv5 3.1)",
     "aineedlicense": "이 기능을 사용하려면 라이선스가 필요합니다",
     "ainotresponding": "AI 서버 사용 불가 - 서버 설정 - AI 설정 참조",
+    "aiosunsupported": "이 Windows 버전에서는 기본 제공 AI가 지원되지 않음입니다. Windows 10 버전 1903(빌드 18362) 이상이 필요합니다",
     "airatelimited": "AI 제공자가 요청 제한됨: API 키가 요청 또는 할당량 제한을 초과했습니다. 무료 계층은 매일 재설정됩니다. 자세한 내용은 서버 로그를 확인하세요.",
     "alert": "알림",
     "alerts: off": "알림: 끔",

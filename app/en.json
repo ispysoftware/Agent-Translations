@@ -54,6 +54,7 @@
     "aiinfo_yolov5-3.1_title": "Object Detection (YOLOv5 3.1)",
     "aineedlicense": "You need a license to use this feature",
     "ainotresponding": "AI server not available - See Server Settings - AI Settings",
+    "aiosunsupported": "Built-in AI is not supported on this version of Windows. Windows 10 version 1903 (build 18362) or later is required",
     "airatelimited": "The AI provider is rate limited: the API key is over its request or quota limits. Free tiers reset daily. Check the server logs for details",
     "alert": "Alert",
     "alerts: off": "Alerts: OFF",

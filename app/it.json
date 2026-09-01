@@ -54,6 +54,7 @@
     "aiinfo_yolov5-3.1_title": "Rilevamento oggetti (YOLOv5 3.1)",
     "aineedlicense": "È necessaria una licenza per utilizzare questa funzione",
     "ainotresponding": "Server AI non disponibile - Vedere impostazioni server - Impostazioni AI",
+    "aiosunsupported": "L'intelligenza artificiale integrata non è supportata in questa versione di Windows. È richiesto Windows 10 versione 1903 (build 18362) o successiva",
     "airatelimited": "Il provider di AI è limitato dalla frequenza: la chiave API ha superato i limiti di richieste o quota. I tier gratuiti si reimpostano giornalmente. Controlla i log del server per i dettagli",
     "alert": "Avviso",
     "alerts: off": "Avvisi: OFF",

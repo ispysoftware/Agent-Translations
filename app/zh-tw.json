@@ -54,6 +54,7 @@
     "aiinfo_yolov5-3.1_title": "物件偵測 (YOLOv5 3.1)",
     "aineedlicense": "您需要授權才能使用此功能",
     "ainotresponding": "AI 伺服器無法連線 – 請參閱「伺服器設定」>「AI 設定」",
+    "aiosunsupported": "此 Windows 版本不支援內建的 AI。需要 Windows 10 版本 1903（組建 18362）或更新版本",
     "airatelimited": "AI 提供商受到速率限制：API 金鑰超過其請求或配額限制。免費層級每日重新設置。檢查伺服器日誌以瞭解詳情",
     "alert": "警示",
     "alerts: off": "警示：關閉",

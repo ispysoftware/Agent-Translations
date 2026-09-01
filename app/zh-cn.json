@@ -54,6 +54,7 @@
     "aiinfo_yolov5-3.1_title": "目标检测 (YOLOv5 3.1)",
     "aineedlicense": "您需要许可证才能使用此功能",
     "ainotresponding": "AI 服务器不可用 - 请参阅服务器设置 - AI 设置",
+    "aiosunsupported": "此 Windows 版本不支持内置 AI。需要 Windows 10 版本 1903（内部版本 18362）或更高版本",
     "airatelimited": "AI 提供商受到速率限制：API 密钥超过了请求或配额限制。免费套餐每天重置。检查服务器日志了解详情",
     "alert": "警报",
     "alerts: off": "警报：关闭",

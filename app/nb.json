@@ -54,6 +54,7 @@
     "aiinfo_yolov5-3.1_title": "Objektdeteksjon (YOLOv5 3.1)",
     "aineedlicense": "Du trenger en lisens for å bruke denne funksjonen",
     "ainotresponding": "AI-server ikke tilgjengelig - Se serverinnstillinger - AI-innstillinger",
+    "aiosunsupported": "Innebygd AI er ikke støttet på denne versjonen av Windows. Windows 10 versjon 1903 (build 18362) eller senere er påkrevd",
     "airatelimited": "AI-leverandøren har rategrensing: API-nøkkelen overskrider grensene for forespørsler eller kvota. Gratisversjonene nullstilles daglig. Kontroller serverloggene for detaljer",
     "alert": "Varsel",
     "alerts: off": "Varsler: AV",

@@ -54,6 +54,7 @@
     "aiinfo_yolov5-3.1_title": "Nesne Algılama (YOLOv5 3.1)",
     "aineedlicense": "Bu özelliği kullanmak için bir lisansa ihtiyacınız var",
     "ainotresponding": "Yapay zeka sunucusu kullanılabilir değil - Sunucu Ayarlarına bakın - Yapay Zeka Ayarları",
+    "aiosunsupported": "Bu Windows sürümünde yerleşik AI desteklenmiyor. Windows 10 sürüm 1903 (derleme 18362) veya daha sonraki bir sürüm gereklidir",
     "airatelimited": "AI sağlayıcısının hız sınırlaması vardır: API anahtarı istek veya kota limitlerini aşmıştır. Ücretsiz seviyeler günlük olarak sıfırlanır. Ayrıntılar için sunucu günlüklerini kontrol edin",
     "alert": "Uyarı",
     "alerts: off": "Uyarılar: KAPALI",

@@ -54,6 +54,7 @@
     "aiinfo_yolov5-3.1_title": "Deteksi Objek (YOLOv5 3.1)",
     "aineedlicense": "Anda memerlukan lisensi untuk menggunakan fitur ini",
     "ainotresponding": "Server AI tidak tersedia - Lihat Pengaturan Server - Pengaturan AI",
+    "aiosunsupported": "AI bawaan tidak didukung di versi Windows ini. Windows 10 versi 1903 (build 18362) atau lebih baru diperlukan",
     "airatelimited": "Penyedia AI dibatasi laju: kunci API telah melampaui batas permintaan atau kuota. Tingkat gratis direset setiap hari. Periksa log server untuk detail",
     "alert": "Peringatan",
     "alerts: off": "Peringatan: MATI",

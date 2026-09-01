@@ -54,6 +54,7 @@
     "aiinfo_yolov5-3.1_title": "Detekce objektů (YOLOv5 3.1)",
     "aineedlicense": "Pro použití této funkce potřebujete licenci",
     "ainotresponding": "AI server není k dispozici - Zkontrolujte Nastavení serveru - Nastavení AI",
+    "aiosunsupported": "Vestavěná AI není podporována v této verzi systému Windows. Vyžaduje se Windows 10 verze 1903 (sestavení 18362) nebo novější",
     "airatelimited": "Poskytovatel AI má omezená volání: klíč API překročil limity počtu požadavků nebo kvót. Bezplatné úrovně se resetují denně. Podrobnosti najdete v protokolech serveru.",
     "alert": "Upozornění",
     "alerts: off": "Upozornění: VYP.",

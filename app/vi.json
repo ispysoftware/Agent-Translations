@@ -54,6 +54,7 @@
     "aiinfo_yolov5-3.1_title": "Phát hiện đối tượng (YOLOv5 3.1)",
     "aineedlicense": "Bạn cần có giấy phép để sử dụng tính năng này",
     "ainotresponding": "Máy chủ AI không khả dụng - Xem Cài đặt máy chủ - Cài đặt AI",
+    "aiosunsupported": "AI tích hợp không được hỗ trợ trên phiên bản Windows này. Yêu cầu Windows 10 phiên bản 1903 (bản dựng 18362) hoặc mới hơn",
     "airatelimited": "Nhà cung cấp AI bị giới hạn tốc độ: khóa API đã vượt quá giới hạn yêu cầu hoặc hạn ngạch. Các gói miễn phí được đặt lại hàng ngày. Kiểm tra nhật ký máy chủ để biết chi tiết",
     "alert": "Cảnh báo",
     "alerts: off": "Cảnh báo: TẮT",

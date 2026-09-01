@@ -54,6 +54,7 @@
     "aiinfo_yolov5-3.1_title": "Detekcja obiektów (YOLOv5 3.1)",
     "aineedlicense": "Do korzystania z tej funkcji wymagana jest licencja",
     "ainotresponding": "Serwer AI niedostępny - Sprawdź ustawienia serwera - Ustawienia AI",
+    "aiosunsupported": "Wbudowana sztuczna inteligencja nie jest obsługiwana w tej wersji systemu Windows. Wymagany jest system Windows 10 w wersji 1903 (kompilacja 18362) lub nowsza",
     "airatelimited": "Dostawca AI ma ograniczenie szybkości: klucz API przekroczył limity żądań lub przydzielonego limitu. Bezpłatne warstwy resetują się codziennie. Sprawdź dzienniki serwera, aby uzyskać szczegóły",
     "alert": "Alert",
     "alerts: off": "Alerty: WYŁ.",

@@ -54,6 +54,7 @@
     "aiinfo_yolov5-3.1_title": "Objekterkennung (YOLOv5 3.1)",
     "aineedlicense": "Sie benötigen eine Lizenz, um diese Funktion zu nutzen",
     "ainotresponding": "KI-Server nicht verfügbar - Siehe Servereinstellungen - KI-Einstellungen",
+    "aiosunsupported": "Die integrierte KI wird auf dieser Windows-Version nicht unterstützt. Windows 10 Version 1903 (Build 18362) oder später ist erforderlich",
     "airatelimited": "Der AI-Provider ist ratenbegrenzt: Der API-Schlüssel hat seine Anfrage- oder Kontingentlimits überschritten. Kostenlose Tarife werden täglich zurückgesetzt. Überprüfen Sie die Server-Logs für Details",
     "alert": "Alarm",
     "alerts: off": "Alarme: AUS",

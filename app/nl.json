@@ -54,6 +54,7 @@
     "aiinfo_yolov5-3.1_title": "Objectdetectie (YOLOv5 3.1)",
     "aineedlicense": "U heeft een licentie nodig om deze functie te gebruiken",
     "ainotresponding": "AI-server niet beschikbaar - Zie serverinstellingen - AI-instellingen",
+    "aiosunsupported": "Ingebouwde AI wordt niet ondersteund in deze Windowsversie. Windows 10 Versie 1903 (build 18362) of hoger is vereist",
     "airatelimited": "De AI-provider heeft een snelheidslimiet: de API-sleutel heeft zijn aanvraag- of quotalimieten overschreden. Gratis versies worden dagelijks opnieuw ingesteld. Controleer de serverlogboeken voor details.",
     "alert": "Melding",
     "alerts: off": "Meldingen: UIT",
