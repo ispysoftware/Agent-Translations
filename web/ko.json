@@ -644,7 +644,7 @@
   "ai_zebra": "зе브라",
   "aiuploadtest": "이것은 AI 서버가 제대로 작동하는지 확인합니다",
   "alert": "알림",
-  "alertalarm": "경보 알림",
+  "alertalarmsound": "경보 소리",
   "alertgroup": "알림 그룹",
   "alertgroups": "알림 그룹",
   "alertindicator": "알림 표시기",

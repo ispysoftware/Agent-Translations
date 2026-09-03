@@ -644,7 +644,7 @@
   "ai_zebra": "斑马",
   "aiuploadtest": "这将检查您的 AI 服务器是否正常工作",
   "alert": "警报",
-  "alertalarm": "报警警报",
+  "alertalarmsound": "警报器声音",
   "alertgroup": "警报组",
   "alertgroups": "警报组",
   "alertindicator": "警报指示器",

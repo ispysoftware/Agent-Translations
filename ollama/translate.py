@@ -282,6 +282,24 @@ def translate_texts(texts, target_lang, model_name, cache, failures, key_hints=N
             print(f"   ⚠️ Ollama error (attempt {attempt + 1}/{MAX_RETRIES}): {e}")
             continue
 
+        # The response must carry exactly one entry per string sent. A short or
+        # padded ID set means the model dropped an item and renumbered the rest
+        # contiguously, so every value after the drop is the translation of the
+        # NEXT string. Retrying only the missing ID would fill that one slot
+        # correctly and silently keep the slid values (2026-09-03: web/fa,
+        # app/cs and app/fa each shipped blocks like that). Reject the whole
+        # batch and retry it with sampling noise instead.
+        expected_ids = {str(i) for i in range(len(pending))}
+        hint_ids = {key_hints[t] for t in pending if key_hints.get(t)}
+        returned_ids = set(translated_map)
+        unknown_ids = returned_ids - expected_ids - hint_ids
+        if unknown_ids or len(returned_ids) != len(pending):
+            detail = f"got {len(returned_ids)} ids for {len(pending)} strings"
+            if unknown_ids:
+                detail += f", unexpected ids {sorted(unknown_ids)[:3]}"
+            print(f"   ⚠️ ID set mismatch, retrying whole batch (attempt {attempt + 1}/{MAX_RETRIES}): {detail}")
+            continue
+
         failed = []
         for i, original in enumerate(pending):
             value = translated_map.get(str(i))

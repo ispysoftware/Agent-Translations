@@ -268,7 +268,7 @@
     "json.ailookfor": "Find",
     "json.ailookfor.help": "Responses to look for",
     "json.aimode": "Mode",
-    "json.aimode.help": "When to run this AI process",
+    "json.aimode.help": "When to run this AI process. Detected and Alert are triggered by this camera's motion detector, so it must be enabled. Use Interval to run without motion detection",
     "json.aimodel": "Model",
     "json.aimodel.help": "AI uses models to look for specific things",
     "json.aimodelinternal": "Model",

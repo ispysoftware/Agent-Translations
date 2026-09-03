@@ -644,7 +644,7 @@
   "ai_zebra": "зебра",
   "aiuploadtest": "Це перевірить, чи правильно працює ваш AI-сервер",
   "alert": "Сповіщення",
-  "alertalarm": "Тривога сповіщення",
+  "alertalarmsound": "Звук тривоги",
   "alertgroup": "Група сповіщень",
   "alertgroups": "Групи сповіщень",
   "alertindicator": "Індикатор сповіщення",

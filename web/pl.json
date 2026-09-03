@@ -644,7 +644,7 @@
   "ai_zebra": "zebra",
   "aiuploadtest": "To sprawdzi, czy serwer AI działa poprawnie",
   "alert": "Alert",
-  "alertalarm": "Alarm alertu",
+  "alertalarmsound": "Dźwięk alarmu",
   "alertgroup": "Grupa alertów",
   "alertgroups": "Grupy alertów",
   "alertindicator": "Wskaźnik alertu",

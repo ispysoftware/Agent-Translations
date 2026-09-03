@@ -644,7 +644,7 @@
   "ai_zebra": "zebra",
   "aiuploadtest": "Detta kommer att kontrollera att din AI-server fungerar korrekt",
   "alert": "Larm",
-  "alertalarm": "Larmalarm",
+  "alertalarmsound": "Larm Ljud",
   "alertgroup": "Larmgrupp",
   "alertgroups": "Larmgrupper",
   "alertindicator": "Larmindikator",

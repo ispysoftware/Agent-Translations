@@ -644,7 +644,7 @@
   "ai_zebra": "zebra",
   "aiuploadtest": "Toto ověří, zda váš AI server funguje správně",
   "alert": "Upozornění",
-  "alertalarm": "Alarm upozornění",
+  "alertalarmsound": "Zvuk alarmu",
   "alertgroup": "Skupina upozornění",
   "alertgroups": "Skupiny upozornění",
   "alertindicator": "Indikátor upozornění",

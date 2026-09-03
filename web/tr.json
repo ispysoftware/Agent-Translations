@@ -644,7 +644,7 @@
   "ai_zebra": "zebra",
   "aiuploadtest": "Bu, yapay zeka sunucunuzun düzgün çalışıp çalışmadığını kontrol edecektir",
   "alert": "Uyarı",
-  "alertalarm": "Uyarı alarmı",
+  "alertalarmsound": "Alarm Sesi",
   "alertgroup": "Uyarı grubu",
   "alertgroups": "Uyarı grupları",
   "alertindicator": "Uyarı göstergesi",

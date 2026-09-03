@@ -644,7 +644,7 @@
   "ai_zebra": "حمار وحشي",
   "aiuploadtest": "سيتحقق هذا من أن خادم الذكاء الاصطناعي الخاص بك يعمل بشكل صحيح",
   "alert": "تنبيه",
-  "alertalarm": "إنذار التنبيه",
+  "alertalarmsound": "صوت الإنذار",
   "alertgroup": "مجموعة التنبيه",
   "alertgroups": "مجموعات التنبيه",
   "alertindicator": "مؤشر التنبيه",

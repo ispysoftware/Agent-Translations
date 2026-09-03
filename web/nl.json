@@ -644,7 +644,7 @@
   "ai_zebra": "zebra",
   "aiuploadtest": "Hiermee wordt gecontroleerd of uw AI-server correct werkt",
   "alert": "Melding",
-  "alertalarm": "Alarmmelding",
+  "alertalarmsound": "Alarmgeluid",
   "alertgroup": "Meldingsgroep",
   "alertgroups": "Meldingsgroepen",
   "alertindicator": "Meldingsindicator",

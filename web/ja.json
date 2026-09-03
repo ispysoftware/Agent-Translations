@@ -644,7 +644,7 @@
   "ai_zebra": "シマウマ",
   "aiuploadtest": "AIサーバーが正常に動作しているか確認されます",
   "alert": "アラート",
-  "alertalarm": "警報アラート",
+  "alertalarmsound": "警報サウンド",
   "alertgroup": "アラートグループ",
   "alertgroups": "アラートグループ",
   "alertindicator": "アラートインジケーター",

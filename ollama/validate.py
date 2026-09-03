@@ -6,6 +6,7 @@ Usage:
 Exit code 1 on hard failures.
 """
 import json
+import math
 import re
 import sys
 import glob
@@ -57,12 +58,76 @@ def load(path):
     return flatten(data), None
 
 
+def shift_warnings(code, en_flat, t):
+    """Row-shift detectors (WARN only). The LLM sometimes drops one item from a
+    numbered batch and renumbers the rest, so every value after the drop is the
+    translation of the NEXT key (2026-09-03: web/fa, web/fi, app/cs, app/fa,
+    app/fi shipped like that and every hard check passed). translate.py now
+    rejects such batches, but keep looking.
+    1. Adjacent keys sharing a value while their English differs - a shifted
+       batch leaves the retried last slot correct and the one before it holding
+       the same text.
+    2. Runs of keys whose translation length fits the NEXT English string
+       clearly better than its own (log-ratio, per-language median).
+    Both fire on some legitimate near-synonyms, hence warnings."""
+    keys = list(en_flat)
+
+    def letters(s):
+        return ''.join(c for c in s.lower() if c.isalpha())
+
+    def near_synonyms(ea, eb):
+        # "Edit"/"Edit Mode", "Layout"/"Layouts", "Floorplans"/"Floor Plans":
+        # one English label is a prefix of the other, so sharing a translation
+        # is expected. Genuine shifts pair unrelated English strings.
+        la, lb = letters(ea), letters(eb)
+        if la.startswith(lb) or lb.startswith(la):
+            return True
+        # "Authorise"/"Authorize": same length, one letter apart
+        return len(la) == len(lb) and sum(x != y for x, y in zip(la, lb)) == 1
+
+    dup = 0
+    for a, b in zip(keys, keys[1:]):
+        va = t.get(a)
+        if (va and va == t.get(b) and en_flat[a] != en_flat[b]
+                and any(c.isalpha() for c in va) and not near_synonyms(en_flat[a], en_flat[b])):
+            print(f"{code:6} SHIFT? [{'/'.join(a)}] == [{'/'.join(b)}]: {va[:60]!r}")
+            dup += 1
+
+    ratios = sorted(len(t[k]) / len(en_flat[k]) for k in keys
+                    if t.get(k) and len(en_flat[k]) >= 4)
+    med = ratios[len(ratios) // 2] if ratios else 1.0
+    flags = []
+    for i, k in enumerate(keys):
+        v, e = t.get(k, ''), en_flat[k]
+        e2 = en_flat[keys[i + 1]] if i + 1 < len(keys) else ''
+        if not v or not e or not e2 or v == e or abs(len(e) - len(e2)) < 6:
+            flags.append(False)
+            continue
+        own = abs(math.log((len(v) / med) / len(e)))
+        nxt = abs(math.log((len(v) / med) / len(e2)))
+        flags.append(nxt + 0.45 < own)
+    runs = 0
+    i = 0
+    while i < len(flags):
+        if not flags[i]:
+            i += 1
+            continue
+        j = i
+        while j < len(flags) and flags[j]:
+            j += 1
+        if j - i >= 2:
+            print(f"{code:6} SHIFT? run of {j - i} from [{'/'.join(keys[i])}]")
+            runs += 1
+        i = j
+    return dup, runs
+
+
 def main():
     folder = sys.argv[1] if len(sys.argv) > 1 else os.path.dirname(os.path.abspath(__file__))
     en_flat, _ = load(os.path.join(folder, 'en.json'))
 
     hard_errors = 0
-    print(f"{'lang':6} {'keys':>5} {'tokens':>7} {'urls':>5} {'brand':>6} {'script':>7} {'english':>8}")
+    print(f"{'lang':6} {'keys':>5} {'tokens':>7} {'urls':>5} {'brand':>6} {'script':>7} {'english':>8} {'shift?':>7}")
     for path in sorted(glob.glob(os.path.join(folder, '*.json'))):
         code = os.path.basename(path)[:-5]
         if code == 'en':
@@ -113,7 +178,8 @@ def main():
                 script += 1
 
         hard_errors += tok + url + brand + script
-        print(f"{code:6} {len(t):>5} {tok:>7} {url:>5} {brand:>6} {script:>7} {english:>8}")
+        dup, runs = shift_warnings(code, en_flat, t)
+        print(f"{code:6} {len(t):>5} {tok:>7} {url:>5} {brand:>6} {script:>7} {english:>8} {dup + runs:>7}")
 
     print()
     if hard_errors:

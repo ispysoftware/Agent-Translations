@@ -644,7 +644,7 @@
   "ai_zebra": "zebra",
   "aiuploadtest": "Dette vil kontrollere, om din AI-server fungerer korrekt",
   "alert": "Alarm",
-  "alertalarm": "Alarmalarm",
+  "alertalarmsound": "Alarmlyden",
   "alertgroup": "Alarmgruppe",
   "alertgroups": "Alarmgrupper",
   "alertindicator": "Alarmindikator",

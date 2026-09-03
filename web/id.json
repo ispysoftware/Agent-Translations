@@ -644,7 +644,7 @@
   "ai_zebra": "zebra",
   "aiuploadtest": "Ini akan memeriksa apakah server AI Anda berfungsi dengan baik",
   "alert": "Peringatan",
-  "alertalarm": "Alarm Alert",
+  "alertalarmsound": "Suara Alarm",
   "alertgroup": "Grup Alert",
   "alertgroups": "Grup Alert",
   "alertindicator": "Indikator Alert",

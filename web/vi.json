@@ -644,7 +644,7 @@
   "ai_zebra": "ngựa vằn",
   "aiuploadtest": "Việc này sẽ kiểm tra xem máy chủ AI của bạn có đang hoạt động bình thường không",
   "alert": "Cảnh báo",
-  "alertalarm": "Báo động cảnh báo",
+  "alertalarmsound": "Âm thanh báo động",
   "alertgroup": "Nhóm cảnh báo",
   "alertgroups": "Các nhóm cảnh báo",
   "alertindicator": "Chỉ báo cảnh báo",

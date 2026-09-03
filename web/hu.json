@@ -644,7 +644,7 @@
   "ai_zebra": "zebra",
   "aiuploadtest": "Ez ellenőrzi, hogy az AI szerver megfelelően működik-e",
   "alert": "Riasztás",
-  "alertalarm": "Riasztási riasztás",
+  "alertalarmsound": "Riasztó hang",
   "alertgroup": "Riasztási csoport",
   "alertgroups": "Riasztási csoportok",
   "alertindicator": "Riasztási jelző",
