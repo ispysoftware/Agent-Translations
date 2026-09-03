@@ -16,6 +16,7 @@ MIN_SPLIT_SIZE = 5       # don't split chunks smaller than this
 # Verify exact tags at https://ollama.com/library before first run.
 DEFAULT_MODEL = "gemma4:26b"          # broad multilingual coverage, MoE = fast on 16GB VRAM
 MODEL_OVERRIDES = {                    # per-language exceptions (Qwen leads on CJK)
+    "hu": "qwen3.5:27b",               # gemma4's Hungarian was ~10% wrong (2026-09-03 audit); qwen is far better
     "ja": "qwen3.5:27b",
     "ko": "qwen3.5:27b",
     "zh-cn": "qwen3.5:27b",
