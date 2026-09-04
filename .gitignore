@@ -8,3 +8,4 @@
 tmp
 
 .claude/settings.local.json
+/ollama/__pycache__
