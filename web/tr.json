@@ -690,7 +690,7 @@
   "authorize": "Yetkilendir",
   "authorized": "Yetkilendirildi",
   "authorizing": "Yetkilendiriliyor",
-  "authtap": "Telefonda mısınız? QR koduna tıklayarak kimlik doğrulayıcı uygulamanızda açın veya anahtarı kopyalayın.",
+  "authtap": "Telefonda mısınız? QR koduna dokunarak kimlik doğrulayıcı uygulamanızda açın veya anahtarı kopyalayın.",
   "autofilter": "Otomatik filtre",
   "autofilter_help": "Seçili cihazdaki kayıtları ve fotoğrafları filtrele",
   "autohide": "Otomatik gizle",

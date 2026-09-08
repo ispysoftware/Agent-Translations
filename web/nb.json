@@ -690,7 +690,7 @@
   "authorize": "Autoriser",
   "authorized": "Autorisert",
   "authorizing": "Autoriserer",
-  "authtap": "Er du på en telefon? Tapping på QR-koden for å åpne den i Autentisering-appen din, eller kopier Koden.",
+  "authtap": "Er du på en telefon? Trykk på QR-koden for å åpne den i autentiseringsappen din, eller kopier nøkkelen.",
   "autofilter": "Autofilter",
   "autofilter_help": "Filtrer opptak og bilder på valgt enhet",
   "autohide": "Auto-skjul",

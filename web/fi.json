@@ -690,7 +690,7 @@
   "authorize": "Valtuuta",
   "authorized": "Valtuutettu",
   "authorizing": "Valtuutetaan",
-  "authtap": "Puhelimella? Koputus QR-koodiin avataksesi sen Todentaja-sovelluksessasi, tai kopioi avain.",
+  "authtap": "Puhelimella? Napauta QR-koodia avataksesi sen todennussovelluksessasi, tai kopioi avain.",
   "autofilter": "Automaattinen suodatin",
   "autofilter_help": "Suodata tallenteita ja valokuvia valitulta laitteelta",
   "autohide": "Piilota automaattisesti",

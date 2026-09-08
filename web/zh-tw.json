@@ -690,7 +690,7 @@
   "authorize": "授權",
   "authorized": "已獲授權",
   "authorizing": "正在授權",
-  "authtap": "在手機上？輕敲二維碼以在您的驗證器應用程式中開啟它，或複製金鑰。",
+  "authtap": "在手機上？輕觸 QR 碼以在您的驗證器應用程式中開啟它，或複製金鑰。",
   "autofilter": "自動篩選",
   "autofilter_help": "在已選取裝置上篩錄錄影檔與照片",
   "autohide": "自動隱藏",

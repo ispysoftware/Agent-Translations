@@ -690,7 +690,7 @@
   "authorize": "Engedélyezés",
   "authorized": "Engedélyezett",
   "authorizing": "Hitelesítés...",
-  "authtap": "Telefonon vagy? Kopogj a QR-kódra, hogy megnyisd a Hitelesítő alkalmazásban, vagy másold ki a kulcsot.",
+  "authtap": "Telefonon van? Koppintson a QR-kódra, hogy megnyissa a hitelesítő alkalmazásban, vagy másolja ki a kulcsot.",
   "autofilter": "Automatikus szűrés",
   "autofilter_help": "Felvételek és fotók szűrése a kiválasztott eszközön",
   "autohide": "Automatikus elrejtés",
