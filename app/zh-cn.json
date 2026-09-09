@@ -1038,6 +1038,8 @@
     "json.maxtokens.help": "令牌的最大数量（最小值 300，或设为 0 以禁用最大值）",
     "json.maxviews": "视图",
     "json.maxviews.help": "实时视图中可用的视图数量",
+    "json.mcpenabled": "AI助手(MCP)端点",
+    "json.mcpenabled.help": "让 AI 助手(Claude、ChatGPT、Cursor...)通过本地服务器端口上 /mcp 的 MCP 端点使用此服务器。使用与本地 API 相同的访问规则。",
     "json.media": "媒体",
     "json.medialayout": "媒体与布局",
     "json.medialocation": "位置",

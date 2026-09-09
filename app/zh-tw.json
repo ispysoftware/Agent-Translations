@@ -1038,6 +1038,8 @@
     "json.maxtokens.help": "最大權杖數量（最小值為 300，或設為 0 以停用上限）",
     "json.maxviews": "檢視視圖",
     "json.maxviews.help": "即時檢視中可用的檢視視圖數量",
+    "json.mcpenabled": "AI 助手 (MCP) 端點",
+    "json.mcpenabled.help": "讓 AI 助理 (Claude、ChatGPT、Cursor...) 透過本機伺服器通訊埠上 /mcp 的 MCP 端點使用此伺服器。適用與本機 API 相同的存取規則。",
     "json.media": "媒體",
     "json.medialayout": "媒體與佈局",
     "json.medialocation": "位置",

@@ -1038,6 +1038,8 @@
     "json.maxtokens.help": "Tokenek maximum száma (min. 300, vagy 0 a maximum kikapcsolásához)",
     "json.maxviews": "Megtekintések",
     "json.maxviews.help": "Az élő nézetben elérhető nézetek száma",
+    "json.mcpenabled": "AI-asszisztens (MCP) végpont",
+    "json.mcpenabled.help": "Lehetővé teszi az AI asszisztenseknek (Claude, ChatGPT, Cursor...), hogy ezt a szervert az MCP végponton keresztül érjék el a /mcp útvonalon a helyi szerver portján. Ugyanazok a hozzáférési szabályok vonatkoznak, mint a helyi API-ra.",
     "json.media": "Média",
     "json.medialayout": "Média és elrendezés",
     "json.medialocation": "Helyszín",

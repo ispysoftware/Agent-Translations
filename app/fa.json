@@ -1038,6 +1038,8 @@
     "json.maxtokens.help": "حداکثر تعداد توکن‌ها (حداقل 300 یا 0 برای غیرفعال کردن محدودیت)",
     "json.maxviews": "نمایش‌ها",
     "json.maxviews.help": "تعداد نمایش‌های موجود در مشاهده زنده",
+    "json.mcpenabled": "نقطه پایانی دستیار هوش مصنوعی (MCP)",
+    "json.mcpenabled.help": "دستیاران AI (Claude, ChatGPT, Cursor...) را قادر می‌سازد تا از طریق نقطه پایانی MCP در /mcp بر روی پورت سرور محلی از این سرور استفاده کنند. قوانین دسترسی مشابه API محلی.",
     "json.media": "رسانه",
     "json.medialayout": "رسانه و چیدمان",
     "json.medialocation": "موقعیت مکانی",

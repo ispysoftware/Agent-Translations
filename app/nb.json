@@ -1038,6 +1038,8 @@
     "json.maxtokens.help": "Maksimalt antall tokens (min 300 eller 0 for å deaktivere maksimum)",
     "json.maxviews": "Visninger",
     "json.maxviews.help": "Antall visninger tilgjengelig i live-visning",
+    "json.mcpenabled": "AI-assistent (MCP) Endepunkt",
+    "json.mcpenabled.help": "Lar AI-assistenter (Claude, ChatGPT, Cursor...) bruke denne serveren gjennom MCP-endepunktet på /mcp på Lokal server-porten. Samme tilgangsregler som det lokale API-et.",
     "json.media": "Medier",
     "json.medialayout": "Media og layout",
     "json.medialocation": "Sted",

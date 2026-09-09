@@ -1038,6 +1038,8 @@
     "json.maxtokens.help": "Số lượng token tối đa (tối thiểu 300 hoặc 0 để tắt giới hạn)",
     "json.maxviews": "Chế độ xem",
     "json.maxviews.help": "Số lượng chế độ xem có sẵn trong chế độ xem trực tiếp",
+    "json.mcpenabled": "Điểm cuối Trợ lý AI (MCP)",
+    "json.mcpenabled.help": "Cho phép Trợ lý AI (Claude, ChatGPT, Cursor...) sử dụng Máy chủ này thông qua điểm cuối MCP tại /mcp trên cổng Máy chủ cục bộ. Cùng các quy tắc truy cập như API cục bộ.",
     "json.media": "Phương tiện",
     "json.medialayout": "Phương tiện và bố cục",
     "json.medialocation": "Vị trí",

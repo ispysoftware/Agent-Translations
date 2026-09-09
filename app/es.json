@@ -1038,6 +1038,8 @@
     "json.maxtokens.help": "Número máximo de tokens (mín. 300 o 0 para desactivar el máximo)",
     "json.maxviews": "Vistas",
     "json.maxviews.help": "Número de vistas disponibles en la vista en directo",
+    "json.mcpenabled": "Punto de conexión del Asistente de IA (MCP)",
+    "json.mcpenabled.help": "Permite que los Asistentes de IA (Claude, ChatGPT, Cursor...) usen este Servidor a través del extremo MCP en /mcp en el Puerto del Servidor local. Las mismas reglas de acceso que la API local.",
     "json.media": "Multimedia",
     "json.medialayout": "Multimedia y diseño",
     "json.medialocation": "Ubicación",

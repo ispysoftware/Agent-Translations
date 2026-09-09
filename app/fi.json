@@ -1038,6 +1038,8 @@
     "json.maxtokens.help": "Tokenien enimmäismäärä (vähintään 300 tai 0 poistaaksesi rajoituksen)",
     "json.maxviews": "Näkymät",
     "json.maxviews.help": "Live-näkymässä käytettävissä olevien näkymien määrä",
+    "json.mcpenabled": "AI-apulainen (MCP) -päätepiste",
+    "json.mcpenabled.help": "Sallii AI-assistenteille (Claude, ChatGPT, Cursor...) käyttää tätä palvelinta MCP-päätepisteen kautta osoitteessa /mcp paikallisen palvelimen portissa. Samat käyttöoikeudet kuin paikallisen API:n.",
     "json.media": "Media",
     "json.medialayout": "Media ja asettelu",
     "json.medialocation": "Sijainti",

@@ -1038,6 +1038,8 @@
     "json.maxtokens.help": "토큰의 최대 개수 (최소 300 또는 비활성화하려면 0)",
     "json.maxviews": "보기",
     "json.maxviews.help": "라이브 보기에서 사용할 수 있는 보기 수",
+    "json.mcpenabled": "AI 어시스턴트(MCP) 끝점",
+    "json.mcpenabled.help": "AI 어시스턴트 (Claude, ChatGPT, Cursor...) 가 로컬 서버의 /mcp 포트에서 MCP 엔드포인트를 통해 이 서버를 사용하도록 허용합니다. 로컬 API와 동일한 액세스 규칙이 적용됩니다.",
     "json.media": "미디어",
     "json.medialayout": "미디어 및 레이아웃",
     "json.medialocation": "위치",

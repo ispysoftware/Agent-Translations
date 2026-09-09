@@ -1038,6 +1038,8 @@
     "json.maxtokens.help": "トークンの最大数（最小値は300、または無効にする場合は0）",
     "json.maxviews": "ビュー数",
     "json.maxviews.help": "ライブビューで利用可能なビューの数",
+    "json.mcpenabled": "AI アシスタント (MCP) エンドポイント",
+    "json.mcpenabled.help": "AI アシスタント（Claude、ChatGPT、Cursor など）がローカルサーバーのポート /mcp にある MCP エンドポイント経由でこのサーバーを使用できるようにします。ローカル API と同じアクセスルールが適用されます。",
     "json.media": "メディア",
     "json.medialayout": "メディアとレイアウト",
     "json.medialocation": "場所",

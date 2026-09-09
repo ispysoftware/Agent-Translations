@@ -1038,6 +1038,8 @@
     "json.maxtokens.help": "टोकन की अधिकतम संख्या (न्यूनतम 300 या अधिकतम को अक्षम करने के लिए 0)",
     "json.maxviews": "व्यू",
     "json.maxviews.help": "लाइव व्यू में उपलब्ध व्यू की संख्या",
+    "json.mcpenabled": "AI Assistant (MCP) अंतबिंदु",
+    "json.mcpenabled.help": "AI असिस्टेंट (Claude, ChatGPT, Cursor...) को इस सर्वर का उपयोग करने दें MCP एंडपॉइंट के माध्यम से /mcp पर लोकल सर्वर पोर्ट पर। लोकल API के समान एक्सेस नियम।",
     "json.media": "मीडिया",
     "json.medialayout": "मीडिया और लेआउट",
     "json.medialocation": "स्थान",

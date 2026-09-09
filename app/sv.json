@@ -1038,6 +1038,8 @@
     "json.maxtokens.help": "Maximalt antal tokens (minst 3<0xC2>00 eller 0 för att inaktivera maxgräns)",
     "json.maxviews": "Vyer",
     "json.maxviews.help": "Antal tillgängliga vyer i livevy",
+    "json.mcpenabled": "AI-assistent (MCP)-slut punkt",
+    "json.mcpenabled.help": "Låter AI-assistenter (Claude, ChatGPT, Cursor...) använda denna server genom MCP-slutpunkten på /mcp på den lokala serverporten. Samma åtkomstregler som det lokala API:t.",
     "json.media": "Media",
     "json.medialayout": "Media och layout",
     "json.medialocation": "Plats",

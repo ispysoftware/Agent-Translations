@@ -1038,6 +1038,8 @@
     "json.maxtokens.help": "Максімальная колькасць токенаў (мінімум 300 або 0, каб адключыць максімум)",
     "json.maxviews": "Віды",
     "json.maxviews.help": "Колькасць відаў, даступных на экране жывога прагляду",
+    "json.mcpenabled": "Конечная кропка AI Assistant (MCP)",
+    "json.mcpenabled.help": "Дазволяе Асістэнтам ШІ (Claude, ChatGPT, Cursor...) выкарыстоўваць гэты сервер праз MCP канал на /mcp на Лакальным сервере на Порце. Такія ж правілы доступу, як для лакальнага API.",
     "json.media": "Медыя",
     "json.medialayout": "Медыя і макет",
     "json.medialocation": "Размяшчэнне",

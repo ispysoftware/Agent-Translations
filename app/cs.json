@@ -1038,6 +1038,8 @@
     "json.maxtokens.help": "Maximální počet tokenů (min. 300, nebo 0 pro vypnutí limitu)",
     "json.maxviews": "Zobrazení",
     "json.maxviews.help": "Počet zobrazení dostupných v živém náhledu",
+    "json.mcpenabled": "Koncový bod Asistenta AI (MCP)",
+    "json.mcpenabled.help": "Umožní AI asistentům (Claude, ChatGPT, Cursor...) přistupovat k tomuto serveru prostřednictvím koncového bodu MCP na adrese /mcp na portu Lokální server. Stejná pravidla přístupu jako u místního API.",
     "json.media": "Média",
     "json.medialayout": "Média a rozvržení",
     "json.medialocation": "Lokalita",

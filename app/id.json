@@ -1038,6 +1038,8 @@
     "json.maxtokens.help": "Jumlah token maksimum (min 300 atau 0 untuk menonaktifkan batas maksimum)",
     "json.maxviews": "Tampilan",
     "json.maxviews.help": "Jumlah tampilan yang tersedia dalam live view",
+    "json.mcpenabled": "Titik Akhir Asisten AI (MCP)",
+    "json.mcpenabled.help": "Biarkan Asisten AI (Claude, ChatGPT, Cursor...) menggunakan server ini melalui titik akhir MCP di /mcp pada port Server Lokal. Aturan akses yang sama seperti API lokal.",
     "json.media": "Media",
     "json.medialayout": "Media dan tata letak",
     "json.medialocation": "Lokasi",

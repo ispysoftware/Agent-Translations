@@ -1038,6 +1038,8 @@
     "json.maxtokens.help": "Maximaal aantal tokens (min. 300 of 0 om maximum uit te schakelen)",
     "json.maxviews": "Weergaven",
     "json.maxviews.help": "Aantal beschikbare weergaven in live view",
+    "json.mcpenabled": "AI-assistent (MCP) Eindpunt",
+    "json.mcpenabled.help": "Stelt AI-assistenten (Claude, ChatGPT, Cursor...) in staat deze server via het MCP-eindpunt op /mcp op de lokale serverpoort te gebruiken. Dezelfde toegangsregels als de lokale API.",
     "json.media": "Media",
     "json.medialayout": "Media en lay-out",
     "json.medialocation": "Locatie",

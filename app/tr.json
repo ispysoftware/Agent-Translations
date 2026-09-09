@@ -1038,6 +1038,8 @@
     "json.maxtokens.help": "Maksimum Token Sayısı (en az 300 veya sınırı devre dışı bırakmak için 0)",
     "json.maxviews": "Görünümler",
     "json.maxviews.help": "Canlı izlemede kullanılabilir görünüm sayısı",
+    "json.mcpenabled": "AI Asistanı (MCP) Uç Noktası",
+    "json.mcpenabled.help": "AI Asistanlarının (Claude, ChatGPT, Cursor...) /mcp adresindeki MCP uç noktası aracılığıyla bu sunucuyu Yerel Sunucu bağlantı noktasında kullanmasını sağlar. Yerel API ile aynı erişim kuralları geçerlidir.",
     "json.media": "Medya",
     "json.medialayout": "Medya ve Düzen",
     "json.medialocation": "Konum",
