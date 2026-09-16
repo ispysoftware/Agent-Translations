@@ -1717,7 +1717,7 @@
     "json.triprepeat.help": "Objekt kan utlösa en virtuell linje flera gånger",
     "json.tripwires": "Virtuella linjer",
     "json.trustedproxies": "Betrodda proxy-servrar",
-    "json.trustedproxies.help": "IP-adresser för omvända proxy-servrar som tillåts rapportera den verkliga klientens IP. Lämna tomt om du inte kör en proxy (t.ex. nginx, Caddy, Cloudflare Tunnel) framför Agent DVR.",
+    "json.trustedproxies.help": "IP-adresser eller CIDR-intervall (t.ex. 10.0.1.0/24) för omvända proxy-servrar som tillåts rapportera den verkliga klientens IP, kommaseparerade. Lämna tomt om du inte kör en proxy (t.ex. nginx, Caddy, Cloudflare Tunnel, Azure Application Gateway) framför Agent DVR.",
     "json.tue": "Tis",
     "json.tuning": "Optimering",
     "json.tuning.help": "Prestanda: Hög FPS, färre kameror.<br/>Balanserad: Kvalitet och kvantitet, medelväg<br/>Kapacitet: Fler kameror eller mindre kraftfull hårdvara. Lägre FPS.<br/>*Vi har valt detta automatiskt baserat på din hårdvara.",

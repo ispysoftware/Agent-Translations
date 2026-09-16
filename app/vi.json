@@ -1717,7 +1717,7 @@
     "json.triprepeat.help": "Vật thể có thể kích hoạt hàng rào ảo nhiều lần",
     "json.tripwires": "Hàng râm ảo",
     "json.trustedproxies": "Proxy tin cậy",
-    "json.trustedproxies.help": "Địa chỉ IP của các reverse proxy được phép báo cáo IP thực của máy khách. Để trống trừ khi bạn chạy một proxy (ví dụ: nginx, Caddy, Cloudflare Tunnel) phía trước Agent DVR.",
+    "json.trustedproxies.help": "Địa chỉ IP hoặc dải CIDR (ví dụ: 10.0.1.0/24) của các reverse proxy được phép báo cáo IP thực của máy khách, phân tách bằng dấu phẩy. Để trống trừ khi bạn chạy một proxy (ví dụ: nginx, Caddy, Cloudflare Tunnel, Azure Application Gateway) phía trước Agent DVR.",
     "json.tue": "T3",
     "json.tuning": "Tinh chỉnh",
     "json.tuning.help": "Hiệu suất: FPS cao, ít camera hơn.<br/>Cân bằng: Chất lượng và số lượng ở mức trung bình<br/>Dung lượng: Nhiều camera hơn hoặc phần cứng yếu hơn. FPS thấp hơn.<br/>*Chúng tôi tự động chọn chế độ này dựa trên phần cứng của bạn.",

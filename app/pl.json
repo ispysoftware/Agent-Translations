@@ -1717,7 +1717,7 @@
     "json.triprepeat.help": "Obiekt może wielokrotnie przekraczać wirtualną barierę",
     "json.tripwires": "Wirtualne bariery",
     "json.trustedproxies": "Zaufane serwery proxy",
-    "json.trustedproxies.help": "Adresy IP odwróconych serwerów proxy, którym zezwolono na raportowanie rzeczywistego adresu IP klienta. Zostaw puste, chyba że używasz serwera proxy (np. nginx, Caddy, Cloudflare Tunnel) przed Agent DVR.",
+    "json.trustedproxies.help": "Adresy IP lub zakresy CIDR (np. 10.0.1.0/24) odwróconych serwerów proxy, którym zezwolono na raportowanie rzeczywistego adresu IP klienta, oddzielone przecinkami. Zostaw puste, chyba że używasz serwera proxy (np. nginx, Caddy, Cloudflare Tunnel, Azure Application Gateway) przed Agent DVR.",
     "json.tue": "Wt",
     "json.tuning": "Strojenie",
     "json.tuning.help": "Wydajność: wysoki FPS, mniej kamer.<br/>Zrównoważone: jakość i ilość, kompromis<br/>Pojemność: więcej kamer lub słabszy sprzęt. Niższy FPS.<br/>*Wybrano automatycznie na podstawie Twojego sprzętu.",

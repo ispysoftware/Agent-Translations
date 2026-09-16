@@ -1717,7 +1717,7 @@
     "json.triprepeat.help": "Object kan een virtuele lijn meerdere keren activeren",
     "json.tripwires": "Virtuele lijnen",
     "json.trustedproxies": "Vertrouwde proxies",
-    "json.trustedproxies.help": "IP-adressen van reverse proxies die de echte client IP mogen rapporteren. Laat leeg, tenzij u een proxy (bijv. nginx, Caddy, Cloudflare Tunnel) voor Agent DVR gebruikt.",
+    "json.trustedproxies.help": "IP-adressen of CIDR-bereiken (bijv. 10.0.1.0/24) van reverse proxies die het echte client-IP mogen rapporteren, gescheiden door komma's. Laat leeg, tenzij u een proxy (bijv. nginx, Caddy, Cloudflare Tunnel, Azure Application Gateway) voor Agent DVR gebruikt.",
     "json.tue": "Di",
     "json.tuning": "Optimalisatie",
     "json.tuning.help": "Prestaties: Hoog FPS, minder camera's.<br/>Gebalanceerd: Kwaliteit en kwantiteit, het midden.<br/>Capaciteit: Meer camera's of minder krachtige hardware. Lager FPS.<br/>*We hebben dit automatisch geselecteerd op basis van uw hardware.",

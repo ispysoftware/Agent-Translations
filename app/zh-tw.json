@@ -1717,7 +1717,7 @@
     "json.triprepeat.help": "物件可多次觸發電子圍欄",
     "json.tripwires": "電子圍欄",
     "json.trustedproxies": "受信任的代理伺服器",
-    "json.trustedproxies.help": "允許回報真實客戶端 IP 的反向代理伺服器 IP。除非您在 Agent DVR 前方運行代理伺服器（例如 nginx、Caddy、Cloudflare Tunnel），否則留空即可。",
+    "json.trustedproxies.help": "允許回報真實客戶端 IP 的反向代理伺服器 IP 位址或 CIDR 範圍（例如 10.0.1.0/24），以逗號分隔。除非您在 Agent DVR 前方運行代理伺服器（例如 nginx、Caddy、Cloudflare Tunnel、Azure Application Gateway），否則留空即可。",
     "json.tue": "週二",
     "json.tuning": "效能調校",
     "json.tuning.help": "效能：高 FPS，相機數量較少。<br/>平衡：品質與數量的折衷方案。<br/>容量：支援更多相機或硬體規格較低時使用；FPS 會降低。<br/>*系統已根據您的硬體自動選取此設定。",

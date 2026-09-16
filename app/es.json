@@ -1717,7 +1717,7 @@
     "json.triprepeat.help": "El objeto puede activar una línea virtual varias veces",
     "json.tripwires": "Líneas virtuales",
     "json.trustedproxies": "Proxies de confianza",
-    "json.trustedproxies.help": "Direcciones IP de proxies inversos autorizados para informar la IP real del cliente. Deje en blanco a menos que utilice un proxy (p. ej., nginx, Caddy, Cloudflare Tunnel) delante de Agent DVR.",
+    "json.trustedproxies.help": "Direcciones IP o rangos CIDR (p. ej., 10.0.1.0/24) de proxies inversos autorizados para informar la IP real del cliente, separados por comas. Deje en blanco a menos que utilice un proxy (p. ej., nginx, Caddy, Cloudflare Tunnel, Azure Application Gateway) delante de Agent DVR.",
     "json.tue": "Mar",
     "json.tuning": "Ajuste",
     "json.tuning.help": "Rendimiento: FPS altos, menos cámaras.<br/>Equilibrado: Calidad y cantidad, punto medio<br/>Capacidad: Más cámaras o hardware menos potente. Menor FPS.<br/>*Hemos seleccionado esto automáticamente según su hardware.",

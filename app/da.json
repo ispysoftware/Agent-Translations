@@ -1717,7 +1717,7 @@
     "json.triprepeat.help": "Objekt kan udløse en tripwire flere gange",
     "json.tripwires": "Tripwires",
     "json.trustedproxies": "Betroede proxyer",
-    "json.trustedproxies.help": "IP-adresser for reverse proxyer, der har tilladelse til at rapportere den rigtige klient-IP. Efterlad tom, medmindre du kører en proxy (f.eks. nginx, Caddy, Cloudflare Tunnel) foran Agent DVR.",
+    "json.trustedproxies.help": "IP-adresser eller CIDR-områder (f.eks. 10.0.1.0/24) for reverse proxyer, der har tilladelse til at rapportere den rigtige klient-IP, kommasepareret. Efterlad tom, medmindre du kører en proxy (f.eks. nginx, Caddy, Cloudflare Tunnel, Azure Application Gateway) foran Agent DVR.",
     "json.tue": "Tir",
     "json.tuning": "Optimering",
     "json.tuning.help": "Ydeevne: Høj FPS, færre kameraer.<br/>Balanceret: Kvalitet og mængde, mellemvej<br/>Kapacitet: Flere kameraer eller mindre kraftfuld hardware. Lavere FPS.<br/>*Vi har valgt dette automatisk baseret på din hardware.",

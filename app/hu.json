@@ -1717,7 +1717,7 @@
     "json.triprepeat.help": "Az objektum többször is aktiválhatja a virtuális vonalat",
     "json.tripwires": "Virtuális vonalak",
     "json.trustedproxies": "Megbízható proxyk",
-    "json.trustedproxies.help": "A valós ügyfél IP-címét jelenteni jogosult fordított proxy szerverek IP-címei. Hagyja üresen, hacsak nem fut egy proxy (pl. nginx, Caddy, Cloudflare Tunnel) az Agent DVR előtt.",
+    "json.trustedproxies.help": "A valós ügyfél IP-címét jelenteni jogosult fordított proxy szerverek IP-címei vagy CIDR-tartományai (pl. 10.0.1.0/24), vesszővel elválasztva. Hagyja üresen, hacsak nem fut egy proxy (pl. nginx, Caddy, Cloudflare Tunnel, Azure Application Gateway) az Agent DVR előtt.",
     "json.tue": "Kedd",
     "json.tuning": "Optimalizálás",
     "json.tuning.help": "Teljesítmény: Magas FPS, kevesebb kamera.<br/>Egyensúly: Minőség és mennyiség egyaránt, középút.<br/>Kapacitás: Több kamera vagy gyengébb hardver. Alacsonyabb FPS.<br/>*Ezt az eszközöd alapján választottuk ki automatikusan.",

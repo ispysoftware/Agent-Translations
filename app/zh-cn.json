@@ -1717,7 +1717,7 @@
     "json.triprepeat.help": "对象可多次触发绊线",
     "json.tripwires": "绊线",
     "json.trustedproxies": "受信任代理",
-    "json.trustedproxies.help": "允许报告真实客户端 IP 的反向代理的 IP 地址。除非您在 Agent DVR 前运行了代理（例如 nginx、Caddy、Cloudflare Tunnel），否则留空。",
+    "json.trustedproxies.help": "允许报告真实客户端 IP 的反向代理的 IP 地址或 CIDR 范围（例如 10.0.1.0/24），以逗号分隔。除非您在 Agent DVR 前运行了代理（例如 nginx、Caddy、Cloudflare Tunnel、Azure Application Gateway），否则留空。",
     "json.tue": "周二",
     "json.tuning": "调优",
     "json.tuning.help": "性能：高帧率，摄像头数量较少。<br/>均衡：质量与数量的折中方案<br/>容量：支持更多摄像头或硬件配置较低。帧率降低。<br/>*系统已根据您的硬件自动选择此项。",

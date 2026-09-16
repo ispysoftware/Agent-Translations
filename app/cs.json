@@ -1717,7 +1717,7 @@
     "json.triprepeat.help": "Objekt může aktivovat virtuální lijnku vícekrát",
     "json.tripwires": "Virtuální lijnky",
     "json.trustedproxies": "Důvěryhodné proxy",
-    "json.trustedproxies.help": "IP adresy reverzních proxy, které mohou hlásit skutečnou IP adresu klienta. Nechávejte prázdné, pokud nepoužíváte proxy (např. nginx, Caddy, Cloudflare Tunnel) před Agent DVR.",
+    "json.trustedproxies.help": "IP adresy nebo rozsahy CIDR (např. 10.0.1.0/24) reverzních proxy, které mohou hlásit skutečnou IP adresu klienta, oddělené čárkami. Nechávejte prázdné, pokud nepoužíváte proxy (např. nginx, Caddy, Cloudflare Tunnel, Azure Application Gateway) před Agent DVR.",
     "json.tue": "Út",
     "json.tuning": "Ladění",
     "json.tuning.help": "Výkon: Vysoký FPS, méně kamer.<br/>Vyvážené: Kvalita a množství, střední cesta<br/>Kapacita: Více kamer nebo slabší hardware. Nižší FPS.<br/>*Tuto možnost jsme automaticky vybrali na základě vašeho hardwaru.",

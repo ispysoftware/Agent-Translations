@@ -1717,7 +1717,7 @@
     "json.triprepeat.help": "Objekt kan utløse en virtuell snublekabel flere ganger",
     "json.tripwires": "Snublekabler",
     "json.trustedproxies": "Betrodde proxyer",
-    "json.trustedproxies.help": "IP-adresser til omvendte proxyer som har tillatelse til å rapportere den faktiske klientens IP. La feltet være tomt med mindre du kjører en proxy (f.eks. nginx, Caddy, Cloudflare Tunnel) foran Agent DVR.",
+    "json.trustedproxies.help": "IP-adresser eller CIDR-områder (f.eks. 10.0.1.0/24) til omvendte proxyer som har tillatelse til å rapportere den faktiske klientens IP, kommaseparert. La feltet være tomt med mindre du kjører en proxy (f.eks. nginx, Caddy, Cloudflare Tunnel, Azure Application Gateway) foran Agent DVR.",
     "json.tue": "Tir",
     "json.tuning": "Optimalisering",
     "json.tuning.help": "Ytelse: Høy FPS, færre kameraer.<br/>Balansert: Kvalitet og kvantitet, mellomløsning<br/>Kapasitet: Flere kameraer eller mindre kraftig maskinvare. Lavere FPS.<br/>*Vi har valgt dette automatisk basert på din maskinvare.",

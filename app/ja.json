@@ -1717,7 +1717,7 @@
     "json.triprepeat.help": "オブジェクトは複数回トリップワイヤーをトリガーできます",
     "json.tripwires": "トリップワイヤ",
     "json.trustedproxies": "信頼できるプロキシ",
-    "json.trustedproxies.help": "実際のクライアント IP を報告することを許可するリバースプロキシの IP アドレス。Agent の前にプロキシ（nginx、Caddy、Cloudflare Tunnel など）を実行しない限り空白のままにしてください。",
+    "json.trustedproxies.help": "実際のクライアント IP を報告することを許可するリバースプロキシの IP アドレスまたは CIDR 範囲（例: 10.0.1.0/24）をカンマ区切りで指定します。Agent の前にプロキシ（nginx、Caddy、Cloudflare Tunnel、Azure Application Gateway など）を実行しない限り空白のままにしてください。",
     "json.tue": "火",
     "json.tuning": "チューニング",
     "json.tuning.help": "パフォーマンス：高 FPS、カメラ数減少<br/>バランス型：品質と数量の中間<br/>キャパシティ：より多くのカメラまたは低性能ハードウェア対応。FPS 低下。<br/>*これはハードウェアに基づいて自動選択されました。",

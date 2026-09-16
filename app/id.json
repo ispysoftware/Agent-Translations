@@ -1717,7 +1717,7 @@
     "json.triprepeat.help": "Objek dapat memicu tripwire beberapa kali",
     "json.tripwires": "Tripwire",
     "json.trustedproxies": "Proxy terpercaya",
-    "json.trustedproxies.help": "Alamat IP reverse proxy yang diizinkan untuk melaporkan IP klien asli. Biarkan kosong kecuali Anda menjalankan proxy (misalnya nginx, Caddy, Cloudflare Tunnel) di depan Agent DVR.",
+    "json.trustedproxies.help": "Alamat IP atau rentang CIDR (misalnya 10.0.1.0/24) reverse proxy yang diizinkan untuk melaporkan IP klien asli, dipisahkan dengan koma. Biarkan kosong kecuali Anda menjalankan proxy (misalnya nginx, Caddy, Cloudflare Tunnel, Azure Application Gateway) di depan Agent DVR.",
     "json.tue": "Sel",
     "json.tuning": "Penyetelan",
     "json.tuning.help": "Performa: FPS tinggi, lebih sedikit kamera.<br/>Seimbang: Kualitas dan kuantitas, jalan tengah<br/>Kapasitas: Lebih banyak kamera atau perangkat keras yang kurang bertenaga. FPS lebih rendah.<br/>*Kami memilih ini secara otomatis berdasarkan perangkat keras Anda.",

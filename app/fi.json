@@ -1717,7 +1717,7 @@
     "json.triprepeat.help": "Kohde voi ylittää virtuaalisen linjan useita kertoja",
     "json.tripwires": "Virtuaalilinjat",
     "json.trustedproxies": "Luotetut välityspalvelimet",
-    "json.trustedproxies.help": "Käänteisten välityspalvelimien IP-osoitteet, joiden sallitaan raportoida todellinen asiakkaan IP. Jätä tyhjäksi, ellet käytä välityspalvelinta (esim. nginx, Caddy, Cloudflare Tunnel) Agent DVR:n edessä.",
+    "json.trustedproxies.help": "Käänteisten välityspalvelimien IP-osoitteet tai CIDR-alueet (esim. 10.0.1.0/24), joiden sallitaan raportoida todellinen asiakkaan IP, pilkuilla eroteltuina. Jätä tyhjäksi, ellet käytä välityspalvelinta (esim. nginx, Caddy, Cloudflare Tunnel, Azure Application Gateway) Agent DVR:n edessä.",
     "json.tue": "Ti",
     "json.tuning": "Viritys",
     "json.tuning.help": "Suorituskyky: Korkea FPS, vähemmän kameroita.<br/>Tasapainoinen: Laatu ja määrä, keskiväli<br/>Kapasiteetti: Enemmän kameroita tai vähemmän tehokas laitteisto. Alhaisempi FPS.<br/>*Valitsimme tämän automaattisesti laitteistosi perusteella.",

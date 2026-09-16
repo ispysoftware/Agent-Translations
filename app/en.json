@@ -1717,7 +1717,7 @@
     "json.triprepeat.help": "Object can trigger a trip wire multiple times",
     "json.tripwires": "Tripwires",
     "json.trustedproxies": "Trusted Proxies",
-    "json.trustedproxies.help": "IP addresses of reverse proxies allowed to report the real client IP. Leave blank unless you run a proxy (e.g. nginx, Caddy, Cloudflare Tunnel) in front of Agent.",
+    "json.trustedproxies.help": "IP addresses or CIDR ranges (e.g. 10.0.1.0/24) of reverse proxies allowed to report the real client IP, comma separated. Leave blank unless you run a proxy (e.g. nginx, Caddy, Cloudflare Tunnel, Azure Application Gateway) in front of Agent.",
     "json.tue": "Tue",
     "json.tuning": "Tuning",
     "json.tuning.help": "Performance: High FPS, fewer cameras.<br/>Balanced: Quality and quantity, middle ground<br/>Capacity: More cameras or less powerful hardware. Lower FPS.<br/>*We auto selected this based on your hardware.",

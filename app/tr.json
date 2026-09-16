@@ -1717,7 +1717,7 @@
     "json.triprepeat.help": "Nesne bir sanal sınırı birden fazla kez tetikleyebilir",
     "json.tripwires": "Sanal sınırlar",
     "json.trustedproxies": "Güvenilir proxy'ler",
-    "json.trustedproxies.help": "Gerçek istemci IP'sini bildirmesine izin verilen ters proxy'lerin IP adresleri. Agent önüne bir proxy (örneğin nginx, Caddy, Cloudflare Tunnel) çalıştırmıyorsanız boş bırakın.",
+    "json.trustedproxies.help": "Gerçek istemci IP'sini bildirmesine izin verilen ters proxy'lerin IP adresleri veya CIDR aralıkları (örneğin 10.0.1.0/24), virgülle ayrılmış. Agent önüne bir proxy (örneğin nginx, Caddy, Cloudflare Tunnel, Azure Application Gateway) çalıştırmıyorsanız boş bırakın.",
     "json.tue": "Sal",
     "json.tuning": "Ayarlama",
     "json.tuning.help": "Performans: Yüksek FPS, daha az kamera.<br/>Dengeli: Kalite ve miktar, orta yol<br/>Kapasite: Daha fazla kamera veya daha düşük güçlü donanım. Düşük FPS.<br/>*Donanımınıza göre bunu otomatik olarak seçtik.",
