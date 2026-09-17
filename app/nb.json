@@ -322,6 +322,8 @@
     "json.alarms": "Alarmer",
     "json.alert": "Varsel",
     "json.alertcondition": "Alarmbetingelse",
+    "json.alertdebounce": "Slå sammen-forsinkelse",
+    "json.alertdebounce.help": "Slår sammen varselhendelser over en varighet for å redusere gjentakelser",
     "json.alertdirection": "Varselretning",
     "json.alertdirection.help": "Utløs et varsel når et objekt krysser en tripptråd i denne retningen. Venstre og Høyre er sidene av tråden når man ser langs den fra start til pilen. Tegn tråden motsatt vei for å bytte dem.",
     "json.alertfinished": "Alarm fullført",

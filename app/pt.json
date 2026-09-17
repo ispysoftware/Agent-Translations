@@ -322,6 +322,8 @@
     "json.alarms": "Alarmes",
     "json.alert": "Alerta",
     "json.alertcondition": "Condição de alerta",
+    "json.alertdebounce": "Atraso de Unir",
+    "json.alertdebounce.help": "Mescla eventos de alerta ao longo de uma duração para reduzir repetições",
     "json.alertdirection": "Direção de Alerta",
     "json.alertdirection.help": "Gerar um alerta quando um objeto cruza um fio de disparo nesta direção. Esquerda e Direita são os lados do fio olhando ao longo dele desde seu início até a ponta da seta. Redesenhe o fio da outra forma para invertê-los.",
     "json.alertfinished": "Alerta finalizado",

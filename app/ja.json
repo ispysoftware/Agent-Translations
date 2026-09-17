@@ -322,6 +322,8 @@
     "json.alarms": "アラーム",
     "json.alert": "アラート",
     "json.alertcondition": "アラート条件",
+    "json.alertdebounce": "マージ遅延時間",
+    "json.alertdebounce.help": "アラートイベントを期間にわたってマージし、繰り返しを縮小します",
     "json.alertdirection": "アラート方向",
     "json.alertdirection.help": "オブジェクトがこの方向でトリップワイヤーを横切るときにアラートを発生させます。「左」と「右」はワイヤーの開始点から矢印の方向を見たときのワイヤーの両側です。ワイヤーを逆方向に描き直して、それらを入れ替えます。",
     "json.alertfinished": "アラート終了",

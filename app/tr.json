@@ -322,6 +322,8 @@
     "json.alarms": "Alarmlar",
     "json.alert": "Uyarı",
     "json.alertcondition": "Uyarı durumu",
+    "json.alertdebounce": "Birleştir Gecikme",
+    "json.alertdebounce.help": "Uyarı olaylarını tekrarları azaltmak için bir süre içinde birleştir",
     "json.alertdirection": "Uyarı Yönü",
     "json.alertdirection.help": "Bir nesne bu yönde tel tuzağını geçtiğinde bir uyarı tetikle. Sol ve Sağ, teli başlangıcından ok ucuna doğru bakıldığında telin yanlarıdır. Tel tuzağını ters yönde çizerek bunları değiştirin.",
     "json.alertfinished": "Uyarı tamamlandı",

@@ -322,6 +322,8 @@
     "json.alarms": "Allarmi",
     "json.alert": "Avviso",
     "json.alertcondition": "Condizione allarme",
+    "json.alertdebounce": "Ritardo Unisci",
+    "json.alertdebounce.help": "Unisce gli eventi di avviso nel corso di una durata per ridurre le ripetizioni",
     "json.alertdirection": "Direzione dell'Avviso",
     "json.alertdirection.help": "Genera un avviso quando un oggetto attraversa un filo di attivazione in questa direzione. Sinistra e Destra sono i lati del filo guardandolo dal suo inizio alla punta della freccia. Ridisegna il filo nell'altro verso per scambiarli.",
     "json.alertfinished": "Allarme terminato",

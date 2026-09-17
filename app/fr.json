@@ -322,6 +322,8 @@
     "json.alarms": "Alarmes",
     "json.alert": "Alerte",
     "json.alertcondition": "Condition d'alerte",
+    "json.alertdebounce": "Fusionner Délai",
+    "json.alertdebounce.help": "Fusionne les événements d'alerte sur une durée pour réduire les répétitions",
     "json.alertdirection": "Direction d'alerte",
     "json.alertdirection.help": "Déclencher une alerte quand un objet traverse un fil déclencheur dans cette direction. Gauche et Droite sont les côtés du fil en le regardant de son début vers la pointe de flèche. Redessinez le fil dans l'autre sens pour les inverser.",
     "json.alertfinished": "Alerte terminée",

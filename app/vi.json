@@ -322,6 +322,8 @@
     "json.alarms": "Báo động",
     "json.alert": "Cảnh báo",
     "json.alertcondition": "Điều kiện cảnh báo",
+    "json.alertdebounce": "Hợp nhất Trễ",
+    "json.alertdebounce.help": "Hợp nhất các sự kiện cảnh báo trong một thời lượng để giảm lặp lại",
     "json.alertdirection": "Hướng Cảnh báo",
     "json.alertdirection.help": "Phát ra cảnh báo khi một vật thể vượt qua dây cảm ứng theo hướng này. Trái và Phải là các cạnh của dây khi nhìn dọc theo nó từ điểm Bắt đầu đến đầu mũi tên. Vẽ lại dây theo hướng khác để hoán đổi chúng.",
     "json.alertfinished": "Cảnh báo kết thúc",

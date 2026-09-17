@@ -322,6 +322,8 @@
     "json.alarms": "Hälytykset",
     "json.alert": "Hälytys",
     "json.alertcondition": "Hälytysolosuhde",
+    "json.alertdebounce": "Yhdistä Viive",
+    "json.alertdebounce.help": "Yhdistää hälytystapahtumat keston ajalle toistumisen pienentämiseksi",
     "json.alertdirection": "Hälytyksen suunta",
     "json.alertdirection.help": "Nosta hälytys, kun esine ylittää liipaisinjohdon tähän suuntaan. Vasen ja Oikea ovat johdon sivut katsottaessa sitä sen alusta nuolenpäähän. Piirrä johto uudelleen toiseen suuntaan vaihtaaksesi ne.",
     "json.alertfinished": "Hälytys päättynyt",

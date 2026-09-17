@@ -322,6 +322,8 @@
     "json.alarms": "警報",
     "json.alert": "警示",
     "json.alertcondition": "觸發條件",
+    "json.alertdebounce": "合併延遲",
+    "json.alertdebounce.help": "在持續時間內合併警示事件以縮小重複次數",
     "json.alertdirection": "警示方向",
     "json.alertdirection.help": "當物體朝此方向跨越絆線時觸發警示。「左側」和「右側」是指沿著絆線從起點看向箭頭的兩側。重新繪製相反方向的絆線可以交換它們。",
     "json.alertfinished": "警報結束",

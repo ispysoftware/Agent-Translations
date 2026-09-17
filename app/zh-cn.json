@@ -322,6 +322,8 @@
     "json.alarms": "警报",
     "json.alert": "警报",
     "json.alertcondition": "触发条件",
+    "json.alertdebounce": "合并延迟",
+    "json.alertdebounce.help": "在持续时间内合并警报事件以缩小重复",
     "json.alertdirection": "警报方向",
     "json.alertdirection.help": "当物体穿过此方向的警戒线时发出\"警报\"。\"左\"和\"右\"是指沿着警戒线从起点看向箭头方向时警戒线两侧的位置。以相反方向重新绘制警戒线可以交换它们。",
     "json.alertfinished": "警报结束",

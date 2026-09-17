@@ -322,6 +322,8 @@
     "json.alarms": "Alarme",
     "json.alert": "Alarm",
     "json.alertcondition": "Alarmbedingung",
+    "json.alertdebounce": "Zusammenführungsverzögerung",
+    "json.alertdebounce.help": "Fasst Alarmereignisse über eine Dauer zusammen, um Wiederholungen zu verringern",
     "json.alertdirection": "Alarmrichtung",
     "json.alertdirection.help": "Lösen Sie einen Alarm aus, wenn ein Objekt ein Drahtgitter in dieser Richtung kreuzt. Links und Rechts sind die Seiten des Drahts, wenn man entlang des Drahts vom Anfang zur Pfeilspitze blickt. Zeichnen Sie den Draht andersherum, um sie zu tauschen.",
     "json.alertfinished": "Alarm beendet",

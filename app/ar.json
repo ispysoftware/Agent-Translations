@@ -322,6 +322,8 @@
     "json.alarms": "الإنذارات",
     "json.alert": "تنبيه",
     "json.alertcondition": "شرط التنبيه",
+    "json.alertdebounce": "تأخير دمج",
+    "json.alertdebounce.help": "يدمج أحداث التنبيه على مدى المدة لتقليل التكرارات",
     "json.alertdirection": "اتجاه التنبيه",
     "json.alertdirection.help": "رفع تنبيه عند عبور جسم لسلك التشغيل في هذا الاتجاه. يسار ويمين هما جانبا السلك عند النظر إليه من البداية إلى رأس السهم. أعد رسم السلك في الاتجاه الآخر لتبديلهما.",
     "json.alertfinished": "انتهى التنبيه",

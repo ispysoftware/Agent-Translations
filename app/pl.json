@@ -322,6 +322,8 @@
     "json.alarms": "Alarmy",
     "json.alert": "Alert",
     "json.alertcondition": "Warunek alertu",
+    "json.alertdebounce": "Opóźnienie scalania",
+    "json.alertdebounce.help": "Scala zdarzenia alertów w ciągu określonego czasu trwania, aby zmniejszyć powtórzenia",
     "json.alertdirection": "Kierunek Alertu",
     "json.alertdirection.help": "Wyślij alert, gdy obiekt przecina linię pułapki w tym kierunku. Lewy i Prawo to boki linii patrzące wzdłuż niej od jej początku do grotu strzałki. Przerysuj linię w drugą stronę, aby je zamienić.",
     "json.alertfinished": "Alert zakończony",

@@ -322,6 +322,8 @@
     "json.alarms": "Poplachy",
     "json.alert": "Upozornění",
     "json.alertcondition": "Podmínka poplachu",
+    "json.alertdebounce": "Sloučit zádrž",
+    "json.alertdebounce.help": "Sloučí upozornění na události v určitém trvání, aby se snížily opakování",
     "json.alertdirection": "Směr upozornění",
     "json.alertdirection.help": "Vyvolat upozornění, když objekt překročí spouštěč v tomto směru. Vlevo a Vpravo jsou strany vodiče pohledem podél něho od jeho začátku k šipce. Překreslete vodič opačným směrem, abyste je prohodili.",
     "json.alertfinished": "Poplach ukončen",

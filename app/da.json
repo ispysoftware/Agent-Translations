@@ -322,6 +322,8 @@
     "json.alarms": "Alarmer",
     "json.alert": "Alarm",
     "json.alertcondition": "Alarmbetingelse",
+    "json.alertdebounce": "Flet Forsinkelse",
+    "json.alertdebounce.help": "Fletter alarmbegivenheder over en varighed for at reducere gentagelser",
     "json.alertdirection": "Alarm Retning",
     "json.alertdirection.help": "Udløs en Alarm når et objekt krydser en tripletråd i denne retning. Venstre og Højre er siderne af tråden set langs den fra dens start til pilespidsen. Tegn tråden anderledes for at bytte dem.",
     "json.alertfinished": "Alarm afsluttet",

@@ -322,6 +322,8 @@
     "json.alarms": "Alarm",
     "json.alert": "Peringatan",
     "json.alertcondition": "Kondisi Peringatan",
+    "json.alertdebounce": "Penundaan Gabungkan",
+    "json.alertdebounce.help": "Menggabungkan acara peringatan selama durasi untuk mengurangi pengulangan",
     "json.alertdirection": "Arah Peringatan",
     "json.alertdirection.help": "Buat Peringatan saat objek melintasi trip wire dalam arah ini. Kiri dan Kanan adalah sisi-sisi kawat saat dilihat sepanjang kawat dari awal hingga ujung panahnya. Gambar ulang kawat ke arah lain untuk menukarnya.",
     "json.alertfinished": "Peringatan Selesai",

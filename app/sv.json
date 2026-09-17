@@ -322,6 +322,8 @@
     "json.alarms": "Larm",
     "json.alert": "Larm",
     "json.alertcondition": "Larmvillkor",
+    "json.alertdebounce": "Slå samman-fördröjning",
+    "json.alertdebounce.help": "Sammanfogar larmevenemang över en varaktighet för att minska upprepningar",
     "json.alertdirection": "Larmriktning",
     "json.alertdirection.help": "Utlös ett larm när ett objekt korsar en trippeltråd i denna riktning. Vänster och Höger är sidorna av tråden när man tittar längs den från dess början till pilspetsen. Rita om tråden åt motsatt håll för att byta dem.",
     "json.alertfinished": "Larm avslutat",

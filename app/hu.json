@@ -322,6 +322,8 @@
     "json.alarms": "Riasztások",
     "json.alert": "Riasztás",
     "json.alertcondition": "Riasztási feltétel",
+    "json.alertdebounce": "Összevonás Késleltetése",
+    "json.alertdebounce.help": "Riasztási eseményeket egyesít egy időtartamon belül a ismétlődések csökkentése érdekében",
     "json.alertdirection": "Riasztás iránya",
     "json.alertdirection.help": "Riasztás kiváltása, ha egy objektum ebben az irányban keresztezi a drótot. A Bal és Jobb az drót oldalai, ha a kezdetétől a nyílhegyig tekintünk rá. Rajzolja meg újra a drótt az ellenkező irányba a felcserélésükhöz.",
     "json.alertfinished": "Riasztás befejezve",
