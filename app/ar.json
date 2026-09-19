@@ -808,7 +808,7 @@
     "json.gptapikey2": "مفتاح OpenAI API",
     "json.gptapikey2.help": "راجع <a href=\"https://platform.openai.com/api-keys\" target=\"_blank\">مساعدة Open AI</a>",
     "json.gpu": "GPU",
-    "json.gpudecoder2": "GPU Decoder",
+    "json.gpudecoder2": "فك ترميز GPU",
     "json.gpudecoder2.help": "يمكنك ضبط مفكك ترميز افتراضي في إعدادات الخادم - التشغيل",
     "json.gpudefaultdecoder": "مفكك ترميز GPU الافتراضي",
     "json.gpudefaultdecoder.help": "مفكك الترميز المستخدم لتشغيل الملفات والافتراضي للكاميرات",

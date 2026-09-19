@@ -850,7 +850,7 @@
     "json.homeassistantdiscovery.help": "Inzerujte zařízení s povolenými MQTT událostmi do Home Assistant, aby se automaticky zobrazila.",
     "json.homeassistantdiscoveryprefix": "Prefix pro objevování",
     "json.homeassistantdiscoveryprefix.help": "Musí odpovídat předponě objevování v MQTT integraci Home Assistant.",
-    "json.homecommand": "Home Command",
+    "json.homecommand": "Příkaz Domů",
     "json.homecommand.help": "Pro zobrazení PTZ přednastavení může být nutné kameru aktivovat",
     "json.horizontalonly": "Pouze horizontálně",
     "json.host": "Hostitel",

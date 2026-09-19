@@ -1363,7 +1363,7 @@
     "json.pushtemplate2.help": "Você pode usar as tags {TAGSLIST}",
     "json.pushtotalk": "Push to Talk",
     "json.pushtotalk.help": "O botão de fala no cliente da web transmite apenas enquanto pressionado. O atalho Alt+M ainda alterna o modo de falar ligado e desligado.",
-    "json.pushvideo": "Push Video",
+    "json.pushvideo": "Enviar vídeo",
     "json.pushvideo.help": "Envia um clipe de vídeo em vez disso (Telegram/ iOS)",
     "json.quality": "Qualidade",
     "json.quality.help": "Qualidade inferior = menos largura de banda",

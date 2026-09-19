@@ -1363,7 +1363,7 @@
     "json.pushtemplate2.help": "Możesz używać tagów {TAGSLIST}",
     "json.pushtotalk": "Push to Talk",
     "json.pushtotalk.help": "Przełącz tryb push to talk",
-    "json.pushvideo": "Push Video",
+    "json.pushvideo": "Wyślij wideo",
     "json.pushvideo.help": "Zamiast tego wysyła klip wideo (Telegram/ iOS)",
     "json.quality": "Jakość",
     "json.quality.help": "Niższa jakość = mniejsze zużycie pasma",
