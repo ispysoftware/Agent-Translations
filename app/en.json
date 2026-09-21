@@ -1857,7 +1857,7 @@
     "json.wanport": "WAN Port",
     "json.wanport.help": "Set this if you have port forwarded Agent DVR",
     "json.wasapi": "Wasapi",
-    "json.watchrule": "Monitoring rule",
+    "json.watchrule": "Rule",
     "json.webbrowser": "Web Browser",
     "json.webmprofile": "WebM Profile",
     "json.webrtccodecdefault": "Default UI Codec",
