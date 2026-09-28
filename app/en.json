@@ -1827,7 +1827,7 @@
     "json.v380port": "Port",
     "json.v380port.help": "The camera's V380 media port. Enter 0 for automatic (8800). The camera username must be set to the numeric V380 device ID (shown in the V380 app); the password is the camera password. LAN-direct, no cloud.",
     "json.validatecertificate": "Validate Certificate",
-    "json.validatecertificate.help": "Reject HTTPS connections whose certificate isn't trusted by this computer. Applies to JPEG, MJPEG and audio sources, PTZ and camera commands. FFmpeg sources (RTSPS, RTMPS, HTTPS, HLS) are always encrypted but never validated. Leave off for cameras with self-signed certificates.",
+    "json.validatecertificate.help": "Reject unverifiable certificates on non ffmpeg sources",
     "json.version": "Version",
     "json.verticalonly": "Vertical Only",
     "json.video": "Video",
