@@ -1138,7 +1138,7 @@
     "json.ndigroups.help": "NDI csoportok (új sorokkal elválasztva)",
     "json.ndilevel": "Hangszint",
     "json.ndisource": "Forrás",
-    "json.ndisource.help": "Válassza ki az NDI forrást. Az NDI végpontok hozzáadásához lásd a Szerverbeállításokat.",
+    "json.ndisource.help": "Válassza ki az NDI forrást. Az NDI végpontok hozzáadásához lásd a Szerverbeállításokat.<br/>NDI® is a registered trademark of Vizrt NDI AB - <a href=\"https://ndi.video\" target=\"_blank\">ndi.video</a>",
     "json.nest": "Nest/Dropcam",
     "json.nestconfiguration": "Nest projekt konfigurációja",
     "json.networkmessage": "Hálózati üzenet",

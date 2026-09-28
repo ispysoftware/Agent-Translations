@@ -1138,7 +1138,7 @@
     "json.ndigroups.help": "NDI skupiny (oddělené novým řádkem)",
     "json.ndilevel": "Hladina zvuku",
     "json.ndisource": "Zdroj",
-    "json.ndisource.help": "Vyberte NDI zdroj. Pro přidání NDI endpointů zobrazte Nastavení serveru",
+    "json.ndisource.help": "Vyberte NDI zdroj. Pro přidání NDI endpointů zobrazte Nastavení serveru<br/>NDI® is a registered trademark of Vizrt NDI AB - <a href=\"https://ndi.video\" target=\"_blank\">ndi.video</a>",
     "json.nest": "Nest/ Dropcam",
     "json.nestconfiguration": "Konfigurace projektu Nest",
     "json.networkmessage": "Síťová zpráva",

@@ -1138,7 +1138,7 @@
     "json.ndigroups.help": "گروه‌های NDI (جدا شده با خط جدید)",
     "json.ndilevel": "سطح صدا",
     "json.ndisource": "منبع",
-    "json.ndisource.help": "منبع NDI را انتخاب کنید. برای افزودن نقاط پایانی NDI، تنظیمات سرور را مشاهده کنید",
+    "json.ndisource.help": "منبع NDI را انتخاب کنید. برای افزودن نقاط پایانی NDI، تنظیمات سرور را مشاهده کنید<br/>NDI® is a registered trademark of Vizrt NDI AB - <a href=\"https://ndi.video\" target=\"_blank\">ndi.video</a>",
     "json.nest": "Nest/ Dropcam",
     "json.nestconfiguration": "پیکربندی پروژه Nest",
     "json.networkmessage": "پیام شبکه",

@@ -1138,7 +1138,7 @@
     "json.ndigroups.help": "NDI समूह (नई लाइन द्वारा अलग किए गए)",
     "json.ndilevel": "ऑडियो स्तर",
     "json.ndisource": "स्रोत",
-    "json.ndisource.help": "NDI स्रोत चुनें। NDI एंडपॉइंट जोड़ने के लिए सर्वर सेटिंग्स देखें",
+    "json.ndisource.help": "NDI स्रोत चुनें। NDI एंडपॉइंट जोड़ने के लिए सर्वर सेटिंग्स देखें<br/>NDI® is a registered trademark of Vizrt NDI AB - <a href=\"https://ndi.video\" target=\"_blank\">ndi.video</a>",
     "json.nest": "Nest/ Dropcam",
     "json.nestconfiguration": "Nest प्रोजेक्ट कॉन्फ़िगरेशन",
     "json.networkmessage": "नेटवर्क संदेश",

@@ -1138,7 +1138,7 @@
     "json.ndigroups.help": "Các nhóm NDI (ngăn cách bằng dòng mới)",
     "json.ndilevel": "Mức âm thanh",
     "json.ndisource": "Nguồn",
-    "json.ndisource.help": "Chọn nguồn NDI. Xem Cài đặt máy chủ để thêm các điểm cuối NDI",
+    "json.ndisource.help": "Chọn nguồn NDI. Xem Cài đặt máy chủ để thêm các điểm cuối NDI<br/>NDI® is a registered trademark of Vizrt NDI AB - <a href=\"https://ndi.video\" target=\"_blank\">ndi.video</a>",
     "json.nest": "Nest/ Dropcam",
     "json.nestconfiguration": "Cấu hình dự án Nest",
     "json.networkmessage": "Thông báo mạng",

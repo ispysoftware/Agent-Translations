@@ -1138,7 +1138,7 @@
     "json.ndigroups.help": "NDI 组（每行一个）",
     "json.ndilevel": "音频电平",
     "json.ndisource": "源",
-    "json.ndisource.help": "选择 NDI 源。请查看服务器设置以添加 NDI 端点",
+    "json.ndisource.help": "选择 NDI 源。请查看服务器设置以添加 NDI 端点<br/>NDI® is a registered trademark of Vizrt NDI AB - <a href=\"https://ndi.video\" target=\"_blank\">ndi.video</a>",
     "json.nest": "Nest/ Dropcam",
     "json.nestconfiguration": "Nest 项目配置",
     "json.networkmessage": "网络消息",

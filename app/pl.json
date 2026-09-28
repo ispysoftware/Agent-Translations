@@ -1138,7 +1138,7 @@
     "json.ndigroups.help": "Grupy NDI (oddzielone nową linią)",
     "json.ndilevel": "Poziom dźwięku",
     "json.ndisource": "Źródło",
-    "json.ndisource.help": "Wybierz źródło NDI. Aby dodać punkty końcowe NDI, sprawdź ustawienia serwera",
+    "json.ndisource.help": "Wybierz źródło NDI. Aby dodać punkty końcowe NDI, sprawdź ustawienia serwera<br/>NDI® is a registered trademark of Vizrt NDI AB - <a href=\"https://ndi.video\" target=\"_blank\">ndi.video</a>",
     "json.nest": "Nest/ Dropcam",
     "json.nestconfiguration": "Konfiguracja projektu Nest",
     "json.networkmessage": "Wiadomość sieciowa",

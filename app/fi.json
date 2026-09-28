@@ -1138,7 +1138,7 @@
     "json.ndigroups.help": "NDI-ryhmät (eroteltu rivinvaihdoilla)",
     "json.ndilevel": "Äänenvoimakkuus",
     "json.ndisource": "Lähde",
-    "json.ndisource.help": "Valitse NDI-lähde. Lisää NDI-päätepisteet palvelimen asetuksista",
+    "json.ndisource.help": "Valitse NDI-lähde. Lisää NDI-päätepisteet palvelimen asetuksista<br/>NDI® is a registered trademark of Vizrt NDI AB - <a href=\"https://ndi.video\" target=\"_blank\">ndi.video</a>",
     "json.nest": "Nest/ Dropcam",
     "json.nestconfiguration": "Nest-projektin konfiguraatio",
     "json.networkmessage": "Verkkosovellusviesti",

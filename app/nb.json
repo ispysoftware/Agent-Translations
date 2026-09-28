@@ -1138,7 +1138,7 @@
     "json.ndigroups.help": "NDI-grupper (separert med ny linje)",
     "json.ndilevel": "Lydnivå",
     "json.ndisource": "Kilde",
-    "json.ndisource.help": "Velg NDI-kilde. Se serverinnstillinger for å legge til NDI-endepunkter",
+    "json.ndisource.help": "Velg NDI-kilde. Se serverinnstillinger for å legge til NDI-endepunkter<br/>NDI® is a registered trademark of Vizrt NDI AB - <a href=\"https://ndi.video\" target=\"_blank\">ndi.video</a>",
     "json.nest": "Nest/ Dropcam",
     "json.nestconfiguration": "Konfigurasjon av Nest-prosjekt",
     "json.networkmessage": "Nettverksmelding",
