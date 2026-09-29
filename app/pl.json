@@ -1827,6 +1827,7 @@
     "json.v380port": "Port",
     "json.v380port.help": "Port media V380 kamery. Wpisz 0 dla trybu automatycznego (8800). Nazwa użytkownika kamery musi być ustawiona na numeryczny identyfikator urządzenia V380 (widoczny w aplikacji V380); hasło to hasło kamery. Bezpośrednio w sieci LAN, bez chmury.",
     "json.validatecertificate": "Waliduj certyfikat",
+    "json.validatecertificate.help": "Odrzucaj niezweryfikowalne certyfikaty dla źródeł spoza ffmpeg",
     "json.version": "Wersja",
     "json.verticalonly": "Tylko pionowo",
     "json.video": "Wideo",

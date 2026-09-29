@@ -1827,6 +1827,7 @@
     "json.v380port": "ポート",
     "json.v380port.help": "カメラのV380メディアポート。自動の場合は0を入力してください (8800)。カメラのユーザー名は数字のV380デバイスIDに設定する必要があります (V380アプリに表示されます)。パスワードはカメラのパスワードです。LAN直接接続、クラウドなし。",
     "json.validatecertificate": "証明書の検証",
+    "json.validatecertificate.help": "ffmpeg以外のソースの検証不可能な証明書を拒否する",
     "json.version": "バージョン",
     "json.verticalonly": "縦方向のみ",
     "json.video": "ビデオ",

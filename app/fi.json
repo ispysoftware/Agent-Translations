@@ -1827,6 +1827,7 @@
     "json.v380port": "Portti",
     "json.v380port.help": "Kameran V380-mediaportti. Kirjoita 0 automaattista asetusta varten (8800). Kameran käyttäjänimen on oltava numeerinen V380-laitetunnus (näkyy V380-sovelluksessa); salasana on kameran salasana. Suora LAN-yhteys, ei pilvipalvelua.",
     "json.validatecertificate": "Varmenna sertifikaatti",
+    "json.validatecertificate.help": "Hylkää varmistamattomattomat varmenteet ei-ffmpeg-lähteissä",
     "json.version": "Versio",
     "json.verticalonly": "Vain pystyasento",
     "json.video": "Video",

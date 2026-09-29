@@ -1827,6 +1827,7 @@
     "json.v380port": "Poort",
     "json.v380port.help": "De V380-mediapoort van de camera. Voer 0 in voor automatisch (8800). De gebruikersnaam van de camera moet worden ingesteld op de numerieke V380-apparaat-ID (weergegeven in de V380-app); het wachtwoord is het camerawachtwoord. LAN-direct, geen cloud.",
     "json.validatecertificate": "Certificaat valideren",
+    "json.validatecertificate.help": "Verifieer geen certificaten op niet-ffmpeg-bronnen afwijzen",
     "json.version": "Versie",
     "json.verticalonly": "Alleen verticaal",
     "json.video": "Video",

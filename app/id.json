@@ -1827,6 +1827,7 @@
     "json.v380port": "Port",
     "json.v380port.help": "Port media V380 kamera. Masukkan 0 untuk otomatis (8800). Nama pengguna kamera harus diatur ke ID perangkat V380 numerik (ditampilkan di aplikasi V380); kata sandi adalah kata sandi kamera. LAN-direct, tanpa cloud.",
     "json.validatecertificate": "Validasi sertifikat",
+    "json.validatecertificate.help": "Tolak sertifikat yang tidak dapat diverifikasi pada sumber non ffmpeg",
     "json.version": "Versi",
     "json.verticalonly": "Hanya vertikal",
     "json.video": "Video",

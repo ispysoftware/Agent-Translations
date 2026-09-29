@@ -1827,6 +1827,7 @@
     "json.v380port": "포트",
     "json.v380port.help": "카메라의 V380 미디어 포트. 자동의 경우 0을 입력하세요(8800). 카메라 사용자명은 숫자 V380 기기 ID(V380 앱에 표시됨)로 설정해야 하며, 비밀번호는 카메라 비밀번호입니다. LAN 직접 연결, 클라우드 없음.",
     "json.validatecertificate": "인증서 확인",
+    "json.validatecertificate.help": "ffmpeg이 아닌 소스에서 검증 불가능한 인증서 거부",
     "json.version": "버전",
     "json.verticalonly": "수직 전용",
     "json.video": "비디오",

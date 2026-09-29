@@ -1827,6 +1827,7 @@
     "json.v380port": "Porta",
     "json.v380port.help": "La porta multimediale V380 della fotocamera. Immettere 0 per automatico (8800). Il nome utente della fotocamera deve essere impostato all'ID dispositivo V380 numerico (mostrato nell'app V380); la password è la password della fotocamera. LAN-direct, nessun cloud.",
     "json.validatecertificate": "Valida certificato",
+    "json.validatecertificate.help": "Rifiuta certificati non verificabili su sorgenti non ffmpeg",
     "json.version": "Versione",
     "json.verticalonly": "Solo verticale",
     "json.video": "Video",

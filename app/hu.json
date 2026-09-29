@@ -1827,6 +1827,7 @@
     "json.v380port": "Port",
     "json.v380port.help": "A kamera V380 médiaportja. Adjon meg 0-t az automatikus beállításhoz (8800). A kamera felhasználónevét a numerikus V380 eszközazonosítóra kell beállítani (a V380 alkalmazásban látható); a jelszó a kamera jelszava. LAN-közvetlen, nincs felhő.",
     "json.validatecertificate": "Tanúsítvány érvényesítése",
+    "json.validatecertificate.help": "Elutasítsa az ellenőrizhetetlen tanúsítványokat nem ffmpeg forrásokból",
     "json.version": "Verzió",
     "json.verticalonly": "Csak függőleges",
     "json.video": "Videó",

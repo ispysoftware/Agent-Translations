@@ -1827,6 +1827,7 @@
     "json.v380port": "Port",
     "json.v380port.help": "Kameraets V380 medieprt. Angi 0 for automatisk (8800). Kameraets brukernavn må angis som numerisk V380-enhets-ID (vist i V380-appen); passordet er kameraets passord. LAN-direkte, ingen sky.",
     "json.validatecertificate": "Valider sertifikat",
+    "json.validatecertificate.help": "Avvis ikke-verifiserbare sertifikater på kilder som ikke bruker ffmpeg",
     "json.version": "Versjon",
     "json.verticalonly": "Kun vertikal",
     "json.video": "Video",

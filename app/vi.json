@@ -1827,6 +1827,7 @@
     "json.v380port": "Cổng",
     "json.v380port.help": "Cổng media V380 của camera. Nhập 0 để tự động (8800). Tên người dùng camera phải được đặt thành ID thiết bị V380 số (hiển thị trong ứng dụng V380); mật khẩu là mật khẩu camera. LAN-direct, không cloud.",
     "json.validatecertificate": "Xác thực chứng chỉ",
+    "json.validatecertificate.help": "Từ chối các chứng chỉ không thể xác minh trên các nguồn không phải ffmpeg",
     "json.version": "Phiên bản",
     "json.verticalonly": "Chỉ chế độ dọc",
     "json.video": "Video",

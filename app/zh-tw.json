@@ -1827,6 +1827,7 @@
     "json.v380port": "連接埠",
     "json.v380port.help": "攝影機的 V380 媒體連接埠。輸入 0 表示自動 (8800)。攝影機使用者名稱必須設定為數字 V380 裝置 ID (顯示在 V380 應用程式中);密碼是攝影機密碼。區域網路直接連接,不使用雲端。",
     "json.validatecertificate": "驗證憑證",
+    "json.validatecertificate.help": "拒絕來自非 ffmpeg 來源的無法驗證的憑證",
     "json.version": "版本",
     "json.verticalonly": "僅限垂直",
     "json.video": "影片",

@@ -1827,6 +1827,7 @@
     "json.v380port": "Port",
     "json.v380port.help": "Port V380 media kamery. Zadejte 0 pro automatické (8800). Uživatelské jméno kamery musí být nastaveno na číselné ID zařízení V380 (zobrazuje se v aplikaci V380); heslo je heslo kamery. Přímé připojení LAN, bez cloudu.",
     "json.validatecertificate": "Validovať certifikát",
+    "json.validatecertificate.help": "Odmítnout neověřitelné certifikáty u zdrojů mimo ffmpeg",
     "json.version": "Verzia",
     "json.verticalonly": "Pouze vertikálně",
     "json.video": "Video",

@@ -1827,6 +1827,7 @@
     "json.v380port": "端口",
     "json.v380port.help": "摄像头的 V380 媒体端口。输入 0 自动分配（8800）。摄像头用户名必须设置为数字 V380 设备 ID（在 V380 app 中显示）；密码是摄像头密码。LAN 直连，无云服务。",
     "json.validatecertificate": "验证证书",
+    "json.validatecertificate.help": "拒绝来自非 ffmpeg 源的无法验证的证书",
     "json.version": "版本",
     "json.verticalonly": "仅限垂直方向",
     "json.video": "视频",

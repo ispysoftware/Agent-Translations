@@ -1827,6 +1827,7 @@
     "json.v380port": "Bağlantı Noktası",
     "json.v380port.help": "Kameranın V380 medya portu. Otomatik için 0 girin (8800). Kamera kullanıcı adı sayısal V380 cihaz kimliğine ayarlanmalıdır (V380 uygulamasında gösterilir); şifre kamera şifresidir. LAN-doğrudan, bulut yok.",
     "json.validatecertificate": "Sertifikayı Doğrula",
+    "json.validatecertificate.help": "FFmpeg olmayan kaynaklar üzerinde doğrulanamayan sertifikaları reddet",
     "json.version": "Sürüm",
     "json.verticalonly": "Yalnızca Dikey",
     "json.video": "Video",

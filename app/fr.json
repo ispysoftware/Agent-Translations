@@ -1827,6 +1827,7 @@
     "json.v380port": "Port",
     "json.v380port.help": "Le port média V380 de la caméra. Entrez 0 pour automatique (8800). Le nom d'utilisateur de la caméra doit être défini sur l'ID de périphérique numérique V380 (affiché dans l'application V380) ; le mot de passe est le mot de passe de la caméra. LAN-direct, sans cloud.",
     "json.validatecertificate": "Valider le certificat",
+    "json.validatecertificate.help": "Rejeter les certificats non vérifiables sur les sources non ffmpeg",
     "json.version": "Version",
     "json.verticalonly": "Vertical uniquement",
     "json.video": "Vidéo",
