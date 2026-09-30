@@ -1731,6 +1731,8 @@
     "json.triggerfacialrecognition": "Spustit rozpoznávání tváře",
     "json.triggerlpr": "Spustit LPR",
     "json.triggerobjectrecognition": "Spustit rozpoznávání objektů",
+    "json.triggerrange": "Rozsah spouště",
+    "json.triggerrange.help": "Úroveň potřebná k aktivaci. Nižší je citlivější.",
     "json.triggerrecording": "Spustit nahrávání (s časovým limitem)",
     "json.triggertimeout": "Časový limit spouštěče",
     "json.triggertimeout.help": "Jak dlouho nahrávat po spuštění akce Spustit nahrávání (s)",

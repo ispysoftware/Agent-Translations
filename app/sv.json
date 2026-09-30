@@ -1731,6 +1731,8 @@
     "json.triggerfacialrecognition": "Aktivera ansiktsigenkänning vid trigger",
     "json.triggerlpr": "Aktivera LPR vid trigger",
     "json.triggerobjectrecognition": "Aktivera objektigenkänning vid trigger",
+    "json.triggerrange": "Utlösningsområde",
+    "json.triggerrange.help": "Nivå som krävs för att utlösa. Lägre är mer känsligt",
     "json.triggerrecording": "Aktivera inspelning vid trigger (med timeout)",
     "json.triggertimeout": "Trigger-timeout",
     "json.triggertimeout.help": "Hur länge som ska spelas in efter att inspelning har aktiverats med åtgärden Trigger Recording (s)",

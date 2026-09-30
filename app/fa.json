@@ -1731,6 +1731,8 @@
     "json.triggerfacialrecognition": "فعال‌سازی تشخیص چهره",
     "json.triggerlpr": "فعال‌سازی LPR",
     "json.triggerobjectrecognition": "فعال‌سازی تشخیص اشیاء",
+    "json.triggerrange": "محدوده فعال‌سازی",
+    "json.triggerrange.help": "سطح مورد نیاز برای فعال شدن. مقدار پایین تر حساسیت بیشتری دارد",
     "json.triggerrecording": "فعال‌سازی ضبط (با محدودیت زمانی)",
     "json.triggertimeout": "محدودیت زمانی محرک",
     "json.triggertimeout.help": "مدت زمان ضبط پس از فعال شدن عملیات ضبط با استفاده از قابلیت Trigger Recording (ثانیه)",

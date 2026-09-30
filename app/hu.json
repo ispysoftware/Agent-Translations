@@ -1731,6 +1731,8 @@
     "json.triggerfacialrecognition": "Arcfelismerés indítása eseménykor",
     "json.triggerlpr": "LPR indítása eseménykor",
     "json.triggerobjectrecognition": "Objektumfelismerés indítása eseménykor",
+    "json.triggerrange": "Kiváltási tartomány",
+    "json.triggerrange.help": "Aktiváláshoz szükséges szint. Az alacsonyabb érték érzékenyebb",
     "json.triggerrecording": "Rögzítés indítása (időzítővel)",
     "json.triggertimeout": "Trigger timeout",
     "json.triggertimeout.help": "Mennyi ideig rögzítsen a rendszer az „Indítson rögzítést” cselekvés aktiválása után (másodperc)",

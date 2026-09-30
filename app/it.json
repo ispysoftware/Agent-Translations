@@ -1731,6 +1731,8 @@
     "json.triggerfacialrecognition": "Attivazione riconoscimento facciale",
     "json.triggerlpr": "Attivazione LPR",
     "json.triggerobjectrecognition": "Attivazione riconoscimento oggetti",
+    "json.triggerrange": "Intervallo di attivazione",
+    "json.triggerrange.help": "Livello necessario per attivare. Più basso è più sensibile",
     "json.triggerrecording": "Attivazione registrazione (con timeout)",
     "json.triggertimeout": "Timeout attivazione",
     "json.triggertimeout.help": "Durata della registrazione dopo l'attivazione dell'azione Registrazione (s)",

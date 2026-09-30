@@ -1731,6 +1731,8 @@
     "json.triggerfacialrecognition": "触达人脸识别",
     "json.triggerlpr": "触发车牌识别 (LPR)",
     "json.triggerobjectrecognition": "触发物体识别",
+    "json.triggerrange": "触发范围",
+    "json.triggerrange.help": "触发所需的级别。数值越低越灵敏",
     "json.triggerrecording": "触发录制（含超时）",
     "json.triggertimeout": "触发超时",
     "json.triggertimeout.help": "使用“触发录制”动作后，录制的持续时间（秒）",

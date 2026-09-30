@@ -1731,6 +1731,8 @@
     "json.triggerfacialrecognition": "Wyzwalacz rozpoznawania twarzy",
     "json.triggerlpr": "Wyzwalacz LPR",
     "json.triggerobjectrecognition": "Wyzwalacz rozpoznawania obiektów",
+    "json.triggerrange": "Zakres wyzwalacza",
+    "json.triggerrange.help": "Poziom wymagany do wyzwolenia. Niższy = większa czułość",
     "json.triggerrecording": "Wyzwalacz nagrywania (z przekroczeniem czasu)",
     "json.triggertimeout": "Przekroczenie czasu wyzwalania",
     "json.triggertimeout.help": "Jak długo nagrywać po uruchomieniu akcji Wyzwalacz nagrywania (s)",

@@ -1731,6 +1731,8 @@
     "json.triggerfacialrecognition": "تفعيل التعرف على الوجه عند التحفيز",
     "json.triggerlpr": "تفعيل LPR عند التحفيز",
     "json.triggerobjectrecognition": "تفعيل التعرف على الأشياء عند التحفيز",
+    "json.triggerrange": "نطاق المشغّل",
+    "json.triggerrange.help": "المستوى المطلوب لتفعيل الحد. القيمة الأقل تعني حساسية أكثر",
     "json.triggerrecording": "تفعيل التسجيل (مع مهلة زمنية) عند التحفيز",
     "json.triggertimeout": "مهلة التحفيز",
     "json.triggertimeout.help": "مدة التسجيل بعد تفعيل إجراء التسجيل باستخدام خاصية التحفيز (بالثواني)",

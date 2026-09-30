@@ -1731,6 +1731,8 @@
     "json.triggerfacialrecognition": "얼굴 인식 트리거",
     "json.triggerlpr": "LPR 트리거",
     "json.triggerobjectrecognition": "객체 인식 트리거",
+    "json.triggerrange": "트리거 범위",
+    "json.triggerrange.help": "트리거하는 데 필요한 레벨입니다. 낮을수록 더 민감합니다",
     "json.triggerrecording": "녹화 트리거 (타임아웃 포함)",
     "json.triggertimeout": "트리거 타임아웃",
     "json.triggertimeout.help": "'녹화 트리거' 동작을 사용하여 녹화가 시작된 후 기록할 시간 (초)",

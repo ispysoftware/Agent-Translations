@@ -1731,6 +1731,8 @@
     "json.triggerfacialrecognition": "Yüz tanımayı tetikle",
     "json.triggerlpr": "LPR'yi tetikle",
     "json.triggerobjectrecognition": "Nesne tanımayı tetikle",
+    "json.triggerrange": "Tetikleme Aralığı",
+    "json.triggerrange.help": "Tetiklenme için gereken seviye. Daha düşük daha duyarlıdır",
     "json.triggerrecording": "Kaydı tetikle (zaman aşımı ile)",
     "json.triggertimeout": "Tetikleme zaman aşımı",
     "json.triggertimeout.help": "Kayıt Tetikleme eylemi kullanılarak kayıt başlatıldıktan sonra ne kadar süreyle kayıt yapılacağı (sn)",

@@ -1731,6 +1731,8 @@
     "json.triggerfacialrecognition": "顔認識トリガー",
     "json.triggerlpr": "LPR トリガー",
     "json.triggerobjectrecognition": "オブジェクト認識トリガー",
+    "json.triggerrange": "トリガー範囲",
+    "json.triggerrange.help": "トリガーに必要なレベル。低いほどより敏感です",
     "json.triggerrecording": "録画トリガー（タイムアウト付き）",
     "json.triggertimeout": "トリガータイムアウト",
     "json.triggertimeout.help": "「録画トリガー」アクションで録画が開始された後、何秒間記録するかを指定します (s)",

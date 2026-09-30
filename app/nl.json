@@ -1731,6 +1731,8 @@
     "json.triggerfacialrecognition": "Trigger gezichtsherkenning",
     "json.triggerlpr": "LPR activeren",
     "json.triggerobjectrecognition": "Trigger objectherkenning",
+    "json.triggerrange": "Triggerbereik",
+    "json.triggerrange.help": "Niveau benodigd voor activering. Lager is gevoeliger",
     "json.triggerrecording": "Trigger opname (met time-out)",
     "json.triggertimeout": "Trigger time-out",
     "json.triggertimeout.help": "Hoe lang er wordt opgenomen nadat de opname is geactiveerd via de actie Trigger opname (s)",

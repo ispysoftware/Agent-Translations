@@ -1731,6 +1731,8 @@
     "json.triggerfacialrecognition": "Gesichtserkennung auslösen",
     "json.triggerlpr": "LPR auslösen",
     "json.triggerobjectrecognition": "Objekterkennung auslösen",
+    "json.triggerrange": "Auslösebereich",
+    "json.triggerrange.help": "Erforderliche Stufe zum Auslösen. Niedriger ist empfindlicher.",
     "json.triggerrecording": "Aufnahme auslösen (mit Timeout)",
     "json.triggertimeout": "Trigger-Timeout",
     "json.triggertimeout.help": "Dauer der Aufnahme nach Auslösung der Aktion 'Aufnahme auslösen' (s)",

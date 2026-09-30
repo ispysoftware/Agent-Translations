@@ -1731,6 +1731,8 @@
     "json.triggerfacialrecognition": "Trigger Face Recognition",
     "json.triggerlpr": "Trigger LPR",
     "json.triggerobjectrecognition": "Trigger Object Recognition",
+    "json.triggerrange": "Trigger Range",
+    "json.triggerrange.help": "Level needed to trigger. Lower is more sensitive",
     "json.triggerrecording": "Trigger Recording (with timeout)",
     "json.triggertimeout": "Trigger Timeout",
     "json.triggertimeout.help": "How long to record for after recording is triggered using the Trigger Recording action (s)",

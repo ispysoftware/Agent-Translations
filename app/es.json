@@ -1731,6 +1731,8 @@
     "json.triggerfacialrecognition": "Activar reconocimiento facial",
     "json.triggerlpr": "Activar LPR",
     "json.triggerobjectrecognition": "Activar reconocimiento de objetos",
+    "json.triggerrange": "Rango de Activación",
+    "json.triggerrange.help": "Nivel necesario para desencadenar. Más bajo es más sensible",
     "json.triggerrecording": "Activar grabación (con tiempo de espera)",
     "json.triggertimeout": "Tiempo de espera del disparo",
     "json.triggertimeout.help": "Duración de la grabación tras activarse la acción de grabación mediante el disparo (s)",

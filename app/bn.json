@@ -1731,6 +1731,8 @@
     "json.triggerfacialrecognition": "ফেস রিকগনিশন ট্রিগার করুন",
     "json.triggerlpr": "LPR ট্রিগার করুন",
     "json.triggerobjectrecognition": "অবজেক্ট রিকগনিশন ট্রিগার করুন",
+    "json.triggerrange": "ট্রিগার রেঞ্জ",
+    "json.triggerrange.help": "ট্রিগার করার জন্য প্রয়োজনীয় স্তর। নিম্নতর আরও সংবেদনশীল",
     "json.triggerrecording": "রেকর্ডিং ট্রিগার করুন (টাইমআউট সহ)",
     "json.triggertimeout": "ট্রিগার টাইমআউট",
     "json.triggertimeout.help": "Trigger Recording অ্যাকশন ব্যবহার করে রেকর্ডিং শুরু হওয়ার পর কতক্ষণ রেকর্ড করতে হবে (সেকেন্ড)",

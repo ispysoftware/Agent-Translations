@@ -1731,6 +1731,8 @@
     "json.triggerfacialrecognition": "Ativar reconhecimento facial",
     "json.triggerlpr": "Ativar LPR",
     "json.triggerobjectrecognition": "Ativar reconhecimento de objeto",
+    "json.triggerrange": "Intervalo de Acionamento",
+    "json.triggerrange.help": "Nível necessário para disparar. Mais baixo é mais sensível",
     "json.triggerrecording": "Ativar gravação (com tempo limite)",
     "json.triggertimeout": "Tempo limite do gatilho",
     "json.triggertimeout.help": "Quanto tempo gravar após a gravação ser iniciada usando a ação Gatilho de Gravação (s)",

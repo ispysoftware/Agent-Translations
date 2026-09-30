@@ -1731,6 +1731,8 @@
     "json.triggerfacialrecognition": "Udløs ansigtsgenkendelse",
     "json.triggerlpr": "Udløs LPR",
     "json.triggerobjectrecognition": "Udløs objektgenkendelse",
+    "json.triggerrange": "Udløserområde",
+    "json.triggerrange.help": "Niveau, der kræves for at udløse. Lavere er mere følsomt",
     "json.triggerrecording": "Udløs optagelse (med timeout)",
     "json.triggertimeout": "Udløs timeout",
     "json.triggertimeout.help": "Hvor længe der skal optages efter optagelsen er udløst ved brug af handlingen Udløs optagelse (s)",

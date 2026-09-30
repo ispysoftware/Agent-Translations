@@ -1731,6 +1731,8 @@
     "json.triggerfacialrecognition": "Déclencher la reconnaissance faciale",
     "json.triggerlpr": "Déclencher la LPR",
     "json.triggerobjectrecognition": "Déclencher la reconnaissance d'objets",
+    "json.triggerrange": "Plage de déclenchement",
+    "json.triggerrange.help": "Niveau nécessaire pour déclencher. Plus bas = plus sensible",
     "json.triggerrecording": "Déclencher l'enregistrement (avec délai)",
     "json.triggertimeout": "Délai de déclenchement",
     "json.triggertimeout.help": "Durée de l'enregistrement après le déclenchement de l'action Trigger Recording (s)",

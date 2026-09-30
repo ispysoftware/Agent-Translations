@@ -1731,6 +1731,8 @@
     "json.triggerfacialrecognition": "Pemicu pengenalan wajah",
     "json.triggerlpr": "Pemicu LPR",
     "json.triggerobjectrecognition": "Pemicu pengenalan objek",
+    "json.triggerrange": "Jangkauan Pemicu",
+    "json.triggerrange.help": "Tingkat yang diperlukan untuk memicu. Lebih rendah lebih sensitif.",
     "json.triggerrecording": "Pemicu perekaman (dengan batas waktu)",
     "json.triggertimeout": "Batas waktu pemicu",
     "json.triggertimeout.help": "Durasi perekaman setelah tindakan Pemicu Perekaman diaktifkan (detik)",

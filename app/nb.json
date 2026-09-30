@@ -1731,6 +1731,8 @@
     "json.triggerfacialrecognition": "Aktiver ansiktsgjenkjenning",
     "json.triggerlpr": "Aktiver LPR",
     "json.triggerobjectrecognition": "Aktiver objektgjenkjenning",
+    "json.triggerrange": "Utløserområde",
+    "json.triggerrange.help": "Nivå som kreves for å utløse. Lavere er mer følsomt",
     "json.triggerrecording": "Aktiver opptak (med tidsavbrudd)",
     "json.triggertimeout": "Tidsavbrudd for utløser",
     "json.triggertimeout.help": "Hvor lenge det skal tas opp etter at opptak er utløst ved bruk av handlingen Aktiver opptak (s)",

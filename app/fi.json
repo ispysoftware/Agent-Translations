@@ -1731,6 +1731,8 @@
     "json.triggerfacialrecognition": "Käynnistä kasvojentunnistus",
     "json.triggerlpr": "Käynnistä LPR",
     "json.triggerobjectrecognition": "Käynnistä objektintunnistus",
+    "json.triggerrange": "Liipaisualue",
+    "json.triggerrange.help": "Laukaisu edellyttämä taso. Pienempi arvo on herkempi.",
     "json.triggerrecording": "Käynnistä tallennus (aikakatkaisulla)",
     "json.triggertimeout": "Käynnistyksen aikakatkaisu",
     "json.triggertimeout.help": "Kuinka kauan tallennus kestää, kun tallennus käynnistetään Trigger Recording -toiminnolla (s)",

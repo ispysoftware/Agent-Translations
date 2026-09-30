@@ -1731,6 +1731,8 @@
     "json.triggerfacialrecognition": "Актываваць распазнаванне асобы",
     "json.triggerlpr": "Актываваць LPR",
     "json.triggerobjectrecognition": "Актываваць распазнаванне аб'ектаў",
+    "json.triggerrange": "Дыяпазон спусціска",
+    "json.triggerrange.help": "Узровень, неабходны для спаў, больш нізкі - больш чулы",
     "json.triggerrecording": "Актываваць запіс (з тайм-аўтам)",
     "json.triggertimeout": "Тайм-аўт трыгера",
     "json.triggertimeout.help": "Колькі часу запісваць пасля актывацыі запісу дзеяннем «Актываваць запіс» (с)",

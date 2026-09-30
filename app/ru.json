@@ -1731,6 +1731,8 @@
     "json.triggerfacialrecognition": "Активация распознавания лиц",
     "json.triggerlpr": "Активация LPR",
     "json.triggerobjectrecognition": "Активация распознавания объектов",
+    "json.triggerrange": "Диапазон срабатывания",
+    "json.triggerrange.help": "Уровень, необходимый для срабатывания. Ниже означает более чувствительно.",
     "json.triggerrecording": "Активация записи (с тайм-аутом)",
     "json.triggertimeout": "Тайм-аут активации",
     "json.triggertimeout.help": "Продолжительность записи после срабатывания действия «Активация записи» (с)",

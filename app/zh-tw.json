@@ -1731,6 +1731,8 @@
     "json.triggerfacialrecognition": "觸發人臉辨識",
     "json.triggerlpr": "觸發車牌辨識 (LPR)",
     "json.triggerobjectrecognition": "觸發物件辨識",
+    "json.triggerrange": "觸發範圍",
+    "json.triggerrange.help": "觸發所需的級別。較低的值更靈敏",
     "json.triggerrecording": "觸動錄影（含逾時）",
     "json.triggertimeout": "觸發逾時",
     "json.triggertimeout.help": "使用「觸動錄影」動作後，持續錄製的時間長度（秒）",

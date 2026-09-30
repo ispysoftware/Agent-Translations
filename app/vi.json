@@ -1731,6 +1731,8 @@
     "json.triggerfacialrecognition": "Kích hoạt nhận diện khuôn mặt",
     "json.triggerlpr": "Kích hoạt LPR",
     "json.triggerobjectrecognition": "Kích hoạt nhận diện vật thể",
+    "json.triggerrange": "Phạm vi kích hoạt",
+    "json.triggerrange.help": "Mức cần thiết để kích hoạt. Mức thấp hơn nhạy cảm hơn",
     "json.triggerrecording": "Kích hoạt ghi hình (có thời gian chờ)",
     "json.triggertimeout": "Thời gian chờ kích hoạt",
     "json.triggertimeout.help": "Thời gian ghi hình sau khi hành động Kích hoạt ghi hình được thực hiện (s)",
