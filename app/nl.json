@@ -353,6 +353,7 @@
     "json.alerttemplate.help": "U kunt de tags {TAGSLIST} gebruiken",
     "json.align": "Uitlijnen",
     "json.all": "Alle",
+    "json.allaudio": "Audio van alle camera's",
     "json.allowedhttpreferrerlist": "Toegestane HTTP Referrer-lijst",
     "json.allowedhttpreferrerlist.help": "CSV-lijst van HTTP Referrers die toegang mogen hebben tot deze server met een authenticatietoken (leeg = alle)",
     "json.allowediplist": "Toegestane IP-lijst",

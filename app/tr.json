@@ -353,6 +353,7 @@
     "json.alerttemplate.help": "{TAGSLIST} etiketlerini kullanabilirsiniz",
     "json.align": "Hizala",
     "json.all": "Tümü",
+    "json.allaudio": "Tüm kameralardan ses",
     "json.allowedhttpreferrerlist": "İzin Verilen HTTP Referrer Listesi",
     "json.allowedhttpreferrerlist.help": "Kimlik doğrulama tokenı ile bu sunucuya erişmesine izin verilen HTTP Referrer'ların CSV listesi (boş = hepsi)",
     "json.allowediplist": "İzin Verilen IP Listesi",

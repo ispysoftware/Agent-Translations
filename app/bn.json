@@ -353,6 +353,7 @@
     "json.alerttemplate.help": "আপনি {TAGSLIST} ট্যাগ ব্যবহার করতে পারেন",
     "json.align": "অ্যালাইন করুন",
     "json.all": "সব",
+    "json.allaudio": "সমস্ত ক্যামেরা থেকে অডিও",
     "json.allowedhttpreferrerlist": "অনুমোদিত HTTP Referrer তালিকা",
     "json.allowedhttpreferrerlist.help": "একটি অথেন্টিকেশন টোকেন দিয়ে এই সার্ভারে অ্যাক্সেস করার জন্য অনুমোদিত HTTP Referrers-এর CSV তালিকা (খালি = সব)",
     "json.allowediplist": "অনুমোদিত IP তালিকা",

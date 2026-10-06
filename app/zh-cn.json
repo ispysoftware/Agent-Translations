@@ -353,6 +353,7 @@
     "json.alerttemplate.help": "您可以使用标签 {TAGSLIST}",
     "json.align": "对齐",
     "json.all": "全部",
+    "json.allaudio": "所有摄像头的音频",
     "json.allowedhttpreferrerlist": "允许的 HTTP 引用源列表",
     "json.allowedhttpreferrerlist.help": "允许通过身份验证令牌访问此服务器的 HTTP 引用源的 CSV 列表（空白 = 全部）",
     "json.allowediplist": "允许的 IP 地址列表",

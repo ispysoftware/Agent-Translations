@@ -353,6 +353,7 @@
     "json.alerttemplate.help": "您可以使用標籤 {TAGSLIST}",
     "json.align": "對齊",
     "json.all": "全部",
+    "json.allaudio": "所有攝影機的音訊",
     "json.allowedhttpreferrerlist": "允許的 HTTP 引用來源清單",
     "json.allowedhttpreferrerlist.help": "CSV 格式的 HTTP 引用來源清單，可透過驗證權杖存取此伺服器（空白表示全部）",
     "json.allowediplist": "允許的 IP 清單",

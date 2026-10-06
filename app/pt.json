@@ -353,6 +353,7 @@
     "json.alerttemplate.help": "Você pode usar as tags {TAGSLIST}",
     "json.align": "Alinhar",
     "json.all": "Todos",
+    "json.allaudio": "Áudio de todas as câmeras",
     "json.allowedhttpreferrerlist": "Lista de HTTP Referrer permitidos",
     "json.allowedhttpreferrerlist.help": "Lista CSV de HTTP Referrers permitidos para acessar este servidor com um token de autenticação (vazio = todos)",
     "json.allowediplist": "Lista de IP permitidos",

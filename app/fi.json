@@ -353,6 +353,7 @@
     "json.alerttemplate.help": "Voit käyttää tageja {TAGSLIST}",
     "json.align": "Tasaa",
     "json.all": "Kaikki",
+    "json.allaudio": "Ääni kaikista kameroista",
     "json.allowedhttpreferrerlist": "Sallittu HTTP-viittauslista",
     "json.allowedhttpreferrerlist.help": "CSV-lista HTTP-viittauksista, joiden on sallittu käyttää tätä palvelinta todennusavaimella (tyhjä = kaikki)",
     "json.allowediplist": "Sallittu IP-lista",

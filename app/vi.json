@@ -353,6 +353,7 @@
     "json.alerttemplate.help": "Bạn có thể sử dụng các thẻ {TAGSLIST}",
     "json.align": "Căn chỉnh",
     "json.all": "Tất cả",
+    "json.allaudio": "Âm thanh từ tất cả camera",
     "json.allowedhttpreferrerlist": "Danh sách HTTP Referrer được phép",
     "json.allowedhttpreferrerlist.help": "Danh sách CSV các HTTP Referrer được phép truy cập máy chủ này bằng mã xác thực (để trống = tất cả)",
     "json.allowediplist": "Danh sách IP được phép",

@@ -353,6 +353,7 @@
     "json.alerttemplate.help": "{TAGSLIST} 태그를 사용할 수 있습니다.",
     "json.align": "정렬",
     "json.all": "전체",
+    "json.allaudio": "모든 카메라의 오디오",
     "json.allowedhttpreferrerlist": "허용된 HTTP Referrer 목록",
     "json.allowedhttpreferrerlist.help": "인증 토큰으로 이 서버에 액세스할 수 있는 허용된 HTTP Referrers 의 CSV 목록 (비어 있으면 전체)",
     "json.allowediplist": "허용된 IP 목록",

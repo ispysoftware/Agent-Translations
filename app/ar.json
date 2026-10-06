@@ -353,6 +353,7 @@
     "json.alerttemplate.help": "يمكنك استخدام العلامات {TAGSLIST}",
     "json.align": "محاذاة",
     "json.all": "الكل",
+    "json.allaudio": "الصوت من جميع الكاميرات",
     "json.allowedhttpreferrerlist": "قائمة HTTP Referrer المسموح بها",
     "json.allowedhttpreferrerlist.help": "قائمة CSV لـ HTTP Referrers المسموح لها بالوصول إلى هذا الخادم باستخدام رمز مصادقة (فارغ = الكل)",
     "json.allowediplist": "قائمة IP المسموح بها",

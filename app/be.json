@@ -353,6 +353,7 @@
     "json.alerttemplate.help": "Можна выкарыстоўваць тэгі {TAGSLIST}",
     "json.align": "Выраўноўванне",
     "json.all": "Усе",
+    "json.allaudio": "Аўдыя з усіх камер",
     "json.allowedhttpreferrerlist": "Спіс дазволеных HTTP-рэферэраў",
     "json.allowedhttpreferrerlist.help": "CSV-спіс HTTP-рэферэраў, якім дазволены доступ да гэтага сервера з токенам праверкі сапраўднасці (пуста = усе)",
     "json.allowediplist": "Спіс дазволеных IP",

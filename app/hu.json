@@ -353,6 +353,7 @@
     "json.alerttemplate.help": "Használhatja a {TAGSLIST} címkéket",
     "json.align": "Igazítás",
     "json.all": "Összes",
+    "json.allaudio": "Hang az összes kamerából",
     "json.allowedhttpreferrerlist": "Engedélyezett HTTP referrer lista",
     "json.allowedhttpreferrerlist.help": "CSV formátumú listája az engedélyezett HTTP referrereknek, amelyek hitelesítési token segítségével férhetnek hozzá ehhez a szerverhez (üres = mind)",
     "json.allowediplist": "Engedélyezett IP-címek listája",

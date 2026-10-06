@@ -353,6 +353,7 @@
     "json.alerttemplate.help": "{TAGSLIST} タグを使用できます",
     "json.align": "整列",
     "json.all": "すべて",
+    "json.allaudio": "すべてのカメラからのオーディオ",
     "json.allowedhttpreferrerlist": "許可される HTTP リファラーリスト",
     "json.allowedhttpreferrerlist.help": "認証トークンでこのサーバーにアクセスできるHTTPリファラーのCSVリスト（空白=すべて）",
     "json.allowediplist": "許可IPアドレスリスト",

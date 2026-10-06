@@ -353,6 +353,7 @@
     "json.alerttemplate.help": "Вы можете использовать теги {TAGSLIST}",
     "json.align": "Выровнять",
     "json.all": "Все",
+    "json.allaudio": "Аудио от всех камер",
     "json.allowedhttpreferrerlist": "Список разрешенных HTTP Referrer",
     "json.allowedhttpreferrerlist.help": "Список HTTP Referrer в формате CSV, которым разрешен доступ к этому серверу с токеном аутенмутации (пусто = все)",
     "json.allowediplist": "Список разрешенных IP",

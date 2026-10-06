@@ -353,6 +353,7 @@
     "json.alerttemplate.help": "Anda dapat menggunakan tag {TAGSLIST}",
     "json.align": "Sejajarkan",
     "json.all": "Semua",
+    "json.allaudio": "Audio dari semua kamera",
     "json.allowedhttpreferrerlist": "Daftar HTTP Referrer yang Diizinkan",
     "json.allowedhttpreferrerlist.help": "Daftar CSV HTTP Referrer yang diizinkan untuk mengakses server ini dengan token autentikasi (kosong = semua)",
     "json.allowediplist": "Daftar IP yang Diizinkan",

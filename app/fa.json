@@ -353,6 +353,7 @@
     "json.alerttemplate.help": "می‌توانید از برچشسب‌های {TAGSLIST} استفاده کنید",
     "json.align": "تراز کردن",
     "json.all": "همه",
+    "json.allaudio": "صدا از همه دوربین‌ها",
     "json.allowedhttpreferrerlist": "لیست HTTP Referrer مجاز",
     "json.allowedhttpreferrerlist.help": "لیست CSV از HTTP Referrerهای مجاز برای دسترسی به این سرور با توکن احراز هویت (خالی = همه)",
     "json.allowediplist": "لیست IP مجاز",

@@ -353,6 +353,7 @@
     "json.alerttemplate.help": "Du kan bruge tags {TAGSLIST}",
     "json.align": "Justér",
     "json.all": "Alle",
+    "json.allaudio": "Lyd fra alle kameraer",
     "json.allowedhttpreferrerlist": "Liste over tilladte HTTP-referrere",
     "json.allowedhttpreferrerlist.help": "CSV-liste over HTTP Referrers, der har tilladelse til at få adgang til denne server med et autentificeringstoken (tom = alle)",
     "json.allowediplist": "Liste over tilladte IP'er",
