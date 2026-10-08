@@ -685,7 +685,7 @@
     "json.editmicrophone": "マイクを編集",
     "json.elastic": "Elastic",
     "json.embedimages": "画像埋め込み",
-    "json.embedimages.help": "メール本文に画像を表示します。一部のメールクライアントでは重複した画像が表示される可能性があります",
+    "json.embedimages.help": "メールメッセージ内に画像を表示する",
     "json.enabled": "有効化済み",
     "json.enablepatrolon": "パトロールを有効にする",
     "json.enableupdatecheck": "更新を確認する",

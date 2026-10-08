@@ -685,7 +685,7 @@
     "json.editmicrophone": "Рэдагаваць мікрафон",
     "json.elastic": "Эластычны",
     "json.embedimages": "Убудоўваць відарысы",
-    "json.embedimages.help": "Паказваць відарысы ў целе ліста. У некаторых паштовых кліентах можа выклікаць дубляванне відарысаў",
+    "json.embedimages.help": "Паказаць малюнкі ўнутры паведамлення электронной пошты",
     "json.enabled": "Уключана",
     "json.enablepatrolon": "Уключыць патруль у",
     "json.enableupdatecheck": "Праверка абнаўленняў",

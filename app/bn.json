@@ -685,7 +685,7 @@
     "json.editmicrophone": "মাইক্রোফোন এডিট করুন",
     "json.elastic": "Elastic",
     "json.embedimages": "ছবি এমবেড করুন",
-    "json.embedimages.help": "মেইলের বডিতে ছবি দেখান। কিছু ইমেল ক্লায়েন্টে এটি ডুপ্লিকেট ছবি তৈরি করতে পারে",
+    "json.embedimages.help": "ইমেল বার্তার ভিতরে ছবি প্রদর্শন করুন",
     "json.enabled": "সক্ষম",
     "json.enablepatrolon": "প্যাট্রোল চালু করুন",
     "json.enableupdatecheck": "আপডেট চেক করুন",

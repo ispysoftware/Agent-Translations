@@ -685,7 +685,7 @@
     "json.editmicrophone": "마이크 편집",
     "json.elastic": "Elastic",
     "json.embedimages": "이미지 삽입",
-    "json.embedimages.help": "이메일 본문에 이미지 표시. 일부 이메일 클라이언트에서 중복 이미지가 발생할 수 있습니다",
+    "json.embedimages.help": "이메일 메시지 내에 이미지 표시",
     "json.enabled": "사용됨",
     "json.enablepatrolon": "순찰 활성화 시 켜기",
     "json.enableupdatecheck": "업데이트 확인",

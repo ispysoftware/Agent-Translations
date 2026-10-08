@@ -685,7 +685,7 @@
     "json.editmicrophone": "تعديل الميكروفون",
     "json.elastic": "Elastic",
     "json.embedimages": "تضمين الصور",
-    "json.embedimages.help": "عرض الصور في نص البريد الإلكتروني. قد يتسبب ذلك في تكرار الصور في بعض برامج البريد الإلكتروني",
+    "json.embedimages.help": "عرض الصور داخل رسالة البريد الإلكتروني",
     "json.enabled": "مفعل",
     "json.enablepatrolon": "تفعيل خاصية الدوريات",
     "json.enableupdatecheck": "التحقق من وجود تحديثات",

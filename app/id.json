@@ -685,7 +685,7 @@
     "json.editmicrophone": "Edit Mikrofon",
     "json.elastic": "Elastic",
     "json.embedimages": "Sematkan Gambar",
-    "json.embedimages.help": "Tampilkan gambar di badan email. Dapat menyebabkan duplikasi gambar pada beberapa klien email",
+    "json.embedimages.help": "Tampilkan gambar di dalam pesan email",
     "json.enabled": "Diaktifkan",
     "json.enablepatrolon": "Aktifkan Patrol On",
     "json.enableupdatecheck": "Periksa Pembaruan",

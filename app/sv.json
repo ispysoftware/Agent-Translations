@@ -685,7 +685,7 @@
     "json.editmicrophone": "Redigera mikrofon",
     "json.elastic": "Elastic",
     "json.embedimages": "Bädda in bilder",
-    "json.embedimages.help": "Visa bilder i mejlets innehåll. Kan orsaka dubbla bilder i vissa e-postklienter",
+    "json.embedimages.help": "Visa bilder inuti e-postmeddelandet",
     "json.enabled": "Aktiverad",
     "json.enablepatrolon": "Aktivera patrullering",
     "json.enableupdatecheck": "Kontrollera efter uppdateringar",

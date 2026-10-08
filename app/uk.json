@@ -685,7 +685,7 @@
     "json.editmicrophone": "Редагувати мікрофон",
     "json.elastic": "Elastic",
     "json.embedimages": "Вбудовувати зображення",
-    "json.embedimages.help": "Показувати зображення в тілі листа. Може спричинити дублювання зображень у деяких поштових клієнтах",
+    "json.embedimages.help": "Показувати зображення всередину листа електронної пошти",
     "json.enabled": "Увімкнено",
     "json.enablepatrolon": "Увімкнути патрулювання",
     "json.enableupdatecheck": "Перевірити оновлення",

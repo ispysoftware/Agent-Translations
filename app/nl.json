@@ -685,7 +685,7 @@
     "json.editmicrophone": "Microfoon bewerken",
     "json.elastic": "Elastic",
     "json.embedimages": "Afbeeldingen insluiten",
-    "json.embedimages.help": "Afbeeldingen tonen in de e-mailtekst. Kan leiden tot dubbele afbeeldingen in sommige e-mailclients",
+    "json.embedimages.help": "Afbeeldingen in het e-mailbericht weergeven",
     "json.enabled": "Ingeschakeld",
     "json.enablepatrolon": "Patrouille inschakelen",
     "json.enableupdatecheck": "Controleren op updates",

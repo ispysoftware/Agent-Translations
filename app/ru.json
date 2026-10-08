@@ -685,7 +685,7 @@
     "json.editmicrophone": "Редактировать микрофон",
     "json.elastic": "Elastic",
     "json.embedimages": "Внедрить изображения",
-    "json.embedimages.help": "Показывать изображения в теле письма. На некоторых почтовых клиентах это может привести к дублированию изображений",
+    "json.embedimages.help": "Показывать изображения в теле письма",
     "json.enabled": "Включено",
     "json.enablepatrolon": "Включить патрулирование",
     "json.enableupdatecheck": "Проверить наличие обновлений",

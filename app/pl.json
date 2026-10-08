@@ -685,7 +685,7 @@
     "json.editmicrophone": "Edytuj mikrofon",
     "json.elastic": "Elastic",
     "json.embedimages": "Osadź obrazy",
-    "json.embedimages.help": "Wyświetlaj obrazy w treści wiadomości e-mail. Może to powodować duplikowanie obrazów w niektórych klientach poczty",
+    "json.embedimages.help": "Pokaż obrazy wewnątrz wiadomości e-mail",
     "json.enabled": "Włączone",
     "json.enablepatrolon": "Włącz patrol",
     "json.enableupdatecheck": "Sprawdź aktualizacje",

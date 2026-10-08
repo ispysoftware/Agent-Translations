@@ -685,7 +685,7 @@
     "json.editmicrophone": "Muokkaa mikrofonia",
     "json.elastic": "Elastic",
     "json.embedimages": "Upota kuvia",
-    "json.embedimages.help": "Näytä kuvat sähköpostin tekstissä. Voi aiheuttaa päällekkäisiä kuvia joissakin sähköpostiohjelmissa",
+    "json.embedimages.help": "Näytä kuvat sähköpostiviestin sisällä",
     "json.enabled": "Käytössä",
     "json.enablepatrolon": "Aktivoi Patrol On",
     "json.enableupdatecheck": "Tarkista päivitykset",

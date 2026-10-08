@@ -685,7 +685,7 @@
     "json.editmicrophone": "ویرایش میکروفون",
     "json.elastic": "Elastic",
     "json.embedimages": "جایگذاری تصاویر",
-    "json.embedimages.help": "نمایش تصاویر در متن ایمیل. می‌تواند باعث تکرار تصاویر در برخی از کلاینت‌های ایمیل شود",
+    "json.embedimages.help": "تصاویر را در داخل پیام ایمیل نمایش دهید",
     "json.enabled": "فعال",
     "json.enablepatrolon": "فعال‌سازی گشت‌زنی",
     "json.enableupdatecheck": "بررسی به‌روزرسانی‌ها",

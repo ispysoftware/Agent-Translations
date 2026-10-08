@@ -685,7 +685,7 @@
     "json.editmicrophone": "Mikrofon szerkesztése",
     "json.elastic": "Elastic",
     "json.embedimages": "Képek beágyazása",
-    "json.embedimages.help": "A képek megjelenítése a levél szövegében. Egyes e-mail klienseknél ez duplikált képeket okozhat",
+    "json.embedimages.help": "E-mail üzenetbe ágyazott képek megjelenítése",
     "json.enabled": "Engedélyezve",
     "json.enablepatrolon": "Őrjárat bekapcsolása",
     "json.enableupdatecheck": "Frissítések ellenőrzése",

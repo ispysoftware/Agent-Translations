@@ -685,7 +685,7 @@
     "json.editmicrophone": "Rediger mikrofon",
     "json.elastic": "Elastic",
     "json.embedimages": "Indlejre billeder",
-    "json.embedimages.help": "Vis billeder i mailens brødtekst. Kan forårsage duplikerede billeder i visse e-mailklienter",
+    "json.embedimages.help": "Vis billeder inde i emailbeskeden",
     "json.enabled": "Aktiveret",
     "json.enablepatrolon": "Aktivér patrol",
     "json.enableupdatecheck": "Tjek for opdateringer",

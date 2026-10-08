@@ -685,7 +685,7 @@
     "json.editmicrophone": "Chỉnh sửa microphone",
     "json.elastic": "Elastic",
     "json.embedimages": "Nhúng hình ảnh",
-    "json.embedimages.help": "Hiển thị hình ảnh trong nội dung email. Có thể gây ra tình trạng trùng lặp hình ảnh trên một số trình duyệt email",
+    "json.embedimages.help": "Hiển thị hình ảnh bên trong tin nhắn email",
     "json.enabled": "Đã bật",
     "json.enablepatrolon": "Bật chế độ tuần tra",
     "json.enableupdatecheck": "Kiểm tra bản cập nhật",

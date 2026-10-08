@@ -685,7 +685,7 @@
     "json.editmicrophone": "编辑麦克风",
     "json.elastic": "Elastic",
     "json.embedimages": "嵌入图像",
-    "json.embedimages.help": "在邮件正文中显示图像。在某些电子邮件客户端上可能导致重复图像",
+    "json.embedimages.help": "在电子邮件消息内显示图像",
     "json.enabled": "已启用",
     "json.enablepatrolon": "启用巡逻开启",
     "json.enableupdatecheck": "检查更新",

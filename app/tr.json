@@ -685,7 +685,7 @@
     "json.editmicrophone": "Mikrofonu düzenle",
     "json.elastic": "Elastic",
     "json.embedimages": "Görüntüleri göm",
-    "json.embedimages.help": "Görüntüleri e-posta gövdesinde göster. Bazı e-posta istemcilerinde yinelenen görüntülere neden olabilir",
+    "json.embedimages.help": "E-posta iletisinin içinde görüntüleri göster",
     "json.enabled": "Etkin",
     "json.enablepatrolon": "Devriye Takibini Etkinleştir",
     "json.enableupdatecheck": "Güncellemeleri Denetle",

@@ -685,7 +685,7 @@
     "json.editmicrophone": "Upravit mikrofon",
     "json.elastic": "Elastic",
     "json.embedimages": "Vložit obrázky",
-    "json.embedimages.help": "Zobrazit obrázky v těle e-mailu. U některých e-mailových klientů může dojít k duplicitě obrázků",
+    "json.embedimages.help": "Zobrazit obrázky uvnitř e-mailové zprávy",
     "json.enabled": "Aktivováno",
     "json.enablepatrolon": "Povolit hlídání",
     "json.enableupdatecheck": "Kontrolovat aktualizace",
