@@ -18,7 +18,7 @@ URL_RE = re.compile(r"https?://[A-Za-z0-9\-._~:/?#@!$&*+;=%()\[\]]+")
 URL_STRIP = '.,;:)]}/'
 BRAND_RE = re.compile(r"Agent ?DVR")
 
-LATIN_LANGS = {'cs', 'da', 'de', 'es', 'fi', 'fr', 'hu', 'id', 'it', 'nb', 'nl', 'pl', 'pt', 'sv', 'tr', 'vi'}
+LATIN_LANGS = {'cs', 'da', 'de', 'es', 'fi', 'fr', 'hu', 'id', 'it', 'nb', 'nl', 'pl', 'pt', 'sr-latn', 'sv', 'tr', 'vi'}
 FOREIGN_SCRIPT = re.compile(r'[Ѐ-ӿ؀-ۿऀ-ॿঀ-৿぀-ヿ一-鿿가-힯]')
 
 EXPECTED_NAMES = {
@@ -26,7 +26,7 @@ EXPECTED_NAMES = {
     'es': 'Español', 'fa': 'فارسی', 'fi': 'Suomi', 'fr': 'Français', 'hi': 'हिंदी',
     'hu': 'Magyar', 'id': 'Bahasa Indonesia', 'it': 'Italiano', 'ja': '日本',
     'ko': '한국어', 'nl': 'Nederlands', 'nb': 'Norsk', 'pl': 'Polski',
-    'pt': 'Português', 'ru': 'Русский', 'sv': 'Svenska', 'tr': 'Türkçe',
+    'pt': 'Português', 'ru': 'Русский', 'sr-latn': 'Srpski (latinica, ijekavica)', 'sv': 'Svenska', 'tr': 'Türkçe',
     'uk': 'українська', 'vi': 'Tiếng Việt', 'zh-cn': '中文', 'zh-tw': '繁体中文',
 }
 
