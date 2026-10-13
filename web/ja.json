@@ -767,6 +767,7 @@
     "notlive": "ライブではありません",
     "notsaved": "ダッシュボードを保存できませんでした",
     "now": "現在映っている数",
+    "numberofobjects": "オブジェクト数",
     "objectclass": "オブジェクトクラス",
     "occupancy": "占有率",
     "occupancyhistory": "占有履歴",
