@@ -1639,7 +1639,7 @@
     "json.speed": "Hastighet",
     "json.speedlimits": "Hastighetsgrenser",
     "json.speedlimits.help": "Varsler vil bli generert for hastigheter utenfor dette området",
-    "json.speedunit": "Hastighetsmåling",
+    "json.speedunit": "Hastighetsenhet",
     "json.sslcert": "SSL-sertifikat",
     "json.sslcert.help": "Sti til sertifikatfilen, f.eks.: cert.p12",
     "json.sslonly": "Kun SSL",

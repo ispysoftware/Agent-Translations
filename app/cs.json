@@ -1639,7 +1639,7 @@
     "json.speed": "Rychlost",
     "json.speedlimits": "Rychlostní limity",
     "json.speedlimits.help": "Upozornění budou generována pro rychlosti mimo tento rozsah",
-    "json.speedunit": "Měření rychlosti",
+    "json.speedunit": "Jednotka rychlosti",
     "json.sslcert": "SSL certifikát",
     "json.sslcert.help": "Cesta k souboru certifikátu, např.: cert.p12",
     "json.sslonly": "Pouze SSL",

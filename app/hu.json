@@ -1639,7 +1639,7 @@
     "json.speed": "Sebesség",
     "json.speedlimits": "Sebesseghatárok",
     "json.speedlimits.help": "A riasztások ebben a tartományon kívüli sebességek esetén generálódnak",
-    "json.speedunit": "Sebességmérés",
+    "json.speedunit": "Sebesség mértékegysége",
     "json.sslcert": "SSL tanúsítvány",
     "json.sslcert.help": "A tanúsítvány fájl elérési útja, pl.: cert.p12",
     "json.sslonly": "Csak SSL",

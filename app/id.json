@@ -1639,7 +1639,7 @@
     "json.speed": "Kecepatan",
     "json.speedlimits": "Batas Kecepatan",
     "json.speedlimits.help": "Peringatan akan dibuat untuk kecepatan di luar rentang ini",
-    "json.speedunit": "Pengukuran Kecepatan",
+    "json.speedunit": "Satuan Kecepatan",
     "json.sslcert": "Sertifikat SSL",
     "json.sslcert.help": "Path ke file sertifikat misal: cert.p12",
     "json.sslonly": "Hanya SSL",

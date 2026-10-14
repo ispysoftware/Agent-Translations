@@ -1639,7 +1639,7 @@
     "json.speed": "Speed",
     "json.speedlimits": "Speed Limits",
     "json.speedlimits.help": "Alerts will be generated for speeds outside of this range",
-    "json.speedunit": "Speed Measurement",
+    "json.speedunit": "Speed Unit",
     "json.sslcert": "SSL Certificate",
     "json.sslcert.help": "Path to the certificate file eg: cert.p12",
     "json.sslonly": "SSL Only",

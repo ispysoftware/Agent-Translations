@@ -1639,7 +1639,7 @@
     "json.speed": "속도",
     "json.speedlimits": "속도 제한",
     "json.speedlimits.help": "이 범위 밖의 속도에 대해 경고가 생성됩니다.",
-    "json.speedunit": "속도 측정 단위",
+    "json.speedunit": "속도 단위",
     "json.sslcert": "SSL 인증서",
     "json.sslcert.help": "인증서 파일 경로 예: cert.p12",
     "json.sslonly": "SSL 전용",

@@ -1639,7 +1639,7 @@
     "json.speed": "Nopeus",
     "json.speedlimits": "Nopeusrajoitukset",
     "json.speedlimits.help": "Hälytyksiä luodaan nopeuksille, jotka ovat tämän alueen ulkopuolella",
-    "json.speedunit": "Nopeuden mittaus",
+    "json.speedunit": "Nopeusyksikkö",
     "json.sslcert": "SSL-sertifikaatti",
     "json.sslcert.help": "Polku sertifikaattitiedostoon, esim: cert.p12",
     "json.sslonly": "Vain SSL",

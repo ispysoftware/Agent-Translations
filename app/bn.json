@@ -1639,7 +1639,7 @@
     "json.speed": "গতি",
     "json.speedlimits": "গতির সীমা",
     "json.speedlimits.help": "এই সীমার বাইরের গতির জন্য অ্যালার্ট তৈরি করা হবে",
-    "json.speedunit": "গতির পরিমাপ",
+    "json.speedunit": "গতির একক",
     "json.sslcert": "SSL সার্টিফিকেট",
     "json.sslcert.help": "সার্টিফিকেট ফাইলের পাথ, যেমন: cert.p12",
     "json.sslonly": "শুধুমাত্র SSL",

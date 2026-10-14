@@ -1639,7 +1639,7 @@
     "json.speed": "Snelheid",
     "json.speedlimits": "Snelheidslimieten",
     "json.speedlimits.help": "Meldingen worden gegenereerd voor snelheden buiten dit bereik",
-    "json.speedunit": "Snelheidsmeting",
+    "json.speedunit": "Snelheidseenheid",
     "json.sslcert": "SSL-certificaat",
     "json.sslcert.help": "Pad naar het certificaatbestand bijv: cert.p12",
     "json.sslonly": "Alleen SSL",

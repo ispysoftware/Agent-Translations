@@ -1639,7 +1639,7 @@
     "json.speed": "Hız",
     "json.speedlimits": "Hız Limitleri",
     "json.speedlimits.help": "Bu aralığın dışındaki hızlar için uyarılar oluşturulacaktır",
-    "json.speedunit": "Hız Ölçümü",
+    "json.speedunit": "Hız Birimi",
     "json.sslcert": "SSL Sertifikası",
     "json.sslcert.help": "Sertifika dosyasının yolu örn: cert.p12",
     "json.sslonly": "Yalnızca SSL",

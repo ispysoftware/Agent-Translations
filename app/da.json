@@ -1639,7 +1639,7 @@
     "json.speed": "Hastighed",
     "json.speedlimits": "Hastighedsbegrænsninger",
     "json.speedlimits.help": "Alarmer vil blive genereret for hastigheder uden for dette interval",
-    "json.speedunit": "Hastighedsmåling",
+    "json.speedunit": "Hastighedsenhed",
     "json.sslcert": "SSL-certifikat",
     "json.sslcert.help": "Sti til certifikatfil, f.eks.: cert.p12",
     "json.sslonly": "Kun SSL",

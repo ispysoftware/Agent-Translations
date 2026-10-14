@@ -1639,7 +1639,7 @@
     "json.speed": "Швидкість",
     "json.speedlimits": "Обмеження швидкості",
     "json.speedlimits.help": "Сповіщення створюватимуться для швидкостей поза цим діапазоном",
-    "json.speedunit": "Вимірювання швидкості",
+    "json.speedunit": "Одиниця швидкості",
     "json.sslcert": "SSL-сертифікат",
     "json.sslcert.help": "Шлях до файлу сертифіката, наприклад: cert.p12",
     "json.sslonly": "Тільки SSL",

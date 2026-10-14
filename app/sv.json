@@ -1639,7 +1639,7 @@
     "json.speed": "Hastighet",
     "json.speedlimits": "Hastighetsgränser",
     "json.speedlimits.help": "Larm kommer att genereras för hastigheter utanför detta intervall",
-    "json.speedunit": "Hastighetsmätning",
+    "json.speedunit": "Hastighetsenhet",
     "json.sslcert": "SSL-certifikat",
     "json.sslcert.help": "Sökväg till certifikatfilen t.ex: cert.p12",
     "json.sslonly": "Endast SSL",

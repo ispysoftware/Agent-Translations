@@ -1639,7 +1639,7 @@
     "json.speed": "गति",
     "json.speedlimits": "गति सीमा",
     "json.speedlimits.help": "इस रेंज से बाहर की गति के लिए अलर्ट जेनरेट किए जाएंगे",
-    "json.speedunit": "गति माप",
+    "json.speedunit": "गति इकाई",
     "json.sslcert": "SSL प्रमाणपत्र",
     "json.sslcert.help": "प्रमाणपत्र फ़ाइल का पथ, जैसे: cert.p12",
     "json.sslonly": "केवल SSL",
