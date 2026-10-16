@@ -167,6 +167,7 @@
     "detector: set area": "Detector: Ajustar área del detector de movimiento",
     "detectorconfigwarning": "Consulte la pestaña Detector o Acciones para configurar un activador de alerta",
     "detectorenabledwarning": "El detector está desactivado; actívelo en la pestaña Detector",
+    "detectorlegacywarning": "Este detector utiliza tecnología más antigua y menos precisa - para obtener mejores resultados utiliza [AI] en su lugar",
     "detectoronvifnomotionwarning": "Conectado al servicio de eventos de la cámara, pero no se han recibido eventos de movimiento - verifique que la detección de movimiento esté habilitada en la configuración de la cámara.",
     "detectoronvifwarning": "Es posible que ONVIF no esté enviando eventos; compruebe los logs",
     "detectortypewarning": "Asegúrese de tener un detector o una acción configurada para activar las alertas",

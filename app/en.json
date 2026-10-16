@@ -167,6 +167,7 @@
     "detector: set area": "Detector: Set Motion Detector Area",
     "detectorconfigwarning": "See the Detector tab or Actions to setup an alert trigger",
     "detectorenabledwarning": "Detector is disabled - enable it on the Detector tab",
+    "detectorlegacywarning": "This detector uses older, less accurate technology - for better results use [AI] instead",
     "detectoronvifnomotionwarning": "Connected to the camera's event service but no motion events have been received - check that motion detection is enabled in the camera's own settings",
     "detectoronvifwarning": "ONVIF may not be sending events - check logs",
     "detectortypewarning": "Make sure you have a detector or an action configured to trigger alerts",

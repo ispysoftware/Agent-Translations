@@ -167,6 +167,7 @@
     "detector: set area": "Detektor: Indstil bevægelsesdetektionsområde",
     "detectorconfigwarning": "Se fanen Detektor eller Handlinger for at opsætte en alarmudløser",
     "detectorenabledwarning": "Detektoren er deaktiveret - aktiver den på fanen Detektor",
+    "detectorlegacywarning": "Denne detektor bruger ældre, mindre præcis teknologi - for bedre resultater skal du bruge [AI] i stedet for",
     "detectoronvifnomotionwarning": "Forbundet til kameraets hændelsestjeneste, men der er ikke modtaget nogen bevægelseshændelser - tjek at bevægelsesdetektion er aktiveret i kameraets egne indstillinger.",
     "detectoronvifwarning": "ONVIF sender muligvis ikke hændelser - tjek logs",
     "detectortypewarning": "Sørg for, at du har en detektor eller en handling konfigureret til at udløse alarmer",

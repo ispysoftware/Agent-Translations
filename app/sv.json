@@ -167,6 +167,7 @@
     "detector: set area": "Detektor: Ställ in rörelsedetektorns område",
     "detectorconfigwarning": "Se fliken Detektor eller Åtgärder för att ställa in en larmutlösare",
     "detectorenabledwarning": "Detektorn är inaktiverad - aktivera den på fliken Detektor",
+    "detectorlegacywarning": "Den här detektorn använder äldre, mindre exakt teknik - för bättre resultat använder du [AI] istället",
     "detectoronvifnomotionwarning": "Ansluten till kamerans händelsetjänst men inga rörelsehändelser har mottagits - kontrollera att rörelsedetektering är aktiverad i kamerans egna inställningar",
     "detectoronvifwarning": "ONVIF kanske inte skickar händelser - kontrollera loggar",
     "detectortypewarning": "Se till att du har en detektor eller en åtgärd konfigurerad för att utlösa larm",

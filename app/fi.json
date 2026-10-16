@@ -167,6 +167,7 @@
     "detector: set area": "Ilmaisin: määritä liiketunnusalue",
     "detectorconfigwarning": "Katso Ilmaisin-välilehti tai Toiminnot määrittääksesi hälytyksen laukaisimen",
     "detectorenabledwarning": "Ilmaisin on poistettu käytöstä - ota se käyttöön Ilmaisin-välilehdellä",
+    "detectorlegacywarning": "Tämä ilmaisin käyttää vanhempaa, epätarkempaa tekniikkaa - parempaan tulokseen käytä [AI]",
     "detectoronvifnomotionwarning": "Yhdistetty kameran tapahtumapalveluun, mutta liiketapahtumia ei ole vastaanotettu - tarkista, että liiketunnistus on käytössä kameran omissa asetuksissa.",
     "detectoronvifwarning": "ONVIF ei välttämättä lähetä tapahtumia - tarkista lokit",
     "detectortypewarning": "Varmista, että sinulla on konfiguroitu ilmaisin tai toiminto hälytyksen laukaisemiseksi",

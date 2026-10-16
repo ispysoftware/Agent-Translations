@@ -167,6 +167,7 @@
     "detector: set area": "Detektor: Ustaw obszar detekcji ruchu",
     "detectorconfigwarning": "Aby skonfigurować wyzwalacz alertu, sprawdź kartę Detektor lub Akcje",
     "detectorenabledwarning": "Detektor jest wyłączony - włącz go na karcie Detektor",
+    "detectorlegacywarning": "Ten detektor używa starszej, mniej dokładnej technologii - aby uzyskać lepsze wyniki, użyj zamiast tego [AI]",
     "detectoronvifnomotionwarning": "Połączono z usługą zdarzeń kamery, ale nie odebrano żadnych zdarzeń ruchu - sprawdź, czy detekcja ruchu jest włączona w ustawieniach kamery.",
     "detectoronvifwarning": "ONVIF może nie wysyłać zdarzeń - sprawdź dzienniki",
     "detectortypewarning": "Upewnij się, że masz skonfigurowany detektor lub akcję do wyzwalania alertów",

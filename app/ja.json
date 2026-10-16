@@ -167,6 +167,7 @@
     "detector: set area": "検知器：モーション検知エリアを設定する",
     "detectorconfigwarning": "アラートトリガーの設定については、検知器タブまたはアクションを参照してください",
     "detectorenabledwarning": "検知が無効です - 検知器タブで有効にしてください",
+    "detectorlegacywarning": "この検知器は精度の低い旧式の技術を使用しています - より良い結果を得るには、代わりに[AI]を使用してください",
     "detectoronvifnomotionwarning": "カメラのイベントサービスに接続されていますが、動体イベントが受信されていません - カメラの設定で動体検知が有効になっているか確認してください",
     "detectoronvifwarning": "ONVIF がイベントを送信していない可能性があります。ログを確認してください",
     "detectortypewarning": "アラートをトリガーする検知器またはアクションが設定されていることを確認してください",

@@ -167,6 +167,7 @@
     "detector: set area": "Detektor: Nastavení oblasti detekce pohybu",
     "detectorconfigwarning": "Pro nastavení spouštěče upozornění se podívejte na záložku Detektor nebo Akce",
     "detectorenabledwarning": "Detektor je vypnutý – zapněte jej na záložce Detektor",
+    "detectorlegacywarning": "Tento detektor používá starší a méně přesnou technologii - pro lepší výsledky místo toho použijte [AI]",
     "detectoronvifnomotionwarning": "Připojeno k událostem kamery, ale nebyly přijaty žádné události pohybu - zkontrolujte, zda je detekce pohybu povolena v nastavení kamery.",
     "detectoronvifwarning": "ONVIF nemusí odesílat události – zkontrolujte protokoly",
     "detectortypewarning": "Ujistěte se, že máte nakonfigurovaný detektor nebo akci pro spouštění upozornění",

@@ -167,6 +167,7 @@
     "detector: set area": "Bộ dò: Thiết lập vùng phát hiện chuyển động",
     "detectorconfigwarning": "Xem tab Detector hoặc Actions để thiết lập kích hoạt cảnh báo",
     "detectorenabledwarning": "Bộ dò đang bị tắt - hãy bật nó trong tab Detector",
+    "detectorlegacywarning": "Bộ dò này sử dụng công nghệ cũ hơn, kém chính xác hơn - để có kết quả tốt hơn, hãy sử dụng [AI]",
     "detectoronvifnomotionwarning": "Kết nối với dịch vụ sự kiện của camera nhưng không nhận được sự kiện chuyển động - kiểm tra xem phát hiện chuyển động đã được bật trong cài đặt của camera hay chưa.",
     "detectoronvifwarning": "ONVIF có thể không gửi sự kiện - hãy kiểm tra logs",
     "detectortypewarning": "Đảm bảo bạn đã cấu hình bộ dò hoặc một hành động để kích hoạt cảnh báo",

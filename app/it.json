@@ -167,6 +167,7 @@
     "detector: set area": "Rilevatore: Imposta area rilevamento movimento",
     "detectorconfigwarning": "Vedere la scheda Rilevatore o Azioni per configurare un trigger di allerta",
     "detectorenabledwarning": "Il rilevatore è disabilitato - abilitarlo nella scheda Rilevatore",
+    "detectorlegacywarning": "Questo rilevatore utilizza una tecnologia più vecchia e meno accurata - per risultati migliori usa [AI]",
     "detectoronvifnomotionwarning": "Collegato al servizio eventi della telecamera ma non sono stati ricevuti eventi di movimento - controlla che il rilevamento del movimento sia abilitato nelle impostazioni della telecamera.",
     "detectoronvifwarning": "ONVIF potrebbe non inviare eventi - controllare i log",
     "detectortypewarning": "Assicurarsi di avere un rilevatore o un'azione configurata per attivare le allerte",

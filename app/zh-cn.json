@@ -167,6 +167,7 @@
     "detector: set area": "检测器：设置移动侦测区域",
     "detectorconfigwarning": "请参阅检测器选项卡或操作以设置警报触发器",
     "detectorenabledwarning": "检测器已禁用 - 请在检测器选项卡上启用它",
+    "detectorlegacywarning": "此检测器使用较旧的技术，精度较低 - 为获得更佳效果，请改用[AI]",
     "detectoronvifnomotionwarning": "已连接到摄像头的事件服务，但未收到运动事件 - 请检查摄像头自身设置中是否启用了运动检测",
     "detectoronvifwarning": "ONVIF 可能未发送事件 - 请检查日志",
     "detectortypewarning": "确保您已配置了用于触发警报的检测器或动作",

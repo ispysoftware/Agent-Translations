@@ -167,6 +167,7 @@
     "detector: set area": "Detektor: Still inn bevegelsesdeteksjonsområde",
     "detectorconfigwarning": "Se detektorfanen eller handlinger for å sette opp en varslingstrigger",
     "detectorenabledwarning": "Detektoren er deaktivert - aktiver den i detektorfanen",
+    "detectorlegacywarning": "Denne detektoren bruker eldre, mindre nøyaktig teknologi - for bedre resultater bruker du [AI] i stedet",
     "detectoronvifnomotionwarning": "Koblet til kameraets hendelsestjeneste, men ingen bevegelseshendelser har blitt mottatt - sjekk at bevegelsesdeteksjon er aktivert i kameraets egne innstillinger.",
     "detectoronvifwarning": "ONVIF sender muligens ikke hendelser - sjekk logger",
     "detectortypewarning": "Sørg for at du har en detektor eller en handling konfigurert for å utløse varsler",

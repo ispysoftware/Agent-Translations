@@ -167,6 +167,7 @@
     "detector: set area": "Dedektör: Hareket Dedektörü Alanını Ayarla",
     "detectorconfigwarning": "Bir alarm tetikleyicisi kurmak için Dedektör sekmesine veya Eylemlere bakın",
     "detectorenabledwarning": "Dedektör devre dışı - Dedektör sekmesinden etkinleştirin",
+    "detectorlegacywarning": "Bu dedektör eski, daha az doğru teknoloji kullanıyor - daha iyi sonuçlar için [AI] kullanın",
     "detectoronvifnomotionwarning": "Kameranın olay servisine bağlı ancak hareket olayları alınmadı - kameranın kendi ayarlarında hareket algılamanın etkin olduğundan emin olun",
     "detectoronvifwarning": "ONVIF olayları göndermiyor olabilir - günlükleri kontrol edin",
     "detectortypewarning": "Alarmları tetiklemek için bir dedektör veya eylem yapılandırıldığından emin olun",

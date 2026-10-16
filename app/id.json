@@ -167,6 +167,7 @@
     "detector: set area": "Detektor: Atur Area Deteksi Gerakan",
     "detectorconfigwarning": "Lihat tab Detektor atau Tindakan untuk mengatur pemicu peringatan",
     "detectorenabledwarning": "Detektor dinonaktifkan - aktifkan di tab Detektor",
+    "detectorlegacywarning": "Detektor ini menggunakan teknologi yang lebih lama dan kurang akurat - untuk hasil yang lebih baik gunakan [AI] sebagai gantinya",
     "detectoronvifnomotionwarning": "Terhubung ke layanan acara kamera tetapi tidak ada peristiwa gerakan yang diterima - periksa bahwa deteksi gerakan diaktifkan dalam pengaturan kamera itu sendiri",
     "detectoronvifwarning": "ONVIF mungkin tidak mengirimkan peristiwa - periksa log",
     "detectortypewarning": "Pastikan Anda telah mengonfigurasi detektor atau tindakan untuk memicu peringatan",

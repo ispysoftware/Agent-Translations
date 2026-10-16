@@ -167,6 +167,7 @@
     "detector: set area": "الكاشف: ضبط منطقة كاشف الحركة",
     "detectorconfigwarning": "راجع علامة التبويب Detector أو Actions لإعداد مشغل التنبيه",
     "detectorenabledwarning": "الكاشف معطل - قم بتفعيله من علامة التبويب Detector",
+    "detectorlegacywarning": "هذا الكاشف يستخدم تقنية قديمة أقل دقة - لنتائج أفضل استخدم [AI] بدلاً منه",
     "detectoronvifnomotionwarning": "متصل بخدمة أحداث الكاميرا ولكن لم يتم تلقي أي أحداث حركة - تحقق من تمكين كشف الحركة في إعدادات الكاميرا نفسها",
     "detectoronvifwarning": "قد لا يرسل ONVIF الأحداث - راجع السجلات (logs)",
     "detectortypewarning": "تأكد من تكوين كاشف أو إجراء (action) لتشغيل التنبيهات",

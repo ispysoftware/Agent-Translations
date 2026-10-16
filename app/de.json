@@ -167,6 +167,7 @@
     "detector: set area": "Detektor: Bewegungserkennungsbereich festlegen",
     "detectorconfigwarning": "Siehe Registerkarte Detektor oder Aktionen, um einen Alarm-Trigger einzurichten",
     "detectorenabledwarning": "Detektor ist deaktiviert – aktivieren Sie ihn auf der Registerkarte Detektor",
+    "detectorlegacywarning": "Dieser Detektor verwendet ältere, weniger genaue Technologie - verwenden Sie stattdessen [AI] für bessere Ergebnisse",
     "detectoronvifnomotionwarning": "Mit dem Ereignisdienst der Kamera verbunden, aber es wurden keine Bewegungsereignisse empfangen - überprüfen Sie, ob die Bewegungserkennung in den eigenen Einstellungen der Kamera aktiviert ist.",
     "detectoronvifwarning": "ONVIF sendet möglicherweise keine Ereignisse – prüfen Sie die Protokolle",
     "detectortypewarning": "Stellen Sie sicher, dass ein Detektor oder eine Aktion zur Auslösung von Alarmen konfiguriert ist",

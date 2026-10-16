@@ -167,6 +167,7 @@
     "detector: set area": "Érzékelő: Mozgásérzékelési terület beállítása",
     "detectorconfigwarning": "Az értesítés kiváltásának beállításához tekintse meg az Érzékelő fület vagy a Műveleteket",
     "detectorenabledwarning": "Az érzékelő ki van kapcsolva - kapcsolja be az Érzékelő fülön",
+    "detectorlegacywarning": "Ez az érzékelő régebbi, kevésbé pontos technológiát használ - jobb eredményekhez használjon helyette [AI]-t",
     "detectoronvifnomotionwarning": "Csatlakoztatva a kamera eseményszolgáltatásához, de nem érkeztek mozgásesemények – ellenőrizze, hogy a kamera saját beállításaiban engedélyezett-e a mozgásérzékelés",
     "detectoronvifwarning": "Az ONVIF esetlegesen nem küld eseményeket – ellenőrizze a naplókat",
     "detectortypewarning": "Győződjön meg róla, hogy van konfigurálva egy detektor vagy akció a riasztások indításához",
