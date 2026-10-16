@@ -1250,7 +1250,7 @@
   "modelhelp": "Tipp: Das Modell befindet sich normalerweise auf der Rückseite oder unter der Kamera oder manchmal in deren Webinterface",
   "monthly": "Monatlich",
   "months": "Monate",
-  "motiondetection": "Erkenner",
+  "motiondetection": "Detektor",
   "motionindicator": "Bewegungsindikator",
   "motionindicator_help": "Geräterand bei Bewegung aufblinken lassen",
   "motionmaphelp": "Geben Sie einen Bereich an, um Bewegungsereignisse zu finden (erfordert einen Tracking- oder KI-Erkenner während der Aufnahme)",

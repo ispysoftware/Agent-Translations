@@ -1250,7 +1250,7 @@
   "modelhelp": "Conseil: le modèle se trouve généralement à l'arrière ou sous l'appareil photo ou parfois sur son interface Web.",
   "monthly": "Mensuel",
   "months": "Mois",
-  "motiondetection": "Détection de mouvement",
+  "motiondetection": "Détecteur",
   "motionindicator": "Indicateur de mouvement",
   "motionindicator_help": "Faire clignoter la bordure du dispositif lorsque le mouvement est détecté",
   "motionmaphelp": "Spécifiez une zone pour rechercher des événements de mouvement (nécessite un suivi ou un détecteur AI lors de l'enregistrement)",

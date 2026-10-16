@@ -1250,7 +1250,7 @@
   "modelhelp": "Dica: O modelo geralmente pode ser encontrado na parte traseira ou embaixo da câmera ou às vezes na interface da web.",
   "monthly": "Mensal",
   "months": "Meses",
-  "motiondetection": "Detector de movimento",
+  "motiondetection": "Detector",
   "motionindicator": "Indicador de Movimento",
   "motionindicator_help": "Destacar a borda do dispositivo quando movimento detectado",
   "motionmaphelp": "Especifique uma área para encontrar eventos de movimento (requer um rastreamento ou detector de IA durante a gravação)",
