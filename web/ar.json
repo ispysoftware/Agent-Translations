@@ -929,6 +929,7 @@
   "blockremoved": "تم إزالة الحظر",
   "broadcast": "النظام",
   "browserincompatible": "يرجى استخدام إصدار حديث من Firefox أو Chrome أو Edge",
+  "browsernowebrtc": "WebRTC معطّل في متصفح الويب هذا. قد يكون تطبيق VPN أو امتداد الخصوصية يحجبه.",
   "businessdetails": "تفاصيل العمل",
   "buynow": "اشتري الآن",
   "cameracredentials": "تسجيل دخول الكاميرا",

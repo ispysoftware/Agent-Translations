@@ -929,6 +929,7 @@
   "blockremoved": "Blokování bylo odstraněno",
   "broadcast": "Systém",
   "browserincompatible": "Použijte prosím jiný webový prohlížeč (doporučujeme Google Chrome)",
+  "browsernowebrtc": "WebRTC je v tomto webovém prohlížeči vypnut. Blokovat jej může VPN nebo rozšíření na ochranu soukromí.",
   "businessdetails": "Informace o společnosti",
   "buynow": "Koupit nyní",
   "cameracredentials": "Přihlašovací údaje ke kameře",

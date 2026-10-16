@@ -929,6 +929,7 @@
   "blockremoved": "Blok verwijderd",
   "broadcast": "Systeem",
   "browserincompatible": "Gebruik een recente versie van Firefox, Chrome of Edge",
+  "browsernowebrtc": "WebRTC is uitgeschakeld in deze webbrowser. Een VPN of privacyextensie blokkeert dit mogelijk.",
   "businessdetails": "Bedrijfsgegevens",
   "buynow": "Nu kopen",
   "cameracredentials": "Camera-inloggegevens",

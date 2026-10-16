@@ -929,6 +929,7 @@
   "blockremoved": "Блакіроўка знята",
   "broadcast": "Сістэма",
   "browserincompatible": "Скарыстайцеся апошняй версіяй Firefox, Chrome або Edge",
+  "browsernowebrtc": "WebRTC адключаны ў гэтым вэб-браўзеры. VPN або пашырэнне прыватнасці можа блакаваць яго.",
   "businessdetails": "Звесткі пра арганізацыю",
   "buynow": "Купіць зараз",
   "cameracredentials": "Даныя карыстальніка камеры",

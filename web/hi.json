@@ -929,6 +929,7 @@
   "blockremoved": "ब्लॉक हटा दिया गया",
   "broadcast": "सिस्टम",
   "browserincompatible": "कृपया फ़ायरफॉक्स, क्रोम या एज की हालिया संस्करण का उपयोग करें",
+  "browsernowebrtc": "इस वेब ब्राउज़र में WebRTC बंद है। एक VPN या गोपनीयता एक्सटेंशन इसे ब्लॉक कर रहा हो सकता है।",
   "businessdetails": "व्यापार विवरण",
   "buynow": "अभी खरीदें",
   "cameracredentials": "कैमरा लॉगिन",

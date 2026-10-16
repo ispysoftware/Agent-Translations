@@ -929,6 +929,7 @@
   "blockremoved": "Blockering borttagen",
   "broadcast": "System",
   "browserincompatible": "Använd en nyare version av Firefox, Chrome eller Edge",
+  "browsernowebrtc": "WebRTC är inaktiverat i denna webbläsare. Ett VPN eller tillägg för sekretess kan blockera det.",
   "businessdetails": "Företagsinformation",
   "buynow": "Köp nu",
   "cameracredentials": "Inloggning för kamera",

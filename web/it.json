@@ -929,6 +929,7 @@
   "blockremoved": "Blocco rimosso",
   "broadcast": "Sistema",
   "browserincompatible": "Utilizzare una versione recente di Firefox, Chrome o Edge",
+  "browsernowebrtc": "WebRTC è disattivato in questo browser web. Una VPN o un'estensione per la privacy potrebbe bloccarlo.",
   "businessdetails": "Dettagli aziendali",
   "buynow": "Acquista ora",
   "cameracredentials": "Accesso telecamera",

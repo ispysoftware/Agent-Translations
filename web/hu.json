@@ -929,6 +929,7 @@
   "blockremoved": "Blokkolás eltávolítva",
   "broadcast": "Rendszer",
   "browserincompatible": "Kérjük, használjon egy frissebb Firefox, Chrome vagy Edge verziót",
+  "browsernowebrtc": "A WebRTC ki van kapcsolva ebben a webböngészőben. Egy VPN vagy adatvédelmi bővítmény blokkolhatja.",
   "businessdetails": "Üzleti adatok",
   "buynow": "Vásárlás most",
   "cameracredentials": "Kamera bejelentkezési adatok",

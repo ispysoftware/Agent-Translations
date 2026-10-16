@@ -929,6 +929,7 @@
   "blockremoved": "بلاک حذف شد",
   "broadcast": "سیستم",
   "browserincompatible": "لطفاً از مرورگر دیگری استفاده کنید (پیشنهاد ما Google Chrome است)",
+  "browsernowebrtc": "WebRTC در این مرورگر وب خاموش است. یک VPN یا افزونه حریم خصوصی ممکن است آن را مسدود کرده باشد.",
   "businessdetails": "جزئیات کسب‌وکار",
   "buynow": "همین حالا بخرید",
   "cameracredentials": "ورود به دوربین",

@@ -929,6 +929,7 @@
   "blockremoved": "Blok kaldırıldı",
   "broadcast": "Sistem",
   "browserincompatible": "Lütfen Firefox, Chrome veya Edge'in son sürümünü kullanın",
+  "browsernowebrtc": "WebRTC bu web tarayıcısında kapalıdır. Bir VPN veya gizlilik uzantısı bunu engelliyor olabilir.",
   "businessdetails": "İşletme detayları",
   "buynow": "Şimdi satın al",
   "cameracredentials": "Kamera girişi",

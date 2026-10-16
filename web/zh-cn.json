@@ -929,6 +929,7 @@
   "blockremoved": "已移除阻止项",
   "broadcast": "系统",
   "browserincompatible": "请使用最新版本的 Firefox、Chrome 或 Edge",
+  "browsernowebrtc": "WebRTC 在此 Web 浏览器中已关闭。VPN 或隐私扩展程序可能阻止了它。",
   "businessdetails": "业务详情",
   "buynow": "立即购买",
   "cameracredentials": "摄像头登录",

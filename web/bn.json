@@ -929,6 +929,7 @@
   "blockremoved": "ব্লক সরানো হয়েছে",
   "broadcast": "সিস্টেম",
   "browserincompatible": "অনুগ্রহ করে অন্য একটি ওয়েব ব্রাউজার ব্যবহার করুন (আমরা Google Chrome ব্যবহারের পরামর্শ দিচ্ছি)",
+  "browsernowebrtc": "WebRTC এই ওয়েব ব্রাউজারে বন্ধ রয়েছে। একটি VPN বা গোপনীয়তা এক্সটেনশন এটিকে ব্লক করতে পারে।",
   "businessdetails": "ব্যবসায়িক বিবরণ",
   "buynow": "এখনই কিনুন",
   "cameracredentials": "ক্যামেরা লগইন",

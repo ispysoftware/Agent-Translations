@@ -929,6 +929,7 @@
   "blockremoved": "Blokir Dihapus",
   "broadcast": "Sistem",
   "browserincompatible": "Harap gunakan versi terbaru Firefox, Chrome atau Edge",
+  "browsernowebrtc": "WebRTC dinonaktifkan di browser web ini. VPN atau ekstensi privasi mungkin memblokir WebRTC.",
   "businessdetails": "Detail Bisnis",
   "buynow": "Beli Sekarang",
   "cameracredentials": "Login Kamera",

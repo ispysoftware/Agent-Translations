@@ -929,6 +929,7 @@
   "blockremoved": "Блокування видалено",
   "broadcast": "Система",
   "browserincompatible": "Будь ласка, використовуйте останню версію Firefox, Chrome або Edge",
+  "browsernowebrtc": "WebRTC вимкнено у цьому веббраузері. VPN або розширення приватності може його блокувати.",
   "businessdetails": "Дані компанії",
   "buynow": "Купити зараз",
   "cameracredentials": "Вхід для камери",

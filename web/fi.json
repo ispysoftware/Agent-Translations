@@ -929,6 +929,7 @@
   "blockremoved": "Estetty poistettu",
   "broadcast": "Järjestelmä",
   "browserincompatible": "Käytä viimeisintä versiota Firefoxista, Chromesta tai Edgesta",
+  "browsernowebrtc": "WebRTC on poistettu käytöstä tässä web-selaimessa. VPN tai tietosuojalaajennus saattaa estää sen.",
   "businessdetails": "Yritystiedot",
   "buynow": "Osta nyt",
   "cameracredentials": "Kameran kirjautumistiedot",

@@ -929,6 +929,7 @@
   "blockremoved": "차단 해제됨",
   "broadcast": "시스템",
   "browserincompatible": "최신 버전의 Firefox, Chrome 또는 Edge를 사용하세요",
+  "browsernowebrtc": "이 웹 브라우저에서 WebRTC가 꺼져 있습니다. VPN 또는 개인정보 보호 확장 프로그램이 이를 차단하고 있을 수 있습니다.",
   "businessdetails": "사업자 정보",
   "buynow": "지금 구매하기",
   "cameracredentials": "카메라 로그인",

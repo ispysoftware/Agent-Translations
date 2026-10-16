@@ -929,6 +929,7 @@
   "blockremoved": "Block Removed",
   "broadcast": "System",
   "browserincompatible": "Please use a recent version of Firefox, Chrome or Edge",
+  "browsernowebrtc": "WebRTC is turned off in this web browser. A VPN or privacy extension may be blocking it.",
   "businessdetails": "Business Details",
   "buynow": "Buy Now",
   "cameracredentials": "Camera Login",

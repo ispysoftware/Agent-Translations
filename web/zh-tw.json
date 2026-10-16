@@ -929,6 +929,7 @@
   "blockremoved": "已移除封鎖",
   "broadcast": "系統",
   "browserincompatible": "請使用最新版本的 Firefox、Chrome 或 Edge",
+  "browsernowebrtc": "WebRTC 在此網頁瀏覽器中已關閉。VPN 或隱私擴充程式可能正在阻止它。",
   "businessdetails": "公司詳細資訊",
   "buynow": "立即購買",
   "cameracredentials": "攝影機登入",

@@ -929,6 +929,7 @@
   "blockremoved": "Blok fjernet",
   "broadcast": "System",
   "browserincompatible": "Brug venligst en nyere version af Firefox, Chrome eller Edge",
+  "browsernowebrtc": "WebRTC er slået fra i denne webbrowser. Et VPN eller en privatlivs-udvidelse blokerer muligvis det.",
   "businessdetails": "Virksomhedsoplysninger",
   "buynow": "Køb nu",
   "cameracredentials": "Login til kamera",

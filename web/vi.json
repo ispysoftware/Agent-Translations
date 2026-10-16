@@ -929,6 +929,7 @@
   "blockremoved": "Đã xóa chặn",
   "broadcast": "Hệ thống",
   "browserincompatible": "Vui lòng sử dụng phiên bản mới nhất của Firefox, Chrome hoặc Edge",
+  "browsernowebrtc": "WebRTC bị tắt trong trình duyệt web này. VPN hoặc tiện ích bảo mật có thể đang chặn nó.",
   "businessdetails": "Chi tiết doanh nghiệp",
   "buynow": "Mua ngay",
   "cameracredentials": "Đăng nhập camera",

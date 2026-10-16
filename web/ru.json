@@ -929,6 +929,7 @@
   "blockremoved": "Блокировка удалена",
   "broadcast": "Система",
   "browserincompatible": "Пожалуйста, используйте последнюю версию Firefox, Chrome или Edge",
+  "browsernowebrtc": "WebRTC отключен в этом веб-браузере. Возможно, его блокирует VPN или расширение конфиденциальности.",
   "businessdetails": "Данные компании",
   "buynow": "Купить сейчас",
   "cameracredentials": "Данные для входа в камеру",
