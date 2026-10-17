@@ -31,7 +31,13 @@ def pick_model(lang_code, cli_model):
 
 # Top-level keys that must NEVER be sent to the LLM.
 # They are set explicitly from the LANGUAGES table below.
+# Only in the app schema (the file has a "culturecode"): in web files a top-level
+# "name" is the ordinary "Name" field label and must be translated like any other key.
 IMMUTABLE_KEYS = {"culturecode", "name"}
+
+
+def is_immutable(data, key):
+    return key in IMMUTABLE_KEYS and "culturecode" in data
 
 # Keys whose reviewed value INTENTIONALLY equals the English (feature names,
 # terms kept in English on purpose). Normally an English-identical value is
@@ -66,7 +72,7 @@ LANGUAGES = {
     "pl": ("Polish", "Polski"),
     "pt": ("Brazilian Portuguese", "Português"),
     "ru": ("Russian", "Русский"),
-    "sr-latn": ("Serbian (Latin script, Ijekavian dialect)", "Srpski (latinica, ijekavica)"),
+    "sr": ("Serbian (Latin script, Ijekavian dialect)", "Srpski"),
     "sv": ("Swedish", "Svenska"),
     "tr": ("Turkish", "Türkçe"),
     "uk": ("Ukrainian", "українська"),
@@ -111,7 +117,7 @@ def collect_translatable(data):
     refs = []
     if isinstance(data, dict):
         for k, v in data.items():
-            if k in IMMUTABLE_KEYS:
+            if is_immutable(data, k):
                 continue
             if isinstance(v, str):
                 refs.append((data, k, v))
@@ -128,7 +134,7 @@ def collect_paths(data, prefix=(), out=None, top=True):
         out = {}
     if isinstance(data, dict):
         for k, v in data.items():
-            if top and k in IMMUTABLE_KEYS:
+            if top and is_immutable(data, k):
                 continue
             if isinstance(v, str):
                 out[prefix + (k,)] = v
@@ -387,8 +393,8 @@ def translate_language(lang_code, args):
     if isinstance(source_json, dict):
         if "culturecode" in source_json:
             source_json["culturecode"] = lang_code
-        if "name" in source_json and native_name:
-            source_json["name"] = native_name
+            if "name" in source_json and native_name:
+                source_json["name"] = native_name
 
     # Only collect strings outside the immutable top-level keys
     string_references = collect_translatable(source_json)
