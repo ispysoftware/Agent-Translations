@@ -66,6 +66,7 @@ LANGUAGES = {
     "pl": ("Polish", "Polski"),
     "pt": ("Brazilian Portuguese", "Português"),
     "ru": ("Russian", "Русский"),
+    "sr-latn": ("Serbian (Latin script, Ijekavian dialect)", "Srpski (latinica, ijekavica)"),
     "sv": ("Swedish", "Svenska"),
     "tr": ("Turkish", "Türkçe"),
     "uk": ("Ukrainian", "українська"),
