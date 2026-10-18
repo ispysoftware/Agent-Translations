@@ -2051,6 +2051,7 @@
     "pushchannel_help": "Loại thông báo (chỉ áp dụng cho Android)",
     "raw live": "Luồng trực tiếp thô: Sử dụng ít CPU",
     "raw record": "Luồng ghi thô: Sử dụng ít CPU",
+    "rawrecordblurwarning": "Camera này lưu trữ luồng video chính xác như camera gửi, vì vậy <b>làm mờ AI không được áp dụng cho các bản ghi</b> - các đối tượng, khuôn mặt và biển số bị làm mờ sẽ hiển thị hoàn toàn trong các bản ghi hình. Chế độ xem trực tiếp vẫn bị làm mờ dù sao. Để làm mờ các bản ghi cũng vậy, hãy đặt <b>Bộ mã hóa</b> dưới đây thành một trong các tùy chọn Mã hóa.",
     "rawrecordmaskwarning": "Máy ảnh này lưu trữ luồng video chính xác như máy ảnh gửi, vì vậy <b>mặt nạ bảo mật không được áp dụng cho các bản ghi</b> - các vùng bị che sẽ hiển thị đầy đủ trong video được ghi. Chế độ xem trực tiếp vẫn bị che sẽ như vậy. Để che các bản ghi cũng vậy, hãy đặt <b>Encoder</b> dưới đây thành một trong các tùy chọn Encode.",
     "reasonbusinessnote2": "Vì bạn có giấy phép vĩnh viễn, bạn có thể chuyển tiếp cổng máy chủ này hoặc sử dụng VPN để truy cập trực tiếp thay thế",
     "reasonremovefromserver": "Đang xóa máy chủ khỏi tài khoản trực tuyến",

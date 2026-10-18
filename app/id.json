@@ -2051,6 +2051,7 @@
     "pushchannel_help": "Tipe notifikasi (hanya berlaku untuk Android)",
     "raw live": "Raw Live Stream: Penggunaan CPU rendah",
     "raw record": "Raw Record Stream: Penggunaan CPU rendah",
+    "rawrecordblurwarning": "Kamera ini menyimpan streaming video persis seperti yang dikirimkan kamera, jadi <b>blur AI tidak diterapkan pada rekaman</b> - objek, wajah, dan plat yang kabur akan sepenuhnya terlihat dalam rekaman. Tampilan langsung tetap kabur bagaimanapun juga. Untuk mengaburkan rekaman juga, atur <b>Encoder</b> di bawah ke salah satu opsi Encode.",
     "rawrecordmaskwarning": "Kamera ini menyimpan aliran video persis seperti yang dikirim kamera, sehingga <b>masker privasi tidak diterapkan pada rekaman</b> - area yang disamarkan akan sepenuhnya terlihat dalam video yang direkam. Tampilan langsung tetap tersembunyi bagaimanapun juga. Untuk menyamarkan rekaman juga, atur <b>Encoder</b> di bawah ke salah satu opsi Encode.",
     "reasonbusinessnote2": "Karena Anda memiliki lisensi permanen, Anda dapat melakukan port forward pada server ini atau menggunakan VPN dan mengaksesnya secara langsung sebagai gantinya",
     "reasonremovefromserver": "Menghapus server dari akun online",

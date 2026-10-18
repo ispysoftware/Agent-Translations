@@ -2051,6 +2051,7 @@
     "pushchannel_help": "Typ powiadomienia (dotyczy tylko systemu Android)",
     "raw live": "Surowy strumień na żywo: niskie użycie CPU",
     "raw record": "Surowy strumień nagrywania: niskie użycie CPU",
+    "rawrecordblurwarning": "Ten aparat przechowuje strumień wideo dokładnie tak, jak go wysyła aparat, dlatego <b>rozmycie AI nie jest stosowane do nagrań</b> - rozmyte obiekty, twarze i tablice rejestracyjne będą w pełni widoczne w nagranym materiale. Podgląd na żywo pozostaje rozmyty w każdym przypadku. Aby rozmyć również nagrania, ustaw poniżej <b>Enkoder</b> na jedną z opcji kodowania.",
     "rawrecordmaskwarning": "Ten aparat przechowuje strumień wideo dokładnie tak, jak go wysyła aparat, dlatego <b>maska prywatności nie jest stosowana do nagrań</b> - zamaskowane obszary będą w pełni widoczne w nagranym materiale. Podgląd na żywo pozostaje zamasowany w każdym przypadku. Aby zamasować również nagrania, ustaw <b>Encoder</b> poniżej na jedną z opcji kodowania.",
     "reasonbusinessnote2": "Ponieważ posiadasz licencję wieczystą, możesz przekierować porty tego serwera lub użyć VPN i uzyskać do niego bezpośredni dostęp",
     "reasonremovefromserver": "Usuwanie serwera z konta online",

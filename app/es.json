@@ -2051,6 +2051,7 @@
     "pushchannel_help": "Tipo de notificación (solo se aplica a Android)",
     "raw live": "Stream en vivo directo: bajo uso de CPU",
     "raw record": "Stream de grabación directo: bajo uso de CPU",
+    "rawrecordblurwarning": "Esta cámara almacena la secuencia de vídeo exactamente como la envía la cámara, por lo que <b>el desenfoque de IA no se aplica a las grabaciones</b> - los objetos, rostros y placas desenfocados serán completamente visibles en el vídeo grabado. La vista en directo permanece desenfocada de cualquier forma. Para desenfocar también las grabaciones, establezca <b>Codificador</b> a continuación en una de las opciones de codificación.",
     "rawrecordmaskwarning": "Esta cámara almacena la transmisión de video exactamente como la envía la cámara, por lo que la <b>máscara de privacidad no se aplica a las grabaciones</b> - las áreas enmascaradas serán completamente visibles en el metraje grabado. La vista en vivo permanece enmascarada de cualquier manera. Para enmascarar también las grabaciones, configure <b>Encoder</b> a continuación en una de las opciones de codificación.",
     "reasonbusinessnote2": "Al tener una licencia perpetua, puede realizar un redireccionamiento de puertos en este servidor o usar una VPN para acceder directamente",
     "reasonremovefromserver": "Eliminando el servidor de la cuenta online",

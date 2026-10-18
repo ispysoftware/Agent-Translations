@@ -2051,6 +2051,7 @@
     "pushchannel_help": "Tip obavještenja (važi samo za Android)",
     "raw live": "Sirovi stream uživo: malo opterećenje procesora",
     "raw record": "Sirovi stream snimanja: malo opterećenje procesora",
+    "rawrecordblurwarning": "Ova kamera čuva video tok tačno onako kako ga kamera šalje, pa se <b>AI zamućenje ne primjenjuje na snimke</b> - zamućeni objekti, lica i registarske tablice biće potpuno vidljivi u snimljenom materijalu. Prikaz uživo ostaje zamućen u oba slučaja. Da biste zamutili i snimke, postavite <b>Koder</b> ispod na jednu od opcija kodiranja.",
     "rawrecordmaskwarning": "Ova kamera čuva video stream tačno onako kako ga kamera šalje, pa se <b>maska privatnosti ne primjenjuje na snimke</b> - maskirane oblasti biće potpuno vidljive u snimljenom materijalu. Prikaz uživo ostaje maskiran u oba slučaja. Da biste maskirali i snimke, postavite <b>Koder</b> ispod na jednu od opcija kodiranja.",
     "reasonbusinessnote2": "Pošto imate trajnu licencu, možete preusmjeriti port ovog servera ili koristiti VPN i pristupati mu direktno",
     "reasonremovefromserver": "Uklanjanje servera sa naloga na mreži",

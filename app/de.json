@@ -2051,6 +2051,7 @@
     "pushchannel_help": "Art der Benachrichtigung (gilt nur für Android)",
     "raw live": "Roh-Live-Stream: Niedrige CPU-Auslastung",
     "raw record": "Roh-Aufnahmestream: Niedrige CPU-Auslastung",
+    "rawrecordblurwarning": "Diese Kamera speichert den Videostrom genau so, wie die Kamera ihn sendet, daher <b>wird die KI-Unschärfe nicht auf Aufnahmen angewendet</b> - unscharfe Objekte, Gesichter und Kennzeichen sind in der aufgezeichneten Aufnahme vollständig sichtbar. Die Live-Ansicht bleibt sowieso unscharf. Um Aufnahmen ebenfalls unscharf zu machen, stellen Sie <b>Encoder</b> unten auf eine der Codierungsoptionen ein.",
     "rawrecordmaskwarning": "Diese Kamera speichert den Videostrom genau so, wie die Kamera ihn sendet, daher wird <b>die Datenschutzmaske nicht auf Aufnahmen angewendet</b> - maskierte Bereiche sind in aufgezeichnetem Material vollständig sichtbar. Die Live-Ansicht bleibt in jedem Fall maskiert. Um auch Aufnahmen zu maskieren, stellen Sie <b>Encoder</b> unten auf eine der Encode-Optionen ein.",
     "reasonbusinessnote2": "Da Sie eine unbefristete Lizenz besitzen, können Sie diesen Server per Portweiterleitung oder über ein VPN direkt zugänglich machen",
     "reasonremovefromserver": "Server wird aus dem Online-Konto entfernt",

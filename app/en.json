@@ -2051,6 +2051,7 @@
     "pushchannel_help": "Type of notification (applies to Android only)",
     "raw live": "Raw Live Stream: Low CPU usage",
     "raw record": "Raw Record Stream: Low CPU usage",
+    "rawrecordblurwarning": "This camera stores the video stream exactly as the camera sends it, so <b>AI blur is not applied to recordings</b> - blurred objects, faces and plates will be fully visible in recorded footage. The live view stays blurred either way. To blur recordings as well, set <b>Encoder</b> below to one of the Encode options.",
     "rawrecordmaskwarning": "This camera stores the video stream exactly as the camera sends it, so the <b>privacy mask is not applied to recordings</b> - masked areas will be fully visible in recorded footage. The live view stays masked either way. To mask recordings as well, set <b>Encoder</b> below to one of the Encode options.",
     "reasonbusinessnote2": "As you have a perpetual license you can port forward this server or use a VPN and access it directly instead",
     "reasonremovefromserver": "Removing server from online account",

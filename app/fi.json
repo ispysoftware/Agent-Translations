@@ -2051,6 +2051,7 @@
     "pushchannel_help": "Ilmoitustyyppi (koskee vain Androidia)",
     "raw live": "Raaka suora lähetys: Matala CPU-kuormitus",
     "raw record": "Raaka tallennusvirta: Matala CPU-kuormitus",
+    "rawrecordblurwarning": "Tämä kamera tallentaa videovirran täsmälleen sellaisena kuin kamera sen lähettää, joten <b>tekoälysumennusta ei sovelleta tallenteisiin</b> - sumennetut kohteet, kasvot ja rekisterikilvet näkyvät tallennetussa materiaalissa kokonaan. Suora kuva pysyy sumennettuna joka tapauksessa. Jos haluat sumentaa myös tallenteet, aseta alla oleva <b>Kooderi</b> johonkin Koodaa-vaihtoehdoista.",
     "rawrecordmaskwarning": "Tämä kamera tallentaa videovirran täsmälleen kuten kamera sen lähettää, joten <b>yksityisyyden peite ei ole käytössä tallennuksissa</b> - peitettävät alueet näkyvät täysin tallentuneen materiaalin sisällä. Suora lähetys pysyy peitettynä joka tapauksessa. Jos haluat peittää myös tallennukset, aseta <b>Encoder</b> alla johonkin Encode-vaihtoehdoista.",
     "reasonbusinessnote2": "Koska sinulla on pysyvä lisenssi, voit käyttää porttiojausta tälle palvelimelle tai käyttää VPN:ää ja käyttää sitä suoraan",
     "reasonremovefromserver": "Palvelimen poistaminen verkkotililtä",

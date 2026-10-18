@@ -2051,6 +2051,7 @@
     "pushchannel_help": "Értesítés típusa (csak Androidra vonatkozik)",
     "raw live": "Nyers élő adás: Alacsony CPU-használat",
     "raw record": "Nyers rögzített adás: Alacsony CPU-használat",
+    "rawrecordblurwarning": "Ez a kamera a videófolyamot pontosan úgy tárolja, ahogy a kamera küldi, így <b>a mesterséges intelligencia alapú elmosás nem kerül alkalmazásra a felvételekre</b> - az elmosott objektumok, arcok és rendszámok a rögzített felvételben teljesen láthatóak lesznek. Az élő nézet mindenesetre elmosva marad. A felvételek elmosásához állítsa az alábbi <b>Kódoló</b> beállítást a Kódolás lehetőségek egyikére.",
     "rawrecordmaskwarning": "Ez a kamera a videófolyamot pontosan úgy tárolja, ahogy a kamera küldi, ezért az <b>adatvédelmi maszk nem kerül alkalmazásra a felvételekre</b> - a maszkolált területek teljesen láthatóak lesznek a rögzített felvételeken. Az élő nézet mindenképpen maszkolva marad. A felvételek maszkolásához is állítsa az alábbi <b>Encoder</b> beállítást az egyik Encode opcióra.",
     "reasonbusinessnote2": "Mivel örökös licenccel rendelkezik, átirányíthatja ezt a szervert, vagy használhat VPN-t a közvetlen hozzáféréshez",
     "reasonremovefromserver": "Szerver eltávolítása az online fiókból",

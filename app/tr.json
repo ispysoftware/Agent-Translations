@@ -2051,6 +2051,7 @@
     "pushchannel_help": "Bildirim türü (yalnızca Android için geçerlidir)",
     "raw live": "Ham Canlı Akış: Düşük CPU kullanımı",
     "raw record": "Ham Kayıt Akışı: Düşük CPU kullanımı",
+    "rawrecordblurwarning": "Bu kamera, video akışını kamera tarafından gönderilen şekliyle saklı tuttuğundan, <b>AI bulanıklığı kayıtlara uygulanmaz</b> - bulanıklaştırılan nesneler, yüzler ve plakalar kaydedilen görüntüde tamamen görünür olacaktır. Canlı görünüm her halükarda bulanık kalır. Kayıtları da bulanıklaştırmak için aşağıdaki <b>Kodlayıcı</b> ayarını Kodlama seçeneklerinden birine ayarlayın.",
     "rawrecordmaskwarning": "Bu kamera, video akışını kamera tarafından gönderildiği şekilde depoladığından, <b>gizlilik maskesi kayıtlara uygulanmaz</b> - maskelenen alanlar kaydedilen görüntülerde tamamen görünür olacaktır. Canlı görünüm her iki durumda da maskelenmiş kalır. Kayıtları da maskelemek için aşağıdaki <b>Encoder</b> seçeneğini Encode seçeneklerinden birine ayarlayın.",
     "reasonbusinessnote2": "Sürekli bir lisansınız olduğu için bu sunucuya port yönlendirebilir veya bunun yerine bir VPN kullanarak doğrudan erişebilirsiniz",
     "reasonremovefromserver": "Sunucunun çevrimiçi hesaptan kaldırılması",

@@ -2051,6 +2051,7 @@
     "pushchannel_help": "Type af meddelelse (gælder kun Android)",
     "raw live": "Raw live stream: Lav CPU-brug",
     "raw record": "Raw optagelsesstream: Lav CPU-brug",
+    "rawrecordblurwarning": "Dette kamera lagrer videostreamen nøjagtigt som kameraet sender den, så <b>AI-sløring anvendes ikke på optagelser</b> - slørede objekter, ansigter og nummerplader vil være fuldt synlige i optagelser. Livevisningen forbliver sløret uanset hvad. Hvis du også vil sløre optagelser, skal du indstille <b>Encoder</b> nedenfor til en af Encode-indstillingerne.",
     "rawrecordmaskwarning": "Dette kamera gemmer videostrømmen præcis som kameraet sender den, så <b>privatlivsmaskering er ikke anvendt på optagelser</b> - maskerede områder vil være fuldt synlige i optaget materiale. Livevisningen forbliver maskeret uanset hvad. For at maskere optagelser også, skal du indstille <b>Encoder</b> nedenfor til en af Encode-indstillingerne.",
     "reasonbusinessnote2": "Da du har en evigvarende licens, kan du portforwarde denne server eller bruge en VPN og tilgå den direkte i stedet",
     "reasonremovefromserver": "Fjerner server fra onlinekonto",

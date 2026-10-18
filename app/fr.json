@@ -2051,6 +2051,7 @@
     "pushchannel_help": "Type de notification (s'applique à Android uniquement)",
     "raw live": "Flux direct brut : faible utilisation du CPU",
     "raw record": "Flux d'enregistrement brut : faible utilisation du CPU",
+    "rawrecordblurwarning": "Cette caméra enregistre le flux vidéo exactement tel que la caméra l'envoie, donc <b>le flou IA n'est pas appliqué aux enregistrements</b> - les objets floutés, les visages et les plaques seront entièrement visibles dans les séquences enregistrées. La vue en direct reste floutée de toute façon. Pour flouter aussi les enregistrements, réglez <b>Encodeur</b> ci-dessous sur l'une des options d'encodage.",
     "rawrecordmaskwarning": "Cette caméra enregistre le flux vidéo exactement comme la caméra l'envoie, donc <b>le masque de confidentialité n'est pas appliqué aux enregistrements</b> - les zones masquées seront entièrement visibles dans les vidéos enregistrées. La vue en direct reste masquée de toute façon. Pour masquer aussi les enregistrements, définissez <b>Encoder</b> ci-dessous sur l'une des options d'encodage.",
     "reasonbusinessnote2": "Comme vous possédez une licence perpétuelle, vous pouvez rediriger les ports de ce serveur ou utiliser un VPN pour y accéder directement à la place",
     "reasonremovefromserver": "Suppression du serveur du compte en ligne",
