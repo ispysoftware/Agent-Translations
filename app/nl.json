@@ -75,7 +75,7 @@
     "analyticsalert.test": "test",
     "analyticsalert.zone": "Zone",
     "analyticsalsoenabled": "Analytics is ook ingeschakeld op deze camera, wat AI-belasting toevoegt",
-    "analyticsnomotionwarning": "Er draait geen bewegingsdetector op deze camera, dus Analyse kan niet vertragen wanneer er niets beweegt en gebruikt meer CPU. Stel er een in op het tabblad Detector",
+    "analyticsnomotionwarning": "Analyse kan alleen vertragen terwijl niets beweegt wanneer deze camera's detector Eenvoudig of Bijhouden is, dus gebruikt het meer CPU. Stel er een in op het tabblad Detector",
     "analyticsreferencecameraoff": "De camera moet aan zijn, met analyses actief, om een referentieafbeelding vast te leggen",
     "analyticsreferencenone": "Nog geen referentieafbeelding. Er wordt één gemaakt van de cameraafbeelding wanneer deze actief is en analyses worden uitgevoerd",
     "analyticsreferenceuse": "Heatmaps en paden worden in gemailde rapporten over deze afbeelding getekend, en wanneer de camera offline is",

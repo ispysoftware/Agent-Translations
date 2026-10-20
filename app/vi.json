@@ -75,7 +75,7 @@
     "analyticsalert.test": "thử nghiệm",
     "analyticsalert.zone": "Vùng",
     "analyticsalsoenabled": "Phân tích cũng được bật trên camera này, điều này làm tăng tải AI",
-    "analyticsnomotionwarning": "Không có bộ dò chuyển động nào đang chạy trên camera này, vì vậy Phân tích không thể giảm tốc độ khi không có gì chuyển động và sử dụng nhiều CPU hơn. Hãy thiết lập một bộ dò trên tab Bộ dò",
+    "analyticsnomotionwarning": "Phân tích chỉ có thể chậm lại khi không có chuyển động nào xảy ra nếu bộ dò của camera này được đặt thành Đơn giản hoặc Theo dõi, vì vậy nó sử dụng nhiều CPU hơn. Đặt một cái trên tab Bộ dò",
     "analyticsreferencecameraoff": "Camera phải bật và phân tích đang chạy để chụp ảnh tham chiếu",
     "analyticsreferencenone": "Chưa có hình ảnh tham chiếu. Một hình sẽ được lấy từ hình ảnh của camera khi camera bật và phân tích đang chạy",
     "analyticsreferenceuse": "Bản đồ nhiệt và đường di chuyển được vẽ lên hình ảnh này trong báo cáo gửi qua email và khi camera ngoại tuyến",

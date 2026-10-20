@@ -75,7 +75,7 @@
     "analyticsalert.test": "Test",
     "analyticsalert.zone": "Zone",
     "analyticsalsoenabled": "Analytik ist auch auf dieser Kamera aktiviert, was AI-Auslastung hinzufügt",
-    "analyticsnomotionwarning": "Auf dieser Kamera läuft keine Bewegungserkennung, daher kann die Analytik nicht langsamer arbeiten, wenn sich nichts bewegt, und verbraucht mehr CPU. Richten Sie eine auf der Registerkarte Detektor ein.",
+    "analyticsnomotionwarning": "Die Analytik kann nur langsamer arbeiten, solange sich nichts bewegt, wenn der Detektor dieser Kamera auf Einfach oder Verfolgung steht – daher verbraucht sie mehr CPU. Stellen Sie einen davon auf der Registerkarte Detektor ein.",
     "analyticsreferencecameraoff": "Die Kamera muss aktiviert sein und die Analyse muss ausgeführt werden, um ein Referenzbild aufzunehmen",
     "analyticsreferencenone": "Noch kein Referenzbild vorhanden. Eines wird vom Kamerabild aufgenommen, wenn die Kamera aktiv ist und die Analyse läuft",
     "analyticsreferenceuse": "Wärmekarten und Wege werden in E-Mail-Berichten und bei ausgeschalteter Kamera über dieses Bild gezeichnet",

@@ -75,7 +75,7 @@
     "analyticsalert.test": "测试",
     "analyticsalert.zone": "区域",
     "analyticsalsoenabled": "此摄像头上已启用分析，这增加了 AI 负载",
-    "analyticsnomotionwarning": "此摄像头上未运行移动探测器，因此分析无法在没有移动时减速，会消耗更多CPU。请在探测器标签页上设置一个",
+    "analyticsnomotionwarning": "只有当此摄像头的探测器为“简单”或“跟踪”时，分析才能在没有运动时减速，因此现在会使用更多CPU。请在探测器标签页中设置其中一个",
     "analyticsreferencecameraoff": "摄像头必须处于开启状态且分析正在运行，才能拍摄参考图像",
     "analyticsreferencenone": "还没有参考图像。当摄像头打开且分析正在运行时，会从摄像头的画面中取一张",
     "analyticsreferenceuse": "在通过电子邮件发送的报告中，以及摄像头离线时，热力图和移动路径会绘制在此图片上",

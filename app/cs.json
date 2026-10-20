@@ -75,7 +75,7 @@
     "analyticsalert.test": "test",
     "analyticsalert.zone": "Zóna",
     "analyticsalsoenabled": "Analýza je také povolena na této kameře, což zvyšuje zátěž AI",
-    "analyticsnomotionwarning": "Na této kameře neběží žádný detektor pohybu, takže funkce Analýza nemůže zpomalit, když se nic nehýbe, a spotřebovává více CPU. Nastavte jej na kartě Detektor",
+    "analyticsnomotionwarning": "Analýza může zpomalit, když se nic nepohybuje, pouze pokud je detektor této kamery nastaven na Jednoduché nebo Sledování, a proto teď využívá více CPU. Nastavte jeden z nich na kartě Detektor",
     "analyticsreferencecameraoff": "Kamera musí být zapnutá a analýza spuštěná, aby bylo možné pořídit referenční snímek",
     "analyticsreferencenone": "Zatím žádný referenční obrázek. Jeden se pořídí z obrazu kamery, když je zapnutá a analýza běží",
     "analyticsreferenceuse": "Heatmapy a cesty se kreslí přes tento obrázek v e-mailových zprávách a když je kamera offline",

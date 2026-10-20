@@ -75,7 +75,7 @@
     "analyticsalert.test": "prova",
     "analyticsalert.zone": "Zona",
     "analyticsalsoenabled": "L'analisi è abilitata anche su questa telecamera, il che aumenta il carico dell'IA",
-    "analyticsnomotionwarning": "Nessun rilevatore di movimento è in esecuzione su questa telecamera, quindi le Analitiche non possono rallentare mentre non c'è movimento e utilizzano più CPU. Configurane uno nella scheda Rilevatore",
+    "analyticsnomotionwarning": "Le Analitiche possono rallentare mentre nulla si muove solo se il Rilevatore di questa telecamera è Semplice o Tracciamento, quindi utilizzano più CPU. Impostane uno nella scheda Rilevatore",
     "analyticsreferencecameraoff": "La telecamera deve essere accesa, con l'analisi in esecuzione, per acquisire un'immagine di riferimento",
     "analyticsreferencenone": "Nessuna immagine di riferimento ancora. Una viene acquisita dall'immagine della telecamera quando è accesa e l'analisi è in esecuzione",
     "analyticsreferenceuse": "Le mappe di calore e i percorsi vengono disegnati su questa immagine nei rapporti inviati per email e quando la telecamera è offline",

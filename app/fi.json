@@ -75,7 +75,7 @@
     "analyticsalert.test": "testi",
     "analyticsalert.zone": "Vyöhyke",
     "analyticsalsoenabled": "Myös analyytiikka on käytössä tällä kameralla, mikä lisää tekoälyn kuormitusta",
-    "analyticsnomotionwarning": "Tällä kameralla ei ole käynnissä liikeilmaisinta, joten Analytiikka ei voi hidastua, kun mikään ei liiku, ja kuluttaa enemmän prosessoritehoa. Määritä liikeilmaisin Ilmaisin-välilehdellä",
+    "analyticsnomotionwarning": "Analytiikka voi hidastua, kun mikään ei liiku, vain jos tämän kameran ilmaisimena on Yksinkertainen tai Seuranta, joten se kuluttaa nyt enemmän prosessoritehoa. Valitse jompikumpi Ilmaisin-välilehdellä",
     "analyticsreferencecameraoff": "Kameran on oltava päällä ja analytiikan käynnissä, jotta vertailukuva voidaan ottaa",
     "analyticsreferencenone": "Ei vielä vertailukuvaa. Sellainen otetaan kameran kuvasta, kun kamera on päällä ja analytiikka on käynnissä",
     "analyticsreferenceuse": "Lämpökartat ja polut piirretään tälle kuvalle lähetetyissä raporteissa ja kun kamera on offline-tilassa",

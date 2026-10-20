@@ -75,7 +75,7 @@
     "analyticsalert.test": "テスト",
     "analyticsalert.zone": "ゾーン",
     "analyticsalsoenabled": "このカメラではアナリティクスも有効になっており、AI負荷が増加します",
-    "analyticsnomotionwarning": "このカメラではモーション検知器が動作していないため、動きがない間も分析の処理頻度を下げられず、CPU使用量が増えます。「検知器」タブで設定してください。",
+    "analyticsnomotionwarning": "動きのない間に分析の処理頻度を下げられるのは、このカメラの検知器が「シンプル」または「追跡」の場合だけです。そのため、現在はより多くのCPUを使用します。「検知器」タブでどちらかを設定してください。",
     "analyticsreferencecameraoff": "参照画像を撮影するには、カメラがオンで分析が実行中である必要があります",
     "analyticsreferencenone": "参照画像はまだありません。カメラがオンで分析が実行中の場合、カメラの画像から取得されます",
     "analyticsreferenceuse": "メールで送信されるレポート、およびカメラがオフラインのときは、ヒートマップと移動経路がこの画像の上に描画されます",

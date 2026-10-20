@@ -75,7 +75,7 @@
     "analyticsalert.test": "test",
     "analyticsalert.zone": "Zon",
     "analyticsalsoenabled": "Analys är också aktiverad på denna kamera, vilket ökar AI-belastningen",
-    "analyticsnomotionwarning": "Ingen rörelsedetektor körs på den här kameran, så Analys kan inte sakta ner när ingenting rör sig och använder mer CPU. Konfigurera en på fliken Detektor",
+    "analyticsnomotionwarning": "Analys kan bara sakta ner medan ingenting rör sig när den här kamerans detektor är Enkel eller Spårning, så den använder mer CPU. Ställ in en på fliken Detektor",
     "analyticsreferencecameraoff": "Kameran måste vara på, med analys aktiv, för att ta en referensbild",
     "analyticsreferencenone": "Ingen referensbild ännu. En tas från kamerans bild när den är på och analys körs",
     "analyticsreferenceuse": "Värmekartor och rörelsevägar ritas över den här bilden i e-postrapporter och när kameran är offline",

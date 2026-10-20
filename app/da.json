@@ -75,7 +75,7 @@
     "analyticsalert.test": "test",
     "analyticsalert.zone": "Zone",
     "analyticsalsoenabled": "Analytics er også aktiveret på dette kamera, som øger AI-belastningen",
-    "analyticsnomotionwarning": "Der kører ingen bevægelsesdetektor på dette kamera, så Analyse kan ikke sænke hastigheden, når der ikke er bevægelse, og bruger mere CPU. Konfigurér en på fanen Detektor",
+    "analyticsnomotionwarning": "Analyse kan kun sænke farten, mens der ikke bevæges noget, når dette kameras detektor er Simpel eller Sporing, så det bruger mere CPU. Angiv en på fanen Detektor",
     "analyticsreferencecameraoff": "Kameraet skal være tændt med analyser kørende for at tage et referencebillede",
     "analyticsreferencenone": "Intet referencebillede endnu. Et bliver taget fra kameraets billede, når det er tændt, og analyse kører",
     "analyticsreferenceuse": "Varmekort og stier tegnes over dette billede i mailte rapporter, og når kameraet er offline",

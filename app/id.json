@@ -75,7 +75,7 @@
     "analyticsalert.test": "uji coba",
     "analyticsalert.zone": "Zona",
     "analyticsalsoenabled": "Analitik juga diaktifkan pada kamera ini, yang menambah beban AI",
-    "analyticsnomotionwarning": "Tidak ada detektor gerakan yang berjalan pada kamera ini, jadi Analitik tidak dapat melambat saat tidak ada gerakan dan menggunakan lebih banyak CPU. Atur satu di tab Detektor",
+    "analyticsnomotionwarning": "Analitik hanya dapat melambat saat tidak ada gerakan ketika detektor kamera ini adalah Sederhana atau Pelacakan, sehingga menggunakan lebih banyak CPU. Atur salah satu di tab Detektor",
     "analyticsreferencecameraoff": "Kamera harus dalam keadaan aktif dengan analitik berjalan untuk mengambil gambar referensi",
     "analyticsreferencenone": "Belum ada gambar referensi. Satu gambar diambil dari gambar kamera saat kamera menyala dan analitik berjalan",
     "analyticsreferenceuse": "Peta panas dan jalur digambar di atas gambar ini dalam laporan yang dikirim email, dan ketika kamera sedang luring",

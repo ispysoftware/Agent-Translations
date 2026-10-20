@@ -75,7 +75,7 @@
     "analyticsalert.test": "teszt",
     "analyticsalert.zone": "Zóna",
     "analyticsalsoenabled": "Az elemzés is engedélyezve van ezen a kamerán, amely mesterséges intelligencia terhelést ad hozzá",
-    "analyticsnomotionwarning": "Ezen a kamerán nem fut mozgásérzékelő, ezért az Elemzés nem tudja lelassítani magát, amikor semmi sem mozog, és több CPU-t használ. Állítson be egyet az Érzékelő lapon.",
+    "analyticsnomotionwarning": "Az Elemzés csak akkor lassulhat le, amikor semmi sem mozog, ha ennek a kamerának az Érzékelője Egyszerű vagy Követés módban van, ezért több CPU-erőforrást használ. Állítson be egyet az Érzékelő lapon",
     "analyticsreferencecameraoff": "A kamerának be kell lennie kapcsolva, az analitikának futnia kell, hogy referencia képet tudjunk készíteni",
     "analyticsreferencenone": "Még nincs referenciakép. Egy kép készül a kamera képéből, amikor az be van kapcsolva és az analitika fut",
     "analyticsreferenceuse": "A hőtérképek és útvonalak erre a képre kerülnek rajzolásra az e-mailben küldött jelentésekben, valamint amikor a kamera offline állapotban van",
