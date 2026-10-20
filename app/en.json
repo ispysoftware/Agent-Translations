@@ -75,6 +75,7 @@
     "analyticsalert.test": "test",
     "analyticsalert.zone": "Zone",
     "analyticsalsoenabled": "Analytics is also enabled on this camera, which adds AI load",
+    "analyticsnomotionwarning": "No motion detector is running on this camera, so Analytics can't slow down while nothing is moving and uses more CPU. Set one up on the Detector tab",
     "analyticsreferencecameraoff": "The camera must be on, with analytics running, to take a reference image",
     "analyticsreferencenone": "No reference image yet. One is taken from the camera's picture when it is on and analytics is running",
     "analyticsreferenceuse": "Heatmaps and paths are drawn over this picture in emailed reports, and when the camera is offline",

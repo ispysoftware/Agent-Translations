@@ -75,6 +75,7 @@
     "analyticsalert.test": "test",
     "analyticsalert.zone": "Zona",
     "analyticsalsoenabled": "Analitika je takođe uključena na ovoj kameri, što povećava AI opterećenje",
+    "analyticsnomotionwarning": "Nema detektora kretanja koji radi na ovoj kameri, pa Analitika ne može usporiti dok se ništa ne kreće i koristi više CPU. Postavite jedan na kartici Detektor",
     "analyticsreferencecameraoff": "Kamera mora biti uključena, a analitika pokrenuta da bi se snimila referentna slika",
     "analyticsreferencenone": "Još nema referentne slike. Snima se sa slike kamere kada je kamera uključena i analitika pokrenuta",
     "analyticsreferenceuse": "Toplotne mape i putanje crtaju se preko ove slike u izvještajima poslatim e-poštom i kada je kamera van mreže",

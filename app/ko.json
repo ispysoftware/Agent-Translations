@@ -75,6 +75,7 @@
     "analyticsalert.test": "테스트",
     "analyticsalert.zone": "존",
     "analyticsalsoenabled": "이 카메라에서는 분석도 활성화되어 있으며, 이는 AI 부하를 추가합니다",
+    "analyticsnomotionwarning": "이 카메라에서 모션 디텍터가 실행 중이지 않아서 분석이 움직임이 없을 때 속도를 낮출 수 없으며 더 많은 CPU를 사용합니다. 검출기 탭에서 설정하세요",
     "analyticsreferencecameraoff": "카메라는 켜져 있어야 하며, 분석이 실행 중이어야 참조 이미지를 캡처할 수 있습니다",
     "analyticsreferencenone": "아직 참조 이미지가 없습니다. 카메라가 켜져 있고 분석이 실행 중일 때 카메라의 화면에서 이미지를 가져옵니다",
     "analyticsreferenceuse": "이메일로 보내는 보고서와 카메라가 오프라인일 때 히트맵과 이동 경로가 이 사진 위에 그려집니다",

@@ -75,6 +75,7 @@
     "analyticsalert.test": "測試",
     "analyticsalert.zone": "區域",
     "analyticsalsoenabled": "此相機上也啟用了分析功能，這會增加 AI 負載",
+    "analyticsnomotionwarning": "此攝影機上未執行任何動態偵測器，因此分析無法在沒有移動時減速，會使用更多 CPU。請在偵測器分頁上設定一個",
     "analyticsreferencecameraoff": "攝影機必須開啟且執行分析，才能擷取參考影像",
     "analyticsreferencenone": "尚無參考影像。當攝影機開啟且分析正在執行時，會從攝影機的畫面中擷取一張",
     "analyticsreferenceuse": "在以電子郵件寄送的報告中，以及攝影機離線時，熱力圖和移動路徑會繪製在此圖片上",

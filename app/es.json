@@ -75,6 +75,7 @@
     "analyticsalert.test": "prueba",
     "analyticsalert.zone": "Zona",
     "analyticsalsoenabled": "La analítica también está activada en esta cámara, lo que aumenta la carga de IA",
+    "analyticsnomotionwarning": "No hay detector de movimiento en ejecución en esta cámara, por lo que Análisis no puede reducir la velocidad mientras nada se mueve y usa más CPU. Configure uno en la pestaña Detector",
     "analyticsreferencecameraoff": "La cámara debe estar encendida, con análisis en ejecución, para capturar una imagen de referencia",
     "analyticsreferencenone": "Sin imagen de referencia aún. Se toma una de la imagen de la cámara cuando está encendida y el análisis está en ejecución",
     "analyticsreferenceuse": "Los mapas de calor y las rutas se dibujan sobre esta imagen en los informes enviados por correo electrónico, y cuando la cámara está sin conexión",

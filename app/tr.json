@@ -75,6 +75,7 @@
     "analyticsalert.test": "test",
     "analyticsalert.zone": "Bölge",
     "analyticsalsoenabled": "Bu kamerada Analytics de etkindir, bu da AI yükünü artırır",
+    "analyticsnomotionwarning": "Bu kamerada hareket dedektörü çalışmıyor, bu nedenle Analitik hiçbir şey hareket etmediğinde yavaşlayamıyor ve daha fazla CPU kullanıyor. Dedektör sekmesinde bir tane ayarlayın",
     "analyticsreferencecameraoff": "Referans görüntüsü almak için kamera açık ve analitik çalışıyor olmalıdır",
     "analyticsreferencenone": "Henüz referans görüntüsü yok. Kamera açıkken ve analitik çalışırken kameranın görüntüsünden bir tane alınır",
     "analyticsreferenceuse": "Isı haritaları ve güzergâhlar, e-postayla gönderilen raporlarda ve kamera çevrimdışıyken bu görüntünün üzerine çizilir",

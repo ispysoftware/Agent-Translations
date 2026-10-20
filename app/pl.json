@@ -75,6 +75,7 @@
     "analyticsalert.test": "test",
     "analyticsalert.zone": "Strefa",
     "analyticsalsoenabled": "Analityka jest również włączona na tej kamerze, co zwiększa obciążenie AI",
+    "analyticsnomotionwarning": "Żaden detektor ruchu nie działa na tej kamerze, dlatego Analityka nie może spowolnić, gdy nic się nie porusza, i zużywa więcej CPU. Skonfiguruj go na karcie Detektor",
     "analyticsreferencecameraoff": "Kamera musi być włączona, z uruchomioną analityką, aby wykonać obraz referencyjny",
     "analyticsreferencenone": "Brak obrazu referencyjnego. Jeden zostaje pobrany z obrazu kamery, gdy jest ona włączona i analityka jest uruchomiona",
     "analyticsreferenceuse": "Mapy ciepła i ścieżki są rysowane na tym obrazie w raportach wysyłanych e-mailem i gdy kamera jest w trybie offline",
