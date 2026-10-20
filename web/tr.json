@@ -794,6 +794,7 @@
     "nodrawn": "Henüz hiç çizgi veya bölge çizilmedi",
     "nofigures": "Henüz rakam yok",
     "nofile": "O dosyada içe aktarılacak hiçbir şey yok",
+    "nolocation": "Konum yok",
     "noreports": "Henüz rapor yok - Rapor ekle'yi kullanın",
     "nosales": "Henüz satış verileri yok",
     "nosalesperiod": "Bu dönem için satış rakamları yok",
