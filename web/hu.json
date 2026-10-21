@@ -1443,6 +1443,8 @@
   "sdstreaming": "720P streaming távoli hozzáférés",
   "seconds": "Másodperc",
   "section": "Szakasz",
+  "securityupdate": "Biztonsági frissítés szükséges",
+  "securityupdatemessage": "Ez a verzió ismert biztonsági problémával rendelkezik. Kérjük, frissítse az Agent DVR alkalmazást.",
   "select": "Kiválasztás",
   "selectdevice": "Eszköz kiválasztása",
   "selectdevicestoadd": "Válassza ki a hozzáadandó eszközöket",

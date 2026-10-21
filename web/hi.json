@@ -1443,6 +1443,8 @@
   "sdstreaming": "720पी स्ट्रीमिंग रिमोट एक्सेस",
   "seconds": "सेकंड",
   "section": "अनुभाग",
+  "securityupdate": "सुरक्षा अपडेट आवश्यक है",
+  "securityupdatemessage": "इस संस्करण में एक ज्ञात सुरक्षा समस्या है। कृपया Agent DVR को अपडेट करें।",
   "select": "चुनें",
   "selectdevice": "डिवाइस चुनें",
   "selectdevicestoadd": "जोड़ने के लिए डिवाइस चुनें",

@@ -1443,6 +1443,8 @@
   "sdstreaming": "720P 스트리밍 원격 액세스",
   "seconds": "초",
   "section": "섹션",
+  "securityupdate": "보안 업데이트 필요",
+  "securityupdatemessage": "이 버전에는 알려진 보안 문제가 있습니다. Agent DVR을 업데이트해주세요.",
   "select": "선택",
   "selectdevice": "장치 선택",
   "selectdevicestoadd": "추가할 장치 선택",

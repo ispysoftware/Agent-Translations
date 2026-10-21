@@ -1443,6 +1443,8 @@
   "sdstreaming": "720P streaming fjernadgang",
   "seconds": "Sekunder",
   "section": "Sektion",
+  "securityupdate": "Sikkerhedsopdatering påkrævet",
+  "securityupdatemessage": "Denne version har et kendt sikkerhedsproblem. Opdater venligst Agent DVR.",
   "select": "Vælg",
   "selectdevice": "Vælg enhed",
   "selectdevicestoadd": "Vælg de enheder, der skal tilføjes",

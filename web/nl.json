@@ -1443,6 +1443,8 @@
   "sdstreaming": "720P-streaming externe toegang",
   "seconds": "Seconden",
   "section": "Sectie",
+  "securityupdate": "Beveiligingsupdate vereist",
+  "securityupdatemessage": "Deze versie heeft een bekend beveiligingsprobleem. Werk Agent DVR bij.",
   "select": "Selecteren",
   "selectdevice": "Apparaat selecteren",
   "selectdevicestoadd": "Selecteer de apparaten om toe te voegen",

@@ -1443,6 +1443,8 @@
   "sdstreaming": "720P 串流遠端存取",
   "seconds": "秒數",
   "section": "區段",
+  "securityupdate": "需要安全性更新",
+  "securityupdatemessage": "此版本存在已知安全問題。請更新 Agent DVR。",
   "select": "選擇",
   "selectdevice": "選擇裝置",
   "selectdevicestoadd": "選取要新增的裝置",

@@ -1443,6 +1443,8 @@
   "sdstreaming": "Аддалены доступ з трансляцыяй 720P",
   "seconds": "Секунды",
   "section": "Раздзел",
+  "securityupdate": "Патрабуецца абнаўленне бяспекі",
+  "securityupdatemessage": "Гэта версія мае вядомую праблему бяспекі. Калі ласка, абнавіце Agent DVR.",
   "select": "Выбраць",
   "selectdevice": "Выберыце прыладу",
   "selectdevicestoadd": "Выберыце прылады для дадавання",

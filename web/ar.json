@@ -1443,6 +1443,8 @@
   "sdstreaming": "وصول عن بُعد ببث 720P",
   "seconds": "ثوانٍ",
   "section": "قسم",
+  "securityupdate": "تحديث الأمان مطلوب",
+  "securityupdatemessage": "هذا الإصدار به مشكلة أمان معروفة. يرجى تحديث Agent DVR.",
   "select": "تحديد",
   "selectdevice": "تحديد الجهاز",
   "selectdevicestoadd": "حدد الأجهزة المراد إضافتها",

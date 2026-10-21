@@ -1443,6 +1443,8 @@
   "sdstreaming": "720p-suoratoisto",
   "seconds": "Sekuntia",
   "section": "Osio",
+  "securityupdate": "Tietoturvapäivitys vaaditaan",
+  "securityupdatemessage": "Tällä versiolla on tunnettu tietoturvaongelma. Päivitä Agent DVR.",
   "select": "Valitse",
   "selectdevice": "Valitse laite",
   "selectdevicestoadd": "Valitse lisättävät laitteet",

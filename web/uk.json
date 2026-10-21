@@ -1443,6 +1443,8 @@
   "sdstreaming": "720P Трансляція Віддалений Доступ",
   "seconds": "Секунд",
   "section": "Розділ",
+  "securityupdate": "Потрібне оновлення безпеки",
+  "securityupdatemessage": "Ця версія має відому проблему безпеки. Будь ласка, оновіть Agent DVR.",
   "select": "Вибрати",
   "selectdevice": "Виберіть пристрій",
   "selectdevicestoadd": "Виберіть пристрої для додавання",

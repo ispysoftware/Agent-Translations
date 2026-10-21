@@ -1443,6 +1443,8 @@
   "sdstreaming": "720P strömmande fjärråtkomst",
   "seconds": "Sekunder",
   "section": "Sektion",
+  "securityupdate": "Säkerhetsuppdatering krävs",
+  "securityupdatemessage": "Den här versionen har ett känt säkerhetsproblem. Uppdatera Agent DVR.",
   "select": "Välj",
   "selectdevice": "Välj enhet",
   "selectdevicestoadd": "Välj de enheter som ska läggas till",

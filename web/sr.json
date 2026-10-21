@@ -1443,6 +1443,8 @@
   "sdstreaming": "Udaljeni pristup sa 720P streamingom",
   "seconds": "Sekunde",
   "section": "Odjeljak",
+  "securityupdate": "Potrebno sigurnosno ažuriranje",
+  "securityupdatemessage": "Ova verzija ima poznat sigurnosni problem. Molimo ažurirajte Agent DVR.",
   "select": "Izaberi",
   "selectdevice": "Izaberi uređaj",
   "selectdevicestoadd": "Izaberite uređaje koje treba dodati",

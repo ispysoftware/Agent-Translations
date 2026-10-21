@@ -1443,6 +1443,8 @@
   "sdstreaming": "Vzdálený přístup se streamováním 720p",
   "seconds": "Sekund",
   "section": "Sekce",
+  "securityupdate": "Vyžaduje se aktualizace zabezpečení",
+  "securityupdatemessage": "Tato verze má známý problém se zabezpečením. Aktualizujte prosím Agent DVR.",
   "select": "Vybrat",
   "selectdevice": "Vybrat zařízení",
   "selectdevicestoadd": "Vyberte zařízení, která chcete přidat",

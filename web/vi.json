@@ -1443,6 +1443,8 @@
   "sdstreaming": "Truyền phát từ xa 720P",
   "seconds": "Giây",
   "section": "Phần",
+  "securityupdate": "Cần cập nhật bảo mật",
+  "securityupdatemessage": "Phiên bản này có một lỗ hổng bảo mật đã biết. Vui lòng cập nhật Agent DVR.",
   "select": "Chọn",
   "selectdevice": "Chọn thiết bị",
   "selectdevicestoadd": "Chọn các thiết bị để thêm",

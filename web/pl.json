@@ -1443,6 +1443,8 @@
   "sdstreaming": "Zdalny dostęp ze strumieniowaniem 720P",
   "seconds": "Sekundy",
   "section": "Sekcja",
+  "securityupdate": "Wymagana aktualizacja bezpieczeństwa",
+  "securityupdatemessage": "Ta wersja ma znany problem bezpieczeństwa. Zaktualizuj Agent DVR.",
   "select": "Wybierz",
   "selectdevice": "Wybierz urządzenie",
   "selectdevicestoadd": "Wybierz urządzenia do dodania",

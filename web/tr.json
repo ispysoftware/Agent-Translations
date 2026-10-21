@@ -1443,6 +1443,8 @@
   "sdstreaming": "720P Akışlı Uzaktan Erişim",
   "seconds": "Saniye",
   "section": "Bölüm",
+  "securityupdate": "Güvenlik güncellemesi gerekli",
+  "securityupdatemessage": "Bu sürümde bilinen bir güvenlik sorunu vardır. Lütfen Agent DVR'ı güncelleyin.",
   "select": "Seç",
   "selectdevice": "Cihaz seç",
   "selectdevicestoadd": "Eklenecek cihazları seçin",

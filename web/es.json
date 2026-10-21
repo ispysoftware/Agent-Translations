@@ -1443,6 +1443,8 @@
   "sdstreaming": "Acceso remoto con transmisión 720P",
   "seconds": "Segundos",
   "section": "Sección",
+  "securityupdate": "Actualización de seguridad requerida",
+  "securityupdatemessage": "Esta versión tiene un problema de seguridad conocido. Por favor, actualice Agent DVR.",
   "select": "Seleccionar",
   "selectdevice": "Seleccionar dispositivo",
   "selectdevicestoadd": "Seleccione los dispositivos para añadir",

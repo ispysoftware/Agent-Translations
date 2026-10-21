@@ -1443,6 +1443,8 @@
   "sdstreaming": "720P 远程实时画面查看权限",
   "seconds": "秒",
   "section": "部分",
+  "securityupdate": "需要安全更新",
+  "securityupdatemessage": "此版本存在已知安全问题。请更新 Agent DVR。",
   "select": "选择",
   "selectdevice": "选择设备",
   "selectdevicestoadd": "选择要添加的设备",

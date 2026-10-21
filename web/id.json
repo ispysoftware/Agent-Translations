@@ -1443,6 +1443,8 @@
   "sdstreaming": "Akses Jarak Jauh Streaming 720P",
   "seconds": "Detik",
   "section": "Bagian",
+  "securityupdate": "Pembaruan keamanan diperlukan",
+  "securityupdatemessage": "Versi ini memiliki masalah keamanan yang diketahui. Silakan perbarui Agent DVR.",
   "select": "Pilih",
   "selectdevice": "Pilih perangkat",
   "selectdevicestoadd": "Pilih perangkat untuk ditambahkan",
