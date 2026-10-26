@@ -1714,6 +1714,7 @@
     "entermobile": "Unesite broj mobilnog telefona onako kako biste ga birali u svojoj državi",
     "failuresendingemail": "E-pošta nije mogla biti poslata, pošaljite je ručno na support@ispyconnect.com",
     "filelocked": "Datoteka je zaključana. Prvo je otključajte.",
+    "groupstoolong": "Lista grupa je preduga. Ostavite Grupe prazne da dozvolite pristup svim serverima i kamerama",
     "invalidaddress": "Nevažeća adresa",
     "invalidemail": "Nevažeća e-adresa",
     "invalidmobile": "Nevažeći broj mobilnog telefona",

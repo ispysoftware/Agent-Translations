@@ -1714,6 +1714,7 @@
     "entermobile": "请输入您的手机号码，格式应与您在本国拨打时一致",
     "failuresendingemail": "无法发送电子邮件，请手动发送至 support@ispyconnect.com",
     "filelocked": "文件已被锁定。请先解锁。",
+    "groupstoolong": "组列表过长。将“组”留空以允许访问所有服务器和摄像机",
     "invalidaddress": "无效地址",
     "invalidemail": "无效的电子邮件地址",
     "invalidmobile": "无效的手机号码",

@@ -1714,6 +1714,7 @@
     "entermobile": "Lütfen cep telefonu numaranızı kendi ülkenizde arayacağınız şekilde girin",
     "failuresendingemail": "E-posta gönderilemedi, lütfen manuel olarak support@ispyconnect.com adresine gönderin",
     "filelocked": "Dosya kilitli. Önce kilidi açın.",
+    "groupstoolong": "Gruplar listesi çok uzun. Tüm sunuculara ve kameralara erişime izin vermek için Gruplar'ı boş bırakın",
     "invalidaddress": "Geçersiz adres",
     "invalidemail": "Geçersiz e-posta adresi",
     "invalidmobile": "Geçersiz cep telefonu numarası",

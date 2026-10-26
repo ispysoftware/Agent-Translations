@@ -1714,6 +1714,7 @@
     "entermobile": "Voer uw mobiele nummer in zoals u dit in uw eigen land zou bellen",
     "failuresendingemail": "E-mail verzenden mislukt, stuur handmatig naar support@ispyconnect.com",
     "filelocked": "Bestand is vergrendeld. Ontgrendel het eerst.",
+    "groupstoolong": "Groepenlijst is te lang. Laat Groepen leeg om toegang tot alle servers en camera's toe te staan",
     "invalidaddress": "Ongeldig adres",
     "invalidemail": "Ongeldig e-mailadres",
     "invalidmobile": "Ongeldig mobiel telefoonnummer",

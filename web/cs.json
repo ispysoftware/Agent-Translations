@@ -1714,6 +1714,7 @@
     "entermobile": "Prosím, zadejte své mobilní číslo ve formátu, jakým byste jej vytáčeli ve své zemi",
     "failuresendingemail": "E-mail nebylo možné odeslat, prosím odešlete jej ručně na support@ispyconnect.com",
     "filelocked": "Soubor je uzamčen. Nejprve jej odemkněte.",
+    "groupstoolong": "Seznam skupin je příliš dlouhý. Ponechte skupiny prázdné, abyste povolili přístup ke všem serverům a kamerám.",
     "invalidaddress": "Neplatná adresa",
     "invalidemail": "Neplatná e-mailová adresa",
     "invalidmobile": "Neplatné mobilní telefonní číslo",

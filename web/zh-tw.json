@@ -1714,6 +1714,7 @@
     "entermobile": "請依您所在國家的撥號方式輸入行動電話號碼",
     "failuresendingemail": "無法發送電子郵件，請手動寄送至 support@ispyconnect.com",
     "filelocked": "檔案已被鎖定。請先解除鎖定。",
+    "groupstoolong": "群組清單過長。將群組留空以允許存取所有伺服器和攝影機",
     "invalidaddress": "無效地址",
     "invalidemail": "無效的電子郵件地址",
     "invalidmobile": "無效的行動電話號碼",

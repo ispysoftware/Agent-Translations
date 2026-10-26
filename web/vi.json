@@ -1714,6 +1714,7 @@
     "entermobile": "Vui lòng nhập số điện thoại di động của bạn theo cách bạn vẫn gọi ở quốc gia của mình",
     "failuresendingemail": "Không thể gửi email, vui lòng gửi thủ công đến support@ispyconnect.com",
     "filelocked": "Tệp đang bị khóa. Vui lòng mở khóa trước.",
+    "groupstoolong": "Danh sách các nhóm quá dài. Để trống Các nhóm để cho phép truy cập đến tất cả các máy chủ và camera",
     "invalidaddress": "Địa chỉ không hợp lệ",
     "invalidemail": "Địa chỉ email không hợp thực",
     "invalidmobile": "Số điện thoại di động không hợp lệ",

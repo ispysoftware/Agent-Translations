@@ -1714,6 +1714,7 @@
     "entermobile": "Kirjoita matkapuhelinnumerosi muodossa, jota käytät omassa maassasi",
     "failuresendingemail": "Sähköpostin lähetys epäonnistui, lähetä se manuaalisesti osoitteeseen support@ispyconnect.com",
     "filelocked": "Tiedosto on lukittu. Avaa lukitus ensin.",
+    "groupstoolong": "Ryhmien luettelo on liian pitkä. Jätä Ryhmät tyhjäksi, jotta pääsy kaikkiin palvelimiin ja kameriin sallitaan.",
     "invalidaddress": "Virheellinen osoite",
     "invalidemail": "Virheellinen sähköpostiosoite",
     "invalidmobile": "Virheellinen matkapuhelinnumero",

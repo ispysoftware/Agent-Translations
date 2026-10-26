@@ -1714,6 +1714,7 @@
     "entermobile": "자국에서 전화할 때와 같이 휴대전화 번호를 입력해 주세요",
     "failuresendingemail": "이메일을 보낼 수 없습니다. support@ispyconnect.com 으로 직접 보내세요",
     "filelocked": "파일이 잠겨 있습니다. 먼저 잠금을 해제하세요.",
+    "groupstoolong": "그룹 목록이 너무 깁니다. 모든 서버와 카메라에 액세스할 수 있도록 그룹을 비워 두세요.",
     "invalidaddress": "유효하지 않은 주소입니다",
     "invalidemail": "유효하지 않은 이메일 주소입니다",
     "invalidmobile": "유효하지 않은 휴대전화 번호입니다",

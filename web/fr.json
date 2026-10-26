@@ -1714,6 +1714,7 @@
     "entermobile": "Veuillez entrer votre numéro de téléphone portable au format national",
     "failuresendingemail": "Impossible d'envoyer un courrier électronique, veuillez l'envoyer manuellement à l'adresse support@ispyconnect.com.",
     "filelocked": "Le fichier est verrouillé. Déverrouillez-le d'abord.",
+    "groupstoolong": "La liste des groupes est trop longue. Laissez les Groupes vides pour autoriser l'accès à tous les serveurs et caméras",
     "invalidaddress": "Adresse invalide",
     "invalidemail": "Adresse e-mail invalide",
     "invalidmobile": "Numéro de téléphone mobile invalide",

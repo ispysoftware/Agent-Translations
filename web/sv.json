@@ -1714,6 +1714,7 @@
     "entermobile": "Ange ditt mobilnummer så som du skulle ringa det i ditt eget land",
     "failuresendingemail": "Kunde inte skicka e-post, vänligen skicka manuellt till support@ispyconnect.com",
     "filelocked": "Filen är låst. Lås upp den först.",
+    "groupstoolong": "Grupplistan är för lång. Lämna Grupper tomt för att tillåta åtkomst till alla servrar och kameror",
     "invalidaddress": "Ogiltig adress",
     "invalidemail": "Ogiltig e-postadress",
     "invalidmobile": "Ogiltigt mobilnummer",

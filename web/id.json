@@ -1714,6 +1714,7 @@
     "entermobile": "Silakan masukkan nomor ponsel Anda seperti yang Anda hubungi di negara Anda sendiri",
     "failuresendingemail": "Tidak dapat mengirim email, silakan kirim secara manual ke support@ispyconnect.com",
     "filelocked": "File terkunci. Buka kuncinya terlebih dahulu.",
+    "groupstoolong": "Daftar Grup terlalu panjang. Kosongkan Grup untuk mengizinkan akses ke semua server dan kamera",
     "invalidaddress": "Alamat tidak valid",
     "invalidemail": "Alamat email tidak valid",
     "invalidmobile": "Nomor ponsel tidak valid",

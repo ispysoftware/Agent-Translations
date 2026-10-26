@@ -1714,6 +1714,7 @@
     "entermobile": "Please enter your mobile number as you would dial it in your own country",
     "failuresendingemail": "Could not send email please send manually to support@ispyconnect.com",
     "filelocked": "File is Locked. Unlock it first.",
+    "groupstoolong": "Groups list is too long. Leave Groups empty to allow access to all servers and cameras",
     "invalidaddress": "Invalid Address",
     "invalidemail": "Invalid email address",
     "invalidmobile": "Invalid mobile phone number",

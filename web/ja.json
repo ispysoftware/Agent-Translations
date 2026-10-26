@@ -1714,6 +1714,7 @@
     "entermobile": "ご自身の国でダイヤルする形式で携帯電話番号を入力してください",
     "failuresendingemail": "メールを送信できませんでした。support@ispyconnect.com に手動でお送りください",
     "filelocked": "ファイルがロックされています。まずアンロックしてください",
+    "groupstoolong": "グループのリストが長すぎます。すべてのサーバーとカメラへのアクセスを許可するには、グループを空のままにしてください",
     "invalidaddress": "無効なアドレスです",
     "invalidemail": "メールアドレスが無効です",
     "invalidmobile": "携帯電話番号が無効です",
