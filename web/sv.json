@@ -885,6 +885,7 @@
   "appconnect": "App Connect",
   "appconnect_help": "Ange ditt lösenord för att visa en kort kod för parkoppling med mobila enheter. Ställ in ditt lösenord i kontoinställningarna.",
   "appconnect_pair": "Använd denna kod för att parkoppla din enhet. Denna kod går ut om några minuter:",
+  "appconnect_return": "Återgå till Agent DVR-appen för att slutföra parkopplingen.",
   "applieslive": "* Gäller live",
   "apply": "Verkställ",
   "archive": "Arkiv",

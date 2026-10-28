@@ -885,6 +885,7 @@
   "appconnect": "App Connect",
   "appconnect_help": "Mobil cihazlarla eşleştirmek için kısa bir kod görüntülemek üzere şifrenizi girin. Şifrenizi hesap ayarlarından belirleyin.",
   "appconnect_pair": "Cihazınızı eşleştirmek için bu kodu kullanın. Bu kod birkaç dakika içinde sona erecektir:",
+  "appconnect_return": "Agent DVR uygulamasına dönün ve eşleştirmeyi tamamlayın.",
   "applieslive": "* Canlı için geçerlidir",
   "apply": "Uygula",
   "archive": "Arşivle",

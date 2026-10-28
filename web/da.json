@@ -885,6 +885,7 @@
   "appconnect": "App Connect",
   "appconnect_help": "Indtast din adgangskode for at vise en kort kode til parring med mobile enheder. Indstil din adgangskode i kontoindstillingerne.",
   "appconnect_pair": "Brug denne kode til at parre din enhed. Denne kode udløber om få minutter:",
+  "appconnect_return": "Gå tilbage til Agent DVR-appen for at fuldføre parringen.",
   "applieslive": "* Gælder live",
   "apply": "Anvend",
   "archive": "Arkiv",

@@ -885,6 +885,7 @@
   "appconnect": "App Connect",
   "appconnect_help": "Syötä salasanasi näyttääksesi lyhyen koodin mobiililaitteiden pariliitosta varten. Aseta salasanasi tiliasetuksissa.",
   "appconnect_pair": "Käytä tätä koodia laitteen pariliitokseen. Tämä koodi vanhenee muutaman minuutin kuluttua:",
+  "appconnect_return": "Palaa Agent DVR -sovellukseen viimeistelläksesi pariliitoksen.",
   "applieslive": "* Koskee suoraa lähetystä",
   "apply": "Käytä",
   "archive": "Arkisto",

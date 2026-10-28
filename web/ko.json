@@ -885,6 +885,7 @@
   "appconnect": "App Connect",
   "appconnect_help": "모바일 기기 페어링용 단축 코드를 표시하려면 비밀번호를 입력하세요. 계정 설정에서 비밀번호를 설정합니다.",
   "appconnect_pair": "이 코드로 장치를 페어링하세요. 이 코드는 몇 분 후 만료됩니다:",
+  "appconnect_return": "Agent DVR 앱으로 돌아가 페어링을 완료하세요.",
   "applieslive": "* 즉시 적용됨",
   "apply": "적용",
   "archive": "아카이브",

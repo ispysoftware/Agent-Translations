@@ -885,6 +885,7 @@
   "appconnect": "App Connect",
   "appconnect_help": "Zadejte své heslo pro zobrazení krátkého kódu pro párování s mobilními zařízeními. Heslo nastavte v nastavení účtu.",
   "appconnect_pair": "K párování zařízení použijte tento kód. Tento kód vyprší za několik minut:",
+  "appconnect_return": "Vraťte se do aplikace Agent DVR a dokončete párování.",
   "applieslive": "* Platí pro živý přenos",
   "apply": "Použít",
   "archive": "Archiv",

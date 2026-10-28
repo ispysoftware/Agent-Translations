@@ -885,6 +885,7 @@
   "appconnect": "App Connect",
   "appconnect_help": "Írja be jelszavát a mobil eszközökkel való párosításhoz szükséges rövid kód megjelenítéséhez. A jelszót a fiókbeállításokban állíthatja be.",
   "appconnect_pair": "Használja ezt a kódot az eszköz összepárosításához. A kód néhány perc múlva lejár:",
+  "appconnect_return": "Térjen vissza az Agent DVR alkalmazásba a párosítás befejezéséhez.",
   "applieslive": "* Azonnal érvényesül",
   "apply": "Alkalmaz",
   "archive": "Archívum",

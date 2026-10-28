@@ -885,6 +885,7 @@
   "appconnect": "App Connect",
   "appconnect_help": "Entrez votre mot de passe pour afficher un code court pour le couplage avec des appareils mobiles. Définissez votre mot de passe dans les paramètres du compte.",
   "appconnect_pair": "Utilisez ce code pour appairer votre appareil. Ce code expirera dans quelques minutes :",
+  "appconnect_return": "Revenez à l'application Agent DVR pour terminer l'appairage.",
   "applieslive": "* Application en direct",
   "apply": "Appliquer",
   "archive": "Archiver",

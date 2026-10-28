@@ -885,6 +885,7 @@
   "appconnect": "App Connect",
   "appconnect_help": "Wprowadź hasło, aby wyświetlić krótki kod parowania z urządzeniami mobilnymi. Hasło można ustawić w ustawieniach konta.",
   "appconnect_pair": "Użyj tego kodu do sparowania urządzenia. Kod wygaśnie za kilka minut:",
+  "appconnect_return": "Wróć do aplikacji Agent DVR, aby dokończyć parowanie.",
   "applieslive": "* Dotyczy na żywo",
   "apply": "Zastosuj",
   "archive": "Archiwum",

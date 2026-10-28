@@ -885,6 +885,7 @@
   "appconnect": "App Connect",
   "appconnect_help": "Introduzca su contraseña para mostrar un código corto para el emparejamiento con dispositivos móviles. Establezca su contraseña en la configuración de la cuenta.",
   "appconnect_pair": "Utilice este código para emparejar su dispositivo. Este código caducará en unos minutos:",
+  "appconnect_return": "Vuelve a la aplicación Agent DVR para completar el emparejamiento.",
   "applieslive": "* Se aplica en directo",
   "apply": "Aplicar",
   "archive": "Archivo",

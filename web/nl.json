@@ -885,6 +885,7 @@
   "appconnect": "App Connect",
   "appconnect_help": "Voer uw wachtwoord in om een korte code weer te geven voor koppeling met mobiele apparaten. Stel uw wachtwoord in bij de accountinstellingen.",
   "appconnect_pair": "Gebruik deze code om uw apparaat te koppelen. Deze code verloopt over enkele minuten:",
+  "appconnect_return": "Keer terug naar de Agent DVR app om het koppelen af te ronden.",
   "applieslive": "* Geldt live",
   "apply": "Toepassen",
   "archive": "Archief",

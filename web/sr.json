@@ -885,6 +885,7 @@
   "appconnect": "Povezivanje aplikacije",
   "appconnect_help": "Unesite lozinku da biste prikazali kratak kôd za uparivanje sa mobilnim uređajima. Lozinku postavite u postavkama naloga.",
   "appconnect_pair": "Koristite ovaj kôd za uparivanje uređaja. Ovaj kôd ističe za nekoliko minuta:",
+  "appconnect_return": "Vratite se u aplikaciju Agent DVR da biste završili uparivanje.",
   "applieslive": "* Primjenjuje se uživo",
   "apply": "Primijeni",
   "archive": "Arhiva",

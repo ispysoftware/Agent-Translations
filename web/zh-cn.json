@@ -885,6 +885,7 @@
   "appconnect": "App Connect",
   "appconnect_help": "输入密码以显示用于与移动设备配对的短代码。请在账户设置中设定密码。",
   "appconnect_pair": "使用此代码配对您的设备。该代码将在几分钟后过期：",
+  "appconnect_return": "返回 Agent DVR 应用以完成配对。",
   "applieslive": "* 立即生效",
   "apply": "应用",
   "archive": "归档",

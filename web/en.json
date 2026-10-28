@@ -885,6 +885,7 @@
   "appconnect": "App Connect",
   "appconnect_help": "Enter your password to display a short code for pairing with mobile devices. Set your password in account settings.",
   "appconnect_pair": "Use this code to pair your device. This code will expire in a few minutes:",
+  "appconnect_return": "Return to the Agent DVR app to finish pairing.",
   "applieslive": "* Applies Live",
   "apply": "Apply",
   "archive": "Archive",

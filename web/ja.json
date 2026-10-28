@@ -885,6 +885,7 @@
   "appconnect": "App Connect",
   "appconnect_help": "モバイルデバイスとのペアリング用のショートコードを表示するにはパスワードを入力してください。アカウント設定でパスワードを設定します。",
   "appconnect_pair": "このコードを使用してデバイスのペアリングを行ってください。このコードは数分で期限切れになります：",
+  "appconnect_return": "Agent DVR アプリに戻ってペアリングを完了してください。",
   "applieslive": "* 即時適用されます",
   "apply": "適用する",
   "archive": "アーカイブ",

@@ -885,6 +885,7 @@
   "appconnect": "App Connect",
   "appconnect_help": "Geben Sie Ihr Passwort ein, um einen Kurzcode für die Kopplung mit mobilen Geräten anzuzeigen. Legen Sie Ihr Passwort in den Kontoeinstellungen fest.",
   "appconnect_pair": "Verwenden Sie diesen Code, um Ihr Gerät zu koppeln. Dieser Code läuft in wenigen Minuten ab:",
+  "appconnect_return": "Kehren Sie zur Agent DVR App zurück, um die Kopplung abzuschließen.",
   "applieslive": "* Gilt live",
   "apply": "Anwenden",
   "archive": "Archiv",

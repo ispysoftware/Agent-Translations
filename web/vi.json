@@ -885,6 +885,7 @@
   "appconnect": "App Connect",
   "appconnect_help": "Nhập mật khẩu của bạn để hiển thị mã ngắn dùng để ghép nối với các thiết bị di động. Hãy thiết lập mật khẩu trong cài đặt tài khoản.",
   "appconnect_pair": "Sử dụng mã này để ghép nối thiết bị của bạn. Mã này sẽ hết hạn sau vài phút:",
+  "appconnect_return": "Quay lại ứng dụng Agent DVR để hoàn tất ghép nối.",
   "applieslive": "* Áp dụng trực tiếp",
   "apply": "Áp dụng",
   "archive": "Lưu trữ",

@@ -885,6 +885,7 @@
   "appconnect": "App Connect",
   "appconnect_help": "Masukkan kata sandi Anda untuk menampilkan kode singkat guna penyandingan dengan perangkat seluler. Atur kata sandi Anda di pengaturan akun.",
   "appconnect_pair": "Gunakan kode ini untuk memasangkan perangkat Anda. Kode ini akan kedaluwarsa dalam beberapa menit:",
+  "appconnect_return": "Kembali ke aplikasi Agent DVR untuk menyelesaikan pemasangan.",
   "applieslive": "* Berlaku Live",
   "apply": "Terapkan",
   "archive": "Arsip",

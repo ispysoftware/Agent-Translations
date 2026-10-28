@@ -885,6 +885,7 @@
   "appconnect": "App Connect",
   "appconnect_help": "Inserisci la password per visualizzare un breve codice per l'associazione con i dispositivi mobili. Imposta la tua password nelle impostazioni dell'account.",
   "appconnect_pair": "Usa questo codice per associare il tuo dispositivo. Questo codice scadrà tra pochi minuti:",
+  "appconnect_return": "Torna all'app Agent DVR per completare l'abbinamento.",
   "applieslive": "* Si applica in tempo reale",
   "apply": "Applica",
   "archive": "Archivio",
