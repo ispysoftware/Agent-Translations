@@ -1128,7 +1128,7 @@
     "json.maxsize2.help": "Ukuran folder maksimum (MB). 0 = tidak terbatas",
     "json.maxspeed": "Kecepatan maksimum",
     "json.maxstreamsize2": "Ukuran stream maks",
-    "json.maxstreamsize2.help": "Resolusi maksimum video stream ke browser web. Dibatasi oleh lisensi",
+    "json.maxstreamsize2.help": "Resolusi maksimal yang dialirkan ke peramban. Dibatasi oleh paket Anda - lihat <a href=\"javascript:void(0);\" onclick=\"helpers.goWebsite('buy')\">Harga</a>",
     "json.maxtokens": "Token maks",
     "json.maxtokens.help": "Jumlah token maksimum (min 300 atau 0 untuk menonaktifkan batas maksimum)",
     "json.maxviews": "Tampilan",

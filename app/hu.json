@@ -1128,7 +1128,7 @@
     "json.maxsize2.help": "Mappa maximális mérete (MB). 0 = korlátlan",
     "json.maxspeed": "Maximum sebesség",
     "json.maxstreamsize2": "Max. stream méret",
-    "json.maxstreamsize2.help": "A böngészőbe küldött videófolyam maximális felbontása. A licenc által meghatározott korlátozás",
+    "json.maxstreamsize2.help": "A böngészőbe közvetített maximális felbontás. A terve által korlátozva - lásd <a href=\"javascript:void(0);\" onclick=\"helpers.goWebsite('buy')\">Díjszabás</a>",
     "json.maxtokens": "Maximális tokenek száma",
     "json.maxtokens.help": "Tokenek maximum száma (min. 300, vagy 0 a maximum kikapcsolásához)",
     "json.maxviews": "Megtekintések",

@@ -1128,7 +1128,7 @@
     "json.maxsize2.help": "Najveća veličina fascikle (MB). 0 = neograničeno",
     "json.maxspeed": "Najveća brzina",
     "json.maxstreamsize2": "Najveća veličina streama",
-    "json.maxstreamsize2.help": "Najveća rezolucija video streama ka web pregledaču. Ograničeno licencom",
+    "json.maxstreamsize2.help": "Maksimalna rezolucija strima ka pregledaču. Ograničena vašim planom - pogledajte <a href=\"javascript:void(0);\" onclick=\"helpers.goWebsite('buy')\">Cene</a>",
     "json.maxtokens": "Najviše tokena",
     "json.maxtokens.help": "Najveći broj tokena (najmanje 300 ili 0 da biste onemogućili maksimum)",
     "json.maxviews": "Prikazi",

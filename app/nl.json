@@ -1128,7 +1128,7 @@
     "json.maxsize2.help": "Maximale mapgrootte (MB). 0 = onbeperkt",
     "json.maxspeed": "Maximale snelheid",
     "json.maxstreamsize2": "Max. streamgrootte",
-    "json.maxstreamsize2.help": "Maximale resolutie van de videostream naar de webbrowser. Beperkt door licentie",
+    "json.maxstreamsize2.help": "Maximale resolutie gestreamd naar de browser. Beperkt door uw plan - zie <a href=\"javascript:void(0);\" onclick=\"helpers.goWebsite('buy')\">Prijzen</a>",
     "json.maxtokens": "Max. tokens",
     "json.maxtokens.help": "Maximaal aantal tokens (min. 300 of 0 om maximum uit te schakelen)",
     "json.maxviews": "Weergaven",

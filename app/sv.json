@@ -1128,7 +1128,7 @@
     "json.maxsize2.help": "Maximal mappstorlek (MB). 0 = obegränsat",
     "json.maxspeed": "Maximal hastighet",
     "json.maxstreamsize2": "Max streamstorlek",
-    "json.maxstreamsize2.help": "Maximal videoupplösning för videostreamen till webbläsaren. Begränsas av licens",
+    "json.maxstreamsize2.help": "Maximal upplösning som streamas till webbläsaren. Begränsad av din plan - se <a href=\"javascript:void(0);\" onclick=\"helpers.goWebsite('buy')\">Prissättning</a>",
     "json.maxtokens": "Max antal tokens",
     "json.maxtokens.help": "Maximalt antal tokens (minst 300 eller 0 för att inaktivera maxgräns)",
     "json.maxviews": "Vyer",

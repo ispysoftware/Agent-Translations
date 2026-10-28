@@ -1128,7 +1128,7 @@
     "json.maxsize2.help": "Maksimal mappe-størrelse (MB). 0 = ubegrenset",
     "json.maxspeed": "Maksimal hastighet",
     "json.maxstreamsize2": "Maks strømmestørrelse",
-    "json.maxstreamsize2.help": "Maksimal oppløsning på videostrømmen til nettleseren. Begrenses av lisens",
+    "json.maxstreamsize2.help": "Maksimal oppløsning strømmet til nettleseren. Begrenset av planen din - se <a href=\"javascript:void(0);\" onclick=\"helpers.goWebsite('buy')\">Priser</a>",
     "json.maxtokens": "Maks tokens",
     "json.maxtokens.help": "Maksimalt antall tokens (min 300 eller 0 for å deaktivere maksimum)",
     "json.maxviews": "Visninger",

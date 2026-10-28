@@ -1128,7 +1128,7 @@
     "json.maxsize2.help": "フォルダの最大サイズ (MB)。0 = 無制限",
     "json.maxspeed": "速度の上限",
     "json.maxstreamsize2": "ストリームサイズの上限",
-    "json.maxstreamsize2.help": "Web ブラウザへのビデオストリームの解像度の上限。ライセンスによって制限される場合があります",
+    "json.maxstreamsize2.help": "ブラウザーにストリーミングされる最大解像度。ご利用のプランによって制限されます - <a href=\"javascript:void(0);\" onclick=\"helpers.goWebsite('buy')\">料金</a>を参照してください",
     "json.maxtokens": "トークン数の上限",
     "json.maxtokens.help": "トークンの最大数（最小値は300、または無効にする場合は0）",
     "json.maxviews": "ビュー数",

@@ -1128,7 +1128,7 @@
     "json.maxsize2.help": "資料夾的最大大小 (MB)。0 = 無限",
     "json.maxspeed": "最高速度",
     "json.maxstreamsize2": "最大串流尺寸",
-    "json.maxstreamsize2.help": "傳送至網頁瀏覽器的視訊串流之最大解析度。受授權限制",
+    "json.maxstreamsize2.help": "串流至瀏覽器的最大解析度。受您的方案限制 - 請參閱<a href=\"javascript:void(0);\" onclick=\"helpers.goWebsite('buy')\">價格</a>",
     "json.maxtokens": "最大權杖數",
     "json.maxtokens.help": "最大權杖數量（最小值為 300，或設為 0 以停用上限）",
     "json.maxviews": "檢視視圖",

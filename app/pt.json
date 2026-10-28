@@ -1128,7 +1128,7 @@
     "json.maxsize2.help": "Tamanho máximo da pasta (MB). 0 = ilimitado",
     "json.maxspeed": "Velocidade máxima",
     "json.maxstreamsize2": "Tamanho máx. do stream",
-    "json.maxstreamsize2.help": "Resolução máxima do stream de vídeo para o navegador web. Restrito pela licença",
+    "json.maxstreamsize2.help": "Resolução máxima transmitida para o navegador. Limitada pelo seu plano - consulte <a href=\"javascript:void(0);\" onclick=\"helpers.goWebsite('buy')\">Preços</a>",
     "json.maxtokens": "Tokens máximos",
     "json.maxtokens.help": "Número máximo de tokens (mín. 300 ou 0 para desativar o máximo)",
     "json.maxviews": "Visualizações",

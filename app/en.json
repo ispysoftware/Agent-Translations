@@ -1128,7 +1128,7 @@
     "json.maxsize2.help": "Maximum size of folder (MB). 0 = unlimited",
     "json.maxspeed": "Maximum Speed",
     "json.maxstreamsize2": "Max stream size",
-    "json.maxstreamsize2.help": "Maximum resolution of the video stream to the web browser. Restricted by license",
+    "json.maxstreamsize2.help": "Maximum resolution streamed to the browser. Limited by your plan - see <a href=\"javascript:void(0);\" onclick=\"helpers.goWebsite('buy')\">Pricing</a>",
     "json.maxtokens": "Max Tokens",
     "json.maxtokens.help": "Maximum Number of Tokens (min 300 or 0 to disable maximum)",
     "json.maxviews": "Views",

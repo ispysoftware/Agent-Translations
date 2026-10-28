@@ -1128,7 +1128,7 @@
     "json.maxsize2.help": "Maximální velikost složky (MB). 0 = neomezeně",
     "json.maxspeed": "Maximální rychlost",
     "json.maxstreamsize2": "Max. velikost streamu",
-    "json.maxstreamsize2.help": "Maximální rozlišení video streamu pro webový prohlížeč. Omezeno licencí",
+    "json.maxstreamsize2.help": "Maximální rozlišení streamované do prohlížeče. Omezeno vaším plánem - viz <a href=\"javascript:void(0);\" onclick=\"helpers.goWebsite('buy')\">Ceník</a>",
     "json.maxtokens": "Max. počet tokenů",
     "json.maxtokens.help": "Maximální počet tokenů (min. 300, nebo 0 pro vypnutí limitu)",
     "json.maxviews": "Zobrazení",

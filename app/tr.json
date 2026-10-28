@@ -1128,7 +1128,7 @@
     "json.maxsize2.help": "Klasörün maksimum boyutu (MB). 0 = sınırsın",
     "json.maxspeed": "Maksimum hız",
     "json.maxstreamsize2": "Maksimum akış boyutu",
-    "json.maxstreamsize2.help": "Web tarayıcısına gönderilen video akışının maksimum çözünürlüğü. Lisans ile sınırlıdır",
+    "json.maxstreamsize2.help": "Tarayıcıya akışı yapılan maksimum çözünürlük. Planınız tarafından sınırlandırılmıştır - <a href=\"javascript:void(0);\" onclick=\"helpers.goWebsite('buy')\">Fiyatlandırma</a>'ya bakın",
     "json.maxtokens": "Maksimum token",
     "json.maxtokens.help": "Maksimum Token Sayısı (en az 300 veya sınırı devre dışı bırakmak için 0)",
     "json.maxviews": "Görünümler",

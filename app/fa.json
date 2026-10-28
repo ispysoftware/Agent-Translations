@@ -1128,7 +1128,7 @@
     "json.maxsize2.help": "حداکثر اندازه پوشه (MB). 0 = نامحدود",
     "json.maxspeed": "حداکثر سرعت",
     "json.maxstreamsize2": "حداکثر اندازه استریم",
-    "json.maxstreamsize2.help": "حداکثر رزولوشن استریم ویدئویی به مرورگر وب. محدود به لایسنس",
+    "json.maxstreamsize2.help": "حداکثر وضوح جریان‌شده به مرورگر. محدود شده توسط پلن شما - به <a href=\"javascript:void(0);\" onclick=\"helpers.goWebsite('buy')\">قیمت‌گذاری</a> مراجعه کنید",
     "json.maxtokens": "حداکثر توکن‌ها",
     "json.maxtokens.help": "حداکثر تعداد توکن‌ها (حداقل 300 یا 0 برای غیرفعال کردن محدودیت)",
     "json.maxviews": "نمایش‌ها",

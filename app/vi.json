@@ -1128,7 +1128,7 @@
     "json.maxsize2.help": "Kích thước thư mục tối đa (MB). 0 = không giới hạn",
     "json.maxspeed": "Tốc độ tối đa",
     "json.maxstreamsize2": "Kích thước luồng tối đa",
-    "json.maxstreamsize2.help": "Độ phân giải tối đa của luồng video đến trình duyệt web. Bị giới hạn bởi bản quyền",
+    "json.maxstreamsize2.help": "Độ phân giải tối đa được phát trực tuyến đến trình duyệt. Bị giới hạn bởi gói của bạn - xem <a href=\"javascript:void(0);\" onclick=\"helpers.goWebsite('buy')\">Bảng giá</a>",
     "json.maxtokens": "Token tối đa",
     "json.maxtokens.help": "Số lượng token tối đa (tối thiểu 300 hoặc 0 để tắt giới hạn)",
     "json.maxviews": "Chế độ xem",

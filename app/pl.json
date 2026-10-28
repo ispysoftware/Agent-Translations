@@ -1128,7 +1128,7 @@
     "json.maxsize2.help": "Maksymalny rozmiar folderu (MB). 0 = nieograniczony",
     "json.maxspeed": "Maks. prędkość",
     "json.maxstreamsize2": "Maks. rozmiar strumienia",
-    "json.maxstreamsize2.help": "Maksymalna rozdzielczość strumienia wideo dla przeglądarki internetowej. Ograniczona przez licencję",
+    "json.maxstreamsize2.help": "Maksymalna rozdzielczość transmitowana do przeglądarki. Ograniczona przez Twój plan - zobacz <a href=\"javascript:void(0);\" onclick=\"helpers.goWebsite('buy')\">Cennik</a>",
     "json.maxtokens": "Maks. tokeny",
     "json.maxtokens.help": "Maksymalna liczba tokenów (min. 300 lub 0, aby wyłączyć limit)",
     "json.maxviews": "Widoki",

@@ -1128,7 +1128,7 @@
     "json.maxsize2.help": "الحد الأقصى لحجم المجلد (MB). 0 = غير محدود",
     "json.maxspeed": "السرعة القصوى",
     "json.maxstreamsize2": "الحد الأقصى لحجم البث",
-    "json.maxstreamsize2.help": "الدقة القصوى لبث الفيديو إلى متصفح الويب. مقيد حسب الترخيص",
+    "json.maxstreamsize2.help": "الحد الأقصى للدقة المرسلة إلى المتصفح. محدود حسب خطتك - انظر <a href=\"javascript:void(0);\" onclick=\"helpers.goWebsite('buy')\">التسعير</a>",
     "json.maxtokens": "الحد الأقصى للرموز (Tokens)",
     "json.maxtokens.help": "العدد الأقصى للرموز (300 كحد أدنى أو 0 لتعطيل الحد الأقصى)",
     "json.maxviews": "المشاهدات",

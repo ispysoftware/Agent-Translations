@@ -1128,7 +1128,7 @@
     "json.maxsize2.help": "폴더의 최대 크기 (MB). 0 = 무제한",
     "json.maxspeed": "최대 속도",
     "json.maxstreamsize2": "최대 스트림 크기",
-    "json.maxstreamsize2.help": "웹 브라우저로 전송할 비디오 스트림의 최대 해상도. 라이선스에 의해 제한됨",
+    "json.maxstreamsize2.help": "브라우저로 스트리밍되는 최대 해상도입니다. 사용 중인 요금제로 제한됩니다 - <a href=\"javascript:void(0);\" onclick=\"helpers.goWebsite('buy')\">요금</a>을 참조하세요",
     "json.maxtokens": "최대 토큰 수",
     "json.maxtokens.help": "토큰의 최대 개수 (최소 300 또는 비활성화하려면 0)",
     "json.maxviews": "보기",

@@ -1128,7 +1128,7 @@
     "json.maxsize2.help": "फ़ोल्डर का अधिकतम आकार (MB)। 0 = असीमित",
     "json.maxspeed": "अधिकतम गति",
     "json.maxstreamsize2": "अधिकतम स्ट्रीम आकार",
-    "json.maxstreamsize2.help": "वेब ब्राउज़र के लिए वीडियो स्ट्रीम का अधिकतम रिज़ॉल्यूशन। लाइसेंस द्वारा प्रतिबंधित",
+    "json.maxstreamsize2.help": "ब्राउज़र को स्ट्रीम किया जाने वाला अधिकतम रिज़ॉल्यूशन। आपकी योजना द्वारा सीमित - <a href=\"javascript:void(0);\" onclick=\"helpers.goWebsite('buy')\">मूल्य निर्धारण</a> देखें",
     "json.maxtokens": "अधिकतम टोकन",
     "json.maxtokens.help": "टोकन की अधिकतम संख्या (न्यूनतम 300 या अधिकतम को अक्षम करने के लिए 0)",
     "json.maxviews": "व्यू",

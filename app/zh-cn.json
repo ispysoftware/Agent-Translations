@@ -1128,7 +1128,7 @@
     "json.maxsize2.help": "文件夹的最大容量 (MB)。0 = 无限制",
     "json.maxspeed": "最高速度",
     "json.maxstreamsize2": "最大流尺寸",
-    "json.maxstreamsize2.help": "传输到网页浏览器的视频流的最高分辨率。受许可证限制",
+    "json.maxstreamsize2.help": "流式传输到浏览器的最大分辨率。受您的方案限制 - 请参阅<a href=\"javascript:void(0);\" onclick=\"helpers.goWebsite('buy')\">价格</a>",
     "json.maxtokens": "最大令牌数",
     "json.maxtokens.help": "令牌的最大数量（最小值 300，或设为 0 以禁用最大值）",
     "json.maxviews": "视图",

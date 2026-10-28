@@ -1128,7 +1128,7 @@
     "json.maxsize2.help": "Kansion enimmäiskoko (MB). 0 = rajoittamaton",
     "json.maxspeed": "Enimmäisnopeus",
     "json.maxstreamsize2": "Virran enimmäiskoko",
-    "json.maxstreamsize2.help": "Videovirran enimmäisresoluutio verkkoselaimelle. Rajoitettu lisenssin mukaan",
+    "json.maxstreamsize2.help": "Maksimaalinen resoluutio, joka lähetetään selaimeen. Tilauksesi rajoittama - katso <a href=\"javascript:void(0);\" onclick=\"helpers.goWebsite('buy')\">Hinnoittelu</a>",
     "json.maxtokens": "Enimmäismäärä tokenia",
     "json.maxtokens.help": "Tokenien enimmäismäärä (vähintään 300 tai 0 poistaaksesi rajoituksen)",
     "json.maxviews": "Näkymät",
