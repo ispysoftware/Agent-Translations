@@ -2035,6 +2035,7 @@
     "object recognition: on": "Nesne Tanıma: AÇIK",
     "objectnotfound": "Nesne bulunamadı",
     "objectrecognitionalsoenabled": "Nesne tanıma ayrıca bu kamera üzerinde etkinleştirilmiştir; bu da yapay zeka yükünü artırır",
+    "off": "Kapalı",
     "offline": "Çevrimdışı",
     "ok": "Tamam",
     "onestoragelocation": "En az bir depolama konumuna sahip olmalısınız",

@@ -2035,6 +2035,7 @@
     "object recognition: on": "对象识别：开启",
     "objectnotfound": "未找到对象",
     "objectrecognitionalsoenabled": "对象识别也在此摄像机上已启用，这会增加AI负载",
+    "off": "关闭",
     "offline": "离线",
     "ok": "确定",
     "onestoragelocation": "您必须至少有一个存储位置",

@@ -2035,6 +2035,7 @@
     "object recognition: on": "物件辨識：開啟",
     "objectnotfound": "找不到物件",
     "objectrecognitionalsoenabled": "物件辨識也在此攝影機上啟用，這會增加 AI 負載",
+    "off": "關閉",
     "offline": "離線",
     "ok": "確定",
     "onestoragelocation": "您必須至少擁有一個儲存位置",

@@ -2035,6 +2035,7 @@
     "object recognition: on": "Rozpoznawanie obiektów: WŁ.",
     "objectnotfound": "Obiekt nie został znaleziony",
     "objectrecognitionalsoenabled": "Rozpoznawanie obiektów jest również włączone na tej kamerze, co zwiększa obciążenie AI",
+    "off": "Wyłączone",
     "offline": "Offline",
     "ok": "OK",
     "onestoragelocation": "Musisz posiadać co najmniej jedną lokalizację pamięci masowej",

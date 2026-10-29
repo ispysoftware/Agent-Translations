@@ -2035,6 +2035,7 @@
     "object recognition: on": "Riconoscimento oggetti: ON",
     "objectnotfound": "Oggetto non trovato",
     "objectrecognitionalsoenabled": "Il riconoscimento oggetti è abilitato anche su questa telecamera, il che aumenta il carico di AI",
+    "off": "Off",
     "offline": "Offline",
     "ok": "OK",
     "onestoragelocation": "È necessario avere almeno una posizione di archiviazione",

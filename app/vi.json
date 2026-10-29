@@ -2035,6 +2035,7 @@
     "object recognition: on": "Nhận dạng đối tượng: BẬT",
     "objectnotfound": "Không tìm thấy đối tượng",
     "objectrecognitionalsoenabled": "Nhận dạng đối tượng cũng được bật trên camera này, điều này làm tăng tải AI",
+    "off": "Tắt",
     "offline": "Ngoại tuyến",
     "ok": "OK",
     "onestoragelocation": "Bạn phải có ít nhất một vị trí lưu trữ",

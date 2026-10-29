@@ -2035,6 +2035,7 @@
     "object recognition: on": "Reconhecimento de objeto: LIGADO",
     "objectnotfound": "Objeto não encontrado",
     "objectrecognitionalsoenabled": "Reconhecimento de objetos também está ativado nesta câmera, o que adiciona carga de IA",
+    "off": "Desligado",
     "offline": "Offline",
     "ok": "OK",
     "onestoragelocation": "Você deve ter pelo menos um local de armazenamento",

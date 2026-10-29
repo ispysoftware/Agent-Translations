@@ -2035,6 +2035,7 @@
     "object recognition: on": "オブジェクト認識: ON",
     "objectnotfound": "オブジェクトが見つかりません",
     "objectrecognitionalsoenabled": "このカメラではオブジェクト認識も有効になっており、AI負荷が増加します",
+    "off": "オフ",
     "offline": "オフライン",
     "ok": "OK",
     "onestoragelocation": "少なくとも 1 つの保存場所が必要です",

@@ -2035,6 +2035,7 @@
     "object recognition: on": "Kohteiden tunnistus: PÄÄLLÄ",
     "objectnotfound": "Kohdetta ei löytynyt",
     "objectrecognitionalsoenabled": "Kohteiden tunnistus on myös käytössä tällä kameralla, mikä lisää tekoälyn kuormitusta",
+    "off": "Pois",
     "offline": "Offline",
     "ok": "OK",
     "onestoragelocation": "Sinulla on oltava vähintään yksi tallennuspaikka",

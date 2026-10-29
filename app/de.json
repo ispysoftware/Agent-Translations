@@ -2035,6 +2035,7 @@
     "object recognition: on": "Objekterkennung: EIN",
     "objectnotfound": "Objekt nicht gefunden",
     "objectrecognitionalsoenabled": "Objekterkennung ist auch auf dieser Kamera aktiviert, was die KI-Last erhöht",
+    "off": "Aus",
     "offline": "Offline",
     "ok": "OK",
     "onestoragelocation": "Sie müssen mindestens einen Speicherort haben",

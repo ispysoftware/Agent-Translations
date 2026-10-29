@@ -2035,6 +2035,7 @@
     "object recognition: on": "Objektgjenkjenning: PÅ",
     "objectnotfound": "Objekt ikke funnet",
     "objectrecognitionalsoenabled": "Objektgjenkjenning er også aktivert på dette kameraet, noe som øker AI-belastningen",
+    "off": "Av",
     "offline": "Frakoblet",
     "ok": "OK",
     "onestoragelocation": "Du må ha minst én lagringssted",

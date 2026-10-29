@@ -2035,6 +2035,7 @@
     "object recognition: on": "Rozpoznávání objektů: ZAP.",
     "objectnotfound": "Objekt nebyl nalezen",
     "objectrecognitionalsoenabled": "Rozpoznávání objektů je na této kameře také povoleno, což zvyšuje zatížení AI",
+    "off": "Vypnuto",
     "offline": "Offline",
     "ok": "OK",
     "onestoragelocation": "Musíte mít alespoň jedno úložiště",
