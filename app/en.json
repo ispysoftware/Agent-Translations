@@ -2035,6 +2035,7 @@
     "object recognition: on": "Object Recognition: ON",
     "objectnotfound": "Object not found",
     "objectrecognitionalsoenabled": "Object recognition is also enabled on this camera, which adds AI load",
+    "off": "Off",
     "offline": "Offline",
     "ok": "OK",
     "onestoragelocation": "You must have at least one storage location",
