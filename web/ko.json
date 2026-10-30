@@ -1316,6 +1316,7 @@
   "password": "비밀번호",
   "pause": "일시 정지",
   "paused": "일시 정지됨",
+  "payment_failed": "구독 결제에 실패했습니다. 여기를 클릭하여 결제 방법을 업데이트하고 원격 액세스를 복구하세요.",
   "paymentbeingprocessed": "결제 처리 중입니다.",
   "paymentcancelled": "결제가 취소되었습니다.",
   "paymenthistory": "결제 내역",

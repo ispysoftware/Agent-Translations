@@ -1316,6 +1316,7 @@
   "password": "Passwort",
   "pause": "Pause",
   "paused": "Angehalten",
+  "payment_failed": "Ihre Abonnementzahlung ist fehlgeschlagen - klicken Sie hier, um Ihre Zahlungsmethode zu aktualisieren und den Fernzugriff wiederherzustellen",
   "paymentbeingprocessed": "Zahlung wird verarbeitet.",
   "paymentcancelled": "Zahlung abgebrochen",
   "paymenthistory": "Zahlungsverlauf",

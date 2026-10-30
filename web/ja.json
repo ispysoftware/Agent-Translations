@@ -1316,6 +1316,7 @@
   "password": "パスワード",
   "pause": "一時停止",
   "paused": "一時停止中",
+  "payment_failed": "サブスクリプションの支払いが失敗しました。ここをクリックして支払い方法を更新し、リモートアクセスを復旧してください",
   "paymentbeingprocessed": "支払い処理中。",
   "paymentcancelled": "支払いがキャンセルされました",
   "paymenthistory": "支払履歴",

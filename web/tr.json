@@ -1316,6 +1316,7 @@
   "password": "Şifre",
   "pause": "Duraklat",
   "paused": "Duraklatıldı",
+  "payment_failed": "Abonelik ödemeniz başarısız oldu - Uzaktan Erişim'i geri yüklemek için ödeme yönteminizi güncellemek amacıyla buraya tıklayın",
   "paymentbeingprocessed": "Ödeme işlemi devam ediyor.",
   "paymentcancelled": "Ödeme iptal edildi",
   "paymenthistory": "Ödeme geçmişi",

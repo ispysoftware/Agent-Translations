@@ -1316,6 +1316,7 @@
   "password": "Lozinka",
   "pause": "Pauziraj",
   "paused": "Pauzirano",
+  "payment_failed": "Vaša pretplata nije plaćena - kliknite ovdje da ažurirate način plaćanja i obnovite udaljeni pristup",
   "paymentbeingprocessed": "Plaćanje je u toku.",
   "paymentcancelled": "Plaćanje otkazano",
   "paymenthistory": "Istorija plaćanja",

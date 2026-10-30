@@ -1316,6 +1316,7 @@
   "password": "Passord",
   "pause": "Pause",
   "paused": "Pauset",
+  "payment_failed": "Abonnementbetalingen din mislyktes - klikk her for å oppdatere betalingsmåten din og gjenopprette Fjerntilgang",
   "paymentbeingprocessed": "Betaling pågår.",
   "paymentcancelled": "Betaling avbrutt",
   "paymenthistory": "Betalingshistorikk",

@@ -1316,6 +1316,7 @@
   "password": "Salasana",
   "pause": "Keskeytä",
   "paused": "Keskeytetty",
+  "payment_failed": "Tilauksesi maksu epäonnistui - klikkaa tästä päivittääksesi maksutavan ja palauttaaksesi Etäyhteyden",
   "paymentbeingprocessed": "Maksu on käynnissä.",
   "paymentcancelled": "Maksu peruttu",
   "paymenthistory": "Maksuhistoria",

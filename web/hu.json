@@ -1316,6 +1316,7 @@
   "password": "Jelszó",
   "pause": "Szüneteltetés",
   "paused": "Szüneteltetve",
+  "payment_failed": "Az előfizetési díj feldolgozása sikertelen volt - kattintson ide a fizetési mód frissítéséhez és a Távoli hozzáférés helyreállításához",
   "paymentbeingprocessed": "Fizetés folyamatban.",
   "paymentcancelled": "A fizetés lemondva",
   "paymenthistory": "Fizetési előzmények",

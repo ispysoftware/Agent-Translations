@@ -1316,6 +1316,7 @@
   "password": "Mot de passe",
   "pause": "Pause",
   "paused": "En pause",
+  "payment_failed": "Votre paiement d'abonnement a échoué - cliquez ici pour mettre à jour votre méthode de paiement et restaurer l'accès à distance",
   "paymentbeingprocessed": "Paiement en cours",
   "paymentcancelled": "Paiement annulé",
   "paymenthistory": "Historique de paiement",

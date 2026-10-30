@@ -1316,6 +1316,7 @@
   "password": "密碼",
   "pause": "暫停",
   "paused": "已暫停",
+  "payment_failed": "您的訂閱付款失敗 - 按一下此處更新付款方式並恢復遠端存取",
   "paymentbeingprocessed": "付款處理中。",
   "paymentcancelled": "付款已取消",
   "paymenthistory": "付款紀錄",

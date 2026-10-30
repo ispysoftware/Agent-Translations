@@ -1316,6 +1316,7 @@
   "password": "Lösenord",
   "pause": "Pausa",
   "paused": "Pausad",
+  "payment_failed": "Din prenumerationsbetalning misslyckades - klicka här för att uppdatera din betalningsmetod och återställa Fjärråtkomst",
   "paymentbeingprocessed": "Betalning pågår.",
   "paymentcancelled": "Betalning avbruten",
   "paymenthistory": "Betalningshistorik",

@@ -1316,6 +1316,7 @@
   "password": "Wachtwoord",
   "pause": "Pauzeren",
   "paused": "Gepauzeerd",
+  "payment_failed": "Uw abonnementsbetaling is mislukt - klik hier om uw betalingsmethode bij te werken en Remote toegang te herstellen",
   "paymentbeingprocessed": "Betaling in behandeling.",
   "paymentcancelled": "Betaling geannuleerd",
   "paymenthistory": "Betalingsgeschiedenis",

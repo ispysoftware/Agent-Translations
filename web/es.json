@@ -1316,6 +1316,7 @@
   "password": "Contraseña",
   "pause": "Pausa",
   "paused": "En pausa",
+  "payment_failed": "Tu pago de suscripción falló - haz clic aquí para actualizar tu método de pago y restaurar el Acceso remoto",
   "paymentbeingprocessed": "Pago en proceso.",
   "paymentcancelled": "Pago cancelado",
   "paymenthistory": "Historial de pagos",

@@ -1316,6 +1316,7 @@
   "password": "Password",
   "pause": "Pause",
   "paused": "Paused",
+  "payment_failed": "Your subscription payment failed - click here to update your payment method and restore remote access",
   "paymentbeingprocessed": "Payment in process.",
   "paymentcancelled": "Payment cancelled",
   "paymenthistory": "Payment History",

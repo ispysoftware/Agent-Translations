@@ -1316,6 +1316,7 @@
   "password": "Adgangskode",
   "pause": "Pause",
   "paused": "Sat på pause",
+  "payment_failed": "Din abonnementsbetaling mislykkedes - klik her for at opdatere din betalingsmetode og gendanne fjernadgang",
   "paymentbeingprocessed": "Betaling i gang.",
   "paymentcancelled": "Betaling annulleret",
   "paymenthistory": "Betalingshistorik",

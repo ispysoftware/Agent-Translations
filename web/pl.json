@@ -1316,6 +1316,7 @@
   "password": "Hasło",
   "pause": "Wstrzymaj",
   "paused": "Wstrzymano",
+  "payment_failed": "Płatność za subskrypcję nie powiodła się - kliknij tutaj, aby zaktualizować metodę płatności i przywrócić Dostęp zdalny",
   "paymentbeingprocessed": "Płatność w toku.",
   "paymentcancelled": "Płatność anulowana",
   "paymenthistory": "Historia płatności",

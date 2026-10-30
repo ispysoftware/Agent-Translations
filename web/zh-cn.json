@@ -1316,6 +1316,7 @@
   "password": "密码",
   "pause": "暂停",
   "paused": "已暂停",
+  "payment_failed": "您的订阅付款失败 - 点击此处更新您的支付方式并恢复远程访问",
   "paymentbeingprocessed": "支付处理中。",
   "paymentcancelled": "支付已取消",
   "paymenthistory": "支付记录",

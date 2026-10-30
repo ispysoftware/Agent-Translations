@@ -1316,6 +1316,7 @@
   "password": "Mật khẩu",
   "pause": "Tạm dừng",
   "paused": "Đã tạm dừng",
+  "payment_failed": "Thanh toán đăng ký của bạn không thành công - nhấp vào đây để cập nhật phương thức thanh toán của bạn và khôi phục Truy cập từ xa",
   "paymentbeingprocessed": "Thanh toán đang được xử lý.",
   "paymentcancelled": "Thanh toán đã hủy",
   "paymenthistory": "Lịch sử thanh toán",

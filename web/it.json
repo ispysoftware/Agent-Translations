@@ -1316,6 +1316,7 @@
   "password": "Password",
   "pause": "Pausa",
   "paused": "In pausa",
+  "payment_failed": "Il pagamento dell'abbonamento non è riuscito - fai clic qui per aggiornare il metodo di pagamento e ripristinare l'Accesso remoto",
   "paymentbeingprocessed": "Pagamento in corso.",
   "paymentcancelled": "Pagamento annullato",
   "paymenthistory": "Cronologia pagamenti",

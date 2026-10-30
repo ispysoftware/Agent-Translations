@@ -1316,6 +1316,7 @@
   "password": "Kata Sandi",
   "pause": "Jeda",
   "paused": "Dijeda",
+  "payment_failed": "Pembayaran langganan Anda gagal - klik di sini untuk memperbarui metode pembayaran dan memulihkan Akses Jarak Jauh",
   "paymentbeingprocessed": "Pembayaran sedang diproses.",
   "paymentcancelled": "Pembayaran dibatalkan",
   "paymenthistory": "Riwayat Pembayaran",

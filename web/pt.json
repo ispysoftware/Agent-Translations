@@ -1316,6 +1316,7 @@
   "password": "Senha",
   "pause": "Pausar",
   "paused": "Pausado",
+  "payment_failed": "O pagamento da sua assinatura falhou -clique aqui para atualizar seu método de pagamento e restaurar o acesso remoto",
   "paymentbeingprocessed": "Pagamento em andamento",
   "paymentcancelled": "Pagamento cancelado",
   "paymenthistory": "Histórico de pagamento",

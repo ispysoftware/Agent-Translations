@@ -1316,6 +1316,7 @@
   "password": "Heslo",
   "pause": "Pozastavit",
   "paused": "Pozastaveno",
+  "payment_failed": "Platba za vaše předplatné se nezdařila - kliknutím sem aktualizujte platební metodu a obnovte Vzdálený přístup",
   "paymentbeingprocessed": "Platba probíhá.",
   "paymentcancelled": "Platba byla zrušena",
   "paymenthistory": "Historie plateb",

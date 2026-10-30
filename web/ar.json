@@ -1316,6 +1316,7 @@
   "password": "كلمة المرور",
   "pause": "إيقاف مؤقت",
   "paused": "متوقف مؤقتًا",
+  "payment_failed": "فشل دفع الاشتراك - انقر هنا لتحديث طريقة الدفع واستعادة الوصول عن بعد",
   "paymentbeingprocessed": "عملية الدفع قيد التنفيذ.",
   "paymentcancelled": "تم إلغاء الدفع",
   "paymenthistory": "سجل الدفع",
