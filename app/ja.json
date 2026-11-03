@@ -1929,6 +1929,8 @@
     "json.videostreamindex": "ビデオストリームインデックス",
     "json.videostreamindex.help": "0 = 自動",
     "json.videourl": "ビデオURL",
+    "json.virtualcamera": "仮想カメラ",
+    "json.virtualcamera.help": "このコンピューター上の Teams、Zoom、ブラウザー、その他のアプリで「Agent DVR Virtual Camera」という名前のウェブカメラとしてビューを表示します。インストールするには、Agent が Windows サービスとして実行されている必要があります。",
     "json.virtualcameras": "仮想カメラ",
     "json.virtualcameras.help": "魚眼映像をデジタルPTZ付きの複数の仮想カメラに分割します。Shiftキーまたはマウス中ボタンを押して回転させます。モードを「仮想カメラ」に設定してください",
     "json.virtualregions1": "シングル",

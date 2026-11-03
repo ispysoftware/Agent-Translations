@@ -1929,6 +1929,8 @@
     "json.videostreamindex": "Chỉ số luồng video",
     "json.videostreamindex.help": "0 = tự động",
     "json.videourl": "URL video",
+    "json.virtualcamera": "Camera ảo",
+    "json.virtualcamera.help": "Hiển thị chế độ xem dưới dạng webcam có tên \"Agent DVR Virtual Camera\" trong Teams, Zoom, trình duyệt và các ứng dụng khác trên máy tính này. Agent phải chạy dưới dạng dịch vụ Windows để cài đặt nó.",
     "json.virtualcameras": "Camera ảo",
     "json.virtualcameras.help": "Chia nhỏ video fisheye thành nhiều camera ảo với PTZ kỹ thuật số. Nhấn giữ Shift hoặc nút giữa chuột để xoay. Đặt chế độ thành Virtual Cameras",
     "json.virtualregions1": "Đơn lẻ",

@@ -1929,6 +1929,8 @@
     "json.videostreamindex": "Index video streamu",
     "json.videostreamindex.help": "0 = automaticky",
     "json.videourl": "URL videa",
+    "json.virtualcamera": "Virtuální kamera",
+    "json.virtualcamera.help": "Zobrazuje pohled jako webkameru s názvem \"Agent DVR Virtual Camera\" v aplikacích Teams, Zoom, prohlížečích a dalších aplikacích na tomto počítači. Agent musí běžet jako služba Windows, aby ji bylo možné nainstalovat.",
     "json.virtualcameras": "Virtuální kamery",
     "json.virtualcameras.help": "Rozděl fisheye video na několik virtuálních kamer s digitálním PTZ. Pro rotaci držte klávesu Shift nebo středné tlačítko myši. Nastavte režim na Virtuální kamery",
     "json.virtualregions1": "Jedna",

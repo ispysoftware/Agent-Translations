@@ -1929,6 +1929,8 @@
     "json.videostreamindex": "Indice flusso video",
     "json.videostreamindex.help": "0 = automatico",
     "json.videourl": "URL video",
+    "json.virtualcamera": "Telecamera virtuale",
+    "json.virtualcamera.help": "Mostra una visualizzazione come webcam denominata \"Agent DVR Virtual Camera\" in Teams, Zoom, browser e altre applicazioni su questo computer. Agent deve essere in esecuzione come servizio Windows per installarla.",
     "json.virtualcameras": "Telecamere virtuali",
     "json.virtualcameras.help": "Divide il video fisheye in diverse telecamere virtuali con PTZ digitale. Tieni premuto shift o il tasto centrale del mouse per ruotare. Imposta la modalità su Telecamere virtuali",
     "json.virtualregions1": "Singola",

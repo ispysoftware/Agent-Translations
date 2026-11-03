@@ -1929,6 +1929,8 @@
     "json.videostreamindex": "Video Akış Endeksi",
     "json.videostreamindex.help": "0 = otomatik",
     "json.videourl": "Video URL'si",
+    "json.virtualcamera": "Sanal Kamera",
+    "json.virtualcamera.help": "Bir görünümü Teams, Zoom, tarayıcılar ve bu bilgisayardaki diğer uygulamalarda \"Agent DVR Virtual Camera\" adlı bir web kamerası olarak gösterir. Bunu yüklemek için Agent, Windows hizmeti olarak çalışıyor olmalıdır.",
     "json.virtualcameras": "Sanal Kameralar",
     "json.virtualcameras.help": "Balıkgözü videoyu dijital PTZ ile birkaç sanal kameraya böler. Döndürmek için shift veya orta fare tuşuna basılı tutun. Modu Sanal Kameralar olarak ayarlayın",
     "json.virtualregions1": "Tekil",

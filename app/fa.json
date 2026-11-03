@@ -1929,6 +1929,8 @@
     "json.videostreamindex": "شاخص استریم ویدیو",
     "json.videostreamindex.help": "0 = خودکار",
     "json.videourl": "URL ویدیو",
+    "json.virtualcamera": "دوربین مجازی",
+    "json.virtualcamera.help": "نمایشی را به عنوان یک وبکم به نام \"Agent DVR Virtual Camera\" در Teams، Zoom، مرورگرها و سایر برنامه‌های موجود در این رایانه نشان می‌دهد. Agent باید به عنوان سرویس Windows اجرا شود تا بتوان آن را نصب کرد.",
     "json.virtualcameras": "دوربین‌های مجازی",
     "json.virtualcameras.help": "ویدیو Fisheye را به چندین دوربین مجازی با PTZ دیجیتال تقسیم می‌کند. برای چرخش، کلید Shift یا دکمه میانی موس را نگه دارید. حالت را روی Virtual Cameras تنظیم کنید",
     "json.virtualregions1": "تک‌منطقه‌ای",

@@ -1929,6 +1929,8 @@
     "json.videostreamindex": "Indeks video streama",
     "json.videostreamindex.help": "0 = automatski",
     "json.videourl": "Video URL",
+    "json.virtualcamera": "Virtuelna Kamera",
+    "json.virtualcamera.help": "Prikazuje prikaz kao veb-kameru nazvanu \"Agent DVR Virtual Camera\" u Teams-u, Zoom-u, pretraživačima i ostalim aplikacijama na ovom računaru. Agent mora da se pokreće kao Windows servis da bi se instalirao.",
     "json.virtualcameras": "Virtuelne kamere",
     "json.virtualcameras.help": "Dijeli video riblje oko sočiva na nekoliko virtuelnih kamera sa digitalnim PTZ-om. Držite shift ili srednje dugme miša za rotiranje. Postavite režim na Virtuelne kamere",
     "json.virtualregions1": "Jedna",

@@ -1929,6 +1929,8 @@
     "json.videostreamindex": "فهرس بث الفيديو",
     "json.videostreamindex.help": "0 = تلقائي",
     "json.videourl": "رابط الفيديو",
+    "json.virtualcamera": "كاميرا افتراضية",
+    "json.virtualcamera.help": "يعرض عرضًا ككاميرا ويب باسم \"Agent DVR Virtual Camera\" في Teams وZoom والمتصفحات والتطبيقات الأخرى على هذا الكمبيوتر. يجب تشغيل Agent كخدمة Windows لتثبيتها.",
     "json.virtualcameras": "كاميرات افتراضية",
     "json.virtualcameras.help": "تقسيم فيديو عين السمكة إلى عدة كاميرات افتراضية مع PTZ رقمي. اضغط باستمرار على Shift أو زر الماوس الأوسط للتدوير. اضبط الوضع على الكاميرات الافتراضية",
     "json.virtualregions1": "واحدة",

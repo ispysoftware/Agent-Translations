@@ -1929,6 +1929,8 @@
     "json.videostreamindex": "ভিডিও স্ট্রিম ইনডেক্স",
     "json.videostreamindex.help": "0 = স্বয়ংক্রিয়",
     "json.videourl": "ভিডিও URL",
+    "json.virtualcamera": "ভার্চুয়াল ক্যামেরা",
+    "json.virtualcamera.help": "একটি ভিউকে \"Agent DVR Virtual Camera\" নামক ওয়েবক্যাম হিসেবে Teams, Zoom, ব্রাউজার এবং এই কম্পিউটারের অন্যান্য অ্যাপে প্রদর্শন করে। এটি ইনস্টল করতে Agent অবশ্যই Windows সেবা হিসেবে চলমান থাকতে হবে।",
     "json.virtualcameras": "ভার্চুয়াল ক্যামেরা",
     "json.virtualcameras.help": "ফিশআই ভিডিওকে ডিজিটাল PTZ সহ বেশ কয়েকটি ভার্চুয়াল ক্যামেরায় বিভক্ত করে। ঘোরানোর জন্য shift বা মাউসের মিডল বাটন চেপে ধরুন। মোড 'Virtual Cameras' এ সেট করুন",
     "json.virtualregions1": "সিঙ্গেল",

@@ -1929,6 +1929,8 @@
     "json.videostreamindex": "Videostream index",
     "json.videostreamindex.help": "0 = automatikus",
     "json.videourl": "Videó URL",
+    "json.virtualcamera": "Virtuális kamera",
+    "json.virtualcamera.help": "Az Agent DVR Virtual Camera nevű webkameráként mutatja meg a nézetet a Teams, Zoom, böngészőkben és az ezen a számítógépen található más alkalmazásokban. Az Agent DVR-nek Windows-szolgáltatásként kell futnia ahhoz, hogy telepítse azt.",
     "json.virtualcameras": "Virtuális kamerák",
     "json.virtualcameras.help": "A fisheye videót több virtuális kamerára bontja digitális PTZ-vel. A forgatáshoz tartsa nyomva a Shift vagy a középső gombot. Állítsa a módot Virtuális kamerákra",
     "json.virtualregions1": "Egyetlen",

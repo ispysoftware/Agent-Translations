@@ -1929,6 +1929,8 @@
     "json.videostreamindex": "Indeks stream video",
     "json.videostreamindex.help": "0 = otomatis",
     "json.videourl": "URL video",
+    "json.virtualcamera": "Kamera Virtual",
+    "json.virtualcamera.help": "Menampilkan tampilan sebagai webcam bernama \"Agent DVR Virtual Camera\" di Teams, Zoom, peramban, dan aplikasi lain di komputer ini. Agent harus berjalan sebagai layanan Windows untuk memasangnya.",
     "json.virtualcameras": "Kamera virtual",
     "json.virtualcameras.help": "Membagi video fisheye menjadi beberapa kamera virtual dengan PTZ digital. Tahan shift atau klik tengah mouse untuk memutar. Atur mode ke Kamera virtual",
     "json.virtualregions1": "Single",

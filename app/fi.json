@@ -1929,6 +1929,8 @@
     "json.videostreamindex": "Videovirran indeksi",
     "json.videostreamindex.help": "0 = automaattinen",
     "json.videourl": "Videon URL",
+    "json.virtualcamera": "Virtuaalikamera",
+    "json.virtualcamera.help": "Näyttää näkymän verkkokamerana nimeltä \"Agent DVR Virtual Camera\" Teams-sovelluksessa, Zoomissa, selaimissa ja muissa tämän tietokoneen sovelluksissa. Agent DVR:n on oltava käynnissä Windows-palveluna, jotta voit asentaa sen.",
     "json.virtualcameras": "Virtuaalikamerat",
     "json.virtualcameras.help": "Jakaa kalansilmävideon useisiin virtuaalikameroihin digitaalisella PTZ-toiminnolla. Pidä shift tai hiiren keskipainike pohjassa pyörittääksesi. Aseta tilaksi Virtuaalikamerat",
     "json.virtualregions1": "Yksi",

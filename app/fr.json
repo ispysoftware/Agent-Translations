@@ -1929,6 +1929,8 @@
     "json.videostreamindex": "Index du flux vidéo",
     "json.videostreamindex.help": "0 = automatique",
     "json.videourl": "URL vidéo",
+    "json.virtualcamera": "Caméra virtuelle",
+    "json.virtualcamera.help": "Affiche une vue en tant que webcam appelée « Agent DVR Virtual Camera » dans Teams, Zoom, les navigateurs et d'autres applications sur cet ordinateur. Agent doit s'exécuter en tant que service Windows pour l'installer.",
     "json.virtualcameras": "Caméras virtuelles",
     "json.virtualcameras.help": "Divise la vidéo fisheye en plusieurs caméras virtuelles avec PTZ numérique. Maintenez Shift ou le bouton central de la souris pour faire pivoter. Réglez le mode sur Caméras virtuelles",
     "json.virtualregions1": "Unique",

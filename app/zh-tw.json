@@ -1929,6 +1929,8 @@
     "json.videostreamindex": "串流索引",
     "json.videostreamindex.help": "0 = 自動",
     "json.videourl": "URL",
+    "json.virtualcamera": "虛擬攝影機",
+    "json.virtualcamera.help": "以攝影機形式顯示檢視畫面，名稱為「Agent DVR Virtual Camera」，可在此電腦上的 Teams、Zoom、瀏覽器和其他應用程式中使用。必須以 Windows 服務身份執行 Agent 才能安裝它。",
     "json.virtualcameras": "虛擬攝影機",
     "json.virtualcameras.help": "將魚眼影片分割為多個具有數位 PTZ 功能的虛擬攝影機。按住 Shift 鍵或滑鼠中鍵可旋轉。將模式設為「虛擬攝影機」",
     "json.virtualregions1": "單一",

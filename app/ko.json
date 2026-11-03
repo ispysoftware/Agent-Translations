@@ -1929,6 +1929,8 @@
     "json.videostreamindex": "비디오 스트림 인덱스",
     "json.videostreamindex.help": "0 = 자동",
     "json.videourl": "비디오 URL",
+    "json.virtualcamera": "가상 카메라",
+    "json.virtualcamera.help": "\"Agent DVR Virtual Camera\"라는 이름의 웹캠으로 이 컴퓨터의 Teams, Zoom, 브라우저 및 기타 앱에서 보기를 표시합니다. 설치하려면 Agent DVR을 Windows 서비스로 실행 중이어야 합니다.",
     "json.virtualcameras": "가상 카메라",
     "json.virtualcameras.help": "어안 영상을 디지털 PTZ를 지원하는 여러 가상 카메라로 분할합니다. Shift 키 또는 마우스 중클릭을 누르면 회전됩니다. 모드를 '가상 카메라'로 설정하세요.",
     "json.virtualregions1": "단일",
