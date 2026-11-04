@@ -154,6 +154,8 @@
     "blockedunauthorised": "You need to provide a login for remote access",
     "blockedunauthorisedusers": "Add a local user account via server settings - users and retry",
     "blockeduser": "For remote access you must add at least one user to Server Settings - Users",
+    "blockeduserremote": "<p>Your subscription includes remote access, but Agent DVR only accepts connections from outside your network once it has at least one user account. That way nobody can reach your cameras without signing in.</p><p>To add one, open Agent DVR on your home network, go to <b>Server Settings</b> and add a user on the <b>Users</b> tab. Then reload this page and sign in with it.</p><p class=\"small text-body-secondary\">User accounts also control what each person can see and do, and keep their own settings. See <a href=\"https://www.ispyconnect.com/[LANG]docs/agent/server-settings#users\" target=\"_blank\">Users</a> in the user guide.</p>",
+    "blockeduserremotetitle": "Add a user to enable remote access",
     "body": "Body",
     "cameraloginfailed": "Camera login failed. Check username and password",
     "cameranotavailable": "Camera not available",
