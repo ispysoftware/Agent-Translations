@@ -154,6 +154,8 @@
     "blockedunauthorised": "Pro vzdálený přístup je nutné poskytnout přihlašovací údaje",
     "blockedunauthorisedusers": "Přidejte místní uživatelský účet v nastavení serveru - uživatelé a zkuste to znovu",
     "blockeduser": "Pro vzdálený přístup musíte v Nastavení serveru - Uživatelé přidat alespoň jednoho uživatele",
+    "blockeduserremote": "<p>Vaše předplatné zahrnuje vzdálený přístup, ale Agent DVR přijímá připojení zvenku vaší sítě pouze poté, co má alespoň jeden uživatelský účet. Tímto způsobem se k vašim kamerám nemůže připojit nikdo bez přihlášení.</p><p>Chcete-li účet přidat, otevřete Agent DVR ve své domácí síti, přejděte na <b>Nastavení serveru</b> a přidejte uživatele na kartě <b>Uživatelé</b>. Poté znovu načtěte tuto stránku a přihlaste se pomocí tohoto účtu.</p><p class=\"small text-body-secondary\">Uživatelské účty také určují, co může každá osoba vidět a dělat, a uchovávají jejich vlastní nastavení. Podívejte se na <a href=\"https://www.ispyconnect.com/[LANG]docs/agent/server-settings#users\" target=\"_blank\">Uživatelé</a> v uživatelské příručce.</p>",
+    "blockeduserremotetitle": "Přidejte uživatele, aby byl povolen vzdálený přístup",
     "body": "Tělo",
     "cameraloginfailed": "Přihlášení ke kameře selhalo. Zkontrolujte uživatelské jméno a heslo",
     "cameranotavailable": "Kamera není k dispozici",

@@ -154,6 +154,8 @@
     "blockedunauthorised": "您需要提供远程访问的登录凭据",
     "blockedunauthorisedusers": "通过服务器设置 - 用户添加本地用户账户并重试",
     "blockeduser": "对于远程访问，您必须在“服务器设置”- “用户”中至少添加一个用户",
+    "blockeduserremote": "<p>您的订阅包含远程访问权限，但Agent DVR只有在至少有一个用户账户的情况下才会接受来自网络外部的连接。这样可以确保没有人能在未登录的情况下访问您的摄像头。</p><p>要添加用户账户，请在您的家庭网络上打开Agent DVR，转到<b>服务器设置</b>，然后在<b>用户</b>标签页上添加用户。然后重新加载此页面并用该账户登录。</p><p class=\"small text-body-secondary\">用户账户还可以控制每个人能看到和做什么，以及保存他们各自的设置。请参阅用户指南中的<a href=\"https://www.ispyconnect.com/[LANG]docs/agent/server-settings#users\" target=\"_blank\">用户</a>。</p>",
+    "blockeduserremotetitle": "添加用户以启用远程访问",
     "body": "正文",
     "cameraloginfailed": "摄像头登录失败。请检查用户名和密码",
     "cameranotavailable": "摄像头不可用",

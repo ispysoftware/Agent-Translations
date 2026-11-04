@@ -154,6 +154,8 @@
     "blockedunauthorised": "U moet inloggegevens opgeven voor toegang op afstand",
     "blockedunauthorisedusers": "Voeg een lokaal gebruikersaccount toe via serverinstellingen - gebruikers en probeer het opnieuw",
     "blockeduser": "Voor toegang op afstand moet u ten minste één gebruiker toevoegen aan Serverinstellingen - Gebruikers",
+    "blockeduserremote": "<p>Uw abonnement omvat externe toegang, maar Agent DVR accepteert alleen verbindingen van buiten uw netwerk als er ten minste één gebruikersaccount is. Op deze manier kan niemand uw camera's bereiken zonder in te loggen.</p><p>Ga naar Agent DVR op uw thuisnetwerk, open <b>Serverinstellingen</b> en voeg een gebruiker toe op het tabblad <b>Gebruikers</b>. Dan laadt u deze pagina opnieuw en meldt u zich aan.</p><p class=\"small text-body-secondary\">Gebruikersaccounts bepalen ook wat elke persoon kan zien en doen, en hebben hun eigen instellingen. Zie <a href=\"https://www.ispyconnect.com/[LANG]docs/agent/server-settings#users\" target=\"_blank\">Gebruikers</a> in de gebruikershandleiding.</p>",
+    "blockeduserremotetitle": "Voeg een gebruiker toe om remote toegang in te schakelen",
     "body": "Lichaam",
     "cameraloginfailed": "Inloggen op camera mislukt. Controleer gebruikersnaam en wachtwoord",
     "cameranotavailable": "Camera niet beschikbaar",

@@ -154,6 +154,8 @@
     "blockedunauthorised": "Za udaljeni pristup morate dostaviti prijavu",
     "blockedunauthorisedusers": "Dodajte lokalni korisnički nalog preko postavki servera - korisnici i pokušajte ponovo",
     "blockeduser": "Za udaljeni pristup morate dodati bar jednog korisnika u Postavkama servera - Korisnici",
+    "blockeduserremote": "<p>Vaša pretplata uključuje udaljeni pristup, ali Agent DVR prihvata konekcije izvan vaše mreže tek kada ima najmanje jedan korisnički nalog. Na taj način niko ne može pristupiti vašim kamerama bez prijave.</p><p>Da biste dodali jedan, otvorite Agent DVR na svojoj domaćoj mreži, idite na <b>Postavke servera</b> i dodajte korisnika na kartici <b>Korisnici</b>. Onda osvežite ovu stranicu i prijavite se sa njim.</p><p class=\"small text-body-secondary\">Korisnički nalozi takođe kontrolišu šta svaka osoba može da vidi i da radi, i čuvaju njihove vlastite postavke. Pogledajte <a href=\"https://www.ispyconnect.com/[LANG]docs/agent/server-settings#users\" target=\"_blank\">Korisnici</a> u uputstvu.</p>",
+    "blockeduserremotetitle": "Dodajte korisnika da biste omogućili udaljeni pristup",
     "body": "Tijelo",
     "cameraloginfailed": "Prijava na kameru nije uspjela. Provjerite korisničko ime i lozinku",
     "cameranotavailable": "Kamera nije dostupna",

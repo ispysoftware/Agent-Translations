@@ -154,6 +154,8 @@
     "blockedunauthorised": "Bạn cần cung cấp thông tin đăng nhập để truy cập từ xa",
     "blockedunauthorisedusers": "Thêm tài khoản người dùng cục bộ qua cài đặt máy chủ - người dùng và thử lại",
     "blockeduser": "Để truy cập từ xa, bạn phải thêm ít nhất một người dùng vào Cài đặt máy chủ - Người dùng",
+    "blockeduserremote": "<p>Gói đăng ký của bạn bao gồm truy cập từ xa, nhưng Agent DVR chỉ chấp nhận kết nối từ bên ngoài mạng của bạn khi nó có ít nhất một tài khoản người dùng. Cách này đảm bảo không ai có thể truy cập camera của bạn mà không đăng nhập.</p><p>Để thêm tài khoản, mở Agent DVR trên mạng nhà của bạn, đi tới <b>Cài đặt máy chủ</b> và thêm người dùng trên tab <b>Người dùng</b>. Sau đó tải lại trang này và đăng nhập bằng tài khoản đó.</p><p class=\"small text-body-secondary\">Tài khoản người dùng cũng kiểm soát những gì mỗi người có thể xem và thực hiện, đồng thời lưu giữ cài đặt riêng của họ. Xem <a href=\"https://www.ispyconnect.com/[LANG]docs/agent/server-settings#users\" target=\"_blank\">Người dùng</a> trong hướng dẫn sử dụng.</p>",
+    "blockeduserremotetitle": "Thêm người dùng để bật tính năng truy cập từ xa",
     "body": "Thân máy",
     "cameraloginfailed": "Đăng nhập camera thất bại. Kiểm tra tên đăng nhập và mật khẩu",
     "cameranotavailable": "Camera không khả dụng",

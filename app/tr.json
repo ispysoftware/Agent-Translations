@@ -154,6 +154,8 @@
     "blockedunauthorised": "Uzaktan erişim için bir giriş bilgisi sağlamanız gerekiyor",
     "blockedunauthorisedusers": "Sunucu ayarları - kullanıcılar kısmından yerel bir kullanıcı hesabı ekleyin ve tekrar deneyin",
     "blockeduser": "Uzaktan erişim için Sunucu Ayarları - Kullanıcılar kısmına en az bir kullanıcı eklemelisiniz",
+    "blockeduserremote": "<p>Aboneliğiniz uzaktan erişim içerir, ancak Agent DVR ağınızın dışından bağlantıları yalnızca en az bir kullanıcı hesabı olduğunda kabul eder. Bu şekilde kimse giriş yapmadan kameralarınıza erişemez.</p><p>Bir tane eklemek için, ev ağınızda Agent DVR'ı açın, <b>Sunucu Ayarları</b>'na gidin ve <b>Kullanıcılar</b> sekmesinde bir kullanıcı ekleyin. Sonra bu sayfayı yeniden yükleyin ve bununla giriş yapın.</p><p class=\"small text-body-secondary\">Kullanıcı hesapları ayrıca her kişinin neler görebileceğini ve yapabileceğini kontrol eder ve kendi ayarlarını tutar. Kullanıcı kılavuzunun <a href=\"https://www.ispyconnect.com/[LANG]docs/agent/server-settings#users\" target=\"_blank\">Kullanıcılar</a> bölümüne bakın.</p>",
+    "blockeduserremotetitle": "Uzaktan erişimi etkinleştirmek için bir kullanıcı ekleyin",
     "body": "Gövde",
     "cameraloginfailed": "Kamera girişi başarısız. Kullanıcı adı ve şifreyi kontrol edin",
     "cameranotavailable": "Kamera kullanılabilir değil",

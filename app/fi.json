@@ -154,6 +154,8 @@
     "blockedunauthorised": "Sinun on annettava kirjautumistiedot etäyhteyttä varten",
     "blockedunauthorisedusers": "Lisää paikallinen käyttäjätili palvelimen asetusten - käyttäjät kautta ja yritä uudelleen",
     "blockeduser": "Etäyhteyttä varten sinun on lisättävä vähintään yksi käyttäjä kohtaan Palvelimen asetukset - Käyttäjät",
+    "blockeduserremote": "<p>Tilauksesi sisältää etäyhteyden, mutta Agent DVR hyväksyy yhteyksiä verkon ulkopuolelta vasta, kun sillä on vähintään yksi käyttäjätili. Näin kukaan ei pääse kameroihisi ilman kirjautumista.</p><p>Lisätäksesi käyttäjän, avaa Agent DVR kotiverkossasi, siirry kohtaan <b>Palvelimen asetukset</b> ja lisää käyttäjä välilehdellä <b>Käyttäjät</b>. Sitten lataa tämä sivu uudelleen ja kirjaudu sisään sillä.</p><p class=\"small text-body-secondary\">Käyttäjätilit määrittävät myös sen, mitä kukin henkilö voi nähdä ja tehdä, ja säilyttävät omat asetuksensa. Katso <a href=\"https://www.ispyconnect.com/[LANG]docs/agent/server-settings#users\" target=\"_blank\">Käyttäjät</a> käyttöoppaasta.</p>",
+    "blockeduserremotetitle": "Lisää käyttäjä ottaaksesi etäyhteyden käyttöön",
     "body": "Runko",
     "cameraloginfailed": "Kameran kirjautuminen epäonnistui. Tarkista käyttäjätunnus ja salasana",
     "cameranotavailable": "Kamera ei ole käytettävissä",

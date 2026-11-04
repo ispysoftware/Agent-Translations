@@ -154,6 +154,8 @@
     "blockedunauthorised": "リモートアクセスにはログインが必要です",
     "blockedunauthorisedusers": "サーバー設定の「ユーザー」からローカルユーザーアカウントを追加し、再試行してください",
     "blockeduser": "リモートアクセスするには、サーバー設定の「ユーザー」に少なくとも1人のユーザーを追加する必要があります",
+    "blockeduserremote": "<p>サブスクリプションにはリモートアクセスが含まれていますが、Agent DVRは、少なくとも1つのユーザーアカウントがある場合にのみ、ネットワーク外からの接続を受け入れます。こうすることで、誰もサインインなしにカメラにアクセスできなくなります。</p><p>ユーザーを追加するには、ホームネットワーク上でAgent DVRを開き、「サーバー設定」に移動して「ユーザー」タブでユーザーを追加します。その後このページを再読み込みして、そのユーザーでサインインしてください。</p><p class=\"small text-body-secondary\">ユーザーアカウントは、各ユーザーが表示・操作できる内容を制御し、独自の設定を保持します。ユーザーガイドの<a href=\"https://www.ispyconnect.com/[LANG]docs/agent/server-settings#users\" target=\"_blank\">ユーザー</a>を参照してください。</p>",
+    "blockeduserremotetitle": "ユーザーを追加してリモートアクセスを有効にします",
     "body": "本文",
     "cameraloginfailed": "カメラへのログインに失敗しました。ユーザー名とパスワードを確認してください",
     "cameranotavailable": "カメラが利用できません",

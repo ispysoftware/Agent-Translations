@@ -154,6 +154,8 @@
     "blockedunauthorised": "Du skal angive et login for fjernadgang",
     "blockedunauthorisedusers": "Tilføj en lokal brugerkonto via serverindstillinger - brugere og prøv igen",
     "blockeduser": "For fjernadgang skal du tilføje mindst én bruger i serverindstillinger - brugere",
+    "blockeduserremote": "<p>Dit abonnement omfatter fjernadgang, men Agent DVR accepterer kun forbindelser fra uden for dit netværk, når der er mindst én brugerkonto. På denne måde kan ingen få adgang til dine kameraer uden at logge ind.</p><p>For at tilføje en, skal du åbne Agent DVR på dit hjemmenetværk, gå til <b>Serverindstillinger</b> og tilføje en bruger under fanen <b>Brugere</b>. Derefter skal du genindlæse denne side og logge ind med den.</p><p class=\"small text-body-secondary\">Brugerkonti kontrollerer også, hvad hver person kan se og gøre, og gemmer deres egne indstillinger. Se <a href=\"https://www.ispyconnect.com/[LANG]docs/agent/server-settings#users\" target=\"_blank\">Brugere</a> i brugervejledningen.</p>",
+    "blockeduserremotetitle": "Tilføj en bruger for at aktivere fjernadgang",
     "body": "Krop",
     "cameraloginfailed": "Login på kamera mislykkedes. Kontroller brugernavn og adgangskode",
     "cameranotavailable": "Kamera ikke tilgængeligt",

@@ -154,6 +154,8 @@
     "blockedunauthorised": "您需提供登入資訊以進行遠端存取",
     "blockedunauthorisedusers": "請透過「伺服器設定」>「使用者」新增本機使用者帳戶後再試一次",
     "blockeduser": "若要使用遠端存取功能，必須在「伺服器設定」>「使用者」中至少新增一位使用者",
+    "blockeduserremote": "<p>您的訂閱包含遠端存取功能，但 Agent DVR 只有在至少有一個使用者帳戶後，才會接受來自網路外部的連線。這樣就沒有人能在未登入的情況下存取您的攝影機。</p><p>若要新增帳戶，請在您的家用網路上開啟 Agent DVR，前往<b>伺服器設定</b>，然後在<b>使用者</b>標籤上新增使用者。然後重新載入此頁面，並使用該帳戶登入。</p><p class=\"small text-body-secondary\">使用者帳戶也控制每個人可以查看和執行的操作，並保留他們自己的設定。請參閱使用指南中的<a href=\"https://www.ispyconnect.com/[LANG]docs/agent/server-settings#users\" target=\"_blank\">使用者</a>。</p>",
+    "blockeduserremotetitle": "新增使用者以啟用遠端存取",
     "body": "訊息內容 (Body)",
     "cameraloginfailed": "相機登入失敗。請檢查使用者名稱與密碼",
     "cameranotavailable": "相機無法連線",

@@ -154,6 +154,8 @@
     "blockedunauthorised": "Debe proporcionar un inicio de sesión para el acceso remoto",
     "blockedunauthorisedusers": "Añada una cuenta de usuario local a través de la configuración del servidor - usuarios e inténtelo de nuevo",
     "blockeduser": "Para el acceso remoto debe añadir al menos un usuario en Configuración del servidor - Usuarios",
+    "blockeduserremote": "<p>Su suscripción incluye acceso remoto, pero Agent DVR solo acepta conexiones desde fuera de su red una vez que tiene al menos una cuenta de usuario. De esta manera, nadie puede acceder a sus cámaras sin iniciar sesión.</p><p>Para agregar una, abra Agent DVR en su red doméstica, vaya a <b>Configuración del servidor</b> y agregue un usuario en la pestaña <b>Usuarios</b>. Luego recargue esta página e inicie sesión con ella.</p><p class=\"small text-body-secondary\">Las cuentas de usuario también controlan qué puede ver y hacer cada persona, y conservan sus ajustes propios. Consulte <a href=\"https://www.ispyconnect.com/[LANG]docs/agent/server-settings#users\" target=\"_blank\">Usuarios</a> en la guía del usuario.</p>",
+    "blockeduserremotetitle": "Añada un usuario para habilitar el acceso remoto",
     "body": "Cuerpo",
     "cameraloginfailed": "Error de inicio de sesión en la cámara. Compruebe el usuario y la contraseña",
     "cameranotavailable": "Cámara no disponible",

@@ -154,6 +154,8 @@
     "blockedunauthorised": "Anda perlu memberikan login untuk akses jarak jauh",
     "blockedunauthorisedusers": "Tambahkan akun pengguna lokal melalui pengaturan server - pengguna dan coba lagi",
     "blockeduser": "Untuk akses jarak jauh, Anda harus menambahkan setidaknya satu pengguna ke Pengaturan Server - Pengguna",
+    "blockeduserremote": "<p>Langganan Anda menyertakan akses jarak jauh, tetapi Agent DVR hanya menerima koneksi dari luar jaringan Anda setelah memiliki setidaknya satu akun pengguna. Dengan cara ini, tidak ada orang yang dapat mengakses kamera Anda tanpa masuk.</p><p>Untuk menambahkan satu akun, buka Agent DVR di jaringan rumah Anda, buka <b>Pengaturan Server</b> dan tambahkan pengguna di tab <b>Pengguna</b>. Kemudian muat ulang halaman ini dan masuk dengan akun tersebut.</p><p class=\"small text-body-secondary\">Akun pengguna juga mengontrol apa yang dapat dilihat dan dilakukan setiap orang, serta menyimpan pengaturan sendiri mereka. Lihat <a href=\"https://www.ispyconnect.com/[LANG]docs/agent/server-settings#users\" target=\"_blank\">Pengguna</a> dalam panduan pengguna.</p>",
+    "blockeduserremotetitle": "Tambahkan pengguna untuk mengaktifkan akses jarak jauh",
     "body": "Tubuh",
     "cameraloginfailed": "Login kamera gagal. Periksa username dan password",
     "cameranotavailable": "Kamera tidak tersedia",

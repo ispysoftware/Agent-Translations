@@ -154,6 +154,8 @@
     "blockedunauthorised": "Vous devez fournir un identifiant pour l'accès à distance",
     "blockedunauthorisedusers": "Ajoutez un compte utilisateur local via les paramètres du serveur - utilisateurs, puis réessayez",
     "blockeduser": "Pour l'accès à distance, vous devez ajouter au moins un utilisateur dans les paramètres du serveur - Utilisateurs",
+    "blockeduserremote": "<p>Votre abonnement inclut l'accès à distance, mais Agent DVR n'accepte les connexions de l'extérieur de votre réseau qu'une fois qu'il dispose d'au moins un compte utilisateur. De cette façon, personne ne peut accéder à vos caméras sans s'identifier.</p><p>Pour en ajouter un, ouvrez Agent DVR sur votre réseau domestique, accédez à <b>Paramètres du serveur</b> et ajoutez un utilisateur dans l'onglet <b>Utilisateurs</b>. Ensuite, rechargez cette page et identifiez-vous avec celui-ci.</p><p class=\"small text-body-secondary\">Les comptes utilisateur contrôlent également ce que chaque personne peut voir et faire, et conservent leurs paramètres personnels. Consultez <a href=\"https://www.ispyconnect.com/[LANG]docs/agent/server-settings#users\" target=\"_blank\">Utilisateurs</a> dans le guide de l'utilisateur.</p>",
+    "blockeduserremotetitle": "Ajouter un utilisateur pour activer l'accès à distance",
     "body": "Corps",
     "cameraloginfailed": "Échec de la connexion à la caméra. Vérifiez l'identifiant et le mot de passe",
     "cameranotavailable": "Caméra non disponible",

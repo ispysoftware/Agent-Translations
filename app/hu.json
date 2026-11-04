@@ -154,6 +154,8 @@
     "blockedunauthorised": "A távoli hozzáféréshez meg kell adnia a bejelentkezési adatokat",
     "blockedunauthorisedusers": "Adjon hozzá egy helyi felhasználói fiókot a szerverbeállításokon keresztül – Felhasználók, majd próbálja újra",
     "blockeduser": "A távoli hozzáféréshez legalább egy felhasználót kell hozzáadnia a Szerver beállítások – Felhasználók menüben",
+    "blockeduserremote": "<p>Az előfizetésed tartalmazza a távoli hozzáférést, de az Agent DVR csak akkor fogad el kapcsolódásokat a hálózaton kívülről, ha legalább egy felhasználói fiók létezik. Ily módon senki sem érheti el a kameráidat bejelentkezés nélkül.</p><p>Hozzáadáshoz nyisd meg az Agent DVR-t a saját hálózatodban, lépj a <b>Szerverbeállítások</b>ba, és adj hozzá egy felhasználót a <b>Felhasználók</b> lapon. Ezt követően töltsd újra be ezt az oldalt, és jelentkezz be vele.</p><p class=\"small text-body-secondary\">A felhasználói fiókok azt is szabályozzák, hogy az egyes személyek mit láthatnak és mit tehetnek, valamint megőrzik a saját beállításaikat. Lásd a <a href=\"https://www.ispyconnect.com/[LANG]docs/agent/server-settings#users\" target=\"_blank\">Felhasználók</a> részt a felhasználói útmutatóban.</p>",
+    "blockeduserremotetitle": "Felhasználó hozzáadása a távoli hozzáférés engedélyezéséhez",
     "body": "Törzs",
     "cameraloginfailed": "A kamera bejelentkezése sikertelen. Ellenőrizze a felhasználónevet és a jelszót",
     "cameranotavailable": "A kamera nem érhető el",

@@ -154,6 +154,8 @@
     "blockedunauthorised": "È necessario fornire un login per l'accesso remoto",
     "blockedunauthorisedusers": "Aggiungere un account utente locale tramite le impostazioni server - utenti e riprovare",
     "blockeduser": "Per l'accesso remoto è necessario aggiungere almeno un utente in Impostazioni server - Utenti",
+    "blockeduserremote": "<p>L'abbonamento include l'accesso remoto, ma Agent DVR accetta connessioni dall'esterno della tua rete solo se hai almeno un account utente. In questo modo nessuno può raggiungere le tue telecamere senza effettuare l'accesso.</p><p>Per aggiungerne uno, apri Agent DVR sulla tua rete domestica, vai su <b>Impostazioni server</b> e aggiungi un utente nella scheda <b>Utenti</b>. Poi ricarica questa pagina e accedi con esso.</p><p class=\"small text-body-secondary\">Gli account utente controllano anche ciò che ogni persona può vedere e fare, e mantengono le proprie impostazioni. Vedi <a href=\"https://www.ispyconnect.com/[LANG]docs/agent/server-settings#users\" target=\"_blank\">Utenti</a> nella guida utente.</p>",
+    "blockeduserremotetitle": "Aggiungi un utente per abilitare l'accesso remoto",
     "body": "Corpo",
     "cameraloginfailed": "Accesso alla telecamera fallito. Controllare nome utente e password",
     "cameranotavailable": "Telecamera non disponibile",
