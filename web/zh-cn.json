@@ -1166,6 +1166,7 @@
     "userguide": "用户指南"
   },
   "holdtotalk": "按住按钮进行对讲",
+  "homeassistantcloud": "Agent DVR 无法通过 Home Assistant Cloud 从您的家庭网络外部进行连接。请改用 Agent DVR 自己的远程访问功能，访问 ispyconnect.com。",
   "hours": "小时",
   "icon": "图标",
   "icons": "图标",
@@ -1305,6 +1306,7 @@
   "on": "开启",
   "online": "在线",
   "onlylocal": "此功能仅在本地用户界面中可用",
+  "openispyconnect": "打开 ispyconnect.com",
   "optimisear": "优化 AR",
   "optionsfound": "选项已找到：[COUNT]",
   "or": "或",

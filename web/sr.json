@@ -1166,6 +1166,7 @@
     "userguide": "Uputstvo za korisnike"
   },
   "holdtotalk": "Držite dugme da biste govorili",
+  "homeassistantcloud": "Agent DVR se ne može povezati kroz Home Assistant Cloud izvan vaše kućne mreže. Umjesto toga, koristite vlastiti udaljeni pristup Agent DVR-a na ispyconnect.com.",
   "hours": "Sati",
   "icon": "Ikona",
   "icons": "Ikone",
@@ -1305,6 +1306,7 @@
   "on": "Uključeno",
   "online": "Na mreži",
   "onlylocal": "Ova funkcija je dostupna samo u lokalnom interfejsu",
+  "openispyconnect": "Otvorite ispyconnect.com",
   "optimisear": "Optimizuj AR",
   "optionsfound": "Pronađeno opcija: [COUNT]",
   "or": "Ili",

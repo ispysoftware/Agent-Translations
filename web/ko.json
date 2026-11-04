@@ -1166,6 +1166,7 @@
     "userguide": "사용자 가이드"
   },
   "holdtotalk": "버튼을 길게 누르고 대화하세요",
+  "homeassistantcloud": "Agent DVR는 집 네트워크 외부에서 Home Assistant 클라우드를 통해 연결할 수 없습니다. 대신 ispyconnect.com에서 Agent DVR의 자체 원격 액세스를 사용하세요.",
   "hours": "시간",
   "icon": "아이콘",
   "icons": "아이콘들",
@@ -1305,6 +1306,7 @@
   "on": "켬",
   "online": "온라인",
   "onlylocal": "이 기능은 로컬 UI 에서만 사용할 수 있습니다",
+  "openispyconnect": "ispyconnect.com 열기",
   "optimisear": "AR 최적화",
   "optionsfound": "찾은 옵션: [COUNT]",
   "or": "또는",

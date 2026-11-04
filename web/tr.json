@@ -1166,6 +1166,7 @@
     "userguide": "Kullanıcı Kılavuzu"
   },
   "holdtotalk": "Konuşmak için düğmeyi basılı tutun",
+  "homeassistantcloud": "Agent DVR, ev ağınızın dışından Home Assistant Cloud üzerinden bağlanamaz. Bunun yerine ispyconnect.com adresinde Agent DVR'ın kendi Uzaktan Erişim özelliğini kullanın.",
   "hours": "Saatler",
   "icon": "Simge",
   "icons": "Simgeler",
@@ -1305,6 +1306,7 @@
   "on": "Açık",
   "online": "Çevrimiçi",
   "onlylocal": "Bu özellik yalnızca yerel kullanıcı arayüzünde kullanılabilir",
+  "openispyconnect": "ispyconnect.com'u aç",
   "optimisear": "AR'yi Optimize Et",
   "optionsfound": "Bulunan seçenekler: [COUNT]",
   "or": "Veya",

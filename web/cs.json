@@ -1166,6 +1166,7 @@
     "userguide": "Uživatelská příručka"
   },
   "holdtotalk": "Podržte tlačítko pro mluvit",
+  "homeassistantcloud": "Agent DVR se nemůže připojit přes Home Assistant Cloud mimo vaši domácí síť. Místo toho použijte vlastní vzdálený přístup Agent DVR na ispyconnect.com.",
   "hours": "Hodiny",
   "icon": "Ikona",
   "icons": "Ikony",
@@ -1305,6 +1306,7 @@
   "on": "Zapnuto",
   "online": "Online",
   "onlylocal": "Tato funkce je dostupná pouze v místním uživatelském rozhraní",
+  "openispyconnect": "Otevřít ispyconnect.com",
   "optimisear": "Optimalizovat AR",
   "optionsfound": "Nalezených možností: [COUNT]",
   "or": "nebo",

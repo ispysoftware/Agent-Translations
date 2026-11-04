@@ -1166,6 +1166,7 @@
     "userguide": "Käyttäjän opas"
   },
   "holdtotalk": "Pidä painiketta pohjassa puhuaksesi",
+  "homeassistantcloud": "Agent DVR ei voi muodostaa yhteyttä Home Assistant Cloudin kautta kotiverkon ulkopuolelta. Käytä sen sijaan Agent DVR:n omaa etäyhteyttä osoitteessa ispyconnect.com.",
   "hours": "Tunnit",
   "icon": "Kuvake",
   "icons": "Kuvakkeet",
@@ -1305,6 +1306,7 @@
   "on": "Päällä",
   "online": "Verkossa",
   "onlylocal": "Tämä ominaisuus on saatavilla vain paikallisessa käyttöliittymässä",
+  "openispyconnect": "Avaa ispyconnect.com",
   "optimisear": "Optimoi AR",
   "optionsfound": "Vaihtoehtoja löytyi: [COUNT]",
   "or": "Tai",

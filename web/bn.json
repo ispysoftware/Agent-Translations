@@ -1166,6 +1166,7 @@
     "userguide": "ব্যবহারকারী গাইড"
   },
   "holdtotalk": "বোতামটি ধরে রেখে কথা বলুন",
+  "homeassistantcloud": "Agent DVR বাড়ির বাইরের নেটওয়ার্ক থেকে Home Assistant ক্লাউডের মাধ্যমে সংযোগ করতে পারে না। পরিবর্তে ispyconnect.com-এ Agent DVR-এর নিজস্ব রিমোট অ্যাক্সেস ব্যবহার করুন।",
   "hours": "ঘণ্টা",
   "icon": "আইকন",
   "icons": "আইকনসমূহ",
@@ -1305,6 +1306,7 @@
   "on": "অন",
   "online": "অনলাইন",
   "onlylocal": "এই ফিচারটি শুধুমাত্র লোকাল UI-তে উপলব্ধ",
+  "openispyconnect": "ispyconnect.com খুলুন",
   "optimisear": "AR অপ্টিমাইজ করুন",
   "optionsfound": "অপশন পাওয়া গেছে: [COUNT]",
   "or": "অথবা",

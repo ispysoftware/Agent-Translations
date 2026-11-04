@@ -1166,6 +1166,7 @@
     "userguide": "Дапаможнік карыстальніка"
   },
   "holdtotalk": "Трымайце кнопку, каб размаўляць",
+  "homeassistantcloud": "Agent DVR не можа падключыцца праз Home Assistant Cloud з-за межамі вашай дамашняй сеткі. Замест гэтага выкарыстоўвайце ўласны Аддалены доступ Agent DVR на ispyconnect.com.",
   "hours": "Гадзіны",
   "icon": "Значок",
   "icons": "Значкі",
@@ -1305,6 +1306,7 @@
   "on": "Укл.",
   "online": "У сетцы",
   "onlylocal": "Гэта функцыя даступная толькі ў лакальным інтэрфейсе",
+  "openispyconnect": "Адкрыць ispyconnect.com",
   "optimisear": "Аптымізаваць AR",
   "optionsfound": "Знойдзена варыянтаў: [COUNT]",
   "or": "Або",

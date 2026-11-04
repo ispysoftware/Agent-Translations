@@ -1166,6 +1166,7 @@
     "userguide": "Hướng dẫn sử dụng"
   },
   "holdtotalk": "Nhấn giữ nút để đàm thoại",
+  "homeassistantcloud": "Agent DVR không thể kết nối qua Home Assistant Cloud từ bên ngoài mạng gia đình của bạn. Thay vào đó, hãy sử dụng tính năng truy cập từ xa của chính Agent DVR tại ispyconnect.com.",
   "hours": "Giờ",
   "icon": "Biểu tượng",
   "icons": "Các biểu tượng",
@@ -1305,6 +1306,7 @@
   "on": "Bật",
   "online": "Trực tuyến",
   "onlylocal": "Tính năng này chỉ khả dụng trên giao diện cục bộ",
+  "openispyconnect": "Mở ispyconnect.com",
   "optimisear": "Tối ưu hóa AR",
   "optionsfound": "Tìm thấy [COUNT] tùy chọn",
   "or": "Hoặc",

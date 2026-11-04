@@ -1166,6 +1166,7 @@
     "userguide": "Felhasználói útmutató"
   },
   "holdtotalk": "Tartsd lenyomva a gombot a beszéléshez",
+  "homeassistantcloud": "Az Agent DVR nem tud csatlakozni a Home Assistant Cloudon keresztül az otthoni hálózatán kívülről. Használja helyette az Agent DVR saját távoli hozzáférését az ispyconnect.com oldalon.",
   "hours": "Órák",
   "icon": "Ikon",
   "icons": "Ikonok",
@@ -1305,6 +1306,7 @@
   "on": "Be",
   "online": "Online",
   "onlylocal": "Ez a funkció csak a helyi felületen érhető el",
+  "openispyconnect": "Nyissa meg az ispyconnect.com weboldalt",
   "optimisear": "AR optimalizálása",
   "optionsfound": "Talált opciók száma: [COUNT]",
   "or": "Vagy",

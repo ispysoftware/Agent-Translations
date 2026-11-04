@@ -1166,6 +1166,7 @@
     "userguide": "Guía del usuario"
   },
   "holdtotalk": "Mantén presionado el botón para hablar",
+  "homeassistantcloud": "Agent DVR no puede conectarse a través de Home Assistant Cloud desde fuera de tu red doméstica. Usa el acceso remoto propio de Agent DVR en ispyconnect.com en su lugar.",
   "hours": "Horas",
   "icon": "Icono",
   "icons": "Iconos",
@@ -1305,6 +1306,7 @@
   "on": "Activado",
   "online": "En línea",
   "onlylocal": "Esta función solo está disponible en la interfaz local",
+  "openispyconnect": "Abrir ispyconnect.com",
   "optimisear": "Optimizar AR",
   "optionsfound": "Opciones encontradas: [COUNT]",
   "or": "O",

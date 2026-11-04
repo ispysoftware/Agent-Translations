@@ -1166,6 +1166,7 @@
     "userguide": "使用者指南"
   },
   "holdtotalk": "按住按鈕以進行對講",
+  "homeassistantcloud": "Agent DVR 無法透過 Home Assistant 的雲端從家庭網路外部連線。請改用 Agent DVR 自有的遠端存取，網址為 ispyconnect.com。",
   "hours": "小時",
   "icon": "圖示",
   "icons": "圖示",
@@ -1305,6 +1306,7 @@
   "on": "開啟",
   "online": "線上",
   "onlylocal": "此功能僅在本機使用者介面中可用",
+  "openispyconnect": "打開 ispyconnect.com",
   "optimisear": "最佳化 AR",
   "optionsfound": "找到選項：[COUNT]",
   "or": "或",

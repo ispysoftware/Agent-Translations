@@ -1166,6 +1166,7 @@
     "userguide": "उपयोगकर्ता मार्गदर्शिका"
   },
   "holdtotalk": "बटन को दबाए रखें बात करने के लिए",
+  "homeassistantcloud": "Agent DVR घर के नेटवर्क के बाहर से Home Assistant क्लाउड के माध्यम से कनेक्ट नहीं कर सकता। इसके बजाय ispyconnect.com पर Agent DVR के अपने रिमोट एक्सेस का उपयोग करें।",
   "hours": "घंटे",
   "icon": "आइकन",
   "icons": "आइकन",
@@ -1305,6 +1306,7 @@
   "on": "ऑन",
   "online": "ऑनलाइन",
   "onlylocal": "यह सुविधा केवल लोकल UI पर उपलब्ध है",
+  "openispyconnect": "ispyconnect.com खोलें",
   "optimisear": "AR को ऑप्टिमाइज़ करें",
   "optionsfound": "विकल्प मिले: [COUNT]",
   "or": "या",

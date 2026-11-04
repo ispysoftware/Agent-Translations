@@ -1166,6 +1166,7 @@
     "userguide": "Panduan Pengguna"
   },
   "holdtotalk": "Tahan tombol untuk bicara",
+  "homeassistantcloud": "Agent DVR tidak dapat terhubung melalui Home Assistant Cloud dari luar jaringan rumah Anda. Gunakan Akses Jarak Jauh milik Agent DVR sendiri di ispyconnect.com sebagai gantinya.",
   "hours": "Jam",
   "icon": "Ikon",
   "icons": "Ikon",
@@ -1305,6 +1306,7 @@
   "on": "Nyala",
   "online": "Online",
   "onlylocal": "Fitur ini hanya tersedia pada UI lokal",
+  "openispyconnect": "Buka ispyconnect.com",
   "optimisear": "Optimalkan AR",
   "optionsfound": "Opsi ditemukan: [COUNT]",
   "or": "Atau",
