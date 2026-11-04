@@ -147,6 +147,8 @@
     "blockedip2": "\n    リモートアクセスがブロックされました（外部IP：[IPADDRESS]）。<br/>\n    リモートアクセスのオプションについては<a href=\"https://www.ispyconnect.com/[LANG]buy\">価格表</a>をご覧ください。<br/>ローカルネットワークからのアクセスには、プライベート（LAN）IPアドレスを使用してください。有効なプライベートIPアドレスは以下の通りです：<p><ul><li>10.0.0.0 ～ 10.255.255.255</li><li>172.16.0.0 ～ 172.31.255.255</li><li>192.168.0.0 ～ 192.168.255.255</li><li>TailScaleなどのVPNを使用すると、ローカルネットワークでもこのエラーが発生する場合があります。</li></ul></p>",
     "blockedlicense2": "<p>リモート接続の手順については<a href=\"https://www.ispyconnect.com/[LANG]docs/agent/remoteaccess\" target=\"_blank\">リモートアクセス</a>をご覧ください。</p>",
     "blockedprotected": "サーバー設定の「保護されたAPI」チェックを外してください。または、管理者ユーザーアカウントを使用して基本認証を提供してください",
+    "blockedremote": "<p>Agent DVRにローカルネットワーク外からアクセスしています。これはリモートアクセスであり、Agent DVRサブスクリプションが必要です。</p><p>Agent DVRは自分のネットワーク上での使用は無料です。リモートアクセスは異なります。毎日実行するための実際のインフラストラクチャが必要だからです。ポートを開かずにどこからでも安全に接続するリレーサーバー、iOSおよびAndroidアプリ、プッシュ通知、およびサポートの質問に答えるスタッフです。サブスクリプションはすべてのサービスを稼働させ、Agent DVRの継続的な開発を支援しています。</p><p><a class=\"btn btn-primary\" href=\"https://www.ispyconnect.com/[LANG]buy\" target=\"_blank\">サブスクリプションオプションを表示</a></p><p>既にサブスクリプションがありますか？接続方法については<a href=\"https://www.ispyconnect.com/[LANG]docs/agent/remoteaccess\" target=\"_blank\">リモートアクセス</a>をご覧ください。</p><p class=\"small text-body-secondary\">ホームネットワーク上ですか？代わりにAgent DVRをローカルアドレスを使用して開いてください。192.168、10、または172.16～172.31で始まるアドレスです。TailscaleなどのVPNを使用していると、ローカル接続がリモートに見える場合があります。[IPADDRESS]から接続しています。</p>",
+    "blockedremotetitle": "リモートアクセスにはサブスクリプションが必要です",
     "blockedsslonly": "Media/XML/Config.jsonでSSLOnlyがtrueに設定されており、これは非安全なリクエストです。SSL経由でのアクセスができない場合は、Agent DVRサービスを停止し、JSONファイル内のSSLOnlyをfalseに変更して再起動してください",
     "blockedtitle": "アクセス拒否",
     "blockedunauthorised": "リモートアクセスにはログインが必要です",

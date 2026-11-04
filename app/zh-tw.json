@@ -147,6 +147,8 @@
     "blockedip2": "\n    遠端存取已被阻擋（外部 IP：[IPADDRESS]）。<br/>\n    請參閱 <a href=\"https://www.ispyconnect.com/[LANG]buy\">定價方案</a> 以了解遠端存取選項。<br/>若需透過區域網路存取，請使用私有 (LAN) IP 位址。有效的私有 IP 範圍如下：<p><ul><li>10.0.0.0 至 10.255.255.255</li><li>172.16.0.0 至 172.31.255.255</li><li>192.168.0.0 至 192.168.255.255</li><li>在區域網路中使用 VPN（例如 TailScale）也可能導致此問題。</li></ul></p>",
     "blockedlicense2": "<p>請參閱 <a href=\"https://www.ispyconnect.com/[LANG]docs/agent/remoteaccess\" target=\"_blank\">遠端存取</a> 以取得連線說明。</p>",
     "blockedprotected": "請在「伺服器設定」中取消勾選「保護 API」（本機伺服器），或提供使用管理員帳戶的基本驗證資訊",
+    "blockedremote": "<p>您正在從 Agent DVR 的本機網路外部連線。這是遠端存取，需要 Agent DVR 訂閱方案。</p><p>Agent DVR 在您自己的網路上免費使用。遠端存取有所不同，因為每天運行需要真實的基礎設施：讓您無需開啟連接埠即可從任何地方安全連線的中繼伺服器、iOS 和 Android 應用程式、推播通知，以及回答您支援問題的人員。訂閱方案能讓所有這些服務持續運作，並為 Agent DVR 的持續開發提供資金。</p><p><a class=\"btn btn-primary\" href=\"https://www.ispyconnect.com/[LANG]buy\" target=\"_blank\">查看訂閱方案選項</a></p><p>已訂閱？請參閱<a href=\"https://www.ispyconnect.com/[LANG]docs/agent/remoteaccess\" target=\"_blank\">遠端存取</a>以了解如何連線。</p><p class=\"small text-body-secondary\">在您的家用網路上？改為使用其本機位址開啟 Agent DVR，位址以 192.168、10 或 172.16 到 172.31 開頭。VPN（例如 Tailscale）可以使本機連線看起來像遠端連線。正在從 [IPADDRESS] 連線。</p>",
+    "blockedremotetitle": "遠端存取需要訂閱",
     "blockedsslonly": "您已在 Media/XML/Config.json 檔案中将 SSLOnly 設為 true，但此請求並非安全連線。若無法透過 SSL 存取，請停止 Agent DVR 服務，將 JSON 檔案中的 SSLOnly 改為 false，然後重新啟動服務",
     "blockedtitle": "存取遭拒",
     "blockedunauthorised": "您需提供登入資訊以進行遠端存取",

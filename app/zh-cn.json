@@ -147,6 +147,8 @@
     "blockedip2": "\n    远程访问被阻止（外部 IP：[IPADDRESS]）。<br/>\n    查看 <a href=\"https://www.ispyconnect.com/[LANG]buy\">定价</a> 了解远程访问选项。<br/>若要在本地网络中访问，请使用私有 (LAN) IP 地址。有效的私有 IP 地址包括：<p><ul><li>10.0.0.0 至 10.255.255.255</li><li>172.16.0.0 至 172.31.255.255</li><li>192.168.0.0 至 192.168.255.255</li><li>在本地网络中使用 VPN（如 TailScale）可能会导致此问题。</li></ul></p>",
     "blockedlicense2": "<p>有关远程连接的说明，请参阅 <a href=\"https://www.ispyconnect.com/[LANG]docs/agent/remoteaccess\" target=\"_blank\">远程访问</a>。</p>",
     "blockedprotected": "在服务器设置中取消选中“保护 API”- 本地服务器，或使用管理员用户账户提供 Basic Authentication",
+    "blockedremote": "<p>您正在从 Agent DVR 的本地网络外部进行连接。这是远程访问，它需要 Agent DVR 订阅服务。</p><p>Agent DVR 在您自己的网络上免费使用。远程访问不同，因为每天运行它需要真实的基础设施：中继服务器在没有开放端口的情况下从任何地方安全地连接您、iOS 和 Android 应用程序、推送通知，以及回答您支持问题的人员。订阅服务保持所有这些运行，并为 Agent DVR 的持续开发付费。</p><p><a class=\"btn btn-primary\" href=\"https://www.ispyconnect.com/[LANG]buy\" target=\"_blank\">查看订阅服务选项</a></p><p>已经订阅了？请参阅<a href=\"https://www.ispyconnect.com/[LANG]docs/agent/remoteaccess\" target=\"_blank\">远程访问</a>了解如何连接。</p><p class=\"small text-body-secondary\">在您的家庭网络上？请改用其本地地址打开 Agent DVR，以 192.168、10 或 172.16 到 172.31 开头的地址。Tailscale 等 VPN 可以使本地连接看起来像远程连接。正在从 [IPADDRESS] 连接。</p>",
+    "blockedremotetitle": "远程访问需要订阅",
     "blockedsslonly": "您已在 Media/XML/Config.json 中将 SSLOnly 设置为 true，而此请求为非安全请求。如果您无法通过 SSL 访问，请停止 Agent DVR 服务并将 JSON 文件中的 SSLOnly 设置为 false，然后重新启动它",
     "blockedtitle": "拒绝访问",
     "blockedunauthorised": "您需要提供远程访问的登录凭据",
