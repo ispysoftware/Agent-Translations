@@ -221,6 +221,7 @@
     "filenameinvalid2": "Geçersiz dosya adı (Kayıt sekmesi)",
     "filenotfound": "Dosya bulunamadı",
     "folderinsideitself": "Yeni klasör geçerli klasörün içinde olamaz",
+    "foldermoverecording": "Kayıt sırasında Klasör veya Konum değiştirilemiyor - cihazı kapatın ve birkaç saniye sonra tekrar deneyin",
     "foldernotfound": "Klasör bulunamadı",
     "folderoverlapsarchive": "Bu klasör başka bir depolama konumunun arşivi ile çakışıyor: [PATH]",
     "folderoverlapslocation": "Bu klasör başka bir depolama konumuyla çakışıyor: [PATH]",

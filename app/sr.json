@@ -221,6 +221,7 @@
     "filenameinvalid2": "Naziv datoteke nije ispravan (kartica Snimanje)",
     "filenotfound": "Datoteka nije pronađena",
     "folderinsideitself": "Nova fascikla ne može biti unutar trenutne fascikle",
+    "foldermoverecording": "Nije moguće promeniti fasciklu ili lokaciju tokom snimanja - isključite uređaj i pokušajte ponovo za nekoliko sekundi",
     "foldernotfound": "Fascikla nije pronađena",
     "folderoverlapsarchive": "Ova fascikla se preklapa sa arhivom druge lokacije za skladištenje: [PATH]",
     "folderoverlapslocation": "Ova fascikla se preklapa sa drugom lokacijom za skladištenje: [PATH]",

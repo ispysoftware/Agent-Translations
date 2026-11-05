@@ -221,6 +221,7 @@
     "filenameinvalid2": "Bestandsnaam is ongeldig (opname-tab)",
     "filenotfound": "Bestand niet gevonden",
     "folderinsideitself": "De nieuwe map kan niet in de huidige map liggen",
+    "foldermoverecording": "Kan Map of Locatie niet wijzigen terwijl er wordt opgenomen - schakel het apparaat uit en probeer het over enkele seconden opnieuw",
     "foldernotfound": "Map niet gevonden",
     "folderoverlapsarchive": "Deze map overlapt het archief van een ander opslaglocatie: [PATH]",
     "folderoverlapslocation": "Deze map overlapt een andere opslaglocatie: [PATH]",

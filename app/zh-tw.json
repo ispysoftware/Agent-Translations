@@ -221,6 +221,7 @@
     "filenameinvalid2": "檔名無效（錄影分頁）",
     "filenotfound": "找不到檔案",
     "folderinsideitself": "新資料夾不能在目前資料夾內",
+    "foldermoverecording": "錄影中時無法變更「資料夾」或「位置」- 關閉裝置，幾秒後再試一次",
     "foldernotfound": "找不到資料夾",
     "folderoverlapsarchive": "此資料夾與另一個存儲位置的封存檔案重疊: [PATH]",
     "folderoverlapslocation": "此文件夹与另一个存储位置重叠: [PATH]",

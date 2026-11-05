@@ -221,6 +221,7 @@
     "filenameinvalid2": "文件名无效（录制选项卡）",
     "filenotfound": "未找到文件",
     "folderinsideitself": "新建文件夹不能位于当前文件夹内",
+    "foldermoverecording": "录制中无法更改文件夹或位置 - 关闭设备，几秒钟后重试",
     "foldernotfound": "未找到文件夹",
     "folderoverlapsarchive": "此文件夹与另一个存储位置的归档重叠：[PATH]",
     "folderoverlapslocation": "此文件夹与另一个存储位置重叠：[PATH]",

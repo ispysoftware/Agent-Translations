@@ -221,6 +221,7 @@
     "filenameinvalid2": "Ogiltigt filnamn (fliken Inspelning)",
     "filenotfound": "Fil hittades inte",
     "folderinsideitself": "Den nya mappen kan inte vara inuti den aktuella mappen",
+    "foldermoverecording": "Kan inte ändra Mapp eller Plats under en inspelning - stäng av enheten och försök igen om några sekunder",
     "foldernotfound": "Mappen hittades inte",
     "folderoverlapsarchive": "Den här mappen överlappar arkivet för en annan lagringsplats: [PATH]",
     "folderoverlapslocation": "Den här mappen överlappar en annan lagring plats: [PATH]",

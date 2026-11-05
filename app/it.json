@@ -221,6 +221,7 @@
     "filenameinvalid2": "Nome file non valido (scheda Registrazioni)",
     "filenotfound": "File non trovato",
     "folderinsideitself": "La nuova cartella non può essere all'interno della cartella corrente",
+    "foldermoverecording": "Non è possibile modificare la Cartella o la Posizione durante la registrazione - spegnere il dispositivo e riprovare dopo alcuni secondi",
     "foldernotfound": "Cartella non trovata",
     "folderoverlapsarchive": "Questa cartella si sovrappone all'archivio di un'altra posizione di archiviazione: [PATH]",
     "folderoverlapslocation": "Questa cartella si sovrappone a un'altra posizione di archiviazione: [PATH]",

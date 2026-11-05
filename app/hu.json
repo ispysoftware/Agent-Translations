@@ -221,6 +221,7 @@
     "filenameinvalid2": "Érvénytelen fájlnév (Felvétel fül)",
     "filenotfound": "A fájl nem található",
     "folderinsideitself": "Az új mappa nem lehet az aktuális mappa belsejében",
+    "foldermoverecording": "Nem lehet módosítani a mappát vagy a helyszínt felvétel közben - kapcsolja ki az eszközt, és próbálja újra néhány másodperc múlva",
     "foldernotfound": "A mappa nem található",
     "folderoverlapsarchive": "Ez a mappa átfed egy másik helyszín archívumával: [PATH]",
     "folderoverlapslocation": "Ez a mappa átfedésben van egy másik tárhelyszínnel: [PATH]",

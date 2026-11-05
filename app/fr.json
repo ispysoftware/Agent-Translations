@@ -221,6 +221,7 @@
     "filenameinvalid2": "Le nom de fichier est invalide (onglet Enregistrement)",
     "filenotfound": "Fichier introuvable",
     "folderinsideitself": "Le nouveau dossier ne peut pas se trouver à l'intérieur du dossier actuel",
+    "foldermoverecording": "Impossible de modifier le Dossier ou l'Emplacement pendant l'enregistrement - éteignez l'appareil et réessayez dans quelques secondes",
     "foldernotfound": "Dossier introuvable",
     "folderoverlapsarchive": "Ce dossier chevauche l'archive d'un autre emplacement de stockage : [PATH]",
     "folderoverlapslocation": "Ce dossier chevauche un autre emplacement de stockage : [PATH]",

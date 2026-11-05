@@ -221,6 +221,7 @@
     "filenameinvalid2": "Nombre de archivo no válido (pestaña Grabación)",
     "filenotfound": "Archivo no encontrado",
     "folderinsideitself": "La nueva carpeta no puede estar dentro de la carpeta actual",
+    "foldermoverecording": "No se puede cambiar la Carpeta ni la Ubicación mientras se está grabando - apague el dispositivo e intente nuevamente en unos segundos",
     "foldernotfound": "Carpeta no encontrada",
     "folderoverlapsarchive": "Esta carpeta se superpone al archivo de otra ubicación de almacenamiento: [PATH]",
     "folderoverlapslocation": "Esta carpeta se superpone con otra ubicación de almacenamiento: [PATH]",

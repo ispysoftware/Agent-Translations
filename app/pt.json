@@ -221,6 +221,7 @@
     "filenameinvalid2": "Nome de arquivo inválido (aba Gravação)",
     "filenotfound": "Arquivo não encontrado",
     "folderinsideitself": "A nova pasta não pode estar dentro da pasta atual",
+    "foldermoverecording": "Não é possível alterar a Pasta ou Localização enquanto está gravando - desligue o dispositivo e tente novamente em alguns segundos",
     "foldernotfound": "Pasta não encontrada",
     "folderoverlapsarchive": "Esta pasta sobrepõe o arquivo de outra localização de armazenamento: [PATH]",
     "folderoverlapslocation": "Esta pasta sobrepõe-se a outra localização: [PATH]",

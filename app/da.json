@@ -221,6 +221,7 @@
     "filenameinvalid2": "Ugyldigt filnavn (optagelsesfane)",
     "filenotfound": "Fil ikke fundet",
     "folderinsideitself": "Den nye mappe kan ikke være inden i den aktuelle mappe",
+    "foldermoverecording": "Kan ikke ændre Mappe eller Lokation under optagelse - sluk enheden og prøv igen efter nogle få sekunder",
     "foldernotfound": "Mappe ikke fundet",
     "folderoverlapsarchive": "Denne mappe overlapper arkivet på en anden placering: [PATH]",
     "folderoverlapslocation": "Dette folder overlapper en anden lagerplacering: [PATH]",

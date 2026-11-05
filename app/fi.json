@@ -221,6 +221,7 @@
     "filenameinvalid2": "Tiedostonimi on virheellinen (Tallennus-välilehti)",
     "filenotfound": "Tiedostoa ei löytynyt",
     "folderinsideitself": "Uutta kansiota ei voi sijoittaa nykyisen kansion sisälle",
+    "foldermoverecording": "Kansiota tai sijaintia ei voi muuttaa tallennuksen aikana - sammuta laite ja yritä uudelleen muutaman sekunnin kuluttua",
     "foldernotfound": "Kansiota ei löytynyt",
     "folderoverlapsarchive": "Tämä kansio päällekkäin arkiston kanssa toisesta sijainista: [PATH]",
     "folderoverlapslocation": "Tämä kansio päällekkäin toisen tallennussijan kanssa: [PATH]",

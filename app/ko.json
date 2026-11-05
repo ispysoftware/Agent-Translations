@@ -221,6 +221,7 @@
     "filenameinvalid2": "파일명이 유효하지 않습니다 (녹화 탭)",
     "filenotfound": "파일을 찾을 수 없습니다",
     "folderinsideitself": "새 폴더는 현재 폴더 안에 있을 수 없습니다",
+    "foldermoverecording": "녹화 중에는 폴더 또는 위치를 변경할 수 없습니다. 기기를 끄고 몇 초 후에 다시 시도하세요.",
     "foldernotfound": "폴더를 찾을 수 없습니다",
     "folderoverlapsarchive": "이 폴더는 다른 저장소 위치의 보관함과 겹칩니다: [PATH]",
     "folderoverlapslocation": "이 폴더는 다른 저장 위치와 겹칩니다: [PATH]",

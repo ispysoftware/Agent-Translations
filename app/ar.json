@@ -221,6 +221,7 @@
     "filenameinvalid2": "اسم الملف غير صالح (علامة تبويب التسجيل)",
     "filenotfound": "الملف غير موجود",
     "folderinsideitself": "لا يمكن وضع المجلد الجديد داخل المجلد الحالي",
+    "foldermoverecording": "لا يمكن تغيير المجلد أو الموقع أثناء التسجيل - أوقف الجهاز وحاول مجددا بعد بضع ثوان",
     "foldernotfound": "المجلد غير موجود",
     "folderoverlapsarchive": "هذا المجلد يتداخل مع أرشيف موقع تخزين آخر: [PATH]",
     "folderoverlapslocation": "هذا المجلد يتداخل مع موقع تخزين آخر: [PATH]",

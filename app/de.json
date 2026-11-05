@@ -221,6 +221,7 @@
     "filenameinvalid2": "Dateiname ist ungültig (Registerkarte Aufzeichnung)",
     "filenotfound": "Datei nicht gefunden",
     "folderinsideitself": "Der neue Ordner kann sich nicht im aktuellen Ordner befinden",
+    "foldermoverecording": "Ordner oder Standort können während einer Aufnahme nicht geändert werden. Schalten Sie das Gerät aus und versuchen Sie es in wenigen Sekunden erneut.",
     "foldernotfound": "Ordner nicht gefunden",
     "folderoverlapsarchive": "Dieser Ordner überlappt sich mit dem Archiv eines anderen Standorts: [PATH]",
     "folderoverlapslocation": "Dieser Ordner überlappt einen anderen Speicherstandort: [PATH]",

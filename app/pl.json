@@ -221,6 +221,7 @@
     "filenameinvalid2": "Nieprawidłowa nazwa pliku (karta Nagrywanie)",
     "filenotfound": "Nie znaleziono pliku",
     "folderinsideitself": "Nowy folder nie może znajdować się wewnątrz bieżącego folderu",
+    "foldermoverecording": "Nie można zmienić folderu ani lokalizacji podczas nagrywania - wyłącz urządzenie i spróbuj ponownie za kilka sekund",
     "foldernotfound": "Nie znaleziono folderu",
     "folderoverlapsarchive": "Ten folder nakłada się na archiwum innej lokalizacji: [PATH]",
     "folderoverlapslocation": "Ten folder pokrywa się z inną lokalizacją magazynu: [PATH]",

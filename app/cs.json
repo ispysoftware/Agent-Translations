@@ -221,6 +221,7 @@
     "filenameinvalid2": "Název souboru je neplatný (záložka Nahrávání)",
     "filenotfound": "Soubor nebyl nalezen",
     "folderinsideitself": "Nová složka nemůže být uvnitř aktuální složky",
+    "foldermoverecording": "Nelze měnit Složku nebo Lokalitu během nahrávání - vypněte zařízení a zkuste to znovu za několik sekund",
     "foldernotfound": "Složka nebyla nalezena",
     "folderoverlapsarchive": "Tato složka se překrývá s archivem jiné skladovací lokality: [PATH]",
     "folderoverlapslocation": "Tato složka se překrývá s jinou lokalitou úložiště: [PATH]",

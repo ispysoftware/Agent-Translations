@@ -221,6 +221,7 @@
     "filenameinvalid2": "Nama berkas tidak valid (Tab Rekaman)",
     "filenotfound": "Berkas tidak ditemukan",
     "folderinsideitself": "Folder baru tidak dapat berada di dalam folder saat ini",
+    "foldermoverecording": "Tidak dapat mengubah Folder atau Lokasi saat perekaman berlangsung - matikan perangkat dan coba lagi dalam beberapa detik",
     "foldernotfound": "Folder tidak ditemukan",
     "folderoverlapsarchive": "Folder ini tumpang tindih dengan arsip dari lokasi penyimpanan lain: [PATH]",
     "folderoverlapslocation": "Folder ini tumpang tindih dengan lokasi penyimpanan lain: [PATH]",

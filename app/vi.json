@@ -221,6 +221,7 @@
     "filenameinvalid2": "Tên tệp không hợp lệ (Tab Ghi hình)",
     "filenotfound": "Không tìm thấy tệp",
     "folderinsideitself": "Thư mục mới không thể nằm trong thư mục hiện tại",
+    "foldermoverecording": "Không thể thay đổi Thư mục hoặc Vị trí trong khi đang ghi hình - tắt thiết bị và thử lại sau vài giây",
     "foldernotfound": "Không tìm thấy thư mục",
     "folderoverlapsarchive": "Thư mục này trùng với kho lưu trữ của vị trí lưu trữ khác: [PATH]",
     "folderoverlapslocation": "Thư mục này trùng lặp với vị trí lưu trữ khác: [PATH]",
