@@ -1156,6 +1156,7 @@
   "gridmonitor": "Ranura de cuadrícula",
   "gridmonitorhelp": "Muestra los dispositivos dispuestos en una cuadrícula",
   "groups": "Grupos",
+  "haaddintegration": "Home Assistant abrirá la configuración de la integración de Agent DVR. Ingrese 127.0.0.1 como el host y deje el puerto en 8090.",
   "hdstreaming": "Acceso remoto con transmisión 1080P",
   "help": {
     "community": "Soporte comunitario de otros usuarios.",

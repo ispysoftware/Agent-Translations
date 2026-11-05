@@ -1156,6 +1156,7 @@
   "gridmonitor": "Slot siatki",
   "gridmonitorhelp": "Wyświetla urządzenia ułożone w siatce",
   "groups": "Grupy",
+  "haaddintegration": "Home Assistant otworzy konfigurację integracji Agent DVR. Wpisz 127.0.0.1 jako hosta i pozostaw port na 8090.",
   "hdstreaming": "Zdalny dostęp ze strumieniowaniem 1080P",
   "help": {
     "community": "Wsparcie społeczności od innych użytkowników.",

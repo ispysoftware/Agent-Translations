@@ -1156,6 +1156,7 @@
   "gridmonitor": "Rácsmező",
   "gridmonitorhelp": "Rácsba rendezett eszközöket jelenít meg",
   "groups": "Csoportok",
+  "haaddintegration": "A Home Assistant megnyitja az Agent DVR integráció beállítását. Adja meg gazdagépként a 127.0.0.1 címet, és hagyja a portot 8090-en.",
   "hdstreaming": "1080P streaming távoli hozzáférés",
   "help": {
     "community": "Közösségi támogatás más felhasználóktól.",

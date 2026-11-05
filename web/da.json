@@ -1156,6 +1156,7 @@
   "gridmonitor": "Gitterplads",
   "gridmonitorhelp": "Viser enheder arrangeret i et gitter",
   "groups": "Grupper",
+  "haaddintegration": "Home Assistant vil åbne opsætningen af Agent DVR-integrationen. Angiv 127.0.0.1 som værten og behold porten på 8090.",
   "hdstreaming": "1080P streaming fjernadgang",
   "help": {
     "community": "Fællesskabsstøtte fra andre brugere.",

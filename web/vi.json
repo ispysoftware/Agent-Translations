@@ -1156,6 +1156,7 @@
   "gridmonitor": "Ô lưới",
   "gridmonitorhelp": "Hiển thị các thiết bị được sắp xếp theo dạng lưới",
   "groups": "Nhóm",
+  "haaddintegration": "Home Assistant sẽ mở phần cài đặt tích hợp Agent DVR. Nhập 127.0.0.1 làm máy chủ và để cổng ở 8090.",
   "hdstreaming": "Truyền phát từ xa 1080P",
   "help": {
     "community": "Hỗ trợ cộng đồng từ các người dùng khác.",

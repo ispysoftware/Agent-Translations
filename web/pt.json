@@ -1156,6 +1156,7 @@
   "gridmonitor": "Slot de grade",
   "gridmonitorhelp": "Exibe dispositivos organizados em uma grade.",
   "groups": "Grupos",
+  "haaddintegration": "O Home Assistant abrirá a configuração da integração do Agent DVR. Digite 127.0.0.1 como host e deixe a porta em 8090.",
   "hdstreaming": "Acesso remoto com streaming 1080P",
   "help": {
     "community": "Suporte da comunidade de outros usuários.",

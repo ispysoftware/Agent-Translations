@@ -1156,6 +1156,7 @@
   "gridmonitor": "Rasterplatz",
   "gridmonitorhelp": "Zeigt Geräte in einem Raster an",
   "groups": "Gruppen",
+  "haaddintegration": "Home Assistant öffnet die Einrichtung der Agent DVR-Integration. Geben Sie 127.0.0.1 als Host ein und lassen Sie den Port auf 8090.",
   "hdstreaming": "1080P-Streaming-Fernzugriff",
   "help": {
     "community": "Community-Support von anderen Benutzern.",

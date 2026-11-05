@@ -1156,6 +1156,7 @@
   "gridmonitor": "그리드 슬롯",
   "gridmonitorhelp": "장치들을 그리드로 정렬해 표시합니다",
   "groups": "그룹",
+  "haaddintegration": "Home Assistant에서 Agent DVR 통합 설정이 열립니다. 호스트로 127.0.0.1을 입력하고 포트는 8090으로 두십시오.",
   "hdstreaming": "1080P 스트리밍 원격 액세스",
   "help": {
     "community": "다른 사용자로부터의 커뮤니티 지원.",

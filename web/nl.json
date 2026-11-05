@@ -1156,6 +1156,7 @@
   "gridmonitor": "Rastervak",
   "gridmonitorhelp": "Toont apparaten gerangschikt in een raster",
   "groups": "Groepen",
+  "haaddintegration": "Home Assistant zal de Agent DVR-integratieconfiguratie openen. Voer 127.0.0.1 in als de host en laat de poort op 8090 staan.",
   "hdstreaming": "1080P-streaming externe toegang",
   "help": {
     "community": "Gemeenschapssteun van andere gebruikers.",

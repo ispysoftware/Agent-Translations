@@ -1156,6 +1156,7 @@
   "gridmonitor": "Grid Slot",
   "gridmonitorhelp": "Displays devices arranged in a grid",
   "groups": "Groups",
+  "haaddintegration": "Home Assistant will open the Agent DVR integration setup. Enter 127.0.0.1 as the host and leave the port at 8090.",
   "hdstreaming": "1080P Streaming Remote Access",
   "help": {
     "community": "Community support from other users.",

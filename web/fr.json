@@ -1156,6 +1156,7 @@
   "gridmonitor": "Moniteur en grille",
   "gridmonitorhelp": "Affiche les appareils disposés dans une grille.",
   "groups": "Groupes",
+  "haaddintegration": "Home Assistant ouvrira la configuration de l'intégration Agent DVR. Entrez 127.0.0.1 comme hôte et laissez le port à 8090.",
   "hdstreaming": "Accès à distance avec diffusion 1080P",
   "help": {
     "community": "Soutien communautaire d'autres utilisateurs.",

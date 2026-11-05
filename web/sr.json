@@ -1156,6 +1156,7 @@
   "gridmonitor": "Slot mreže",
   "gridmonitorhelp": "Prikazuje uređaje raspoređene u mreži",
   "groups": "Grupe",
+  "haaddintegration": "Home Assistant će otvoriti podešavanje integracije Agent DVR. Unesite 127.0.0.1 kao host i ostavite port na 8090.",
   "hdstreaming": "Udaljeni pristup sa 1080P streamingom",
   "help": {
     "community": "Podrška zajednice od drugih korisnika.",

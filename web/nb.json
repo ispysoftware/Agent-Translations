@@ -1156,6 +1156,7 @@
   "gridmonitor": "Rutenettplass",
   "gridmonitorhelp": "Viser enheter arrangert i et rutenett",
   "groups": "Grupper",
+  "haaddintegration": "Home Assistant vil åpne oppsettet for Agent DVR-integrasjonen. Skriv inn 127.0.0.1 som vert og la porten stå på 8090.",
   "hdstreaming": "1080P strømming fjerntilgang",
   "help": {
     "community": "Fellesskapsstøtte fra andre brukere.",

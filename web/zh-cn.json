@@ -1156,6 +1156,7 @@
   "gridmonitor": "网格槽位",
   "gridmonitorhelp": "显示排列在网格中的设备",
   "groups": "组",
+  "haaddintegration": "Home Assistant 将打开 Agent DVR 集成设置。输入 127.0.0.1 作为主机，端口保持为 8090。",
   "hdstreaming": "1080P 远程串流的权限",
   "help": {
     "community": "来自其他用户的社区支持。",

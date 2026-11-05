@@ -1156,6 +1156,7 @@
   "gridmonitor": "فتحة الشبكة",
   "gridmonitorhelp": "يعرض الأجهزة مرتبة في شبكة",
   "groups": "المجموعات",
+  "haaddintegration": "سيفتح Home Assistant إعداد تكامل Agent DVR. أدخل 127.0.0.1 كمضيف واترك المنفذ على 8090.",
   "hdstreaming": "وصول عن بُعد ببث 1080P",
   "help": {
     "community": "دعم المجتمع من المستخدمين الآخرين.",

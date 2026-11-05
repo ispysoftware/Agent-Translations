@@ -1156,6 +1156,7 @@
   "gridmonitor": "Izgara yuvası",
   "gridmonitorhelp": "Cihazları bir ızgara düzeninde görüntüler",
   "groups": "Gruplar",
+  "haaddintegration": "Home Assistant, Agent DVR entegrasyonu kurulumunu açacaktır. Ana bilgisayar olarak 127.0.0.1 girin ve portu 8090'da bırakın.",
   "hdstreaming": "1080P Akışlı Uzaktan Erişim",
   "help": {
     "community": "Diğer kullanıcılar tarafından topluluk desteği.",

@@ -1156,6 +1156,7 @@
   "gridmonitor": "Slot Kisi",
   "gridmonitorhelp": "Menampilkan perangkat yang disusun dalam kisi",
   "groups": "Grup",
+  "haaddintegration": "Home Assistant akan membuka penyiapan integrasi Agent DVR. Masukkan 127.0.0.1 sebagai host dan biarkan port pada 8090.",
   "hdstreaming": "Akses Jarak Jauh Streaming 1080P",
   "help": {
     "community": "Dukungan komunitas dari pengguna lain.",

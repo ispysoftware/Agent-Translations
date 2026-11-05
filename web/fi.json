@@ -1156,6 +1156,7 @@
   "gridmonitor": "Ruudukon paikka",
   "gridmonitorhelp": "Näyttää laitteet ruudukkoon järjestettynä",
   "groups": "Ryhmät",
+  "haaddintegration": "Home Assistant avaa Agent DVR -integraation asetukset. Kirjoita isäntäksi 127.0.0.1 ja jätä portti arvoon 8090.",
   "hdstreaming": "1080p-suoratoisto",
   "help": {
     "community": "Yhteisön tuki muilta käyttäjiltä.",

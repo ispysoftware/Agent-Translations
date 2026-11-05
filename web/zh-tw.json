@@ -1156,6 +1156,7 @@
   "gridmonitor": "網格槽位",
   "gridmonitorhelp": "顯示排列成網格的裝置",
   "groups": "群組",
+  "haaddintegration": "Home Assistant 會開啟 Agent DVR 整合設定。輸入 127.0.0.1 作為主機，並將連接埠保留為 8090。",
   "hdstreaming": "1080P 串流遠端存取",
   "help": {
     "community": "來自其他用戶的社區支持。",

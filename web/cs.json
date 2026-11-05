@@ -1156,6 +1156,7 @@
   "gridmonitor": "Slot v mřížce",
   "gridmonitorhelp": "Zobrazuje zařízení uspořádaná v mřížce",
   "groups": "Skupiny",
+  "haaddintegration": "Home Assistant otevře nastavení integrace Agent DVR. Zadejte 127.0.0.1 jako hostitele a nechte port na 8090.",
   "hdstreaming": "Vzdálený přístup se streamováním 1080p",
   "help": {
     "community": "Podpora komunity od ostatních uživatelů.",

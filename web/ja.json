@@ -1156,6 +1156,7 @@
   "gridmonitor": "グリッドスロット",
   "gridmonitorhelp": "デバイスがグリッド状に配置されて表示されます",
   "groups": "グループ",
+  "haaddintegration": "Home Assistant で Agent DVR インテグレーションの設定が開きます。ホストに 127.0.0.1 を入力し、ポートは 8090 のままにしてください。",
   "hdstreaming": "1080Pストリーミングリモートアクセス",
   "help": {
     "community": "他のユーザーからのコミュニティサポート。",
