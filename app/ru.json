@@ -2110,6 +2110,7 @@
     "selectadevice": "Выберите устройство",
     "servicesexpired": "Срок действия удаленных сервисов истек",
     "settingsnotsupported": "Настройки не поддерживаются",
+    "sharebusy": "Идет подготовка другого ролика. Попробуйте снова через момент.",
     "smsnumber": "SMS-номер",
     "smtpconfigfailed": "Ошибка SMTP — проверьте журналы",
     "snapshots: off": "Фото: ВЫКЛ",

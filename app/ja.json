@@ -2110,6 +2110,7 @@
     "selectadevice": "デバイスを選択",
     "servicesexpired": "リモートサービスが期限切れ",
     "settingsnotsupported": "設定はサポートされていません",
+    "sharebusy": "別のクリップを準備中です。しばらくしてからやり直してください。",
     "smsnumber": "SMS番号",
     "smtpconfigfailed": "SMTPからのエラー - ログを確認してください",
     "snapshots: off": "写真: OFF",

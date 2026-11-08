@@ -2110,6 +2110,7 @@
     "selectadevice": "Select a device",
     "servicesexpired": "Remote Services Expired",
     "settingsnotsupported": "Settings not supported",
+    "sharebusy": "Another clip is being prepared. Try again in a moment.",
     "smsnumber": "SMS Number",
     "smtpconfigfailed": "Error from SMTP - check logs",
     "snapshots: off": "Photos: OFF",

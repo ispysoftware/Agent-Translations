@@ -2110,6 +2110,7 @@
     "selectadevice": "Виберіть пристрій",
     "servicesexpired": "Термін дії віддалених сервісів закінчився",
     "settingsnotsupported": "Налаштування не підтримуються",
+    "sharebusy": "Інший кліп готується. Спробуйте ще раз за мить.",
     "smsnumber": "Номер SMS",
     "smtpconfigfailed": "Помилка SMTP — перевірте журнали",
     "snapshots: off": "Фото: ВИМК",

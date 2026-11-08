@@ -2110,6 +2110,7 @@
     "selectadevice": "장치 선택",
     "servicesexpired": "원격 서비스 만료됨",
     "settingsnotsupported": "설정 지원 안 됨",
+    "sharebusy": "다른 클립을 준비 중입니다. 잠시 후에 다시 시도해주세요.",
     "smsnumber": "SMS 번호",
     "smtpconfigfailed": "SMTP 오류 - 로그 확인",
     "snapshots: off": "사진: OFF",

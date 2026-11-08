@@ -2110,6 +2110,7 @@
     "selectadevice": "Valitse laite",
     "servicesexpired": "Etäpalvelut ovat vanhentuneet",
     "settingsnotsupported": "Asetukset eivät ole tuettuja",
+    "sharebusy": "Toista leikettä valmistellaan. Yritä hetken kuluttua uudelleen.",
     "smsnumber": "SMS-numero",
     "smtpconfigfailed": "Virhe SMTP:ssä - tarkista lokit",
     "snapshots: off": "Kuvat: POIS",

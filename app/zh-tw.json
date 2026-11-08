@@ -2110,6 +2110,7 @@
     "selectadevice": "選擇裝置",
     "servicesexpired": "遠端服務已過期",
     "settingsnotsupported": "不支援此設定",
+    "sharebusy": "另一個片段正在準備中。請稍後再試。",
     "smsnumber": "簡訊號碼",
     "smtpconfigfailed": "SMTP 錯誤 - 請檢查記錄檔",
     "snapshots: off": "照片：關閉",

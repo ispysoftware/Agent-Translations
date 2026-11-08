@@ -2110,6 +2110,7 @@
     "selectadevice": "Válasszon ki egy eszközt",
     "servicesexpired": "A távoli szolgáltatások lejártek",
     "settingsnotsupported": "A beállítások nem támogatottak",
+    "sharebusy": "Egy másik klip szerkesztés alatt van. Próbálja meg újra egy pillanat múlva.",
     "smsnumber": "SMS szám",
     "smtpconfigfailed": "SMTP hiba - ellenőrizze a naplót",
     "snapshots: off": "Fotók: KI",

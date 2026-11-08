@@ -2110,6 +2110,7 @@
     "selectadevice": "Vælg en enhed",
     "servicesexpired": "Fjerntjenester er udløbet",
     "settingsnotsupported": "Indstillinger understøttes ikke",
+    "sharebusy": "Et andet klip bliver forberedt. Prøv igen om et øjeblik.",
     "smsnumber": "SMS-nummer",
     "smtpconfigfailed": "Fejl fra SMTP - tjek logs",
     "snapshots: off": "Fotos: FRA",

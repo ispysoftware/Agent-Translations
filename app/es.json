@@ -2110,6 +2110,7 @@
     "selectadevice": "Seleccione un dispositivo",
     "servicesexpired": "Servicios remotos caducados",
     "settingsnotsupported": "Ajustes no compatibles",
+    "sharebusy": "Se está preparando otro clip. Intenta de nuevo en un momento.",
     "smsnumber": "Número de SMS",
     "smtpconfigfailed": "Error de SMTP: compruebe los logs",
     "snapshots: off": "Fotos: DESACTIVADO",

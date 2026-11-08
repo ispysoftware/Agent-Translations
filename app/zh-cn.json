@@ -2110,6 +2110,7 @@
     "selectadevice": "选择设备",
     "servicesexpired": "远程服务已过期",
     "settingsnotsupported": "不支持的设置",
+    "sharebusy": "正在准备另一个片段。请稍后重试。",
     "smsnumber": "短信号码",
     "smtpconfigfailed": "SMTP 错误 - 请检查日志",
     "snapshots: off": "照片：关闭",

@@ -2110,6 +2110,7 @@
     "selectadevice": "Välj en enhet",
     "servicesexpired": "Fjärrtjänster har gått ut",
     "settingsnotsupported": "Inställningar stöds inte",
+    "sharebusy": "En annan klipp förbereds. Försök igen om en stund.",
     "smsnumber": "SMS-nummer",
     "smtpconfigfailed": "Fel från SMTP - kontrollera loggar",
     "snapshots: off": "Foton: AV",

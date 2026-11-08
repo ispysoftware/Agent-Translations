@@ -2110,6 +2110,7 @@
     "selectadevice": "Sélectionnez un appareil",
     "servicesexpired": "Services à distance expirés",
     "settingsnotsupported": "Paramètres non pris en charge",
+    "sharebusy": "Un autre clip est en cours de préparation. Réessayez dans un instant.",
     "smsnumber": "Numéro SMS",
     "smtpconfigfailed": "Erreur SMTP - vérifiez les journaux",
     "snapshots: off": "Photos : DÉSACTIVÉ",
