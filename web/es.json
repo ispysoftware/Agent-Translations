@@ -1221,6 +1221,7 @@
   "licensingfailed": "Error de licencia",
   "licensingfailedmessage": "<p>El ID único en la página de licencias debe coincidir con el ID de la licencia. Vaya a <a href=\"#\" onclick=\"helpers.goWebsite('manage',event)\">Gestionar licencias</a> si necesita trasladar su licencia actual a una nueva instalación. Puede eliminar la licencia existente y añadir una nueva con el nuevo ID.</a></p>",
   "linksent": "Enlace enviado - compruebe su correo electrónico",
+  "linksentbouncing": "Enlace enviado a [EMAIL], pero nuestros correos electrónicos a esa dirección han sido rechazados, por lo que es posible que no llegue. Si no ha llegado en 10 minutos, haz clic aquí para contactar con soporte.",
   "linksentto": "Enlace enviado a [EMAIL] - revisa tu correo electrónico",
   "live": "Vídeo en directo",
   "livebadge": "EN DIRECTO",

@@ -1221,6 +1221,7 @@
   "licensingfailed": "Błąd licencjonowania",
   "licensingfailedmessage": "<p>Unikalny identyfikator na stronie licencjonowania musi być zgodny z identyfikatorem w licencji. Przejdź do <a href=\"#\" onclick=\"helpers.goWebsite('manage',event)\">Zarządzaj licencjami</a>, jeśli musisz przenieść istniejącą licencję na nową instalację. Możesz usunąć istniejącą licencję i dodać nową z nowym identyfikatorem.</a></p>",
   "linksent": "Link wysłany - sprawdź swoją pocztę e-mail",
+  "linksentbouncing": "Link wysłany do [EMAIL], ale nasze wiadomości e-mail na ten adres są zwracane, więc może nie dotrzeć. Jeśli nie dotarł w ciągu 10 minut, kliknij tutaj, aby skontaktować się z pomocą techniczną.",
   "linksentto": "Link wysłany na adres [EMAIL] - sprawdź swoją pocztę e-mail",
   "live": "Wideo na żywo",
   "livebadge": "NA ŻYWO",

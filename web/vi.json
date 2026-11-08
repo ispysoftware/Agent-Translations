@@ -1221,6 +1221,7 @@
   "licensingfailed": "Kích hoạt giấy phép thất bại",
   "licensingfailedmessage": "<p>ID duy nhất trên trang cấp phép phải khớp với ID trong giấy phép. Đi tới <a href=\"#\" onclick=\"helpers.goWebsite('manage',event)\">Quản lý giấy phép</a> nếu bạn cần chuyển giấy phép hiện có sang một bản cài đặt mới. Bạn có thể xóa giấy phép hiện có và thêm một giấy phép mới với ID mới.</a></p>",
   "linksent": "Đã gửi liên kết - hãy kiểm tra email của bạn",
+  "linksentbouncing": "Liên kết đã được gửi đến [EMAIL], nhưng các email của chúng tôi gửi đến địa chỉ đó bị trả về, vì vậy nó có thể không tới được. Nếu chưa nhận được trong 10 phút, bấm vào đây để liên hệ với bộ phận hỗ trợ.",
   "linksentto": "Liên kết được gửi đến [EMAIL] - kiểm tra email của bạn",
   "live": "Video trực tiếp",
   "livebadge": "TRỰC TIẾP",

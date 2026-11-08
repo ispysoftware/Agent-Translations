@@ -1221,6 +1221,7 @@
   "licensingfailed": "Lisensi gagal",
   "licensingfailedmessage": "<p>ID Unik pada halaman lisensi harus sesuai dengan ID dalam lisensi. Buka <a href=\"#\" onclick=\"helpers.goWebsite('manage',event)\">Kelola Lisensi</a> jika Anda perlu memindahkan lisensi yang ada ke instalasi baru. Anda dapat menghapus lisensi yang ada dan menambahkan yang baru dengan ID baru.</a></p>",
   "linksent": "Tautan terkirim - periksa email Anda",
+  "linksentbouncing": "Tautan dikirim ke [EMAIL], tetapi email kami ke alamat tersebut sedang terpantul, jadi mungkin tidak akan tiba. Jika belum tiba dalam 10 menit, klik di sini untuk menghubungi dukungan.",
   "linksentto": "Tautan dikirim ke [EMAIL] - periksa email Anda",
   "live": "Video langsung",
   "livebadge": "LANGSUNG",

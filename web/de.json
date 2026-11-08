@@ -1221,6 +1221,7 @@
   "licensingfailed": "Lizenzierung fehlgeschlagen",
   "licensingfailedmessage": "<p>Die eindeutige ID auf der Lizenzseite muss mit der ID in der Lizenz übereinstimmen. Gehen Sie zu <a href=\"#\" onclick=\"helpers.goWebsite('manage',event)\">Lizenzen verwalten</a>, wenn Sie Ihre vorhandene Lizenz auf eine neue Installation übertragen müssen. Sie können die vorhandene Lizenz löschen und eine neue mit der neuen ID hinzufügen.</a></p>",
   "linksent": "Link gesendet - bitte E-Mail prüfen",
+  "linksentbouncing": "Link an [EMAIL] gesendet, aber unsere E-Mails an diese Adresse werden zurückgewiesen, daher kommt er möglicherweise nicht an. Falls er nach 10 Minuten nicht angekommen ist, klicken Sie hier, um den Support zu kontaktieren.",
   "linksentto": "Link an [EMAIL] gesendet - bitte E-Mail prüfen",
   "live": "Live-Video",
   "livebadge": "LIVE",

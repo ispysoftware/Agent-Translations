@@ -1221,6 +1221,7 @@
   "licensingfailed": "Errore licenza",
   "licensingfailedmessage": "<p>L'ID univoco nella pagina di licenza deve corrispondere all'ID presente nella licenza. Vai su <a href=\"#\" onclick=\"helpers.goWebsite('manage',event)\">Gestisci licenze</a> se è necessario spostare la licenza esistente in una nuova installazione. È possibile eliminare la licenza esistente e aggiungerne una nuova con il nuovo ID.</a></p>",
   "linksent": "Link inviato - controlla la tua email",
+  "linksentbouncing": "Link inviato a [EMAIL], ma le nostre email a questo indirizzo rimbalzano, quindi potrebbe non arrivare. Se non è arrivato entro 10 minuti, fai clic qui per contattare il supporto.",
   "linksentto": "Link inviato a [EMAIL] - controlla la tua email",
   "live": "Video live",
   "livebadge": "LIVE",

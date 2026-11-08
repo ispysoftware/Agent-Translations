@@ -1221,6 +1221,7 @@
   "licensingfailed": "Licensiering misslyckades",
   "licensingfailedmessage": "<p>Det unika ID:t på licenssidan måste matcha ID:t i licensen. Gå till <a href=\"#\" onclick=\"helpers.goWebsite('manage',event)\">Hantera licenser</a> om du behöver flytta din befintliga licens till en ny installation. Du kan radera den befintliga licensen och lägga till en ny med det nya ID:t.</a></p>",
   "linksent": "Länk skickad - kontrollera din e-post",
+  "linksentbouncing": "Länk skickad till [EMAIL], men våra e-postmeddelanden till denna adress studsar tillbaka, så den kanske inte anländer. Om den inte har anlänt om 10 minuter klickar du här för att kontakta supporten.",
   "linksentto": "Länk skickad till [EMAIL] - kontrollera din e-post",
   "live": "Livevideo",
   "livebadge": "LIVE",

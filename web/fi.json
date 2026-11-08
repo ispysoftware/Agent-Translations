@@ -1221,6 +1221,7 @@
   "licensingfailed": "Lisenssin aktivointi epäonnistui",
   "licensingfailedmessage": "<p>Lisenssisivun yksilöllisen tunnuksen (Unique ID) on täsmättävä lisenssin tunnuksen kanssa. Siirry kohtaan <a href=\"#\" onclick=\"helpers.goWebsite('manage',event)\">Hallitse lisenssejä</a>, jos sinun on siirrettävä nykyinen lisenssisi uuteen asennukseen. Voit poistaa nykyisen lisenssin ja lisätä uuden uudella tunnuksella.</p>",
   "linksent": "Linkki lähetetty - tarkista sähköpostisi",
+  "linksentbouncing": "Linkki lähetetty osoitteeseen [EMAIL], mutta sähköpostit kyseiseen osoitteeseen palautuvat, joten se ei välttämättä saavu perille. Jos et ole saanut sitä 10 minuutissa, napsauta tätä ottaaksesi yhteyttä tukeen.",
   "linksentto": "Linkki lähetetty osoitteeseen [EMAIL] - tarkista sähköpostisi",
   "live": "Suora videokuva",
   "livebadge": "LIVENÄ",

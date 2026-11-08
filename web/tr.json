@@ -1221,6 +1221,7 @@
   "licensingfailed": "Lisanslama başarısız oldu",
   "licensingfailedmessage": "<p>Lisans sayfasındaki Benzersiz Kimlik (Unique ID), lisanstaki kimlikle eşleşmelidir. Mevcut lisansınızı yeni bir kuruluma taşımak isterseniz <a href=\"#\" onclick=\"helpers.goWebsite('manage',event)\">Lisansları Yönet</a> bölümüne gidin. Mevcut lisansı silip yeni kimlik ile yenisini ekleyebilirsiniz.</p>",
   "linksent": "Bağlantı gönderildi - e-postanızı kontrol edin",
+  "linksentbouncing": "[EMAIL] adresine bağlantı gönderildi, ancak bu adrese gönderilen e-postalarımız geri dönüyor. Bu nedenle bağlantı ulaşmayabilir. 10 dakika içinde gelmezse, destek ile iletişim kurmak için buraya tıklayın.",
   "linksentto": "Bağlantı [EMAIL] adresine gönderildi - e-postanızı kontrol edin",
   "live": "Canlı video",
   "livebadge": "CANLI",

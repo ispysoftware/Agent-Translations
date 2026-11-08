@@ -1221,6 +1221,7 @@
   "licensingfailed": "Licencelés sikertelen",
   "licensingfailedmessage": "<p>A licencoldalon található egyedi azonosítónak (Unique ID) meg kell egyeznie a licencben szereplő azonosítóval. Ha át szeretné vinni meglévő licencét egy új telepítésbe, látogasson el a <a href=\"#\" onclick=\"helpers.goWebsite('manage',event)\">Licenckezelés</a> oldalra. A meglévő licenc törölhető, és az új azonosítóval új licenc hozzáadható.</p>",
   "linksent": "Hivatkozás elküldve – ellenőrizze e-mailjét",
+  "linksentbouncing": "A link elküldve a(z) [EMAIL] címre, azonban az erre a címre küldött e-maileink visszapattannak, így előfordulhat, hogy nem érkezik meg. Ha 10 perc után sem érkezett meg, kattintson ide, hogy kapcsolatba lépjen az ügyfélszolgálattal.",
   "linksentto": "Link elküldve ide: [EMAIL] - ellenőrizze az e-mailét",
   "live": "Élő videó",
   "livebadge": "ÉLŐ",

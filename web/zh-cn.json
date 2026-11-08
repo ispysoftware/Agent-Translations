@@ -1221,6 +1221,7 @@
   "licensingfailed": "许可验证失败",
   "licensingfailedmessage": "<p>许可页面上的唯一 ID 必须与许可证中的 ID 匹配。如果您需要将现有许可证迁移到新安装，请访问 <a href=\"#\" onclick=\"helpers.goWebsite('manage',event)\">管理许可证</a>。您可以删除现有许可证并使用新 ID 添加一个新许可证。</a></p>",
   "linksent": "链接已发送 - 请检查您的电子邮件",
+  "linksentbouncing": "链接已发送至 [EMAIL]，但我们发往该地址的电子邮件一直被退回，因此链接可能无法送达。如果 10 分钟内未收到，请点击此处联系支持。",
   "linksentto": "链接已发送至 [EMAIL] - 请检查您的电子邮件",
   "live": "实时视频",
   "livebadge": "直播中",

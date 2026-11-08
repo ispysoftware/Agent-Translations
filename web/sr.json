@@ -1221,6 +1221,7 @@
   "licensingfailed": "Licenciranje nije uspjelo",
   "licensingfailedmessage": "<p>Jedinstveni ID na stranici licenciranja mora se podudarati sa ID-jem u licenci. Ako treba da prenesete postojeću licencu na novu instalaciju, idite na <a href=\"#\" onclick=\"helpers.goWebsite('manage',event)\">Upravljanje licencama</a>. Možete obrisati postojeću licencu i dodati novu sa novim ID-jem.</a></p>",
   "linksent": "Veza poslata - provjerite e-poštu",
+  "linksentbouncing": "Veza poslata na [EMAIL], ali naša e-pošta na tu adresu se vraća, tako da možda neće stići. Ako nije stigla za 10 minuta, kliknite ovdje da kontaktirate podršku.",
   "linksentto": "Veza poslata na [EMAIL] - provjerite e-poštu",
   "live": "Video uživo",
   "livebadge": "UŽIVO",
