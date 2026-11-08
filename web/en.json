@@ -1221,6 +1221,7 @@
   "licensingfailed": "Licensing Failed",
   "licensingfailedmessage": "<p>The Unique ID on the licensing page must match the ID in the license. Go to <a href=\"#\" onclick=\"helpers.goWebsite('manage',event)\">Manage Licenses</a> if you need to move your existing license to a new install. You can delete the existing license and add a new one with the new ID.</a></p>",
   "linksent": "Link Sent - check your email",
+  "linksentbouncing": "Link sent to [EMAIL], but our emails to that address have been bouncing, so it may not arrive. If it hasn't arrived in 10 minutes, click here to contact support.",
   "linksentto": "Link sent to [EMAIL] - check your email",
   "live": "Live Video",
   "livebadge": "LIVE",
