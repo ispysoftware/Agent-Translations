@@ -1865,7 +1865,7 @@
     "json.upgradenow": "এখনই আপগ্রেড করুন",
     "json.uploadcloudrecording": "বর্তমান রেকর্ডিং ক্লাউডে আপলোড করুন",
     "json.uploadftprecording": "বর্তমান রেকর্ডিং FTP-তে আপলোড করুন",
-    "json.uploadingstreaming": "আপলোড হচ্ছে",
+    "json.uploadingstreaming": "আপলোড",
     "json.uploadobjects": "অবজেক্ট আপলোড করুন",
     "json.uploadrecordings": "রেকর্ডিং আপলোড করুন",
     "json.uploads": "আপলোডসমূহ",

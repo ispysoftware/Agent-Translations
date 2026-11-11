@@ -1865,7 +1865,7 @@
     "json.upgradenow": "Aggiorna ora",
     "json.uploadcloudrecording": "Caricamento registrazione corrente su Cloud",
     "json.uploadftprecording": "Caricamento registrazione corrente via FTP",
-    "json.uploadingstreaming": "Caricamento in corso",
+    "json.uploadingstreaming": "Caricamento",
     "json.uploadobjects": "Caricamento oggetti",
     "json.uploadrecordings": "Caricamento registrazioni",
     "json.uploads": "Caricamenti",

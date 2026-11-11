@@ -1865,7 +1865,7 @@
     "json.upgradenow": "Aktualizovat nyní",
     "json.uploadcloudrecording": "Nahrát aktuální nahrávku do Cloud",
     "json.uploadftprecording": "Nahrát aktuální nahrávku přes FTP",
-    "json.uploadingstreaming": "Probíhá nahrávání",
+    "json.uploadingstreaming": "Nahrávání",
     "json.uploadobjects": "Nahrát objekty",
     "json.uploadrecordings": "Nahrát záznamy",
     "json.uploads": "Nahrané soubory",

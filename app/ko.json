@@ -1865,7 +1865,7 @@
     "json.upgradenow": "지금 업그레이드",
     "json.uploadcloudrecording": "현재 녹화 클라우드 업로드",
     "json.uploadftprecording": "FTP 를 통해 현재 녹화 업로드",
-    "json.uploadingstreaming": "업로딩 중",
+    "json.uploadingstreaming": "업로드",
     "json.uploadobjects": "객체 업로드",
     "json.uploadrecordings": "녹화 파일 업로드",
     "json.uploads": "업로드",

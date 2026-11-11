@@ -1865,7 +1865,7 @@
     "json.upgradenow": "Päivitä nyt",
     "json.uploadcloudrecording": "Lataa nykyinen tallennus pilveen",
     "json.uploadftprecording": "Lataa nykyinen tallennus FTP-palvelimelle",
-    "json.uploadingstreaming": "Ladataan",
+    "json.uploadingstreaming": "Lataus",
     "json.uploadobjects": "Lataa kohteet",
     "json.uploadrecordings": "Lataa tallenteet",
     "json.uploads": "Lataukset",

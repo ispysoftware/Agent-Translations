@@ -1865,7 +1865,7 @@
     "json.upgradenow": "Frissítés most",
     "json.uploadcloudrecording": "Jelenlegi rögzítés feltöltése a Felhőbe",
     "json.uploadftprecording": "Jelenlegi rögzítés FTP-re történő feltöltése",
-    "json.uploadingstreaming": "Feltöltés folyamatban",
+    "json.uploadingstreaming": "Feltöltés",
     "json.uploadobjects": "Objektok feltöltése",
     "json.uploadrecordings": "Felvételek feltöltése",
     "json.uploads": "Feltöltések",

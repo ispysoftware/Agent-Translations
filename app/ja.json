@@ -1865,7 +1865,7 @@
     "json.upgradenow": "今すぐアップグレード",
     "json.uploadcloudrecording": "現在の録画をクラウドにアップロード",
     "json.uploadftprecording": "現在の録画を FTP にアップロード",
-    "json.uploadingstreaming": "アップロード中",
+    "json.uploadingstreaming": "アップロード",
     "json.uploadobjects": "オブジェクトのアップロード",
     "json.uploadrecordings": "録画データのアップロード",
     "json.uploads": "アップロード",

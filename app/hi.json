@@ -1865,7 +1865,7 @@
     "json.upgradenow": "अभी अपग्रेड करें",
     "json.uploadcloudrecording": "वर्तमान रिकॉर्डिंग को क्लाउड पर अपलोड करें",
     "json.uploadftprecording": "वर्तमान रिकॉर्डिंग को FTP पर अपलोड करें",
-    "json.uploadingstreaming": "अपलोड हो रहा है",
+    "json.uploadingstreaming": "अपलोड",
     "json.uploadobjects": "ऑब्जेक्ट अपलोड करें",
     "json.uploadrecordings": "रिकॉर्डिंग अपलोड करें",
     "json.uploads": "अपलोड",

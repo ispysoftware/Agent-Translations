@@ -1865,7 +1865,7 @@
     "json.upgradenow": "الترقية الآن",
     "json.uploadcloudrecording": "رفع التسجيل الحالي إلى Cloud",
     "json.uploadftprecording": "رفع التسجيل الحالي عبر FTP",
-    "json.uploadingstreaming": "جاري الرفع",
+    "json.uploadingstreaming": "الرفع",
     "json.uploadobjects": "رفع الكائنات",
     "json.uploadrecordings": "رفع التسجيلات",
     "json.uploads": "عمليات الرفع",

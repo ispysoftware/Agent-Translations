@@ -1865,7 +1865,7 @@
     "json.upgradenow": "立即升級",
     "json.uploadcloudrecording": "將目前錄影上傳至雲端",
     "json.uploadftprecording": "將目前錄影透過 FTP 上傳",
-    "json.uploadingstreaming": "正在上傳",
+    "json.uploadingstreaming": "上傳",
     "json.uploadobjects": "上傳物件",
     "json.uploadrecordings": "上傳錄影檔",
     "json.uploads": "上傳項目",

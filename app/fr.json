@@ -1865,7 +1865,7 @@
     "json.upgradenow": "Mettre à jour maintenant",
     "json.uploadcloudrecording": "Envoi Cloud de l'enregistrement actuel",
     "json.uploadftprecording": "Envoi FTP de l'enregistrement actuel",
-    "json.uploadingstreaming": "Envoi en cours",
+    "json.uploadingstreaming": "Envoi",
     "json.uploadobjects": "Charger des objets",
     "json.uploadrecordings": "Charger les enregistrements",
     "json.uploads": "Chargements",
