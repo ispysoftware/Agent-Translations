@@ -1714,6 +1714,10 @@
     "zoomout": "Thu nhỏ",
     "zoomreset": "Đặt lại thu phóng"
   },
+  "tv": {
+    "backhint": "Nhấn Quay lại một lần nữa để xem danh sách máy chủ",
+    "cycleviews": "Chu kỳ các chế độ xem"
+  },
   "type": "Loại",
   "uisettings": "Cài đặt giao diện người dùng",
   "unblockremote": "Bỏ chọn Chặn truy cập bên ngoài trong Cài đặt máy chủ - Máy chủ cục bộ",

@@ -1714,6 +1714,10 @@
     "zoomout": "Zoomaa ulos",
     "zoomreset": "Nollaa zoomaus"
   },
+  "tv": {
+    "backhint": "Paina Takaisin uudelleen palataksesi palvelinluetteloon",
+    "cycleviews": "Näkymien kierto"
+  },
   "type": "Tyyppi",
   "uisettings": "Teeman asetukset",
   "unblockremote": "Poista valinta kohdasta Estä ulkopuolinen pääsy palvelimen asetuksissa - Paikallinen palvelin",

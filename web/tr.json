@@ -1714,6 +1714,10 @@
     "zoomout": "Uzaklaştır",
     "zoomreset": "Yakınlaştırmayı sıfırla"
   },
+  "tv": {
+    "backhint": "Sunucu listesi için Geri düğmesine tekrar basın",
+    "cycleviews": "Görünümler arasında geçiş yap"
+  },
   "type": "Tür",
   "uisettings": "Arayüz ayarları",
   "unblockremote": "Sunucu ayarlarındaki Harici Erişimi Engelle seçeneğinin işaretini kaldırın - Yerel Sunucu",

@@ -1714,6 +1714,10 @@
     "zoomout": "Uitzoomen",
     "zoomreset": "Zoom resetten"
   },
+  "tv": {
+    "backhint": "Druk nogmaals op Terug voor de serverlijst",
+    "cycleviews": "Weergaven doorlopen"
+  },
   "type": "Type",
   "uisettings": "UI-instellingen",
   "unblockremote": "Vink 'Externe toegang blokkeren' uit in serverinstellingen - Lokale server",

@@ -1714,6 +1714,10 @@
     "zoomout": "縮小",
     "zoomreset": "重置縮放"
   },
+  "tv": {
+    "backhint": "再次按 返回 以查看伺服器清單",
+    "cycleviews": "循環檢視"
+  },
   "type": "類型",
   "uisettings": "UI 設定",
   "unblockremote": "在伺服器設定的「本機伺服器」中取消勾選「封鎖外部存取」",

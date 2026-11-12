@@ -1714,6 +1714,10 @@
     "zoomout": "Pomniejsz",
     "zoomreset": "Resetuj powiększenie"
   },
+  "tv": {
+    "backhint": "Naciśnij Wstecz ponownie, aby wyświetlić listę serwerów",
+    "cycleviews": "Przełączaj widoki"
+  },
   "type": "Typ",
   "uisettings": "Ustawienia interfejsu",
   "unblockremote": "Odznacz blokowanie dostępu zewnętrznego w ustawieniach serwera - Serwer lokalny",

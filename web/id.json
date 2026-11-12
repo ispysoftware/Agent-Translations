@@ -1714,6 +1714,10 @@
     "zoomout": "Perkecil",
     "zoomreset": "Atur ulang zoom"
   },
+  "tv": {
+    "backhint": "Tekan Kembali lagi untuk daftar server",
+    "cycleviews": "Siklus tampilan"
+  },
   "type": "Tipe",
   "uisettings": "Pengaturan UI",
   "unblockremote": "Hapus centang Blokir Akses Eksternal di Pengaturan Server - Server Lokal",

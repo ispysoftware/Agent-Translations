@@ -1714,6 +1714,10 @@
     "zoomout": "Zoom ut",
     "zoomreset": "Nullstill zoom"
   },
+  "tv": {
+    "backhint": "Trykk Tilbake igjen for serverlisten",
+    "cycleviews": "Veksle mellom visninger"
+  },
   "type": "Type",
   "uisettings": "UI-innstillinger",
   "unblockremote": "Fjern avkrysning for blokker ekstern tilgang i serverinnstillinger - lokal server",

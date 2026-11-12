@@ -1714,6 +1714,10 @@
     "zoomout": "Umanji",
     "zoomreset": "Poništi zum"
   },
+  "tv": {
+    "backhint": "Pritisnite Nazad ponovo za listu servera",
+    "cycleviews": "Ciklus prikaza"
+  },
   "type": "Tip",
   "uisettings": "Postavke interfejsa",
   "unblockremote": "Isključite Blokiraj spoljni pristup u Postavkama servera - Lokalni server",

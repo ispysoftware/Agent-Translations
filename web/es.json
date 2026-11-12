@@ -1714,6 +1714,10 @@
     "zoomout": "Alejar",
     "zoomreset": "Restablecer zoom"
   },
+  "tv": {
+    "backhint": "Presiona Atrás de nuevo para la lista de servidores",
+    "cycleviews": "Ciclar vistas"
+  },
   "type": "Tipo",
   "uisettings": "Ajustes de interfaz",
   "unblockremote": "Desmarque Bloquear acceso externo en Ajustes del servidor - Servidor local",

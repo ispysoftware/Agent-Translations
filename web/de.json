@@ -1714,6 +1714,10 @@
     "zoomout": "Herauszoomen",
     "zoomreset": "Zoom zurücksetzen"
   },
+  "tv": {
+    "backhint": "Drücken Sie Zurück erneut für die Serverliste",
+    "cycleviews": "Ansichten durchlaufen"
+  },
   "type": "Typ",
   "uisettings": "UI-Einstellungen",
   "unblockremote": "Externen Zugriff in den Server-Einstellungen deaktivieren - Lokaler Server",

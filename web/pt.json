@@ -1714,6 +1714,10 @@
     "zoomout": "Diminuir Zoom",
     "zoomreset": "Redefinir zoom"
   },
+  "tv": {
+    "backhint": "Pressione Voltar novamente para a lista de servidores",
+    "cycleviews": "Alternar visualizações"
+  },
   "type": "Tipo",
   "uisettings": "Configurações da interface",
   "unblockremote": "Desmarque Bloquear acesso externo nas configurações do servidor - Servidor local",

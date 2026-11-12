@@ -1714,6 +1714,10 @@
     "zoomout": "Oddálit",
     "zoomreset": "Resetovat zoom"
   },
+  "tv": {
+    "backhint": "Stiskněte Zpět ještě jednou pro seznam serverů",
+    "cycleviews": "Střídat pohledy"
+  },
   "type": "Typ",
   "uisettings": "Nastavení rozhraní",
   "unblockremote": "Zrušte zaškrtnutí Blokovat externí přístup v nastavení serveru - Lokální server",

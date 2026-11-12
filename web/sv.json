@@ -1714,6 +1714,10 @@
     "zoomout": "Zooma ut",
     "zoomreset": "Återställ zoom"
   },
+  "tv": {
+    "backhint": "Tryck Bakåt igen för serverlistan",
+    "cycleviews": "Växla mellan vyer"
+  },
   "type": "Typ",
   "uisettings": "Temainställningar",
   "unblockremote": "Avmarkera blockera extern åtkomst i serverinställningar - lokal server",

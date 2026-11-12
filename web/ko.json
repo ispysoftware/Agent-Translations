@@ -1714,6 +1714,10 @@
     "zoomout": "축소",
     "zoomreset": "확대/축소 초기화"
   },
+  "tv": {
+    "backhint": "뒤로를 다시 누르면 서버 목록이 표시됩니다",
+    "cycleviews": "순환 보기"
+  },
   "type": "유형",
   "uisettings": "UI 설정",
   "unblockremote": "서버 설정에서 외부 액세스 차단 확인 해제 - 로컬 서버",
