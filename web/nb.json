@@ -1836,6 +1836,15 @@
   "warning": "Advarsel",
   "warningemail": "E-postvarsler har blitt begrenset (rate limited)",
   "watched": "Sett",
+  "watching": {
+    "keep": "Fortsett å se",
+    "left": "Koblet fra etter lang pause for å spare båndbredde.",
+    "pausedtext": "Pauset fordi det ikke så ut til at noen fulgte med.",
+    "pausedtitle": "Video satt på pause",
+    "resume": "Gjenoppta",
+    "text": "Videoen settes snart på pause for å spare båndbredde.",
+    "title": "Ser du fortsatt?"
+  },
   "wizard": "Veiviser",
   "working": "Jobber...",
   "wrongaccount": "Logg inn med [ACC] for å koble til denne serveren",

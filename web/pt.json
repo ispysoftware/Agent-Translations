@@ -1836,6 +1836,15 @@
   "warning": "Aviso",
   "warningemail": "Os alertas por e-mail têm uma taxa limitada",
   "watched": "Assistido",
+  "watching": {
+    "keep": "Continuar assistindo",
+    "left": "Desconectado após uma longa pausa para economizar largura de banda.",
+    "pausedtext": "Pausado porque ninguém parecia estar assistindo.",
+    "pausedtitle": "Vídeo pausado",
+    "resume": "Retomar",
+    "text": "O vídeo será pausado em breve para economizar largura de banda.",
+    "title": "Ainda está assistindo?"
+  },
   "wizard": "Assistente",
   "working": "Em processamento",
   "wrongaccount": "Faça login com [ACC] para conectar este servidor",

@@ -1836,6 +1836,15 @@
   "warning": "Varning",
   "warningemail": "E-postaviseringar har begränsats (rate limited)",
   "watched": "Sett",
+  "watching": {
+    "keep": "Fortsätt titta",
+    "left": "Frånkopplad efter en lång paus för att spara bandbredd.",
+    "pausedtext": "Pausad eftersom ingen verkade titta.",
+    "pausedtitle": "Video pauserat",
+    "resume": "Återuppta",
+    "text": "Videon pausas snart för att spara bandbredd.",
+    "title": "Tittar du fortfarande?"
+  },
   "wizard": "Guide",
   "working": "Arbetar...",
   "wrongaccount": "Logga in med [ACC] för att ansluta denna server",

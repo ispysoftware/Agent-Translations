@@ -1836,6 +1836,15 @@
   "warning": "Attention",
   "warningemail": "Les alertes par courriel ont été limitées",
   "watched": "Regardé",
+  "watching": {
+    "keep": "Continuer à regarder",
+    "left": "Déconnecté après une longue pause pour économiser la bande passante.",
+    "pausedtext": "En pause parce que personne ne semblait regarder.",
+    "pausedtitle": "Vidéo en pause",
+    "resume": "Reprendre",
+    "text": "La vidéo va s'interrompre dans quelques instants pour économiser la bande passante.",
+    "title": "Vous regardez toujours ?"
+  },
   "wizard": "Assistant",
   "working": "En traitement",
   "wrongaccount": "Connectez-vous avec [ACC] pour connecter ce serveur",

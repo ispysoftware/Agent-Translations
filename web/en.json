@@ -1836,6 +1836,15 @@
   "warning": "Warning",
   "warningemail": "Email alerts have been rate limited",
   "watched": "Watched",
+  "watching": {
+    "keep": "Keep watching",
+    "left": "Disconnected after a long pause to save bandwidth.",
+    "pausedtext": "Paused because nobody seemed to be watching.",
+    "pausedtitle": "Video paused",
+    "resume": "Resume",
+    "text": "The video will pause shortly to save bandwidth.",
+    "title": "Still watching?"
+  },
   "wizard": "Wizard",
   "working": "Working...",
   "wrongaccount": "Sign in with [ACC] to connect this server",

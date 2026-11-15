@@ -1836,6 +1836,15 @@
   "warning": "Uyarı",
   "warningemail": "E-posta uyarıları hız sınırına tabi tutuldu",
   "watched": "izlendi",
+  "watching": {
+    "keep": "İzlemeye devam et",
+    "left": "Bant genişliğinden tasarruf etmek için uzun bir duraklamadan sonra bağlantı kesildi.",
+    "pausedtext": "Kimse izlemiyor gibi göründüğü için duraklatıldı.",
+    "pausedtitle": "Video duraklatıldı",
+    "resume": "Devam Et",
+    "text": "Video, bant genişliğinden tasarruf etmek için birazdan duraklatılacak.",
+    "title": "Hala izliyor musunuz?"
+  },
   "wizard": "Sihirbaz",
   "working": "Çalışıyor...",
   "wrongaccount": "Bu sunucuya bağlanmak için [ACC] ile oturum açın",

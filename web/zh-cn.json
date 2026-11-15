@@ -1836,6 +1836,15 @@
   "warning": "警告",
   "warningemail": "电子邮件警报已受到速率限制",
   "watched": "看过",
+  "watching": {
+    "keep": "继续观看",
+    "left": "长时间暂停后断开连接以节省带宽。",
+    "pausedtext": "已暂停，因为似乎没有人在观看。",
+    "pausedtitle": "视频已暂停",
+    "resume": "继续",
+    "text": "视频即将暂停以节省带宽。",
+    "title": "还在观看吗？"
+  },
   "wizard": "向导",
   "working": "处理中",
   "wrongaccount": "使用 [ACC] 登录以连接此服务器",

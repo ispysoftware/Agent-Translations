@@ -1836,6 +1836,15 @@
   "warning": "Advertencia",
   "warningemail": "Se ha limitado la frecuencia de las alertas por correo electrónico",
   "watched": "Visto",
+  "watching": {
+    "keep": "Seguir viendo",
+    "left": "Desconectado después de una pausa prolongada para ahorrar ancho de banda.",
+    "pausedtext": "En pausa porque parecía que nadie estaba mirando.",
+    "pausedtitle": "Vídeo en pausa",
+    "resume": "Reanudar",
+    "text": "El vídeo se pausará en breve para ahorrar ancho de banda.",
+    "title": "¿Sigues viendo?"
+  },
   "wizard": "Asistente",
   "working": "Procesando",
   "wrongaccount": "Inicie sesión con [ACC] para conectar este servidor",

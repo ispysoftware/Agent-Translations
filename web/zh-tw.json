@@ -1836,6 +1836,15 @@
   "warning": "警告",
   "warningemail": "電子郵件警報已受到速率限制",
   "watched": "看過",
+  "watching": {
+    "keep": "繼續觀看",
+    "left": "長時間暫停後已斷線以節省頻寬。",
+    "pausedtext": "已暫停，因為似乎沒有人在觀看。",
+    "pausedtitle": "影片已暫停",
+    "resume": "繼續",
+    "text": "影片即將暫停以節省頻寬。",
+    "title": "還在看嗎？"
+  },
   "wizard": "引導精靈",
   "working": "處理中...",
   "wrongaccount": "使用 [ACC] 登入以連線至此伺服器",

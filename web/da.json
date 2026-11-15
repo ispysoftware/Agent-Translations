@@ -1836,6 +1836,15 @@
   "warning": "Advarsel",
   "warningemail": "E-mail-alarmer er blevet begrænset i frekvens",
   "watched": "Set",
+  "watching": {
+    "keep": "Fortsæt med at se",
+    "left": "Afbrudt efter en lang pause for at spare båndbredde.",
+    "pausedtext": "Sat på pause, fordi det ikke så ud til, at nogen kiggede med.",
+    "pausedtitle": "Video sat på pause",
+    "resume": "Genoptag",
+    "text": "Videoen sættes snart på pause for at spare båndbredde.",
+    "title": "Ser du stadig?"
+  },
   "wizard": "guiden",
   "working": "Arbejder...",
   "wrongaccount": "Log ind med [ACC] for at forbinde denne server",

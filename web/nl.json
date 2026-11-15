@@ -1836,6 +1836,15 @@
   "warning": "Waarschuwing",
   "warningemail": "E-mailwaarschuwingen zijn beperkt qua frequentie",
   "watched": "Gekeken",
+  "watching": {
+    "keep": "Blijf kijken",
+    "left": "Verbinding verbroken na een lange pauze om bandbreedte te besparen.",
+    "pausedtext": "Gepauzeerd omdat niemand leek te kijken.",
+    "pausedtitle": "Video gepauzeerd",
+    "resume": "Hervatten",
+    "text": "De video wordt zo gepauzeerd om bandbreedte te besparen.",
+    "title": "Nog aan het kijken?"
+  },
   "wizard": "Wizard",
   "working": "Verwerken",
   "wrongaccount": "Meld u aan met [ACC] om deze server te verbinden",

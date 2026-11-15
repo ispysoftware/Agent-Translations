@@ -1836,6 +1836,15 @@
   "warning": "Warnung",
   "warningemail": "E-Mail-Benachrichtigungen wurden gedrosselt",
   "watched": "Angesehen",
+  "watching": {
+    "keep": "Weiter ansehen",
+    "left": "Getrennt nach einer langen Pause, um Bandbreite zu sparen.",
+    "pausedtext": "Angehalten, da anscheinend niemand zusah.",
+    "pausedtitle": "Video angehalten",
+    "resume": "Fortsetzen",
+    "text": "Das Video wird in Kürze angehalten, um Bandbreite zu sparen.",
+    "title": "Schauen Sie noch zu?"
+  },
   "wizard": "Assistent",
   "working": "wird bearbeitet",
   "wrongaccount": "Melden Sie sich mit [ACC] an, um diesen Server zu verbinden",

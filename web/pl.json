@@ -1836,6 +1836,15 @@
   "warning": "Ostrzeżenie",
   "warningemail": "Liczba powiadomień e-mail została ograniczona",
   "watched": "Obejrzane",
+  "watching": {
+    "keep": "Oglądaj dalej",
+    "left": "Rozłączono po długiej przerwie w celu zaoszczędzenia przepustowości.",
+    "pausedtext": "Wstrzymano, ponieważ wyglądało na to, że nikt nie ogląda.",
+    "pausedtitle": "Wideo wstrzymane",
+    "resume": "Wznów",
+    "text": "Wideo zostanie wkrótce wstrzymane, aby zaoszczędzić przepustowość.",
+    "title": "Nadal oglądasz?"
+  },
   "wizard": "Kreator",
   "working": "Przetwarzanie...",
   "wrongaccount": "Zaloguj się przy użyciu [ACC], aby połączyć ten serwer",

@@ -1836,6 +1836,15 @@
   "warning": "Avviso",
   "warningemail": "Gli avvisi email sono stati limitati",
   "watched": "visto",
+  "watching": {
+    "keep": "Continua a guardare",
+    "left": "Disconnesso dopo una lunga pausa per risparmiare larghezza di banda.",
+    "pausedtext": "In pausa perché sembrava che nessuno stesse guardando.",
+    "pausedtitle": "Video in pausa",
+    "resume": "Riprendi",
+    "text": "Il video si metterà in pausa tra poco per risparmiare larghezza di banda.",
+    "title": "Stai ancora guardando?"
+  },
   "wizard": "procedura guidata",
   "working": "in lavorazione",
   "wrongaccount": "Accedi con [ACC] per connettere questo server",

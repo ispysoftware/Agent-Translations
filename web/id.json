@@ -1836,6 +1836,15 @@
   "warning": "Peringatan",
   "warningemail": "Peringatan email telah dibatasi kecepatannya",
   "watched": "Ditonton",
+  "watching": {
+    "keep": "Lanjutkan menonton",
+    "left": "Terputus setelah jeda lama untuk menghemat bandwidth.",
+    "pausedtext": "Dijeda karena tampaknya tidak ada yang menonton.",
+    "pausedtitle": "Video dijeda",
+    "resume": "Lanjutkan",
+    "text": "Video akan segera dijeda untuk menghemat bandwidth.",
+    "title": "Masih menonton?"
+  },
   "wizard": "Asisten",
   "working": "Bekerja...",
   "wrongaccount": "Masuk dengan [ACC] untuk menghubungkan server ini",

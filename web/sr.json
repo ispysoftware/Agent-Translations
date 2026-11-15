@@ -1836,6 +1836,15 @@
   "warning": "Upozorenje",
   "warningemail": "Upozorenja e-poštom su ograničena brojem",
   "watched": "Pogledano",
+  "watching": {
+    "keep": "Nastavi gledanje",
+    "left": "Veza je prekinuta nakon duge pauze radi uštede propusnog opsega.",
+    "pausedtext": "Pauzirano jer se čini da niko ne gleda.",
+    "pausedtitle": "Video pauziran",
+    "resume": "Nastavi",
+    "text": "Video će se uskoro pauzirati radi uštede propusnog opsega.",
+    "title": "Još uvek gledaš?"
+  },
   "wizard": "Čarobnjak",
   "working": "Rad u toku...",
   "wrongaccount": "Prijavite se pomoću [ACC] da biste povezali ovaj server",

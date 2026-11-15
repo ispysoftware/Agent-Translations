@@ -1836,6 +1836,15 @@
   "warning": "Varování",
   "warningemail": "Upozornění e-mailem podléhají omezení frekvence",
   "watched": "Zhlédnuto",
+  "watching": {
+    "keep": "Pokračovat v sledování",
+    "left": "Odpojeno po dlouhé pauze, aby se ušetřila šířka pásma.",
+    "pausedtext": "Pozastaveno, protože se zdálo, že nikdo nesleduje.",
+    "pausedtitle": "Video pozastaveno",
+    "resume": "Pokračovat",
+    "text": "Video bude brzy pozastaveno, aby se ušetřila šířka pásma.",
+    "title": "Stále sledujete?"
+  },
   "wizard": "Průvodce",
   "working": "zpracovává se",
   "wrongaccount": "Pro připojení tohoto serveru se přihlaste pomocí [ACC]",

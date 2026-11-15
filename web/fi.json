@@ -1836,6 +1836,15 @@
   "warning": "Varoitus",
   "warningemail": "Sähköpostihälytyksiin on asetettu nopeusrajoitus",
   "watched": "Katsottu",
+  "watching": {
+    "keep": "Jatka katselua",
+    "left": "Yhteys katkaistu pitkän tauon jälkeen kaistanleveyden säästämiseksi.",
+    "pausedtext": "Keskeytetty, koska kukaan ei näyttänyt katsovan.",
+    "pausedtitle": "Video keskeytetty",
+    "resume": "Jatka",
+    "text": "Video keskeytetään kohta kaistanleveyden säästämiseksi.",
+    "title": "Katsotko vielä?"
+  },
   "wizard": "Ohjattu toiminto",
   "working": "Valmistellaan...",
   "wrongaccount": "Kirjaudu sisään tunnuksella [ACC] yhdistääksesi tämän palvelimen",
