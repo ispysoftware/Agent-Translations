@@ -1003,6 +1003,7 @@
   "connections": "Yhteydet",
   "connectionsettings": "Yhteysasetukset",
   "connectstage_datachannel": "Yhdistetty, mutta palvelimelta ei vastaanotettu tietoja. Yritä käynnistää Agent DVR uudelleen.",
+  "connectstage_dropped": "Yhdistetty, sitten yhteys katkesi. Tarkista Agent DVR -lokit.",
   "connectstage_ice": "Yhteyttä ei voitu muodostaa. Palomuuri, VPN tai paikallisen verkon käyttöoikeus saattaa estää sen.",
   "connectstage_noanswer": "Palvelin ei vastannut. Tarkista, että Agent DVR on käynnissä ja Yhdistetty internetiin.",
   "connectstage_offer": "Yhteyskyselyä ei voitu luoda. Yritä käyttää toista selainta.",

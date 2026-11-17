@@ -1003,6 +1003,7 @@
   "connections": "Bağlantılar",
   "connectionsettings": "Bağlantı ayarları",
   "connectstage_datachannel": "Bağlandı ancak Sunucu'dan veri alınmadı. Agent DVR'ı yeniden başlatmayı deneyin.",
+  "connectstage_dropped": "Bağlandı, ardından bağlantı kesildi. Agent DVR günlüklerini kontrol edin.",
   "connectstage_ice": "Bağlantı kurulamadı. Bir güvenlik duvarı, VPN veya yerel ağ izni bunu engelliyor olabilir.",
   "connectstage_noanswer": "Sunucu yanıt vermedi. Agent DVR'ın çalıştığını ve internete bağlandığını kontrol edin.",
   "connectstage_offer": "Bağlantı isteği oluşturulamadı. Başka bir tarayıcı deneyin.",

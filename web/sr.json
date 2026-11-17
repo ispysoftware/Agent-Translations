@@ -1003,6 +1003,7 @@
   "connections": "Veze",
   "connectionsettings": "Postavke veze",
   "connectstage_datachannel": "Povezano, ali nisu primljeni podaci sa servera. Pokušajte ponovo pokrenuti Agent DVR.",
+  "connectstage_dropped": "Povezano, zatim je veza prekinuta. Proverite Agent DVR dnevnike.",
   "connectstage_ice": "Veza nije mogla biti uspostavljena. Moguće je da je blokira zaštitni zid, VPN ili dozvola lokalne mreže.",
   "connectstage_noanswer": "Server nije odgovorio. Provjerite da li je Agent DVR pokrenut i povezan na internet.",
   "connectstage_offer": "Zahtjev za vezu nije mogao biti napravljen. Probajte drugi pregledač.",

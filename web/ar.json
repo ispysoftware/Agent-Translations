@@ -1003,6 +1003,7 @@
   "connections": "الاتصالات",
   "connectionsettings": "إعدادات الاتصال",
   "connectstage_datachannel": "متصل لكن لم يتم استقبال بيانات من الخادم. حاول إعادة تشغيل Agent DVR.",
+  "connectstage_dropped": "تم الاتصال، ثم انقطع الاتصال. تحقق من سجلات Agent DVR.",
   "connectstage_ice": "تعذر إنشاء اتصال. قد يكون جدار الحماية أو VPN أو إذن الشبكة المحلية يحظره.",
   "connectstage_noanswer": "الخادم لم يرد. تحقق من أن Agent DVR قيد التشغيل ومتصل بالإنترنت.",
   "connectstage_offer": "تعذر إنشاء طلب الاتصال. جرب متصفحا آخر.",

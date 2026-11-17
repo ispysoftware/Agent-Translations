@@ -1003,6 +1003,7 @@
   "connections": "Verbindingen",
   "connectionsettings": "Verbindingsinstellingen",
   "connectstage_datachannel": "Verbonden maar geen gegevens van de server ontvangen. Probeer Agent DVR opnieuw te starten.",
+  "connectstage_dropped": "Verbonden, daarna werd de verbinding verbroken. Controleer de Agent DVR-logboeken.",
   "connectstage_ice": "Kon geen verbinding tot stand brengen. Een firewall, VPN of machtigingsprobleem op het lokale netwerk kan dit blokkeren.",
   "connectstage_noanswer": "De server heeft niet gereageerd. Controleer of Agent DVR wordt uitgevoerd en Verbonden is met het internet.",
   "connectstage_offer": "Kon geen verbindingsaanvraag maken. Probeer een andere browser.",

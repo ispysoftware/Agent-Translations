@@ -1003,6 +1003,7 @@
   "connections": "Koneksi",
   "connectionsettings": "Pengaturan Koneksi",
   "connectstage_datachannel": "Terhubung tetapi tidak menerima data dari server. Coba mulai ulang Agent DVR.",
+  "connectstage_dropped": "Terhubung, kemudian koneksi terputus. Periksa log Agent DVR.",
   "connectstage_ice": "Tidak dapat membuat koneksi. Dinding api, VPN, atau izin jaringan lokal mungkin memblokir.",
   "connectstage_noanswer": "Server tidak merespons. Periksa bahwa Agent DVR sedang berjalan dan Terhubung ke internet.",
   "connectstage_offer": "Tidak dapat membuat permintaan koneksi. Coba gunakan peramban lain.",

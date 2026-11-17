@@ -1003,6 +1003,7 @@
   "connections": "Kết nối",
   "connectionsettings": "Cài đặt kết nối",
   "connectstage_datachannel": "Đã kết nối nhưng không nhận được dữ liệu từ máy chủ. Hãy thử khởi động lại Agent DVR.",
+  "connectstage_dropped": "Đã kết nối, sau đó kết nối bị ngắt. Kiểm tra nhật ký Agent DVR.",
   "connectstage_ice": "Không thể thiết lập kết nối. Tường lửa, VPN hoặc quyền truy cập mạng cục bộ có thể đang chặn nó.",
   "connectstage_noanswer": "Máy chủ không phản hồi. Kiểm tra xem Agent DVR có đang chạy và kết nối với internet không.",
   "connectstage_offer": "Không thể tạo yêu cầu kết nối. Hãy thử trình duyệt khác.",

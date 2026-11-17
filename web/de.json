@@ -1003,6 +1003,7 @@
   "connections": "Verbindungen",
   "connectionsettings": "Verbindungseinstellungen",
   "connectstage_datachannel": "Verbunden, aber es wurden keine Daten vom Server empfangen. Versuchen Sie, Agent DVR neu zu starten.",
+  "connectstage_dropped": "Verbunden, dann ist die Verbindung abgebrochen. Überprüfen Sie die Agent DVR-Protokolle.",
   "connectstage_ice": "Verbindung konnte nicht hergestellt werden. Eine Firewall, ein VPN oder eine Berechtigung für das lokale Netzwerk könnte dies blockieren.",
   "connectstage_noanswer": "Der Server hat nicht geantwortet. Überprüfen Sie, dass Agent DVR ausgeführt wird Und mit dem Internet verbunden ist.",
   "connectstage_offer": "Es konnte keine Verbindungsanfrage erstellt werden. Versuchen Sie einen anderen Browser.",

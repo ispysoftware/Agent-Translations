@@ -1003,6 +1003,7 @@
   "connections": "Connexions",
   "connectionsettings": "Paramètres de connexion",
   "connectstage_datachannel": "Connecté mais aucune donnée reçue du serveur. Essayez de redémarrer Agent DVR.",
+  "connectstage_dropped": "Connecté, puis la connexion a été perdue. Vérifiez les journaux Agent DVR.",
   "connectstage_ice": "Impossible d'établir une connexion. Un pare-feu, un VPN ou une autorisation réseau local peut le bloquer.",
   "connectstage_noanswer": "Le serveur n'a pas répondu. Vérifiez qu'Agent DVR s'exécute et qu'il est connecté à Internet.",
   "connectstage_offer": "Impossible de créer une demande de connexion. Essayez un autre navigateur.",

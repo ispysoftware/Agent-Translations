@@ -1003,6 +1003,7 @@
   "connections": "Forbindelser",
   "connectionsettings": "Forbindelsesindstillinger",
   "connectstage_datachannel": "Forbundet, men modtog ingen data fra serveren. Prøv at genstarte Agent DVR.",
+  "connectstage_dropped": "Forbundet, derefter blev forbindelsen afbrudt. Kontroller Agent DVR-logfilerne.",
   "connectstage_ice": "Kunne ikke etablere en forbindelse. En firewall, VPN eller lokale netværkstilladelser blokerer muligvis forbindelsen.",
   "connectstage_noanswer": "Serveren svarede ikke. Kontroller, at Agent DVR kører og er Forbundet til internettet.",
   "connectstage_offer": "Kunne ikke oprette en forbindelsesanmodning. Prøv en anden browser.",

@@ -1003,6 +1003,7 @@
   "connections": "連線",
   "connectionsettings": "連線設定",
   "connectstage_datachannel": "已連線但未收到來自伺服器的資料。請嘗試重新啟動 Agent DVR。",
+  "connectstage_dropped": "已連線，之後連線中斷。檢查 Agent DVR 日誌。",
   "connectstage_ice": "無法建立連線。防火牆、VPN 或本機網路權限可能正在阻止連線。",
   "connectstage_noanswer": "伺服器未回應。請檢查 Agent DVR 是否正在執行且已連線到網際網路。",
   "connectstage_offer": "無法建立連線要求。請嘗試另一個瀏覽器。",

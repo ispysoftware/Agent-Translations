@@ -1003,6 +1003,7 @@
   "connections": "Conexões",
   "connectionsettings": "Configurações de Conexão",
   "connectstage_datachannel": "Conectado mas não foram recebidos dados do Servidor. Tente reiniciar Agent DVR.",
+  "connectstage_dropped": "Conectado, depois a conexão caiu. Verifique os registros do Agent DVR.",
   "connectstage_ice": "Não foi possível estabelecer uma conexão. Um firewall, VPN ou permissão de rede local pode estar bloqueando-a.",
   "connectstage_noanswer": "O servidor não respondeu. Verifique se Agent DVR está em execução e conectado à internet.",
   "connectstage_offer": "Não foi possível criar uma solicitação de conexão. Tente outro navegador.",

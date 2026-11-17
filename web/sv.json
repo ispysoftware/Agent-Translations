@@ -1003,6 +1003,7 @@
   "connections": "Anslutningar",
   "connectionsettings": "Anslutningsinställningar",
   "connectstage_datachannel": "Ansluten men mottog ingen data från servern. Försök att starta om Agent DVR.",
+  "connectstage_dropped": "Ansluten, sedan bröts anslutningen. Kontrollera Agent DVR-loggarna.",
   "connectstage_ice": "Det gick inte att upprätta en anslutning. En brandvägg, VPN eller behörighet för lokalt nätverk kan blockera den.",
   "connectstage_noanswer": "Servern svarade inte. Kontrollera att Agent DVR körs och är ansluten till internet.",
   "connectstage_offer": "Det gick inte att skapa en anslutningsbegäran. Försök med en annan webbläsare.",
