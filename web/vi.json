@@ -1483,6 +1483,8 @@
   "serveroutage": "Mất kết nối máy chủ - Các kết nối có thể bị ảnh hưởng",
   "serversconnected": "Máy chủ đã kết nối",
   "serversummary": "Tóm tắt máy chủ",
+  "servicenotrunning": "Dịch vụ không chạy",
+  "servicenotrunninghint": "Trang này sẽ tải lại ngay khi nó trở lại",
   "sessionmanagement": "Quản lý phiên",
   "setstartpage": "Trang bắt đầu",
   "settings": "Cài đặt",

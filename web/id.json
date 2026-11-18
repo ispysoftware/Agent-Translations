@@ -1483,6 +1483,8 @@
   "serveroutage": "Pemadaman server - Koneksi mungkin terdampak",
   "serversconnected": "Server terhubung",
   "serversummary": "Ringkasan server",
+  "servicenotrunning": "Layanan tidak berjalan",
+  "servicenotrunninghint": "Halaman ini akan dimuat ulang segera setelah kembali",
   "sessionmanagement": "Manajemen sesi",
   "setstartpage": "Halaman awal",
   "settings": "Pengaturan",

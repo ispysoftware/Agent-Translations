@@ -1483,6 +1483,8 @@
   "serveroutage": "Palvelinhäiriö - yhteydet voivat häiriintyä",
   "serversconnected": "Palvelimia yhdistetty",
   "serversummary": "Palvelimen yhteenveto",
+  "servicenotrunning": "Palvelu ei ole käynnissä",
+  "servicenotrunninghint": "Tämä sivu päivitetään, kun se on taas käytettävissä",
   "sessionmanagement": "Istunnon hallinta",
   "setstartpage": "Aloitussivu",
   "settings": "Asetukset",

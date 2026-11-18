@@ -1483,6 +1483,8 @@
   "serveroutage": "Sunucu kesintisi - Bağlantılar etkilenebilir",
   "serversconnected": "Bağlı sunucular",
   "serversummary": "Sunucu özeti",
+  "servicenotrunning": "Hizmet çalışmıyor",
+  "servicenotrunninghint": "Bu sayfa yeniden başladığında yenilenir",
   "sessionmanagement": "Oturum yönetimi",
   "setstartpage": "Başlangıç sayfası",
   "settings": "Ayarlar",

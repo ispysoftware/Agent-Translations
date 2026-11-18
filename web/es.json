@@ -1483,6 +1483,8 @@
   "serveroutage": "Interrupción del servidor: las conexiones pueden verse afectadas",
   "serversconnected": "Servidores conectados",
   "serversummary": "Resumen del servidor",
+  "servicenotrunning": "El servicio no se está ejecutando",
+  "servicenotrunninghint": "Esta página se recargará tan pronto como esté disponible",
   "sessionmanagement": "Gestión de sesiones",
   "setstartpage": "Página de inicio",
   "settings": "Configuración",

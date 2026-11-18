@@ -1483,6 +1483,8 @@
   "serveroutage": "Szerverkimaradás - A kapcsolatok érintettek lehetnek",
   "serversconnected": "Csatlakoztatott szerverek",
   "serversummary": "Szerver összefoglaló",
+  "servicenotrunning": "A szolgáltatás nem fut",
+  "servicenotrunninghint": "Ez az oldal újra fog töltődni, amint elérhetővé válik",
   "sessionmanagement": "Munkamenet-kezelés",
   "setstartpage": "Kezdőlap",
   "settings": "Beállítások",

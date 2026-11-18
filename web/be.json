@@ -1483,6 +1483,8 @@
   "serveroutage": "Збой сервера - падлучэнні могуць быць парушаны",
   "serversconnected": "Падлучаныя серверы",
   "serversummary": "Зводка сервера",
+  "servicenotrunning": "Сервіс не запушчаны",
+  "servicenotrunninghint": "Гэтая старонка перазагрузіцца, як толькі ён зноў будзе даступны",
   "sessionmanagement": "Кіраванне сеансамі",
   "setstartpage": "Пачатковая старонка",
   "settings": "Налады",

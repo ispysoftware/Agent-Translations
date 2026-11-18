@@ -1483,6 +1483,8 @@
   "serveroutage": "Serverstoring - Verbindingen kunnen worden beïnvloed",
   "serversconnected": "Servers verbonden",
   "serversummary": "Serveroverzicht",
+  "servicenotrunning": "De service wordt niet uitgevoerd",
+  "servicenotrunninghint": "Deze pagina wordt opnieuw geladen zodra deze weer beschikbaar is",
   "sessionmanagement": "Sessiebeheer",
   "setstartpage": "Startpagina",
   "settings": "Instellingen",

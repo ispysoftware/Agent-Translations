@@ -1483,6 +1483,8 @@
   "serveroutage": "服務器中斷 - 連線可能會受到影響",
   "serversconnected": "已連線之伺服器",
   "serversummary": "伺服器摘要",
+  "servicenotrunning": "服務未執行",
+  "servicenotrunninghint": "此頁面將在恢復後立即重新載入",
   "sessionmanagement": "工作階段管理",
   "setstartpage": "起始頁面",
   "settings": "設定",

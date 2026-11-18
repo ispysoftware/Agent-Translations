@@ -1483,6 +1483,8 @@
   "serveroutage": "服务器中断 - 连接可能会受到影响",
   "serversconnected": "已连接的服务器",
   "serversummary": "服务器摘要",
+  "servicenotrunning": "服务未运行",
+  "servicenotrunninghint": "此页面恢复后将立即重新加载",
   "sessionmanagement": "会话管理",
   "setstartpage": "起始页面",
   "settings": "设置",

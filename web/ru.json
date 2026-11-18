@@ -1483,6 +1483,8 @@
   "serveroutage": "Сбой сервера — возможны проблемы с подключением",
   "serversconnected": "Подключено серверов",
   "serversummary": "Обзор серверов",
+  "servicenotrunning": "Служба не запущена",
+  "servicenotrunninghint": "Эта страница перезагрузится, как только сервис вернётся в работу",
   "sessionmanagement": "Управление сессиями",
   "setstartpage": "Начальная страница",
   "settings": "Настройки",

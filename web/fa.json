@@ -1483,6 +1483,8 @@
   "serveroutage": "قطعی سرور - ممکن است در اتصالات اختلال ایجاد شود",
   "serversconnected": "سرورهای متصل",
   "serversummary": "خلاصه سرور",
+  "servicenotrunning": "سرویس در حال اجرا نیست",
+  "servicenotrunninghint": "این صفحه بلافاصله پس از بازگشت مجددا بارگیری خواهد شد",
   "sessionmanagement": "مدیریت نشست",
   "setstartpage": "صفحه شروع",
   "settings": "تنظیمات",

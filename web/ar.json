@@ -1483,6 +1483,8 @@
   "serveroutage": "انقطاع في الخادم - قد تتأثر الاتصالات",
   "serversconnected": "الخوادم المتصلة",
   "serversummary": "ملخص الخادم",
+  "servicenotrunning": "الخدمة غير قيد التشغيل",
+  "servicenotrunninghint": "ستتم إعادة تحميل هذه الصفحة بمجرد عودتها",
   "sessionmanagement": "إدارة الجلسة",
   "setstartpage": "صفحة البداية",
   "settings": "الإعدادات",

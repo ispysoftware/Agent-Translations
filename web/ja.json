@@ -1483,6 +1483,8 @@
   "serveroutage": "サーバー障害 - 接続に影響する可能性があります",
   "serversconnected": "接続されたサーバー数",
   "serversummary": "サーバー概要",
+  "servicenotrunning": "サービスが実行されていません",
+  "servicenotrunninghint": "このページは復帰次第すぐに再読み込みされます",
   "sessionmanagement": "セッション管理",
   "setstartpage": "スタートページ",
   "settings": "設定",

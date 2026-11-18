@@ -1483,6 +1483,8 @@
   "serveroutage": "Awaria serwera - połączenia mogą być zakłócone",
   "serversconnected": "Połączone serwery",
   "serversummary": "Podsumowanie serwera",
+  "servicenotrunning": "Usługa nie jest uruchomiona",
+  "servicenotrunninghint": "Ta strona zostanie załadowana ponownie zaraz po przywróceniu",
   "sessionmanagement": "Zarządzanie sesjami",
   "setstartpage": "Strona startowa",
   "settings": "Ustawienia",

@@ -1483,6 +1483,8 @@
   "serveroutage": "Serveravbrott - Anslutningar kan påverkas",
   "serversconnected": "Servrar anslutna",
   "serversummary": "Serversammanfattning",
+  "servicenotrunning": "Tjänsten körs inte",
+  "servicenotrunninghint": "Den här sidan kommer att ladda om när den är tillbaka igen",
   "sessionmanagement": "Sessionshantering",
   "setstartpage": "Startsida",
   "settings": "Inställningar",
