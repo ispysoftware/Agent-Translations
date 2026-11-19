@@ -1846,10 +1846,14 @@
   "warningemail": "Upozorenja e-poštom su ograničena brojem",
   "watched": "Pogledano",
   "watching": {
+    "direct": "Direktna konekcija",
+    "directtip": "Video ide direktno između ovog uređaja i servera.",
     "keep": "Nastavi gledanje",
     "left": "Veza je prekinuta nakon duge pauze radi uštede propusnog opsega.",
     "pausedtext": "Pauzirano jer se čini da niko ne gleda.",
     "pausedtitle": "Video pauziran",
+    "relayed": "Relejna konekcija",
+    "relayedtip": "Video se prenosi preko naših relej servera jer direktna konekcija nije bila moguća. Ako ostane neaktivna, biće pauzirana.",
     "resume": "Nastavi",
     "text": "Video će se uskoro pauzirati radi uštede propusnog opsega.",
     "title": "Još uvek gledaš?"

@@ -1846,10 +1846,14 @@
   "warningemail": "E-mail-alarmer er blevet begrænset i frekvens",
   "watched": "Set",
   "watching": {
+    "direct": "Direkte forbindelse",
+    "directtip": "Video sendes direkte mellem denne enhed og serveren.",
     "keep": "Fortsæt med at se",
     "left": "Afbrudt efter en lang pause for at spare båndbredde.",
     "pausedtext": "Sat på pause, fordi det ikke så ud til, at nogen kiggede med.",
     "pausedtitle": "Video sat på pause",
+    "relayed": "Videresendt forbindelse",
+    "relayedtip": "Video transmitteres via vores relayservere, fordi en direkte forbindelse ikke kunne etableres. Hvis den står ubrugt, sættes den på pause.",
     "resume": "Genoptag",
     "text": "Videoen sættes snart på pause for at spare båndbredde.",
     "title": "Ser du stadig?"

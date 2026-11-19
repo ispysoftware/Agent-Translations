@@ -1846,10 +1846,14 @@
   "warningemail": "Gli avvisi email sono stati limitati",
   "watched": "visto",
   "watching": {
+    "direct": "Connessione diretta",
+    "directtip": "Il video va direttamente tra questo dispositivo e il server.",
     "keep": "Continua a guardare",
     "left": "Disconnesso dopo una lunga pausa per risparmiare larghezza di banda.",
     "pausedtext": "In pausa perché sembrava che nessuno stesse guardando.",
     "pausedtitle": "Video in pausa",
+    "relayed": "Connessione inoltrata",
+    "relayedtip": "Il video viene trasmesso dai nostri server relay perché non è stato possibile stabilire una connessione diretta. Se rimane inattivo, si interromperà.",
     "resume": "Riprendi",
     "text": "Il video si metterà in pausa tra poco per risparmiare larghezza di banda.",
     "title": "Stai ancora guardando?"

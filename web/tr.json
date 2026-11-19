@@ -1846,10 +1846,14 @@
   "warningemail": "E-posta uyarıları hız sınırına tabi tutuldu",
   "watched": "izlendi",
   "watching": {
+    "direct": "Doğrudan bağlantı",
+    "directtip": "Video, bu cihaz ile sunucu arasında doğrudan gider.",
     "keep": "İzlemeye devam et",
     "left": "Bant genişliğinden tasarruf etmek için uzun bir duraklamadan sonra bağlantı kesildi.",
     "pausedtext": "Kimse izlemiyor gibi göründüğü için duraklatıldı.",
     "pausedtitle": "Video duraklatıldı",
+    "relayed": "Aktarılmış bağlantı",
+    "relayedtip": "Video, doğrudan bağlantı kurulamadığı için röle sunucularımız tarafından iletilmektedir. Boş bırakılırsa duraklatılacaktır.",
     "resume": "Devam Et",
     "text": "Video, bant genişliğinden tasarruf etmek için birazdan duraklatılacak.",
     "title": "Hala izliyor musunuz?"

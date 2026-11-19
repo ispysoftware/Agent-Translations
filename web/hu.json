@@ -1846,10 +1846,14 @@
   "warningemail": "Az e-mail értesítések gyakorisága korlátozva lett",
   "watched": "Megtekintve",
   "watching": {
+    "direct": "Közvetlen kapcsolat",
+    "directtip": "A videó közvetlenül az eszköz és a kiszolgáló között megy.",
     "keep": "Nézés folytatása",
     "left": "Leválasztva hosszú szünet után a sávszélesség megtakarítása érdekében.",
     "pausedtext": "Szüneteltetve, mert úgy tűnt, senki sem figyel.",
     "pausedtitle": "Videó szüneteltetve",
+    "relayed": "Továbbított kapcsolat",
+    "relayedtip": "A videó az átjátszó kiszolgálóinkon keresztül érkezik, mert közvetlen kapcsolatot nem sikerült létrehozni. Ha magára hagyják, szünetelni fog.",
     "resume": "Folytatás",
     "text": "A videó hamarosan szünetel a sávszélesség megtakarítása érdekében.",
     "title": "Még nézed?"

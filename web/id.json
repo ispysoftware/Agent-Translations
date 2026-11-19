@@ -1846,10 +1846,14 @@
   "warningemail": "Peringatan email telah dibatasi kecepatannya",
   "watched": "Ditonton",
   "watching": {
+    "direct": "Koneksi langsung",
+    "directtip": "Video berjalan langsung antara perangkat ini dan server.",
     "keep": "Lanjutkan menonton",
     "left": "Terputus setelah jeda lama untuk menghemat bandwidth.",
     "pausedtext": "Dijeda karena tampaknya tidak ada yang menonton.",
     "pausedtitle": "Video dijeda",
+    "relayed": "Koneksi yang disalurkan",
+    "relayedtip": "Video dibawa oleh server relay kami karena koneksi langsung tidak dapat dibuat. Jika dibiarkan idle, video akan dijeda.",
     "resume": "Lanjutkan",
     "text": "Video akan segera dijeda untuk menghemat bandwidth.",
     "title": "Masih menonton?"

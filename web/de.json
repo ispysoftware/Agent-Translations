@@ -1846,10 +1846,14 @@
   "warningemail": "E-Mail-Benachrichtigungen wurden gedrosselt",
   "watched": "Angesehen",
   "watching": {
+    "direct": "Direkte Verbindung",
+    "directtip": "Video geht direkt zwischen diesem Gerät und dem Server.",
     "keep": "Weiter ansehen",
     "left": "Getrennt nach einer langen Pause, um Bandbreite zu sparen.",
     "pausedtext": "Angehalten, da anscheinend niemand zusah.",
     "pausedtitle": "Video angehalten",
+    "relayed": "Relais-Verbindung",
+    "relayedtip": "Video wird über unsere Relais-Server übertragen, da keine direkte Verbindung hergestellt werden konnte. Bei Untätigkeit wird es unterbrochen.",
     "resume": "Fortsetzen",
     "text": "Das Video wird in Kürze angehalten, um Bandbreite zu sparen.",
     "title": "Schauen Sie noch zu?"

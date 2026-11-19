@@ -1846,10 +1846,14 @@
   "warningemail": "Upozornění e-mailem podléhají omezení frekvence",
   "watched": "Zhlédnuto",
   "watching": {
+    "direct": "Přímé připojení",
+    "directtip": "Video jde přímo mezi tímto zařízením a serverem.",
     "keep": "Pokračovat v sledování",
     "left": "Odpojeno po dlouhé pauze, aby se ušetřila šířka pásma.",
     "pausedtext": "Pozastaveno, protože se zdálo, že nikdo nesleduje.",
     "pausedtitle": "Video pozastaveno",
+    "relayed": "Připojení přes relay",
+    "relayedtip": "Video je přenášeno přes naše relay servery, protože se nepodařilo navázat přímé připojení. Při nečinnosti se pozastaví.",
     "resume": "Pokračovat",
     "text": "Video bude brzy pozastaveno, aby se ušetřila šířka pásma.",
     "title": "Stále sledujete?"

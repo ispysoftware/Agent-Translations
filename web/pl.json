@@ -1846,10 +1846,14 @@
   "warningemail": "Liczba powiadomień e-mail została ograniczona",
   "watched": "Obejrzane",
   "watching": {
+    "direct": "Bezpośrednie połączenie",
+    "directtip": "Wideo przechodzi bezpośrednio między tym urządzeniem a serwerem.",
     "keep": "Oglądaj dalej",
     "left": "Rozłączono po długiej przerwie w celu zaoszczędzenia przepustowości.",
     "pausedtext": "Wstrzymano, ponieważ wyglądało na to, że nikt nie ogląda.",
     "pausedtitle": "Wideo wstrzymane",
+    "relayed": "Połączenie przekazywane",
+    "relayedtip": "Wideo jest przesyłane przez nasze serwery przekaźnikowe, ponieważ nie można było nawiązać bezpośredniego połączenia. Jeśli pozostanie bezczynne, zostanie wstrzymane.",
     "resume": "Wznów",
     "text": "Wideo zostanie wkrótce wstrzymane, aby zaoszczędzić przepustowość.",
     "title": "Nadal oglądasz?"

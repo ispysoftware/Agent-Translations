@@ -1846,10 +1846,14 @@
   "warningemail": "E-postaviseringar har begränsats (rate limited)",
   "watched": "Sett",
   "watching": {
+    "direct": "Direkt anslutning",
+    "directtip": "Videon går direkt mellan denna enhet och servern.",
     "keep": "Fortsätt titta",
     "left": "Frånkopplad efter en lång paus för att spara bandbredd.",
     "pausedtext": "Pausad eftersom ingen verkade titta.",
     "pausedtitle": "Video pauserat",
+    "relayed": "Vidarebefordrad anslutning",
+    "relayedtip": "Videon överförs via våra reläservrar eftersom en direktanslutning inte kunde upprättas. Om den är inaktiv pausas den.",
     "resume": "Återuppta",
     "text": "Videon pausas snart för att spara bandbredd.",
     "title": "Tittar du fortfarande?"

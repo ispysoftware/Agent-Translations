@@ -1846,10 +1846,14 @@
   "warningemail": "Email alerts have been rate limited",
   "watched": "Watched",
   "watching": {
+    "direct": "Direct connection",
+    "directtip": "Video goes straight between this device and the server.",
     "keep": "Keep watching",
     "left": "Disconnected after a long pause to save bandwidth.",
     "pausedtext": "Paused because nobody seemed to be watching.",
     "pausedtitle": "Video paused",
+    "relayed": "Relayed connection",
+    "relayedtip": "Video is carried by our relay servers because a direct connection could not be made. Left idle, it will pause.",
     "resume": "Resume",
     "text": "The video will pause shortly to save bandwidth.",
     "title": "Still watching?"

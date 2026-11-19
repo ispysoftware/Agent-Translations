@@ -1846,10 +1846,14 @@
   "warningemail": "E-mailwaarschuwingen zijn beperkt qua frequentie",
   "watched": "Gekeken",
   "watching": {
+    "direct": "Directe verbinding",
+    "directtip": "Video gaat rechtstreeks tussen dit apparaat en de server.",
     "keep": "Blijf kijken",
     "left": "Verbinding verbroken na een lange pauze om bandbreedte te besparen.",
     "pausedtext": "Gepauzeerd omdat niemand leek te kijken.",
     "pausedtitle": "Video gepauzeerd",
+    "relayed": "Doorgestuurde verbinding",
+    "relayedtip": "Video wordt via onze relaisservers doorgegeven omdat een rechtstreekse verbinding niet tot stand kon worden gebracht. Indien inactief, wordt het onderbroken.",
     "resume": "Hervatten",
     "text": "De video wordt zo gepauzeerd om bandbreedte te besparen.",
     "title": "Nog aan het kijken?"

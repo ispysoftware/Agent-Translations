@@ -1846,10 +1846,14 @@
   "warningemail": "Thông báo qua email đã bị giới hạn tần suất",
   "watched": "Đã xem",
   "watching": {
+    "direct": "Kết nối trực tiếp",
+    "directtip": "Video đi thẳng giữa thiết bị này và máy chủ.",
     "keep": "Tiếp tục xem",
     "left": "Đã ngắt kết nối sau khi tạm dừng lâu để tiết kiệm băng thông.",
     "pausedtext": "Đã tạm dừng vì có vẻ như không ai đang xem.",
     "pausedtitle": "Video tạm dừng",
+    "relayed": "Kết nối được chuyển tiếp",
+    "relayedtip": "Video được truyền qua các máy chủ relay của chúng tôi vì không thể thiết lập kết nối trực tiếp. Nếu để không hoạt động, nó sẽ tạm dừng.",
     "resume": "Tiếp tục",
     "text": "Video sẽ tạm dừng trong giây lát để tiết kiệm băng thông.",
     "title": "Vẫn đang xem?"

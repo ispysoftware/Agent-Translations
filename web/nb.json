@@ -1846,10 +1846,14 @@
   "warningemail": "E-postvarsler har blitt begrenset (rate limited)",
   "watched": "Sett",
   "watching": {
+    "direct": "Direkte tilkobling",
+    "directtip": "Video går direkte mellom denne enheten og serveren.",
     "keep": "Fortsett å se",
     "left": "Koblet fra etter lang pause for å spare båndbredde.",
     "pausedtext": "Pauset fordi det ikke så ut til at noen fulgte med.",
     "pausedtitle": "Video satt på pause",
+    "relayed": "Videresendt tilkobling",
+    "relayedtip": "Video overføres via våre reléservere fordi en direkte tilkobling ikke kunne opprettes. Hvis den står ubrukt, settes den på pause.",
     "resume": "Gjenoppta",
     "text": "Videoen settes snart på pause for å spare båndbredde.",
     "title": "Ser du fortsatt?"

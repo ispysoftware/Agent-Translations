@@ -1846,10 +1846,14 @@
   "warningemail": "Sähköpostihälytyksiin on asetettu nopeusrajoitus",
   "watched": "Katsottu",
   "watching": {
+    "direct": "Suora yhteys",
+    "directtip": "Video kulkee suoraan tämän laitteen ja palvelimen välillä.",
     "keep": "Jatka katselua",
     "left": "Yhteys katkaistu pitkän tauon jälkeen kaistanleveyden säästämiseksi.",
     "pausedtext": "Keskeytetty, koska kukaan ei näyttänyt katsovan.",
     "pausedtitle": "Video keskeytetty",
+    "relayed": "Välitetty yhteys",
+    "relayedtip": "Video kulkee välityspalvelimiemme kautta, koska suoraa yhteyttä ei voitu muodostaa. Käyttämättömänä se keskeytetään.",
     "resume": "Jatka",
     "text": "Video keskeytetään kohta kaistanleveyden säästämiseksi.",
     "title": "Katsotko vielä?"
