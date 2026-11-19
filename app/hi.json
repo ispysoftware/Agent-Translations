@@ -1298,6 +1298,8 @@
     "json.objects": "ऑब्जेक्ट्स",
     "json.objectsize": "ऑब्जेक्ट का आकार",
     "json.objectsize.help": "ऑब्जेक्ट्स की आकार सीमा (चौड़ाई का प्रतिशत)",
+    "json.objectsnapshots": "वस्तु स्नैपशॉट",
+    "json.objectsnapshots.help": "प्रत्येक ट्रैक की गई वस्तु की एक छोटी तस्वीर रखें",
     "json.objectstolookfor": "खोजने के लिए ऑब्जेक्ट्स",
     "json.objectstolookfor.help": "खोजने के लिए ऑब्जेक्ट्स निर्दिष्ट करें। मिले हुए या गायब ऑब्जेक्ट्स पर कार्रवाई करने के लिए मेनू में <a href=\"javascript:void(0);\" onclick=\"helpers.goWebsite('docs/agent/actions')\">एक्शन का उपयोग करें</a>",
     "json.objecttracking": "ऑब्जेक्ट ट्रैकिंग",

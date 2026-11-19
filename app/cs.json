@@ -1298,6 +1298,8 @@
     "json.objects": "Objekty",
     "json.objectsize": "Velikost objektu",
     "json.objectsize.help": "Limity velikosti objektů (procento šířky)",
+    "json.objectsnapshots": "Snímky objektů",
+    "json.objectsnapshots.help": "Uchovávejte malý snímek každého sledovaného objektu",
     "json.objectstolookfor": "Objekty, které hledat",
     "json.objectstolookfor.help": "Specifikujte objekty, které chcete hledat. V menu použijte <a href=\"javascript:void(0);\" onclick=\"helpers.goWebsite('docs/agent/actions')\">akce</a> k akci na nalezené nebo chybějící objekty",
     "json.objecttracking": "Sledování objektů",

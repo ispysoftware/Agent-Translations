@@ -1298,6 +1298,8 @@
     "json.objects": "Nesneler",
     "json.objectsize": "Nesne boyutu",
     "json.objectsize.help": "Nesne boyut sınırları (genişlik yüzdesi)",
+    "json.objectsnapshots": "Nesne anlık görüntüleri",
+    "json.objectsnapshots.help": "Her izlenen nesnenin küçük bir resmini saklayın",
     "json.objectstolookfor": "Aranacak nesneler",
     "json.objectstolookfor.help": "Aranacak nesneleri belirtin. Bulunan veya eksik nesnelere müdahale etmek için menüdeki <a href=\"javascript:void(0);\" onclick=\"helpers.goWebsite('docs/agent/actions')\">eylemleri kullanın</a>",
     "json.objecttracking": "Nesne Takibi",

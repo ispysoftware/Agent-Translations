@@ -1298,6 +1298,8 @@
     "json.objects": "Аб'екты",
     "json.objectsize": "Памер аб'екта",
     "json.objectsize.help": "Абмежаванні памеру аб'ектаў (працэнт шырыні)",
+    "json.objectsnapshots": "Здымкі аб'ектаў",
+    "json.objectsnapshots.help": "Захоўваць невялікі здымак кожнага адсочванага аб'екта",
     "json.objectstolookfor": "Аб'екты для пошуку",
     "json.objectstolookfor.help": "Укажыце аб'екты для пошуку. <a href=\"javascript:void(0);\" onclick=\"helpers.goWebsite('docs/agent/actions')\">Скарыстайцеся дзеяннямі</a> ў меню, каб рэагаваць на знойдзеныя або адсутныя аб'екты",
     "json.objecttracking": "Адсочванне аб'ектаў",

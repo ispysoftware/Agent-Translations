@@ -1298,6 +1298,8 @@
     "json.objects": "Objekti",
     "json.objectsize": "Veličina objekta",
     "json.objectsize.help": "Ograničenja veličine objekata (procenat širine)",
+    "json.objectsnapshots": "Snimci objekata",
+    "json.objectsnapshots.help": "Čuvaj malu sliku svakog praćenog objekta",
     "json.objectstolookfor": "Objekti koje treba tražiti",
     "json.objectstolookfor.help": "Navedite objekte koje treba tražiti. Koristite <a href=\"javascript:void(0);\" onclick=\"helpers.goWebsite('docs/agent/actions')\">akcije</a> u meniju da biste reagovali na pronađene ili nedostajuće objekte",
     "json.objecttracking": "Praćenje objekata",

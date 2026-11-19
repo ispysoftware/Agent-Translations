@@ -1298,6 +1298,8 @@
     "json.objects": "Kohteet",
     "json.objectsize": "Kohteen koko",
     "json.objectsize.help": "Kohteiden kokorajat (prosenttiosuus leveydestä)",
+    "json.objectsnapshots": "Kohteiden kuvat",
+    "json.objectsnapshots.help": "Säilytä pieni kuva jokaisesta seurattavasta kohteesta",
     "json.objectstolookfor": "Etsittävä kohteet",
     "json.objectstolookfor.help": "Määritä etsittävä kohteet. <a href=\"javascript:void(0);\" onclick=\"helpers.goWebsite('docs/agent/actions')\">Käytä toimintoja</a> valikossa reagoidaksesi löytyneisiin tai puuttuviin kohteisiin",
     "json.objecttracking": "Kohteen seuranta",

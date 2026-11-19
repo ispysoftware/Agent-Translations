@@ -1298,6 +1298,8 @@
     "json.objects": "Objek",
     "json.objectsize": "Ukuran Objek",
     "json.objectsize.help": "Batas ukuran objek (persentase lebar)",
+    "json.objectsnapshots": "Foto objek",
+    "json.objectsnapshots.help": "Simpan gambar kecil setiap objek yang dilacak",
     "json.objectstolookfor": "Objek yang dicari",
     "json.objectstolookfor.help": "Tentukan objek yang ingin dicari. <a href=\"javascript:void(0);\" onclick=\"helpers.goWebsite('docs/agent/actions')\">Gunakan aksi</a> di menu untuk menindak objek yang ditemukan atau hilang",
     "json.objecttracking": "Pelacakan Objek",

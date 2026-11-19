@@ -1298,6 +1298,8 @@
     "json.objects": "Objektumok",
     "json.objectsize": "Objektum mérete",
     "json.objectsize.help": "Az objektumok méretkorlátai (szélesség százaléka)",
+    "json.objectsnapshots": "Objektum pillanatképei",
+    "json.objectsnapshots.help": "Tartson egy kis képet minden követett objektumról",
     "json.objectstolookfor": "Keresendő objektumok",
     "json.objectstolookfor.help": "Adja meg a keresendő objektumokat. A menüben az <a href=\"javascript:void(0);\" onclick=\"helpers.goWebsite('docs/agent/actions')\">műveleteket (actions)</a> használhatja a talált vagy hiányzó objektumokra való reakcióhoz",
     "json.objecttracking": "Objektumkövetés",

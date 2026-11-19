@@ -1298,6 +1298,8 @@
     "json.objects": "개체",
     "json.objectsize": "개체 크기",
     "json.objectsize.help": "개체의 크기 제한 (폭의 비율)",
+    "json.objectsnapshots": "객체 스냅샷",
+    "json.objectsnapshots.help": "각 추적된 객체의 작은 사진을 유지합니다",
     "json.objectstolookfor": "검색할 개체",
     "json.objectstolookfor.help": "찾을 개체를 지정하세요. <a href=\"javascript:void(0);\" onclick=\"helpers.goWebsite('docs/agent/actions')\">메뉴에서 액션 사용</a>하여 발견되거나 누락된 개체에 대해 조치를 취합니다.",
     "json.objecttracking": "개체 추적",

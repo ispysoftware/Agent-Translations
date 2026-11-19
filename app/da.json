@@ -1298,6 +1298,8 @@
     "json.objects": "Objekter",
     "json.objectsize": "Objektstørrelse",
     "json.objectsize.help": "Størrelsesgrænser for objekter (procentdel af bredde)",
+    "json.objectsnapshots": "Objektbilleder",
+    "json.objectsnapshots.help": "Gem et lille billede af hvert sporet objekt",
     "json.objectstolookfor": "Objekter der skal søges efter",
     "json.objectstolookfor.help": "Angiv objekter der skal søges efter. <a href=\"javascript:void(0);\" onclick=\"helpers.goWebsite('docs/agent/actions')\">Brug handlinger</a> i menuen til at reagere på fundne eller manglende objekter",
     "json.objecttracking": "Objektsporing",

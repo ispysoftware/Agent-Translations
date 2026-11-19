@@ -1298,6 +1298,8 @@
     "json.objects": "اشیاء",
     "json.objectsize": "اندازه شیء",
     "json.objectsize.help": "محدودیت اندازه اشیاء (درصد عرض)",
+    "json.objectsnapshots": "تصاویر کوچک اشیاء",
+    "json.objectsnapshots.help": "یک عکس کوچک از هر شیء ردیابی شده نگه دارید",
     "json.objectstolookfor": "اشیائی که باید جستجو شوند",
     "json.objectstolookfor.help": "اشیائی را برای جستجو مشخص کنید. برای واکنش به اشیاء یافت شده یا مفقود شده، از <a href=\"javascript:void(0);\" onclick=\"helpers.goWebsite('docs/agent/actions')\">actions</a> در منو استفاده کنید",
     "json.objecttracking": "ردیابی اشیاء",

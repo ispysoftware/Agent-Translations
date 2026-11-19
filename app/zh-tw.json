@@ -1298,6 +1298,8 @@
     "json.objects": "物件",
     "json.objectsize": "物件大小",
     "json.objectsize.help": "物件的大小限制 (寬度的百分比)",
+    "json.objectsnapshots": "物件快照",
+    "json.objectsnapshots.help": "保留每個被追蹤物體的小圖片",
     "json.objectstolookfor": "要尋找的物件",
     "json.objectstolookfor.help": "指定要尋找的物件。<a href=\"javascript:void(0);\" onclick=\"helpers.goWebsite('docs/agent/actions')\">使用動作</a> 在選單中對發現或缺失的物件採取行動",
     "json.objecttracking": "物件追蹤",

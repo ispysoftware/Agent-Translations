@@ -1298,6 +1298,8 @@
     "json.objects": "الكائنات",
     "json.objectsize": "حجم الكائن",
     "json.objectsize.help": "حدود حجم الكائنات (نسبة مئوية من العرض)",
+    "json.objectsnapshots": "لقطات الأجسام",
+    "json.objectsnapshots.help": "احتفظ بصورة صغيرة لكل كائن يتم تتبعه",
     "json.objectstolookfor": "الكائنات المراد البحث عنها",
     "json.objectstolookfor.help": "حدد الكائنات التي تريد البحث عنها. <a href=\"javascript:void(0);\" onclick=\"helpers.goWebsite('docs/agent/actions')\">استخدم الإجراءات</a> في القائمة للتفاعل مع الكائنات الموجودة أو المفقودة",
     "json.objecttracking": "تتبع الكائنات",

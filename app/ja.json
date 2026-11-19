@@ -1298,6 +1298,8 @@
     "json.objects": "オブジェクト",
     "json.objectsize": "オブジェクトサイズ",
     "json.objectsize.help": "オブジェクトのサイズの制限（幅に対する割合）",
+    "json.objectsnapshots": "オブジェクトスナップショット",
+    "json.objectsnapshots.help": "追跡された各オブジェクトの小さな画像を保持します",
     "json.objectstolookfor": "検索対象となるオブジェクト",
     "json.objectstolookfor.help": "検索するオブジェクトを指定します。<a href=\"javascript:void(0);\" onclick=\"helpers.goWebsite('docs/agent/actions')\">アクション</a> をメニューで使用して、検出されたまたは欠落しているオブジェクトに対して操作を実行できます",
     "json.objecttracking": "オブジェクト追跡",

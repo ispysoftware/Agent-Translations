@@ -1298,6 +1298,8 @@
     "json.objects": "对象",
     "json.objectsize": "对象大小",
     "json.objectsize.help": "对象的大小限制（宽度的百分比）",
+    "json.objectsnapshots": "对象快照",
+    "json.objectsnapshots.help": "保留每个被追踪对象的小图片",
     "json.objectstolookfor": "要查找的对象",
     "json.objectstolookfor.help": "指定要查找的对象。<a href=\"javascript:void(0);\" onclick=\"helpers.goWebsite('docs/agent/actions')\">在菜单中使用操作</a> 来对发现或缺失的对象执行动作",
     "json.objecttracking": "对象跟踪",

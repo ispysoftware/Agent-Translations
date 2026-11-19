@@ -1298,6 +1298,8 @@
     "json.objects": "Objetos",
     "json.objectsize": "Tamaño del objeto",
     "json.objectsize.help": "Límites de tamaño de los objetos (porcentaje de ancho)",
+    "json.objectsnapshots": "Instantáneas de objetos",
+    "json.objectsnapshots.help": "Mantener una pequeña imagen de cada objeto rastreado",
     "json.objectstolookfor": "Objetos a buscar",
     "json.objectstolookfor.help": "Especifique los objetos que desea buscar. <a href=\"javascript:void(0);\" onclick=\"helpers.goWebsite('docs/agent/actions')\">Utilice acciones</a> en el menú para actuar sobre objetos encontrados o ausentes",
     "json.objecttracking": "Seguimiento de objetos",

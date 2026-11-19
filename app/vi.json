@@ -1298,6 +1298,8 @@
     "json.objects": "Đối tượng",
     "json.objectsize": "Kích thước đối tượng",
     "json.objectsize.help": "Giới hạn kích thước của đối tượng (phần trăm chiều rộng)",
+    "json.objectsnapshots": "Ảnh chụp đối tượng",
+    "json.objectsnapshots.help": "Lưu giữ một hình ảnh nhỏ của mỗi đối tượng được theo dõi",
     "json.objectstolookfor": "Các đối tượng cần tìm",
     "json.objectstolookfor.help": "Chỉ định các đối tượng cần tìm. <a href=\"javascript:void(0);\" onclick=\"helpers.goWebsite('docs/agent/actions')\">Sử dụng hành động</a> trong menu để xử lý các đối tượng được tìm thấy hoặc bị thiếu",
     "json.objecttracking": "Theo dõi đối tượng",

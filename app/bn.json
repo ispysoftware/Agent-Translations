@@ -1298,6 +1298,8 @@
     "json.objects": "অবজেক্টসমূহ",
     "json.objectsize": "অবজেক্টের আকার",
     "json.objectsize.help": "অবজেক্টের আকারের সীমা (প্রস্থের শতাংশ)",
+    "json.objectsnapshots": "বস্তু স্ন্যাপশট",
+    "json.objectsnapshots.help": "প্রতিটি ট্র্যাক করা অবজেক্টের একটি ছোট ছবি সংরক্ষণ করুন",
     "json.objectstolookfor": "খুঁজতে হবে এমন অবজেক্ট",
     "json.objectstolookfor.help": "খুঁজতে হবে এমন অবজেক্ট নির্দিষ্ট করুন। পাওয়া বা অনুপস্থিত অবজেক্টের বিপরীতে কাজ করতে মেনুতে <a href=\"javascript:void(0);\" onclick=\"helpers.goWebsite('docs/agent/actions')\">অ্যাকশন ব্যবহার করুন</a>",
     "json.objecttracking": "অবজেক্ট ট্র্যাকিং",
