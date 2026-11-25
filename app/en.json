@@ -248,6 +248,7 @@
     "googlenestsetup": "Google Nest needs your own Device Access project and Google Cloud OAuth client. Create them, enter the details below and click OK. The <a href=\"javascript:void(0);\" onclick=\"helpers.goWebsite('docs/agent/google-nest#setup')\">user guide</a> has the steps.",
     "googlenestsigninfailed": "Google sign-in failed. Click Sign in with Google to get a new code (each code works once and expires after a few minutes). Google said:",
     "gpuencodefailed": "GPU Encode ([CODEC]) failed - check logs",
+    "buffermemorywarning": "The <b>Buffer</b> can hold up to [SIZE] of uncompressed video in memory for this camera. Reduce the Buffer, or set <b>Encoder</b> below to <b>Raw Record Stream</b>, which buffers the camera's compressed stream instead.",
     "hdondemandbufferwarning": "<b>HD On Demand</b> is enabled on the video source, so the record stream only connects when recording starts and the Buffer will be empty. Disable HD On Demand to use the Buffer",
     "headers": "Headers",
     "headers.help": "eg Content-Type: application/json. New line separated",
