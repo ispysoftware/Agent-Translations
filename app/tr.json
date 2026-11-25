@@ -234,6 +234,7 @@
     "geminifreeinfo": "Gemini, tipik kullanımı kapsayan ücretsiz bir kullanım katmanına sahiptir. Ücretsiz bir API anahtarı almak için:",
     "geo-fence events: off": "Geo-fence Olayları: KAPALI",
     "geo-fence events: on": "Geo-fence Olayları: AÇIK",
+    "googlenestbadclient": "Google, OAuth İstemci Kimliği veya İstemci Gizli Anahtarı'nı reddetti. Her ikisini de Google Nest ayarlarında kontrol edin, ardından tekrar giriş yapın. Google şunları söyledi:",
     "googlenestclickok": "Google ile giriş yapmak ve kameralarınızı bağlamak için Tamam'ı tıklayın.",
     "googlenestcodeprompt": "Google'ın oturum açma sayfası yeni bir sekmede açıldı. Kameralarınızın bulunduğu Google hesabını seçin ve kameralara erişim izni verin, ardından gösterilen kodu buraya yapıştırın ve Tamam'ı tıklatın. Hiçbir sekme açılmadıysa veya kod işe yaramazsa \"Google ile giriş yap\" seçeneğini tıklatın.",
     "googlenesterror": "Google'a ulaşılamadı:",

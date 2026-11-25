@@ -234,6 +234,7 @@
     "geminifreeinfo": "Geminiは一般的な使用をカバーする無料の利用層があります。無料のAPIキーを取得できます：",
     "geo-fence events: off": "ジオフェンスイベント：OFF",
     "geo-fence events: on": "ジオフェンスイベント：ON",
+    "googlenestbadclient": "Google が OAuth クライアント ID またはクライアントシークレットを拒否しました。Google Nest の設定で両方を確認してから、もう一度サインインしてください。Google からのメッセージ：",
     "googlenestclickok": "Googleでサインインしてカメラをリンクするには、OKをクリックしてください。",
     "googlenestcodeprompt": "Googleのサインインページが新しいタブで開きました。カメラが登録されているGoogleアカウントを選択してアクセスを許可し、ここに表示されるコードを貼り付けて「OK」をクリックしてください。タブが開かなかった場合、またはコードが機能しない場合は、「Googleでサインイン」をクリックしてください。",
     "googlenesterror": "Googleに接続できませんでした：",

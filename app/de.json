@@ -234,6 +234,7 @@
     "geminifreeinfo": "Gemini verfügt über einen kostenlosen Nutzungstarif, der typische Verwendung abdeckt. Erhalten Sie einen kostenlosen API-Schlüssel unter",
     "geo-fence events: off": "Geo-Fence-Ereignisse: AUS",
     "geo-fence events: on": "Geo-Fence-Ereignisse: EIN",
+    "googlenestbadclient": "Google hat die OAuth Client-ID oder Client-Secret abgelehnt. Überprüfen Sie beide in den Google Nest-Einstellungen und melden Sie sich dann erneut an. Google teilte mit:",
     "googlenestclickok": "Klicken Sie auf OK, um sich mit Google anzumelden und Ihre Kameras zu verbinden.",
     "googlenestcodeprompt": "Googles Anmeldeseite wurde in einem neuen Tab geöffnet. Wählen Sie das Google-Konto aus, das Ihre Kameras enthält, und gewähren Sie Zugriff darauf. Fügen Sie dann den hier angezeigten Code ein und klicken Sie auf OK. Falls kein Tab geöffnet wurde oder der Code nicht funktioniert, klicken Sie auf Mit Google anmelden.",
     "googlenesterror": "Google konnte nicht erreicht werden:",

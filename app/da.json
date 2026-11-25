@@ -234,6 +234,7 @@
     "geminifreeinfo": "Gemini har et gratis brugsniveau, der dækker typisk brug. Få en gratis API-nøgle på",
     "geo-fence events: off": "Geo-fence-hændelser: FRA",
     "geo-fence events: on": "Geo-fence-hændelser: TIL",
+    "googlenestbadclient": "Google afviste OAuth Klient-ID'et eller klienthemmeligheden. Kontrollér begge i Google Nest-indstillingerne, og log derefter ind igen. Google sagde:",
     "googlenestclickok": "Klik OK for at logge ind med Google og forbinde dine kameraer.",
     "googlenestcodeprompt": "Googles logind-side er åbnet i et nyt faneblad. Vælg den Google-konto, der har dine kameraer, og tillad adgang til dem. Indsæt derefter den kode, der vises her, og klik OK. Hvis der ikke åbnedes et faneblad, eller koden ikke fungerer, skal du klikke Log ind med Google.",
     "googlenesterror": "Kunne ikke kontakte Google:",

@@ -234,6 +234,7 @@
     "geminifreeinfo": "Gemini ma bezpłatny limit użycia, który pokrywa typowe zastosowanie. Uzyskaj bezpłatny klucz API na",
     "geo-fence events: off": "Zdarzenia geofencing: WYŁ.",
     "geo-fence events: on": "Zdarzenia geofence: WŁ.",
+    "googlenestbadclient": "Google odrzucił ID klienta OAuth lub tajny klucz klienta. Sprawdź oba w ustawieniach Google Nest, a następnie zaloguj się ponownie. Google powiedział:",
     "googlenestclickok": "Kliknij OK, aby zalogować się przez Google i połączyć swoje kamery.",
     "googlenestcodeprompt": "Strona logowania Google otworzyła się w nowej karcie. Wybierz konto Google, na którym znajdują się Twoje kamery, i zezwól na dostęp do nich, a następnie wklej kod, który jest tu wyświetlony, i kliknij OK. Jeśli żadna karta się nie otworzyła lub kod nie działa, kliknij Zaloguj się przez Google.",
     "googlenesterror": "Nie można połączyć się z Google:",

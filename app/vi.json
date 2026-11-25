@@ -234,6 +234,7 @@
     "geminifreeinfo": "Gemini có một mức sử dụng miễn phí bao gồm việc sử dụng thông thường. Lấy khóa API miễn phí tại",
     "geo-fence events: off": "Sự kiện Geo-fence: TẮT",
     "geo-fence events: on": "Sự kiện Geo-fence: BẬT",
+    "googlenestbadclient": "Google từ chối ID máy khách OAuth hoặc Client Secret. Kiểm tra cả hai trong cài đặt Google Nest, sau đó đăng nhập lại. Google cho biết:",
     "googlenestclickok": "Nhấp OK để đăng nhập bằng Google và liên kết các camera của bạn.",
     "googlenestcodeprompt": "Trang đăng nhập của Google đã mở trong một tab mới. Chọn tài khoản Google có chứa các camera của bạn và cho phép truy cập vào chúng, sau đó dán mã được hiển thị vào đây và bấm OK. Nếu không có tab nào mở hoặc mã không hoạt động, hãy bấm \"Đăng nhập bằng Google\".",
     "googlenesterror": "Không thể kết nối đến Google:",

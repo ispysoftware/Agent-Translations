@@ -234,6 +234,7 @@
     "geminifreeinfo": "Gemini:lla on ilmainen käyttötaso, joka kattaa tavallisen käytön. Hanki ilmainen API-avain osoitteesta",
     "geo-fence events: off": "Geo-aidan tapahtumat: POIS",
     "geo-fence events: on": "Geo-aidan tapahtumat: PÄÄLLÄ",
+    "googlenestbadclient": "Google hylkäsi OAuth-asiakastunnuksen tai asiakassalaisuuden. Tarkista molemmat Google Nest -asetuksissa ja kirjaudu sisään uudelleen. Google ilmoitti:",
     "googlenestclickok": "Napsauta OK kirjautuaksesi sisään Googlella ja yhdistääksesi kamerasi.",
     "googlenestcodeprompt": "Googlen kirjautumissivu avautui uuteen välilehteen. Valitse Google-tili, jossa kamerasi ovat, ja salli pääsy niihin. Liitä sitten näytetty koodi tähän ja napsauta OK. Jos välilehteä ei avautunut tai koodi ei toimi, napsauta Kirjaudu sisään Googlella.",
     "googlenesterror": "Ei voitu muodostaa yhteyttä Google-palveluun:",

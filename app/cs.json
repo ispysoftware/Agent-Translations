@@ -234,6 +234,7 @@
     "geminifreeinfo": "Gemini má bezplatnou úroveň použití, která pokrývá typické využití. Získejte bezplatný klíč API na",
     "geo-fence events: off": "Události Geo-fence: VYP.",
     "geo-fence events: on": "Události Geo-fence: zapn.",
+    "googlenestbadclient": "Google odmítl ID klienta OAuth nebo Client Secret. Zkontrolujte obojí v nastavení Google Nest a poté se přihlaste znovu. Google uvedl:",
     "googlenestclickok": "Kliknutím na OK se přihlásíte pomocí Google a propojíte své kamery.",
     "googlenestcodeprompt": "Přihlašovací stránka Google se otevřela v nové kartě. Vyberte účet Google, který má vaše kamery, a povolte přístup k nim, poté vložte zde zobrazený kód a klikněte na OK. Pokud se žádná karta neotevřela nebo kód nefunguje, klikněte na Přihlásit se pomocí Google.",
     "googlenesterror": "Nelze dosáhnout na Google:",

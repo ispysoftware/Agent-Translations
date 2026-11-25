@@ -234,6 +234,7 @@
     "geminifreeinfo": "Gemini은 일반적인 사용을 포함하는 무료 사용 계층이 있습니다. 다음 주소에서 무료 API 키를 받으세요.",
     "geo-fence events: off": "지오펜스 이벤트: OFF",
     "geo-fence events: on": "지오펜스 이벤트: ON",
+    "googlenestbadclient": "Google에서 OAuth 클라이언트 ID 또는 클라이언트 시크릿을 거부했습니다. Google Nest 설정에서 둘 다 확인한 후 다시 로그인하세요. Google의 메시지:",
     "googlenestclickok": "Google로 로그인하고 카메라를 연결하려면 확인을 클릭하세요.",
     "googlenestcodeprompt": "Google의 로그인 페이지가 새 탭에서 열렸습니다. 카메라가 있는 Google 계정을 선택하고 카메라에 대한 액세스를 허용한 후, 여기에 표시된 코드를 붙여넣고 확인을 클릭하세요. 탭이 열리지 않았거나 코드가 작동하지 않으면 'Google로 로그인'을 클릭하세요.",
     "googlenesterror": "Google에 연결할 수 없습니다:",

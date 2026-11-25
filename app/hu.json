@@ -234,6 +234,7 @@
     "geminifreeinfo": "A Gemini rendelkezik ingyenes használati szinttel, amely lefedi a tipikus felhasználást. Szerezzen egy ingyenes API-kulcsot itt:",
     "geo-fence events: off": "Geo-fence események: KI",
     "geo-fence events: on": "Geo-fence események: BE",
+    "googlenestbadclient": "A Google elutasította az OAuth Client ID vagy a Client Secret azonosítót. Ellenőrizze mindkettőt a Google Nest beállításaiban, majd jelentkezzen be újra. A Google üzenete:",
     "googlenestclickok": "Kattintson az OK gombra a Google-lel történő bejelentkezéshez és kamerái összekapcsolásához.",
     "googlenestcodeprompt": "A Google bejelentkezési oldala megnyílt egy új lapon. Válassza ki azt a Google-fiókot, amelyhez a kamerái tartoznak, és engedélyezze a hozzáférést, majd illessze be az itt megjelenő kódot, és kattintson az OK gombra. Ha nem nyílt meg lap, vagy a kód nem működik, kattintson a Bejelentkezés Google-lel lehetőségre.",
     "googlenesterror": "Nem sikerült elérni a Google-t:",

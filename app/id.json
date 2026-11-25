@@ -234,6 +234,7 @@
     "geminifreeinfo": "Gemini memiliki tingkat penggunaan gratis yang mencakup penggunaan umum. Dapatkan kunci API gratis di",
     "geo-fence events: off": "Peristiwa Geo-fence: MATI",
     "geo-fence events: on": "Peristiwa Geo-fence: NYALA",
+    "googlenestbadclient": "Google menolak ID Klien OAuth atau Client Secret. Periksa keduanya dalam pengaturan Google Nest, kemudian masuk lagi. Google mengatakan:",
     "googlenestclickok": "Klik OK untuk masuk dengan Google dan menghubungkan kamera Anda.",
     "googlenestcodeprompt": "Halaman masuk Google telah terbuka di tab baru. Pilih akun Google yang memiliki kamera Anda dan izinkan akses ke kamera tersebut, kemudian tempel kode yang ditampilkan di sini dan klik OK. Jika tidak ada tab yang terbuka, atau kode tidak berfungsi, klik Masuk dengan Google.",
     "googlenesterror": "Tidak dapat menjangkau Google:",

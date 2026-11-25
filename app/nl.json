@@ -234,6 +234,7 @@
     "geminifreeinfo": "Gemini has een gratis gebruiksniveau dat typisch gebruik dekt. Haal een gratis API-sleutel op bij",
     "geo-fence events: off": "Geo-fence-gebeurtenissen: UIT",
     "geo-fence events: on": "Geo-fence-gebeurtenissen: AAN",
+    "googlenestbadclient": "Google heeft de OAuth Client-ID of Client Secret afgewezen. Controleer beide in de Google Nest-instellingen en meld u vervolgens opnieuw aan. Google meldde:",
     "googlenestclickok": "Klik op OK om in te loggen met Google en uw camera's te koppelen.",
     "googlenestcodeprompt": "De aanmeldingspagina van Google is geopend in een nieuw tabblad. Selecteer het Google-account dat uw camera's bevat en sta toegang tot deze camera's toe. Plak vervolgens de code die hier wordt weergegeven en klik op OK. Als er geen tabblad is geopend of de code werkt niet, klik dan op Inloggen met Google.",
     "googlenesterror": "Kon Google niet bereiken:",

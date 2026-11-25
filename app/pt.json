@@ -234,6 +234,7 @@
     "geminifreeinfo": "O Gemini tem um nível de uso gratuito que cobre o uso típico. Obtenha uma chave de API gratuita em",
     "geo-fence events: off": "Eventos de Geo-cerca: DESLIGADO",
     "geo-fence events: on": "Eventos de Geo-cerca: LIGADO",
+    "googlenestbadclient": "Google rejeitou o ID do cliente OAuth ou o segredo do cliente. Verifique ambos nas configurações do Google Nest e entre novamente. Google informou:",
     "googlenestclickok": "Clique OK para entrar com Google e vincular suas câmeras.",
     "googlenestcodeprompt": "A página de entrada do Google foi aberta em uma nova aba. Escolha a conta do Google que possui suas câmeras e permita o acesso a elas, depois cole o código mostrado aqui e clique em OK. Se nenhuma aba foi aberta ou o código não funciona, clique em Entrar com Google.",
     "googlenesterror": "Não foi possível acessar o Google:",

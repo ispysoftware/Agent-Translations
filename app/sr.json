@@ -234,6 +234,7 @@
     "geminifreeinfo": "Gemini ima besplatni nivo korišćenja koji pokriva uobičajenu upotrebu. Nabavite besplatan API ključ na",
     "geo-fence events: off": "Događaji geoograde: ISKLJUČENO",
     "geo-fence events: on": "Događaji geoograde: UKLJUČENO",
+    "googlenestbadclient": "Google je odbio OAuth ID klijenta ili tajnu klijenta. Proverite oba u postavkama Google Nest-a, zatim se ponovo prijavite. Google je rekao:",
     "googlenestclickok": "Kliknite OK da biste se prijavili preko Google-a i povezali svoje kamere.",
     "googlenestcodeprompt": "Stranica za Google prijavu se otvorila u novoj kartici. Odaberite Google nalog na kom su vaše kamere i dozvolite pristup njima, zatim ovde zalepite prikazani kod i kliknite OK. Ako se nijedna kartica nije otvorila ili kod ne radi, kliknite na \"Prijavi se sa Google\".",
     "googlenesterror": "Nije moguće dosegnuti Google:",

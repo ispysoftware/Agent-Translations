@@ -234,6 +234,7 @@
     "geminifreeinfo": "Gemini 有免费使用层级，可满足典型需求。在此获取免费 API 密钥：",
     "geo-fence events: off": "地理围栏事件：关闭",
     "geo-fence events: on": "地理围栏事件：开启",
+    "googlenestbadclient": "Google 拒绝了 OAuth 客户端 ID 或客户端密钥。请在 Google Nest 设置中检查两者，然后重新登录。Google 的信息：",
     "googlenestclickok": "点击确定使用 Google 账号登录并链接您的摄像机。",
     "googlenestcodeprompt": "Google 的登录页面已在新标签页中打开。选择拥有您的摄像机的 Google 账号并允许访问，然后粘贴此处显示的代码，点击\"确定\"。如果未打开标签页或代码不起作用，请点击\"使用 Google 账号登录\"。",
     "googlenesterror": "无法连接到 Google:",

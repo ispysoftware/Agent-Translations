@@ -234,6 +234,7 @@
     "geminifreeinfo": "Gemini 有免費使用層級，涵蓋典型用途。前往以下網址取得免費 API 金鑰",
     "geo-fence events: off": "地理圍籬事件：關閉",
     "geo-fence events: on": "地理圍籬事件：開啟",
+    "googlenestbadclient": "Google 拒絕了 OAuth 客戶端 ID 或客戶端密鑰。請在 Google Nest 設定中檢查兩者，然後再次登入。Google 表示：",
     "googlenestclickok": "按一下「確定」以使用 Google 登入並連結您的相機。",
     "googlenestcodeprompt": "Google 的登入頁面已在新分頁中開啟。選擇具有您的攝影機的 Google 帳戶並允許存取，然後貼上此處顯示的代碼並按一下「確定」。如果沒有開啟分頁或代碼無法使用，請按一下「使用 Google 登入」。",
     "googlenesterror": "無法連接到 Google:",
