@@ -157,6 +157,7 @@
     "blockeduserremote": "<p>Twoja subskrypcja obejmuje dostęp zdalny, ale Agent DVR akceptuje połączenia spoza sieci lokalnej tylko wtedy, gdy ma co najmniej jedno konto użytkownika. W ten sposób nikt nie może uzyskać dostępu do Twoich kamer bez zalogowania się.</p><p>Aby je dodać, otwórz Agent DVR w sieci domowej, przejdź do <b>Ustawień serwera</b> i dodaj użytkownika na karcie <b>Użytkownicy</b>. Następnie przeładuj tę stronę i zaloguj się tym kontem.</p><p class=\"small text-body-secondary\">Konta użytkowników kontrolują również to, co każda osoba może widzieć i robić, i mają własne ustawienia. Zapoznaj się z sekcją <a href=\"https://www.ispyconnect.com/[LANG]docs/agent/server-settings#users\" target=\"_blank\">Użytkownicy</a> w przewodniku użytkownika.</p>",
     "blockeduserremotetitle": "Dodaj użytkownika, aby włączyć dostęp zdalny",
     "body": "Ciało",
+    "buffermemorywarning": "<b>Bufor</b> może przechowywać w pamięci do [SIZE] nieskompresowanego wideo dla tej kamery. Zmniejsz bufor lub ustaw poniżej <b>Enkoder</b> na <b>Surowy strumień nagrywania</b>, który zamiast tego buforuje skompresowany strumień kamery.",
     "cameraloginfailed": "Logowanie do kamery nie powiodło się. Sprawdź nazwę użytkownika i hasło",
     "cameranotavailable": "Kamera niedostępna",
     "cannotarchive": "Nie można zarchiwizować - sprawdź katalog archiwum w ustawieniach serwera - pamięć",

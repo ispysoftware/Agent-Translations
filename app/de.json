@@ -157,6 +157,7 @@
     "blockeduserremote": "<p>Ihr Abonnement umfasst Fernzugriff, aber Agent DVR akzeptiert Verbindungen von außerhalb Ihres Netzwerks nur dann, wenn mindestens ein Benutzerkonto vorhanden ist. Auf diese Weise kann niemand ohne Anmeldung auf Ihre Kameras zugreifen.</p><p>Öffnen Sie Agent DVR in Ihrem Heimnetzwerk, gehen Sie zu <b>Server-Einstellungen</b>, und fügen Sie einen Benutzer auf der Registerkarte <b>Benutzer</b> hinzu. Laden Sie diese Seite dann erneut und melden Sie sich damit an.</p><p class=\"small text-body-secondary\">Benutzerkonten steuern auch, was jede Person sehen und tun kann, und speichern ihre eigenen Einstellungen. Siehe <a href=\"https://www.ispyconnect.com/[LANG]docs/agent/server-settings#users\" target=\"_blank\">Benutzer</a> im Benutzerhandbuch.</p>",
     "blockeduserremotetitle": "Fügen Sie einen Benutzer hinzu, um Fernzugriff zu aktivieren",
     "body": "Körper",
+    "buffermemorywarning": "Der <b>Puffer</b> kann für diese Kamera bis zu [SIZE] unkomprimiertes Video im Speicher halten. Verringern Sie den Puffer, oder stellen Sie den <b>Encoder</b> unten auf <b>Roh-Aufnahmestream</b>, der stattdessen den komprimierten Stream der Kamera puffert.",
     "cameraloginfailed": "Kamera-Anmeldung fehlgeschlagen. Benutzername und Passwort prüfen",
     "cameranotavailable": "Kamera nicht verfügbar",
     "cannotarchive": "Archivierung nicht möglich - Prüfen Sie das Archivverzeichnis in den Servereinstellungen - Speicher",

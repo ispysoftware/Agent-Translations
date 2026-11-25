@@ -157,6 +157,7 @@
     "blockeduserremote": "<p>Din prenumeration inkluderar fjärråtkomst, men Agent DVR accepterar endast anslutningar från utanför ditt nätverk när det finns minst ett användarkonto. På så sätt kan ingen nå dina kameror utan att logga in.</p><p>Öppna Agent DVR på ditt hemmanätverk, gå till <b>Serverinställningar</b> och lägg till en användare på fliken <b>Användare</b> för att lägga till ett konto. Ladda sedan om denna sida och logga in med det.</p><p class=\"small text-body-secondary\">Användarkonton styr också vad varje person kan se och göra, och sparar deras egna inställningar. Se <a href=\"https://www.ispyconnect.com/[LANG]docs/agent/server-settings#users\" target=\"_blank\">Användare</a> i användarguiden.</p>",
     "blockeduserremotetitle": "Lägg till en användare för att aktivera fjärråtkomst",
     "body": "Kropp",
+    "buffermemorywarning": "<b>Buffert</b> kan hålla upp till [SIZE] okomprimerad video i minnet för den här kameran. Minska bufferten, eller ställ in <b>Kodare</b> nedan på <b>Rå inspelningsström</b>, som i stället buffrar kamerans komprimerade ström.",
     "cameraloginfailed": "Inloggning till kamera misslyckades. Kontrollera användarnamn och lösenord",
     "cameranotavailable": "Kameran är inte tillgänglig",
     "cannotarchive": "Kan inte arkivera - kontrollera arkivmappen i serverinställningar - lagring",

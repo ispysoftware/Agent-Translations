@@ -157,6 +157,7 @@
     "blockeduserremote": "<p>Az előfizetésed tartalmazza a távoli hozzáférést, de az Agent DVR csak akkor fogad el kapcsolódásokat a hálózaton kívülről, ha legalább egy felhasználói fiók létezik. Ily módon senki sem érheti el a kameráidat bejelentkezés nélkül.</p><p>Hozzáadáshoz nyisd meg az Agent DVR-t a saját hálózatodban, lépj a <b>Szerverbeállítások</b>ba, és adj hozzá egy felhasználót a <b>Felhasználók</b> lapon. Ezt követően töltsd újra be ezt az oldalt, és jelentkezz be vele.</p><p class=\"small text-body-secondary\">A felhasználói fiókok azt is szabályozzák, hogy az egyes személyek mit láthatnak és mit tehetnek, valamint megőrzik a saját beállításaikat. Lásd a <a href=\"https://www.ispyconnect.com/[LANG]docs/agent/server-settings#users\" target=\"_blank\">Felhasználók</a> részt a felhasználói útmutatóban.</p>",
     "blockeduserremotetitle": "Felhasználó hozzáadása a távoli hozzáférés engedélyezéséhez",
     "body": "Törzs",
+    "buffermemorywarning": "A <b>Puffer</b> legfeljebb [SIZE] tömörítetlen videót tarthat a memóriában ehhez a kamerához. Csökkentse a puffert, vagy állítsa alább a <b>Kódoló</b> beállítást <b>Nyers rögzített adás</b> értékre, amely helyette a kamera tömörített streamjét puffereli.",
     "cameraloginfailed": "A kamera bejelentkezése sikertelen. Ellenőrizze a felhasználónevet és a jelszót",
     "cameranotavailable": "A kamera nem érhető el",
     "cannotarchive": "Archiválás nem lehetséges – ellenőrizze az archiválási könyvtárat a szerverbeállításokban – Tárhely",
