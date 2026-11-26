@@ -925,6 +925,8 @@
     "json.gpudefaultdecoder.help": "Bộ giải mã được sử dụng để phát tệp và là mặc định cho camera",
     "json.gpudefaultdevice": "Thiết bị GPU mặc định",
     "json.gpuencode": "Mã hóa GPU",
+    "json.gpuscaling": "Thu phóng bằng GPU",
+    "json.gpuscaling.help": "Thay đổi kích thước video trên GPU để giảm tải CPU",
     "json.gpushardsize": "Kích thước phân mảnh AI",
     "json.gpushardsize.help": "Số lượng thiết bị tối đa cho mỗi phiên suy luận. Giá trị thấp hơn giúp cải thiện độ ổn định khi có nhiều kết nối đồng thời nhưng sẽ tốn thêm bộ nhớ GPU. Thay đổi chỉ có hiệu lực sau khi khởi động lại.",
     "json.grayscale": "Ảnh xám",

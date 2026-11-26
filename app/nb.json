@@ -925,6 +925,8 @@
     "json.gpudefaultdecoder.help": "Dekoder som skal brukes for filavspilling og som standard for kameraer",
     "json.gpudefaultdevice": "Standard GPU-enhet",
     "json.gpuencode": "GPU-koding",
+    "json.gpuscaling": "GPU-skalering",
+    "json.gpuscaling.help": "Endrer størrelse på video på GPU-en for å redusere CPU-belastning",
     "json.gpushardsize": "AI-shardstørrelse",
     "json.gpushardsize.help": "Maksimalt antall enheter per inferenssesjon. Lavere verdier forbedrer stabiliteten under høy samtidighet på bekostning av ekstra GPU-minne. Endringer trer i kraft etter omstart.",
     "json.grayscale": "Gråskala bilde",

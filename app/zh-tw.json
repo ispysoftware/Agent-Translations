@@ -925,6 +925,8 @@
     "json.gpudefaultdecoder.help": "用於檔案播放及相機預設的解碼器",
     "json.gpudefaultdevice": "預設 GPU 裝置",
     "json.gpuencode": "GPU 編碼",
+    "json.gpuscaling": "GPU 縮放",
+    "json.gpuscaling.help": "在 GPU 上調整視訊大小以減少 CPU 負載",
     "json.gpushardsize": "AI 分片大小",
     "json.gpushardsize.help": "推論會話中的最大裝置數量。較低的值可提高高並發情況下的穩定性，但會增加 GPU 記憶體消耗。變更需重新啟動後生效。",
     "json.grayscale": "灰階影像",

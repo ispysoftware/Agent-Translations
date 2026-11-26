@@ -925,6 +925,8 @@
     "json.gpudefaultdecoder.help": "Decoder für die Dateiwiedergabe und als Standard für Kameras",
     "json.gpudefaultdevice": "Standard-GPU-Gerät",
     "json.gpuencode": "GPU-Kodierung",
+    "json.gpuscaling": "GPU-Skalierung",
+    "json.gpuscaling.help": "Skaliert Video auf der GPU, um die CPU-Auslastung zu reduzieren",
     "json.gpushardsize": "AI-Shard-Größe",
     "json.gpushardsize.help": "Maximale Anzahl an Geräten pro Inferenz-Sitzung. Niedrigere Werte verbessern die Stabilität bei hoher Nebenläufigkeit auf Kosten von zusätzlichem GPU-Speicher. Änderungen werden nach einem Neustart wirksam.",
     "json.grayscale": "Graustufenbild",

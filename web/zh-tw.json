@@ -1440,7 +1440,7 @@
   "reolinkwarning": "針對 Reolink 攝影機，若可用我們建議使用 RTMP://.. 選項",
   "repairdatabase": "資料庫發現問題。我們可以嘗試修復。請點擊確定重新啟動（完成可能需要一段時間）",
   "resize": "調整大小",
-  "resizehelp": "降低影片解析度",
+  "resizehelp": "限制影片至 1080p 以降低負載",
   "restartserver": "重新啟動",
   "restore": "還原",
   "result": "結果",

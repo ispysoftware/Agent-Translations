@@ -925,6 +925,8 @@
     "json.gpudefaultdecoder.help": "ファイル再生およびカメラのデフォルトに使用するデコーダー",
     "json.gpudefaultdevice": "デフォルト GPU デバイス",
     "json.gpuencode": "GPU エンコード",
+    "json.gpuscaling": "GPU スケーリング",
+    "json.gpuscaling.help": "ビデオをGPUでリサイズして、CPU負荷を軽減します",
     "json.gpushardsize": "AI シャードサイズ",
     "json.gpushardsize.help": "推論セッションあたりの最大デバイス数。低い値は高並行時の安定性を向上させますが、追加の GPU メモリを消費します。変更には再起動が必要です。",
     "json.grayscale": "グレースケール画像",

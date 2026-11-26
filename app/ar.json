@@ -925,6 +925,8 @@
     "json.gpudefaultdecoder.help": "مفكك الترميز المستخدم لتشغيل الملفات والافتراضي للكاميرات",
     "json.gpudefaultdevice": "جهاز GPU الافتراضي",
     "json.gpuencode": "ترميز GPU",
+    "json.gpuscaling": "تحجيم GPU",
+    "json.gpuscaling.help": "تغيير حجم الفيديو على GPU لتقليل حمل CPU",
     "json.gpushardsize": "حجم شظية AI",
     "json.gpushardsize.help": "الحد الأقصى للأجهزة لكل جلسة استنتاج. القيم المنخفضة تحسن الاستقرار تحت الضغط العالي مقابل استخدام ذاكرة GPU إضافية. تُطبق التغييرات بعد إعادة التشغيل.",
     "json.grayscale": "صورة رمادية",

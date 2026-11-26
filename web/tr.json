@@ -1440,7 +1440,7 @@
   "reolinkwarning": "Reolink kameralar için, mevcutsa RTMP://.. seçeneğini öneririz",
   "repairdatabase": "Veritabanında sorunlar bulundu. Bunları düzeltmeyi deneyebiliriz. Yeniden başlatmak için Tamam'a tıklayın (tamamlanması biraz zaman alabilir)",
   "resize": "Yeniden Boyutlandır",
-  "resizehelp": "Video çözünürlüğünü düşür",
+  "resizehelp": "Yükü azaltmak için videoyu 1080p ile sınırlar",
   "restartserver": "Yeniden Başlat",
   "restore": "Geri Yükle",
   "result": "Sonuç",

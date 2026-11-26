@@ -925,6 +925,8 @@
     "json.gpudefaultdecoder.help": "Decodificador para la reproducción de archivos y el predeterminado para las cámaras",
     "json.gpudefaultdevice": "Dispositivo GPU predeterminado",
     "json.gpuencode": "Codificación GPU",
+    "json.gpuscaling": "Escalado de GPU",
+    "json.gpuscaling.help": "Redimensiona el vídeo en la GPU para reducir la carga de la CPU",
     "json.gpushardsize": "Tamaño de fragmento de IA",
     "json.gpushardsize.help": "Máximo de dispositivos por sesión de inferencia. Los valores más bajos mejoran la estabilidad bajo alta concurrencia a costa de memoria GPU adicional. Los cambios se aplican tras el reinicio.",
     "json.grayscale": "Imagen en escala de grises",

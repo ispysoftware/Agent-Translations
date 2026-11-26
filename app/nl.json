@@ -925,6 +925,8 @@
     "json.gpudefaultdecoder.help": "Decoder om te gebruiken voor afspelen van bestanden en de standaard voor camera's",
     "json.gpudefaultdevice": "Standaard GPU-apparaat",
     "json.gpuencode": "GPU-codering",
+    "json.gpuscaling": "GPU-schaling",
+    "json.gpuscaling.help": "Wijzigt het formaat van video op de GPU om de CPU-belasting te verminderen",
     "json.gpushardsize": "AI-shardgrootte",
     "json.gpushardsize.help": "Maximaal aantal apparaten per inferentiesessie. Lagere waarden verbeteren de stabiliteit bij hoge gelijktijdigheid ten koste van extra GPU-geheugen. Wijzigingen worden na een herstart toegepast.",
     "json.grayscale": "Grijswaardenafbeelding",

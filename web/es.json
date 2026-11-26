@@ -1440,7 +1440,7 @@
   "reolinkwarning": "Para cámaras Reolink recomendamos una opción RTMP://.. si está disponible",
   "repairdatabase": "Se han encontrado problemas con la base de datos. Podemos intentar solucionarlos. Haga clic en OK para reiniciar (puede tardar un tiempo en completarse)",
   "resize": "Cambiar tamaño",
-  "resizehelp": "Reducir la resolución del vídeo",
+  "resizehelp": "Limita el vídeo a 1080p para reducir la carga",
   "restartserver": "Reiniciar",
   "restore": "Restaurar",
   "result": "Resultado",

@@ -925,6 +925,8 @@
     "json.gpudefaultdecoder.help": "دیکودری که برای پخش فایل و به عنوان پیش‌فرض دوربین‌ها استفاده می‌شود",
     "json.gpudefaultdevice": "دستگاه پیش‌فرض GPU",
     "json.gpuencode": "کدگذاری GPU",
+    "json.gpuscaling": "مقیاس‌بندی GPU",
+    "json.gpuscaling.help": "تغییر اندازه ویدئو روی GPU برای کاهش بار CPU",
     "json.gpushardsize": "اندازه شارد AI",
     "json.gpushardsize.help": "حداکثر تعداد دستگاه‌ها در هر جلسه استنتاج. مقادیر کمتر با صرف حافظه بیشتر GPU، پایداری را در همزمانی بالا بهبود می‌بخشند. تغییرات پس از بازنشانی اعمال می‌شوند.",
     "json.grayscale": "تصویر خاکستری",

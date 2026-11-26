@@ -925,6 +925,8 @@
     "json.gpudefaultdecoder.help": "Dekodér používaný pro přehrávání souborů a výchozí pro kamery",
     "json.gpudefaultdevice": "Výchozí GPU zařízení",
     "json.gpuencode": "GPU kódování",
+    "json.gpuscaling": "Škálování GPU",
+    "json.gpuscaling.help": "Změní velikost videa na GPU, aby se snížilo zatížení CPU",
     "json.gpushardsize": "Velikost AI shardů",
     "json.gpushardsize.help": "Maximální počet zařízení na inferenční relaci. Nižší hodnoty zvyšují stabilitu při vysoké souběžnosti za cenu vyšší spotřeby paměti GPU. Změny se projeví po restartu.",
     "json.grayscale": "Šedivý obraz",

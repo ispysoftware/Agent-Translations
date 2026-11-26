@@ -1440,7 +1440,7 @@
   "reolinkwarning": "对于 Reolink 摄像头，如果可用，我们建议使用 RTMP://..选项",
   "repairdatabase": "数据库发现问题。我们可以尝试修复它们。点击确定重新启动（完成可能需要一段时间）",
   "resize": "调整大小",
-  "resizehelp": "降低视频分辨率",
+  "resizehelp": "将视频限制为1080p以减少负载",
   "restartserver": "重启",
   "restore": "恢复",
   "result": "结果",

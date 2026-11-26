@@ -925,6 +925,8 @@
     "json.gpudefaultdecoder.help": "Decoder to use for file playback and the default for cameras",
     "json.gpudefaultdevice": "Default GPU Device",
     "json.gpuencode": "GPU Encode",
+    "json.gpuscaling": "GPU Scaling",
+    "json.gpuscaling.help": "Resizes video on the GPU to reduce CPU load",
     "json.gpushardsize": "AI Shard Size",
     "json.gpushardsize.help": "Maximum devices per inference session. Lower values improve stability under high concurrency at the cost of additional GPU memory. Changes apply after restart.",
     "json.grayscale": "Gray Image",

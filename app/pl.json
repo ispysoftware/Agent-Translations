@@ -925,6 +925,8 @@
     "json.gpudefaultdecoder.help": "Dekoder używany do odtwarzania plików oraz domyślny dla kamer",
     "json.gpudefaultdevice": "Domyślne urządzenie GPU",
     "json.gpuencode": "Kodowanie GPU",
+    "json.gpuscaling": "Skalowanie GPU",
+    "json.gpuscaling.help": "Zmienia rozmiar wideo na GPU, aby zmniejszyć obciążenie CPU",
     "json.gpushardsize": "Rozmiar partycji AI",
     "json.gpushardsize.help": "Maksymalna liczba urządzeń na sesję wnioskowania. Niższe wartości poprawiają stabilność przy wysokiej współbieżności kosztem dodatkowej pamięci GPU. Zmiany zostaną wprowadzone po ponownym uruchomieniu.",
     "json.grayscale": "Obraz w skali szarości",

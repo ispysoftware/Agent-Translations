@@ -925,6 +925,8 @@
     "json.gpudefaultdecoder.help": "ফাইল প্লেব্যাকের জন্য ব্যবহৃত ডিকোডার এবং ক্যামেরার জন্য ডিফল্ট ডিকোডার",
     "json.gpudefaultdevice": "ডিফল্ট GPU ডিভাইস",
     "json.gpuencode": "GPU এনকোড",
+    "json.gpuscaling": "GPU স্কেলিং",
+    "json.gpuscaling.help": "GPU-তে ভিডিও পুনরায় আকার দেয় CPU লোড কমাতে",
     "json.gpushardsize": "AI শার্ড সাইজ",
     "json.gpushardsize.help": "প্রতিটি ইনফারেন্স সেশনে সর্বোচ্চ সংখ্যক ডিভাইস। অতিরিক্ত GPU মেমরি ব্যবহারের বিনিময়ে নিম্ন মান উচ্চ কনকারেন্সির সময় স্থায়িত্ব উন্নত করে। পরিবর্তনগুলি রিস্টার্ট করার পরে কার্যকর হবে।",
     "json.grayscale": "গ্রে ইমেজ",

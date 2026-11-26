@@ -925,6 +925,8 @@
     "json.gpudefaultdecoder.help": "Dekooderi, jota käytetään tiedostojen toistoon ja oletuksena kameroille",
     "json.gpudefaultdevice": "Oletus-GPU-laite",
     "json.gpuencode": "GPU-enkoodaus",
+    "json.gpuscaling": "GPU-skaalaus",
+    "json.gpuscaling.help": "Muuttaa videon kokoa GPU:lla CPU-kuormituksen vähentämiseksi",
     "json.gpushardsize": "AI-sirpale koko",
     "json.gpushardsize.help": "Enimmäismäärä laitteita päätelyistuntoa kohden. Pienemmät arvot parantavat vakautta suuren rinnakkaisuuden aikana, mutta kuluttavat enemmän GPU-muistia. Muutokset tulevat voimaan uudelleenkäynnistyksen jälkeen.",
     "json.grayscale": "Harmaasävytetty kuva",

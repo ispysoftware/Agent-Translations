@@ -925,6 +925,8 @@
     "json.gpudefaultdecoder.help": "Decoder yang digunakan untuk pemutaran file dan default untuk kamera",
     "json.gpudefaultdevice": "Perangkat GPU default",
     "json.gpuencode": "Encode GPU",
+    "json.gpuscaling": "Penskalaan GPU",
+    "json.gpuscaling.help": "Mengubah ukuran video di GPU untuk mengurangi beban CPU",
     "json.gpushardsize": "Ukuran shard AI",
     "json.gpushardsize.help": "Jumlah perangkat maksimum per sesi inferensi. Nilai yang lebih rendah meningkatkan stabilitas di bawah konkurensi tinggi dengan biaya tambahan memori GPU. Perubahan berlaku setelah restart.",
     "json.grayscale": "Gambar abu-abu",

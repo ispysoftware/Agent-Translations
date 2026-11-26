@@ -1440,7 +1440,7 @@
   "reolinkwarning": "Reolink kamerák esetén javasolt az RTMP://.. opció használata, ha elérhető",
   "repairdatabase": "Problémákat találtunk az adatbázissal. Megpróbáljuk kijavítani őket. Az OK megadásával újraindítjuk (a befejezés egy ideig eltarthat)",
   "resize": "Átméretezés",
-  "resizehelp": "A videó felbontásának csökkentése",
+  "resizehelp": "1080p-re korlátozza a videót a terhelés csökkentése érdekében",
   "restartserver": "Újraindítás",
   "restore": "Helyreállítás",
   "result": "Eredmény",

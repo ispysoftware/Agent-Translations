@@ -1440,7 +1440,7 @@
   "reolinkwarning": "Reolinkカメラの場合、利用可能な場合はRTMP://..オプションをお勧めします",
   "repairdatabase": "データベースに問題が検出されました。修正を試みます。完了まで時間がかかる場合がありますので、再起動するにはOKをクリックしてください",
   "resize": "サイズ変更",
-  "resizehelp": "ビデオの解像度を下げる",
+  "resizehelp": "ビデオを1080pに制限して負荷を軽減します",
   "restartserver": "再起動",
   "restore": "復元する",
   "result": "結果",

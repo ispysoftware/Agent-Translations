@@ -925,6 +925,8 @@
     "json.gpudefaultdecoder.help": "파일 재생 및 카메라의 기본값으로 사용할 디코더",
     "json.gpudefaultdevice": "기본 GPU 장치",
     "json.gpuencode": "GPU 인코딩",
+    "json.gpuscaling": "GPU 스케일링",
+    "json.gpuscaling.help": "GPU에서 비디오를 크기 조정하여 CPU 로드 감소",
     "json.gpushardsize": "AI 샤드 크기",
     "json.gpushardsize.help": "추론 세션당 최대 장치 수. 낮은 값은 높은 동시성 환경에서 안정성을 높이지만 추가 GPU 메모리가 필요합니다. 변경 사항은 재부팅 후 적용됩니다.",
     "json.grayscale": "회색 이미지",

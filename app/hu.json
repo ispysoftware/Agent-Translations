@@ -925,6 +925,8 @@
     "json.gpudefaultdecoder.help": "A fájllejátszáshoz és a kamerákhoz használandó alapértelmezett dekódoló",
     "json.gpudefaultdevice": "Alapértelmezett GPU eszköz",
     "json.gpuencode": "GPU kódolás",
+    "json.gpuscaling": "GPU-skálázás",
+    "json.gpuscaling.help": "Átméretezi a videót a GPU-n a CPU terhelésének csökkentése érdekében",
     "json.gpushardsize": "AI shard méret",
     "json.gpushardsize.help": "Maximum eszköz az egyes inferencia munkamenetben. Az alacsonyabb értékek növelik a stabilitást nagy egyidejű használat esetén, de több GPU-memóriát igényelnek. A módosítások újraindítás után érvényesek.",
     "json.grayscale": "Szürke kép",

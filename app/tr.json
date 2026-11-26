@@ -925,6 +925,8 @@
     "json.gpudefaultdecoder.help": "Dosya oynatma için kullanılacak dekoder ve kameralar için varsayılan olan",
     "json.gpudefaultdevice": "Varsayılan GPU Cihazı",
     "json.gpuencode": "GPU Kodlama",
+    "json.gpuscaling": "GPU Ölçeklendirme",
+    "json.gpuscaling.help": "GPU üzerinde videoyu yeniden boyutlandırarak CPU yükünü azaltır",
     "json.gpushardsize": "AI shard boyutu",
     "json.gpushardsize.help": "Çıkarım oturumu başına maksimum cihaz sayısı. Düşük değerler, ek GPU belleği maliyetiyle yüksek eşzamanlılık altında kararlılığı artırır. Değişiklikler yeniden başlatma sonrası uygulanır.",
     "json.grayscale": "Gri Görüntü",

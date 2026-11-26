@@ -925,6 +925,8 @@
     "json.gpudefaultdecoder.help": "用于文件播放和摄像头的默认解码器",
     "json.gpudefaultdevice": "默认 GPU 设备",
     "json.gpuencode": "GPU 编码",
+    "json.gpuscaling": "GPU 缩放",
+    "json.gpuscaling.help": "在GPU上调整视频大小以减少CPU负载",
     "json.gpushardsize": "AI 分片大小",
     "json.gpushardsize.help": "每个推理会话的最大设备数。较低的值可提高高并发下的稳定性，但会消耗更多 GPU 内存。更改后需重启生效。",
     "json.grayscale": "灰度图像",

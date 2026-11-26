@@ -1440,7 +1440,7 @@
   "reolinkwarning": "Untuk kamera Reolink, kami menyarankan opsi RTMP://.. jika tersedia",
   "repairdatabase": "Ditemukan masalah pada database. Kami dapat mencoba memperbaikinya. Klik OK untuk memulai ulang (mungkin butuh waktu lama untuk selesai)",
   "resize": "Ubah Ukuran",
-  "resizehelp": "Kurangi resolusi video",
+  "resizehelp": "Membatasi video ke 1080p untuk mengurangi beban",
   "restartserver": "Mulai Ulang",
   "restore": "Pulihkan",
   "result": "Hasil",

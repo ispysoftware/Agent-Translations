@@ -925,6 +925,8 @@
     "json.gpudefaultdecoder.help": "Décodeur à utiliser pour la lecture de fichiers et par défaut pour les caméras",
     "json.gpudefaultdevice": "Périphérique GPU par défaut",
     "json.gpuencode": "Encodage GPU",
+    "json.gpuscaling": "Mise à l'échelle GPU",
+    "json.gpuscaling.help": "Redimensionne la vidéo sur le GPU pour réduire la charge du CPU",
     "json.gpushardsize": "Taille du shard IA",
     "json.gpushardsize.help": "Nombre maximum d'appareils par session d'inférence. Des valeurs plus basses améliorent la stabilité lors de fortes concurrences au prix d'une utilisation accrue de la mémoire GPU. Les modifications s'appliquent après redémarrage.",
     "json.grayscale": "Image en niveaux de gris",

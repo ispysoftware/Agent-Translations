@@ -925,6 +925,8 @@
     "json.gpudefaultdecoder.help": "Dekoder koji se koristi za reprodukciju datoteka i podrazumijevani za kamere",
     "json.gpudefaultdevice": "Podrazumijevani GPU uređaj",
     "json.gpuencode": "GPU kodiranje",
+    "json.gpuscaling": "GPU skaliranje",
+    "json.gpuscaling.help": "Menja veličinu videa na GPU-u kako bi se smanjilo opterećenje CPU-a",
     "json.gpushardsize": "Veličina AI dijela",
     "json.gpushardsize.help": "Najveći broj uređaja po sesiji zaključivanja. Manje vrijednosti poboljšavaju stabilnost pri velikoj istovremenosti, uz dodatnu potrošnju GPU memorije. Promjene se primjenjuju nakon ponovnog pokretanja.",
     "json.grayscale": "Siva slika",

@@ -925,6 +925,8 @@
     "json.gpudefaultdecoder.help": "फ़ाइल प्लेबैक के लिए उपयोग किया जाने वाला डिकोडर और कैमरों के लिए डिफॉल्ट",
     "json.gpudefaultdevice": "डिफॉल्ट GPU डिवाइस",
     "json.gpuencode": "GPU एनकोड",
+    "json.gpuscaling": "GPU स्केलिंग",
+    "json.gpuscaling.help": "GPU पर वीडियो को पुनः आकार देता है ताकि CPU का भार कम हो सके",
     "json.gpushardsize": "AI शार्ड आकार",
     "json.gpushardsize.help": "प्रत्येक इन्फरेंस सत्र के लिए अधिकतम डिवाइस। कम मान अतिरिक्त GPU मेमोरी की कीमत पर उच्च समवर्तीता (concurrency) के तहत स्थिरता में सुधार करते हैं। परिवर्तन रीस्टार्ट के बाद लागू होते हैं।",
     "json.grayscale": "ग्रे इमेज",
